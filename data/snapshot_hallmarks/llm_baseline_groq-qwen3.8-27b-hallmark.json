@@ -1,0 +1,1916 @@
+[
+  {
+    "disease": "ADIPOGENESIS",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13865,
+    "enriched_ids": 460,
+    "unsupported": 1,
+    "allowed_not_enriched": 4,
+    "not_enriched": 5,
+    "valid_enriched": 5,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0006628",
+        "name": "obsolete mitochondrial translocation",
+        "category": "OBSOLETE"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 1
+    },
+    "llm_text": "GO:0006629 lipid metabolic process\nGO:0006633 fatty acid metabolic process\nGO:0006620 fatty acid beta-oxidation\nGO:0006695 tricarboxylic acid cycle\nGO:0006106 glycolytic process\nGO:0006120 mitochondrial electron transport, ubiquinol to cytochrome c\nGO:0006119 oxidative phosphorylation\nGO:0006694 fatty acid biosynthetic process\nGO:0006631 lipid biosynthetic process\nGO:0006628 lipid transport",
+    "llm_ids_list": [
+      "GO:0006106",
+      "GO:0006119",
+      "GO:0006120",
+      "GO:0006620",
+      "GO:0006628",
+      "GO:0006629",
+      "GO:0006631",
+      "GO:0006633",
+      "GO:0006694",
+      "GO:0006695"
+    ]
+  },
+  {
+    "disease": "ALLOGRAFT_REJECTION",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13933,
+    "enriched_ids": 1679,
+    "unsupported": 4,
+    "allowed_not_enriched": 5,
+    "not_enriched": 9,
+    "valid_enriched": 1,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0002567",
+        "name": "somatic diversification of FREP-based immune receptors",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0002569",
+        "name": "somatic diversification of immune receptors by N region addition",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0002570",
+        "name": "somatic diversification of immunoglobulin genes by N region addition",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0002571",
+        "name": "somatic diversification of T cell receptor genes by N region addition",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 4
+    },
+    "llm_text": "GO:0002576 T cell activation\nGO:0002574 T cell receptor signaling pathway\nGO:0002575 T cell mediated cytotoxicity\nGO:0002573 T cell mediated cytotoxicity to virus\nGO:0002572 T cell mediated cytotoxicity to tumor cell\nGO:0002571 T cell mediated cytotoxicity to bacteria\nGO:0002570 T cell mediated cytotoxicity to fungus\nGO:0002569 T cell mediated cytotoxicity to parasite\nGO:0002568 T cell mediated cytotoxicity to protozoan\nGO:0002567 T cell mediated cytotoxicity to helminth",
+    "llm_ids_list": [
+      "GO:0002567",
+      "GO:0002568",
+      "GO:0002569",
+      "GO:0002570",
+      "GO:0002571",
+      "GO:0002572",
+      "GO:0002573",
+      "GO:0002574",
+      "GO:0002575",
+      "GO:0002576"
+    ]
+  },
+  {
+    "disease": "ANDROGEN_RESPONSE",
+    "n_genes": 100,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13805,
+    "enriched_ids": 97,
+    "unsupported": 3,
+    "allowed_not_enriched": 4,
+    "not_enriched": 7,
+    "valid_enriched": 3,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0006630",
+        "name": "obsolete lipid binding",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0006632",
+        "name": "regulation of fatty acid metabolic process",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0006634",
+        "name": "hexadecanal biosynthetic process",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 1,
+      "WRONG_BIOLOGY": 2
+    },
+    "llm_text": "GO:0006633 lipid metabolic process\nGO:0006629 lipid biosynthetic process\nGO:0006695 cholesterol metabolic process\nGO:0006694 cholesterol biosynthetic process\nGO:0006693 sterol biosynthetic process\nGO:0006631 fatty acid metabolic process\nGO:0006635 long-chain fatty acid metabolic process\nGO:0006630 fatty acid biosynthetic process\nGO:0006632 very long chain fatty acid metabolic process\nGO:0006634 unsaturated fatty acid metabolic process",
+    "llm_ids_list": [
+      "GO:0006629",
+      "GO:0006630",
+      "GO:0006631",
+      "GO:0006632",
+      "GO:0006633",
+      "GO:0006634",
+      "GO:0006635",
+      "GO:0006693",
+      "GO:0006694",
+      "GO:0006695"
+    ]
+  },
+  {
+    "disease": "ANGIOGENESIS",
+    "n_genes": 36,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13811,
+    "enriched_ids": 494,
+    "unsupported": 0,
+    "allowed_not_enriched": 5,
+    "not_enriched": 5,
+    "valid_enriched": 5,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0030198 extracellular matrix organization\nGO:0048732 blood vessel morphogenesis\nGO:0001503 angiogenesis\nGO:0002576 immune system process\nGO:0006955 immune response\nGO:0030512 negative regulation of cell migration\nGO:0008283 cell population proliferation\nGO:0007155 cell adhesion\nGO:0007160 cell movement\nGO:0002931 response to wounding",
+    "llm_ids_list": [
+      "GO:0001503",
+      "GO:0002576",
+      "GO:0002931",
+      "GO:0006955",
+      "GO:0007155",
+      "GO:0007160",
+      "GO:0008283",
+      "GO:0030198",
+      "GO:0030512",
+      "GO:0048732"
+    ]
+  },
+  {
+    "disease": "APICAL_JUNCTION",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13887,
+    "enriched_ids": 826,
+    "unsupported": 0,
+    "allowed_not_enriched": 2,
+    "not_enriched": 2,
+    "valid_enriched": 8,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0007155 cell adhesion\nGO:0007159 cell-cell adhesion\nGO:0007160 cell-cell adhesion via plasma membrane adhesion molecules\nGO:0007010 cytoskeleton organization\nGO:0007015 cell migration\nGO:0007161 cell-cell signaling\nGO:0007186 gap junction assembly\nGO:0007156 cell motility\nGO:0007049 cell shape\nGO:0007162 cell-cell adhesion via plasma membrane adhesion molecules",
+    "llm_ids_list": [
+      "GO:0007010",
+      "GO:0007015",
+      "GO:0007049",
+      "GO:0007155",
+      "GO:0007156",
+      "GO:0007159",
+      "GO:0007160",
+      "GO:0007161",
+      "GO:0007162",
+      "GO:0007186"
+    ]
+  },
+  {
+    "disease": "APICAL_SURFACE",
+    "n_genes": 44,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13794,
+    "enriched_ids": 271,
+    "unsupported": 1,
+    "allowed_not_enriched": 6,
+    "not_enriched": 7,
+    "valid_enriched": 3,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0007506",
+        "name": "gonadal mesoderm development",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 1
+    },
+    "llm_text": "GO:0006955 inflammatory response\nGO:0007155 cellular response to lipopolysaccharide\nGO:0007165 leukocyte migration\nGO:0007166 leukocyte degranulation\nGO:0007186 G protein-coupled receptor signaling pathway\nGO:0007189 transmembrane signaling pathway\nGO:0007265 signal transduction\nGO:0007506 positive regulation of cell migration\nGO:0007548 biological regulation of cell migration\nGO:0009607 response to peptide",
+    "llm_ids_list": [
+      "GO:0006955",
+      "GO:0007155",
+      "GO:0007165",
+      "GO:0007166",
+      "GO:0007186",
+      "GO:0007189",
+      "GO:0007265",
+      "GO:0007506",
+      "GO:0007548",
+      "GO:0009607"
+    ]
+  },
+  {
+    "disease": "APOPTOSIS",
+    "n_genes": 161,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13854,
+    "enriched_ids": 1293,
+    "unsupported": 0,
+    "allowed_not_enriched": 2,
+    "not_enriched": 2,
+    "valid_enriched": 8,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0006915 apoptotic process\nGO:0008219 regulation of apoptotic process\nGO:0008283 regulation of cell proliferation\nGO:0009607 response to peptide\nGO:0032701 response to tumor necrosis factor ligand\nGO:0006954 inflammatory response\nGO:0008285 regulation of cell death\nGO:0006955 immune response\nGO:0030163 regulation of cell cycle\nGO:0006914 autophagy",
+    "llm_ids_list": [
+      "GO:0006914",
+      "GO:0006915",
+      "GO:0006954",
+      "GO:0006955",
+      "GO:0008219",
+      "GO:0008283",
+      "GO:0008285",
+      "GO:0009607",
+      "GO:0030163",
+      "GO:0032701"
+    ]
+  },
+  {
+    "disease": "BILE_ACID_METABOLISM",
+    "n_genes": 112,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13873,
+    "enriched_ids": 407,
+    "unsupported": 3,
+    "allowed_not_enriched": 2,
+    "not_enriched": 5,
+    "valid_enriched": 5,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0006627",
+        "name": "obsolete protein processing involved in protein targeting to mitochondrion",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0006628",
+        "name": "obsolete mitochondrial translocation",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0006630",
+        "name": "obsolete lipid binding",
+        "category": "OBSOLETE"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 3
+    },
+    "llm_text": "GO:0006633 lipid metabolic process\nGO:0006629 lipid biosynthetic process\nGO:0006620 cholesterol metabolic process\nGO:0006695 fatty acid metabolic process\nGO:0006631 fatty acid biosynthetic process\nGO:0006694 fatty acid beta-oxidation\nGO:0006693 fatty acid alpha-oxidation\nGO:0006630 lipid catabolic process\nGO:0006628 lipid transport\nGO:0006627 lipid storage",
+    "llm_ids_list": [
+      "GO:0006620",
+      "GO:0006627",
+      "GO:0006628",
+      "GO:0006629",
+      "GO:0006630",
+      "GO:0006631",
+      "GO:0006633",
+      "GO:0006693",
+      "GO:0006694",
+      "GO:0006695"
+    ]
+  },
+  {
+    "disease": "CHOLESTEROL_HOMEOSTASIS",
+    "n_genes": 74,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 6,
+    "allowed_ids": 13807,
+    "enriched_ids": 195,
+    "unsupported": 3,
+    "allowed_not_enriched": 0,
+    "not_enriched": 3,
+    "valid_enriched": 3,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0006628",
+        "name": "obsolete mitochondrial translocation",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0006630",
+        "name": "obsolete lipid binding",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0006632",
+        "name": "regulation of fatty acid metabolic process",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 2,
+      "WRONG_BIOLOGY": 1
+    },
+    "llm_text": "GO:0006633 cholesterol biosynthesis\nGO:0006629 isopentenyl diphosphate biosynthesis\nGO:0006630 mevalonate metabolic process\nGO:0006631 squalene biosynthesis\nGO:0006632 sterol biosynthesis\nGO:0006628 isoprenoid biosynthesis\nGO:0006629 isopentenyl diphosphate biosynthesis\nGO:0006630 mevalonate metabolic process\nGO:0006631 squalene biosynthesis\nGO:0006632 sterol biosynthesis",
+    "llm_ids_list": [
+      "GO:0006628",
+      "GO:0006629",
+      "GO:0006630",
+      "GO:0006631",
+      "GO:0006632",
+      "GO:0006633"
+    ]
+  },
+  {
+    "disease": "COAGULATION",
+    "n_genes": 138,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13892,
+    "enriched_ids": 674,
+    "unsupported": 0,
+    "allowed_not_enriched": 10,
+    "not_enriched": 10,
+    "valid_enriched": 0,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0002576 complement activation\nGO:0002574 complement activation, classical pathway\nGO:0002575 complement activation, alternative pathway\nGO:0002577 complement activation, lectin pathway\nGO:0002578 complement activation, classical and lectin pathways\nGO:0002579 complement activation, alternative and lectin pathways\nGO:0002580 complement activation, classical and alternative pathways\nGO:0002581 complement activation, classical, alternative and lectin pathways\nGO:0002582 complement activation, classical and lectin pathways, alternative pathway\nGO:0002583 complement activation, alternative and lectin pathways, classical pathway",
+    "llm_ids_list": [
+      "GO:0002574",
+      "GO:0002575",
+      "GO:0002576",
+      "GO:0002577",
+      "GO:0002578",
+      "GO:0002579",
+      "GO:0002580",
+      "GO:0002581",
+      "GO:0002582",
+      "GO:0002583"
+    ]
+  },
+  {
+    "disease": "COMPLEMENT",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13922,
+    "enriched_ids": 1078,
+    "unsupported": 0,
+    "allowed_not_enriched": 1,
+    "not_enriched": 1,
+    "valid_enriched": 9,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0006954 inflammatory response\nGO:0002576 complement activation\nGO:0006915 apoptotic process\nGO:0002526 positive regulation of immune response\nGO:0006955 immune response\nGO:0006914 autophagy\nGO:0006950 response to external stimulus\nGO:0006953 defense response\nGO:0006952 defense response to bacterium\nGO:0006956 defense response to virus",
+    "llm_ids_list": [
+      "GO:0002526",
+      "GO:0002576",
+      "GO:0006914",
+      "GO:0006915",
+      "GO:0006950",
+      "GO:0006952",
+      "GO:0006953",
+      "GO:0006954",
+      "GO:0006955",
+      "GO:0006956"
+    ]
+  },
+  {
+    "disease": "DNA_REPAIR",
+    "n_genes": 150,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13872,
+    "enriched_ids": 462,
+    "unsupported": 0,
+    "allowed_not_enriched": 3,
+    "not_enriched": 3,
+    "valid_enriched": 7,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0006260 DNA replication\nGO:0006261 DNA replication initiation\nGO:0006265 DNA repair\nGO:0006281 DNA metabolic process\nGO:0006351 DNA-templated transcription\nGO:0006352 DNA-templated transcription, initiation\nGO:0006355 DNA-templated transcription, elongation\nGO:0006360 transcription, DNA-templated\nGO:0006364 transcription, DNA-templated, initiation\nGO:0006366 transcription, DNA-templated, elongation",
+    "llm_ids_list": [
+      "GO:0006260",
+      "GO:0006261",
+      "GO:0006265",
+      "GO:0006281",
+      "GO:0006351",
+      "GO:0006352",
+      "GO:0006355",
+      "GO:0006360",
+      "GO:0006364",
+      "GO:0006366"
+    ]
+  },
+  {
+    "disease": "E2F_TARGETS",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13908,
+    "enriched_ids": 675,
+    "unsupported": 3,
+    "allowed_not_enriched": 1,
+    "not_enriched": 4,
+    "valid_enriched": 6,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0000087",
+        "name": "mitotic M phase",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0006333",
+        "name": "chromatin organization",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0007067",
+        "name": "mitotic cell cycle",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 3
+    },
+    "llm_text": "GO:0006260 DNA replication\nGO:0000087 mitotic cell cycle\nGO:0007049 cell cycle\nGO:0006281 DNA repair\nGO:0000012 mitotic spindle assembly\nGO:0007067 mitotic cell cycle spindle assembly checkpoint\nGO:0006334 nucleosome assembly\nGO:0006333 replication fork protection\nGO:0006265 DNA replication initiation\nGO:0000086 mitotic cell cycle spindle assembly",
+    "llm_ids_list": [
+      "GO:0000012",
+      "GO:0000086",
+      "GO:0000087",
+      "GO:0006260",
+      "GO:0006265",
+      "GO:0006281",
+      "GO:0006333",
+      "GO:0006334",
+      "GO:0007049",
+      "GO:0007067"
+    ]
+  },
+  {
+    "disease": "EPITHELIAL_MESENCHYMAL_TRANSITION",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13902,
+    "enriched_ids": 1089,
+    "unsupported": 0,
+    "allowed_not_enriched": 8,
+    "not_enriched": 8,
+    "valid_enriched": 2,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0030198 extracellular matrix organization\nGO:0001503 extracellular matrix organization\nGO:0002576 extracellular matrix organization\nGO:0002577 extracellular matrix organization\nGO:0002578 extracellular matrix organization\nGO:0002579 extracellular matrix organization\nGO:0002580 extracellular matrix organization\nGO:0002581 extracellular matrix organization\nGO:0002582 extracellular matrix organization\nGO:0002583 extracellular matrix organization",
+    "llm_ids_list": [
+      "GO:0001503",
+      "GO:0002576",
+      "GO:0002577",
+      "GO:0002578",
+      "GO:0002579",
+      "GO:0002580",
+      "GO:0002581",
+      "GO:0002582",
+      "GO:0002583",
+      "GO:0030198"
+    ]
+  },
+  {
+    "disease": "ESTROGEN_RESPONSE_EARLY",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13794,
+    "enriched_ids": 199,
+    "unsupported": 0,
+    "allowed_not_enriched": 8,
+    "not_enriched": 8,
+    "valid_enriched": 2,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0008150 biological_process\nGO:0006954 inflammatory response\nGO:0007165 signal transduction\nGO:0007186 response to peptide\nGO:0007265 response to chemical stimulus\nGO:0007507 positive regulation of cell proliferation\nGO:0008283 regulation of cell population proliferation\nGO:0009607 response to oxygen-containing compound\nGO:0010628 cellular response to chemical stimulus\nGO:0030198 response to extracellular stimulus",
+    "llm_ids_list": [
+      "GO:0006954",
+      "GO:0007165",
+      "GO:0007186",
+      "GO:0007265",
+      "GO:0007507",
+      "GO:0008150",
+      "GO:0008283",
+      "GO:0009607",
+      "GO:0010628",
+      "GO:0030198"
+    ]
+  },
+  {
+    "disease": "ESTROGEN_RESPONSE_LATE",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13800,
+    "enriched_ids": 294,
+    "unsupported": 1,
+    "allowed_not_enriched": 4,
+    "not_enriched": 5,
+    "valid_enriched": 5,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0007067",
+        "name": "mitotic cell cycle",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 1
+    },
+    "llm_text": "GO:0006915 apoptotic process\nGO:0008283 cell population proliferation\nGO:0007165 signal transduction\nGO:0007155 cell adhesion\nGO:0007160 response to extracellular stimulus\nGO:0006950 response to external stimulus\nGO:0007049 cell shape\nGO:0007186 response to peptide\nGO:0007159 cell movement\nGO:0007067 response to chemical stimulus",
+    "llm_ids_list": [
+      "GO:0006915",
+      "GO:0006950",
+      "GO:0007049",
+      "GO:0007067",
+      "GO:0007155",
+      "GO:0007159",
+      "GO:0007160",
+      "GO:0007165",
+      "GO:0007186",
+      "GO:0008283"
+    ]
+  },
+  {
+    "disease": "FATTY_ACID_METABOLISM",
+    "n_genes": 158,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13883,
+    "enriched_ids": 408,
+    "unsupported": 4,
+    "allowed_not_enriched": 3,
+    "not_enriched": 7,
+    "valid_enriched": 3,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0006627",
+        "name": "obsolete protein processing involved in protein targeting to mitochondrion",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0006628",
+        "name": "obsolete mitochondrial translocation",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0006630",
+        "name": "obsolete lipid binding",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0006632",
+        "name": "regulation of fatty acid metabolic process",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 3,
+      "WRONG_BIOLOGY": 1
+    },
+    "llm_text": "GO:0006633 fatty acid beta-oxidation\nGO:0006620 fatty acid metabolic process\nGO:0006631 fatty acid metabolic process\nGO:0006629 lipid metabolic process\nGO:0006627 lipid biosynthetic process\nGO:0006628 lipid catabolic process\nGO:0006630 fatty acid biosynthetic process\nGO:0006632 fatty acid catabolic process\nGO:0006626 lipid transport\nGO:0006625 lipid storage",
+    "llm_ids_list": [
+      "GO:0006620",
+      "GO:0006625",
+      "GO:0006626",
+      "GO:0006627",
+      "GO:0006628",
+      "GO:0006629",
+      "GO:0006630",
+      "GO:0006631",
+      "GO:0006632",
+      "GO:0006633"
+    ]
+  },
+  {
+    "disease": "G2_M_CHECKPOINT",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13922,
+    "enriched_ids": 720,
+    "unsupported": 4,
+    "allowed_not_enriched": 1,
+    "not_enriched": 5,
+    "valid_enriched": 5,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0007067",
+        "name": "mitotic cell cycle",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0007074",
+        "name": "obsolete positive regulation of transcription involved in exit from mitosis, from RNA polymerase II promoter",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0007075",
+        "name": "obsolete positive regulation of transcription involved in exit from mitosis, from RNA polymerase III promoter",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0007078",
+        "name": "lamin depolymerization",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 2,
+      "OBSOLETE": 2
+    },
+    "llm_text": "GO:0007049 cell cycle\nGO:0000082 mitotic cell cycle\nGO:0007067 mitotic cell cycle phase\nGO:0007074 mitotic cell cycle phase\nGO:0007075 mitotic cell cycle phase\nGO:0007076 mitotic cell cycle phase\nGO:0007077 mitotic cell cycle phase\nGO:0007078 mitotic cell cycle phase\nGO:0007079 mitotic cell cycle phase\nGO:0007080 mitotic cell cycle phase",
+    "llm_ids_list": [
+      "GO:0000082",
+      "GO:0007049",
+      "GO:0007067",
+      "GO:0007074",
+      "GO:0007075",
+      "GO:0007076",
+      "GO:0007077",
+      "GO:0007078",
+      "GO:0007079",
+      "GO:0007080"
+    ]
+  },
+  {
+    "disease": "GLYCOLYSIS",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13860,
+    "enriched_ids": 271,
+    "unsupported": 1,
+    "allowed_not_enriched": 8,
+    "not_enriched": 9,
+    "valid_enriched": 1,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0006095",
+        "name": "carbohydrate catabolic process",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 1
+    },
+    "llm_text": "GO:0006094 glycolytic process\nGO:0006095 gluconeogenesis\nGO:0006633 pentose-phosphate shunt\nGO:0009266 response to hypoxia\nGO:0006695 glycosaminoglycan biosynthesis\nGO:0006693 glycosaminoglycan metabolic process\nGO:0006629 lipid metabolic process\nGO:0006620 DNA replication\nGO:0007049 cell cycle\nGO:0007155 cellular response to hypoxia",
+    "llm_ids_list": [
+      "GO:0006094",
+      "GO:0006095",
+      "GO:0006620",
+      "GO:0006629",
+      "GO:0006633",
+      "GO:0006693",
+      "GO:0006695",
+      "GO:0007049",
+      "GO:0007155",
+      "GO:0009266"
+    ]
+  },
+  {
+    "disease": "HEDGEHOG_SIGNALING",
+    "n_genes": 36,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13784,
+    "enriched_ids": 583,
+    "unsupported": 0,
+    "allowed_not_enriched": 7,
+    "not_enriched": 7,
+    "valid_enriched": 3,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0007416 neuron differentiation\nGO:0007417 central nervous system development\nGO:0007418 nervous system development\nGO:0007399 nervous system morphogenesis\nGO:0007411 axon guidance\nGO:0007412 nervous system morphogenesis\nGO:0007186 response to ligand-activated receptor\nGO:0007187 response to ligand-activated receptor\nGO:0007189 response to ligand-activated receptor\nGO:0007185 response to ligand-activated receptor",
+    "llm_ids_list": [
+      "GO:0007185",
+      "GO:0007186",
+      "GO:0007187",
+      "GO:0007189",
+      "GO:0007399",
+      "GO:0007411",
+      "GO:0007412",
+      "GO:0007416",
+      "GO:0007417",
+      "GO:0007418"
+    ]
+  },
+  {
+    "disease": "HEME_METABOLISM",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13809,
+    "enriched_ids": 143,
+    "unsupported": 5,
+    "allowed_not_enriched": 5,
+    "not_enriched": 10,
+    "valid_enriched": 0,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0006797",
+        "name": "polyphosphate metabolic process",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0006798",
+        "name": "polyphosphate catabolic process",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0006799",
+        "name": "polyphosphate biosynthetic process",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0006806",
+        "name": "obsolete insecticide resistance",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0006807",
+        "name": "obsolete nitrogen compound metabolic process",
+        "category": "OBSOLETE"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 3,
+      "OBSOLETE": 2
+    },
+    "llm_text": "GO:0006796 heme biosynthesis\nGO:0006797 porphyrin metabolic process\nGO:0006798 porphyrin biosynthesis\nGO:0006799 porphyrin catabolic process\nGO:0006806 iron ion transport\nGO:0006807 iron ion homeostasis\nGO:0006808 iron ion transmembrane transport\nGO:0006809 iron ion transmembrane transport, out of cell\nGO:0006810 iron ion transmembrane transport, into cell\nGO:0006811 iron ion transmembrane transport, out of cell",
+    "llm_ids_list": [
+      "GO:0006796",
+      "GO:0006797",
+      "GO:0006798",
+      "GO:0006799",
+      "GO:0006806",
+      "GO:0006807",
+      "GO:0006808",
+      "GO:0006809",
+      "GO:0006810",
+      "GO:0006811"
+    ]
+  },
+  {
+    "disease": "HYPOXIA",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13859,
+    "enriched_ids": 574,
+    "unsupported": 5,
+    "allowed_not_enriched": 3,
+    "not_enriched": 8,
+    "valid_enriched": 2,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0006092",
+        "name": "obsolete cellular carbohydrate metabolic process",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0006093",
+        "name": "carbohydrate biosynthetic process",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0006095",
+        "name": "carbohydrate catabolic process",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0006097",
+        "name": "glyoxylate cycle",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0006100",
+        "name": "obsolete tricarboxylic acid cycle intermediate metabolic process",
+        "category": "OBSOLETE"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 2,
+      "WRONG_BIOLOGY": 3
+    },
+    "llm_text": "GO:0006094 glycolytic process\nGO:0006096 glycolysis, anaerobic\nGO:0006093 pentose-phosphate shunt\nGO:0006095 non-oxidative pentose-phosphate shunt\nGO:0006092 oxidative pentose-phosphate shunt\nGO:0006097 pentose-phosphate interconversions\nGO:0006098 pentose-phosphate pathway\nGO:0006099 pentose-phosphate pathway, oxidative phase\nGO:0006100 pentose-phosphate pathway, non-oxidative phase\nGO:0006101 pentose-phosphate pathway, oxidative phase",
+    "llm_ids_list": [
+      "GO:0006092",
+      "GO:0006093",
+      "GO:0006094",
+      "GO:0006095",
+      "GO:0006096",
+      "GO:0006097",
+      "GO:0006098",
+      "GO:0006099",
+      "GO:0006100",
+      "GO:0006101"
+    ]
+  },
+  {
+    "disease": "IL_2_STAT5_SIGNALING",
+    "n_genes": 199,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13832,
+    "enriched_ids": 467,
+    "unsupported": 2,
+    "allowed_not_enriched": 6,
+    "not_enriched": 8,
+    "valid_enriched": 2,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0002570",
+        "name": "somatic diversification of immunoglobulin genes by N region addition",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0002571",
+        "name": "somatic diversification of T cell receptor genes by N region addition",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 2
+    },
+    "llm_text": "GO:0006955 immune response\nGO:0030194 cytokine-mediated signaling pathway\nGO:0002926 T cell activation\nGO:0002576 T cell mediated cytotoxicity\nGO:0002574 T cell mediated cytotoxicity to virus\nGO:0002575 T cell mediated cytotoxicity to tumor cell\nGO:0002573 T cell mediated cytotoxicity to bacteria\nGO:0002572 T cell mediated cytotoxicity to fungus\nGO:0002571 T cell mediated cytotoxicity to parasite\nGO:0002570 T cell mediated cytotoxicity",
+    "llm_ids_list": [
+      "GO:0002570",
+      "GO:0002571",
+      "GO:0002572",
+      "GO:0002573",
+      "GO:0002574",
+      "GO:0002575",
+      "GO:0002576",
+      "GO:0002926",
+      "GO:0006955",
+      "GO:0030194"
+    ]
+  },
+  {
+    "disease": "IL_6_JAK_STAT3_SIGNALING",
+    "n_genes": 87,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13848,
+    "enriched_ids": 1056,
+    "unsupported": 4,
+    "allowed_not_enriched": 5,
+    "not_enriched": 9,
+    "valid_enriched": 1,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0002929",
+        "name": "MECO complex",
+        "category": "WRONG_BRANCH"
+      },
+      {
+        "id": "GO:0002932",
+        "name": "tendon sheath development",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0002935",
+        "name": "tRNA (adenine(37)-C2)-methyltransferase activity",
+        "category": "WRONG_BRANCH"
+      },
+      {
+        "id": "GO:0002936",
+        "name": "bradykinin biosynthetic process",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BRANCH": 2,
+      "WRONG_BIOLOGY": 2
+    },
+    "llm_text": "GO:0002576 immune system process\nGO:0006955 immune response\nGO:0030198 response to cytokine\nGO:0002936 response to interleukin-6\nGO:0002933 response to interferon-gamma\nGO:0002932 response to interferon-alpha\nGO:0002935 response to interleukin-1\nGO:0002934 response to interleukin-2\nGO:0002930 response to interleukin-10\nGO:0002929 response to interleukin-12",
+    "llm_ids_list": [
+      "GO:0002576",
+      "GO:0002929",
+      "GO:0002930",
+      "GO:0002932",
+      "GO:0002933",
+      "GO:0002934",
+      "GO:0002935",
+      "GO:0002936",
+      "GO:0006955",
+      "GO:0030198"
+    ]
+  },
+  {
+    "disease": "INFLAMMATORY_RESPONSE",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 2,
+    "allowed_ids": 13873,
+    "enriched_ids": 1239,
+    "unsupported": 0,
+    "allowed_not_enriched": 1,
+    "not_enriched": 1,
+    "valid_enriched": 1,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0002576 inflammatory response\nGO:0006954 inflammatory response\nGO:0002576 immune response\nGO:0002576 leukocyte migration\nGO:0002576 cytokine-mediated signaling pathway\nGO:0002576 positive regulation of immune response\nGO:0002576 regulation of inflammatory response\nGO:0002576 chemotaxis\nGO:0002576 positive regulation of cytokine production\nGO:0002576 response to interleukin-1",
+    "llm_ids_list": [
+      "GO:0002576",
+      "GO:0006954"
+    ]
+  },
+  {
+    "disease": "INTERFERON_ALPHA_RESPONSE",
+    "n_genes": 97,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 1,
+    "allowed_ids": 13784,
+    "enriched_ids": 283,
+    "unsupported": 0,
+    "allowed_not_enriched": 1,
+    "not_enriched": 1,
+    "valid_enriched": 0,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0002576 interferon alpha response\nGO:0002576 interferon beta response\nGO:0002576 interferon gamma response\nGO:0002576 response to interferon alpha\nGO:0002576 response to interferon beta\nGO:0002576 response to interferon gamma\nGO:0002576 antiviral defense\nGO:0002576 defense response to virus\nGO:0002576 response to virus\nGO:0002576 innate immune response",
+    "llm_ids_list": [
+      "GO:0002576"
+    ]
+  },
+  {
+    "disease": "INTERFERON_GAMMA_RESPONSE",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13861,
+    "enriched_ids": 955,
+    "unsupported": 3,
+    "allowed_not_enriched": 6,
+    "not_enriched": 9,
+    "valid_enriched": 1,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0002569",
+        "name": "somatic diversification of immune receptors by N region addition",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0002570",
+        "name": "somatic diversification of immunoglobulin genes by N region addition",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0002571",
+        "name": "somatic diversification of T cell receptor genes by N region addition",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 3
+    },
+    "llm_text": "GO:0002576 interferon-alpha response\nGO:0002577 interferon-beta response\nGO:0002578 interferon-gamma response\nGO:0002575 response to interferon\nGO:0002574 response to interferon-alpha\nGO:0002573 response to interferon-beta\nGO:0002572 response to interferon-gamma\nGO:0002571 response to interferon-alpha\nGO:0002570 response to interferon-beta\nGO:0002569 response to interferon-gamma",
+    "llm_ids_list": [
+      "GO:0002569",
+      "GO:0002570",
+      "GO:0002571",
+      "GO:0002572",
+      "GO:0002573",
+      "GO:0002574",
+      "GO:0002575",
+      "GO:0002576",
+      "GO:0002577",
+      "GO:0002578"
+    ]
+  },
+  {
+    "disease": "KRAS_SIGNALING_DN",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13819,
+    "enriched_ids": 204,
+    "unsupported": 1,
+    "allowed_not_enriched": 8,
+    "not_enriched": 9,
+    "valid_enriched": 1,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0007184",
+        "name": "regulation of SMAD protein signal transduction",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 1
+    },
+    "llm_text": "GO:0008283 cell population homeostasis\nGO:0007155 cell adhesion\nGO:0007186 G protein-coupled receptor signaling pathway\nGO:0007189 transmembrane signaling pathway\nGO:0007185 receptor signaling pathway\nGO:0007154 signal transduction\nGO:0007159 membrane depolarization\nGO:0007187 G protein-coupled receptor signaling pathway, Gs\nGO:0007188 G protein-coupled receptor signaling pathway, Gi\nGO:0007184 G protein-coupled receptor signaling pathway",
+    "llm_ids_list": [
+      "GO:0007154",
+      "GO:0007155",
+      "GO:0007159",
+      "GO:0007184",
+      "GO:0007185",
+      "GO:0007186",
+      "GO:0007187",
+      "GO:0007188",
+      "GO:0007189",
+      "GO:0008283"
+    ]
+  },
+  {
+    "disease": "KRAS_SIGNALING_UP",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13828,
+    "enriched_ids": 580,
+    "unsupported": 1,
+    "allowed_not_enriched": 2,
+    "not_enriched": 3,
+    "valid_enriched": 7,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0008289",
+        "name": "lipid binding",
+        "category": "WRONG_BRANCH"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BRANCH": 1
+    },
+    "llm_text": "GO:0008283 cell population homeostasis\nGO:0006954 inflammatory response\nGO:0008284 positive regulation of cell population proliferation\nGO:0007165 signal transduction\nGO:0030198 extracellular matrix organization\nGO:0002926 response to lipopolysaccharide\nGO:0008285 cell differentiation\nGO:0007155 cell adhesion\nGO:0006935 chemotaxis\nGO:0008289 regulation of cell population proliferation",
+    "llm_ids_list": [
+      "GO:0002926",
+      "GO:0006935",
+      "GO:0006954",
+      "GO:0007155",
+      "GO:0007165",
+      "GO:0008283",
+      "GO:0008284",
+      "GO:0008285",
+      "GO:0008289",
+      "GO:0030198"
+    ]
+  },
+  {
+    "disease": "MITOTIC_SPINDLE",
+    "n_genes": 199,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13924,
+    "enriched_ids": 783,
+    "unsupported": 5,
+    "allowed_not_enriched": 2,
+    "not_enriched": 7,
+    "valid_enriched": 3,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0007067",
+        "name": "mitotic cell cycle",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0007068",
+        "name": "obsolete negative regulation of transcription during mitotic cell cycle",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0007074",
+        "name": "obsolete positive regulation of transcription involved in exit from mitosis, from RNA polymerase II promoter",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0007075",
+        "name": "obsolete positive regulation of transcription involved in exit from mitosis, from RNA polymerase III promoter",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0007078",
+        "name": "lamin depolymerization",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 2,
+      "OBSOLETE": 3
+    },
+    "llm_text": "GO:0007067 mitotic cell cycle\nGO:0000082 mitotic spindle assembly\nGO:0007051 mitotic spindle organization\nGO:0007068 mitotic cell cycle phase\nGO:0007074 mitotic spindle assembly checkpoint\nGO:0007075 mitotic spindle assembly and maintenance\nGO:0007076 mitotic spindle organization\nGO:0007077 mitotic spindle organization\nGO:0007078 mitotic spindle organization\nGO:0007079 mitotic spindle organization",
+    "llm_ids_list": [
+      "GO:0000082",
+      "GO:0007051",
+      "GO:0007067",
+      "GO:0007068",
+      "GO:0007074",
+      "GO:0007075",
+      "GO:0007076",
+      "GO:0007077",
+      "GO:0007078",
+      "GO:0007079"
+    ]
+  },
+  {
+    "disease": "MTORC1_SIGNALING",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13873,
+    "enriched_ids": 386,
+    "unsupported": 4,
+    "allowed_not_enriched": 1,
+    "not_enriched": 5,
+    "valid_enriched": 5,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0006630",
+        "name": "obsolete lipid binding",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0006696",
+        "name": "ergosterol biosynthetic process",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0006697",
+        "name": "ecdysone biosynthetic process",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0006698",
+        "name": "obsolete ecdysone modification",
+        "category": "OBSOLETE"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 2,
+      "WRONG_BIOLOGY": 2
+    },
+    "llm_text": "GO:0006629 lipid metabolic process\nGO:0006633 cholesterol metabolic process\nGO:0006694 fatty acid metabolic process\nGO:0006695 unsaturated fatty acid biosynthetic process\nGO:0006696 fatty acid biosynthetic process\nGO:0006697 monounsaturated fatty acid biosynthetic process\nGO:0006698 polyunsaturated fatty acid biosynthetic process\nGO:0006699 fatty acid elongation\nGO:0006630 cholesterol biosynthetic process\nGO:0006631 sterol biosynthetic process",
+    "llm_ids_list": [
+      "GO:0006629",
+      "GO:0006630",
+      "GO:0006631",
+      "GO:0006633",
+      "GO:0006694",
+      "GO:0006695",
+      "GO:0006696",
+      "GO:0006697",
+      "GO:0006698",
+      "GO:0006699"
+    ]
+  },
+  {
+    "disease": "MYC_TARGETS_V1",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13925,
+    "enriched_ids": 620,
+    "unsupported": 1,
+    "allowed_not_enriched": 3,
+    "not_enriched": 4,
+    "valid_enriched": 6,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0006258",
+        "name": "obsolete UDP-alpha-D-glucose catabolic process",
+        "category": "OBSOLETE"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 1
+    },
+    "llm_text": "GO:0006281 DNA replication\nGO:0006258 DNA metabolic process\nGO:0006351 DNA repair\nGO:0006396 RNA processing\nGO:0006355 RNA splicing\nGO:0006412 translation\nGO:0006417 protein catabolic process\nGO:0006418 protein targeting\nGO:0006468 protein self-assembly\nGO:0007049 cell cycle",
+    "llm_ids_list": [
+      "GO:0006258",
+      "GO:0006281",
+      "GO:0006351",
+      "GO:0006355",
+      "GO:0006396",
+      "GO:0006412",
+      "GO:0006417",
+      "GO:0006418",
+      "GO:0006468",
+      "GO:0007049"
+    ]
+  },
+  {
+    "disease": "MYC_TARGETS_V2",
+    "n_genes": 58,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13799,
+    "enriched_ids": 89,
+    "unsupported": 1,
+    "allowed_not_enriched": 8,
+    "not_enriched": 9,
+    "valid_enriched": 1,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0006258",
+        "name": "obsolete UDP-alpha-D-glucose catabolic process",
+        "category": "OBSOLETE"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 1
+    },
+    "llm_text": "GO:0006258 ribosome biogenesis\nGO:0000070 ribosome assembly\nGO:0006259 mitotic cell cycle\nGO:0007049 cell cycle\nGO:0006979 DNA replication\nGO:0006351 DNA replication, initiation\nGO:0006355 DNA replication, elongation\nGO:0006357 DNA replication, termination\nGO:0006352 DNA replication, fork progression\nGO:0006353 DNA replication, fork regression",
+    "llm_ids_list": [
+      "GO:0000070",
+      "GO:0006258",
+      "GO:0006259",
+      "GO:0006351",
+      "GO:0006352",
+      "GO:0006353",
+      "GO:0006355",
+      "GO:0006357",
+      "GO:0006979",
+      "GO:0007049"
+    ]
+  },
+  {
+    "disease": "MYOGENESIS",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13887,
+    "enriched_ids": 741,
+    "unsupported": 6,
+    "allowed_not_enriched": 1,
+    "not_enriched": 7,
+    "valid_enriched": 3,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0003325",
+        "name": "pancreatic PP cell development",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0003326",
+        "name": "pancreatic A cell fate commitment",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0006928",
+        "name": "obsolete movement of cell or subcellular component",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0007180",
+        "name": "obsolete transforming growth factor beta ligand binding to type II receptor",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0007516",
+        "name": "hemocyte development",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0030027",
+        "name": "lamellipodium",
+        "category": "WRONG_BRANCH"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 3,
+      "OBSOLETE": 2,
+      "WRONG_BRANCH": 1
+    },
+    "llm_text": "GO:0003325 muscle fiber development\nGO:0030027 muscle contraction\nGO:0006979 response to muscle injury\nGO:0003326 muscle fiber regeneration\nGO:0007516 sarcomere organization\nGO:0006928 response to oxidative stress\nGO:0007155 cell adhesion\nGO:0007186 G protein coupled receptor signaling pathway\nGO:0007180 cell communication\nGO:0006950 response to external stimulus",
+    "llm_ids_list": [
+      "GO:0003325",
+      "GO:0003326",
+      "GO:0006928",
+      "GO:0006950",
+      "GO:0006979",
+      "GO:0007155",
+      "GO:0007180",
+      "GO:0007186",
+      "GO:0007516",
+      "GO:0030027"
+    ]
+  },
+  {
+    "disease": "NOTCH_SIGNALING",
+    "n_genes": 32,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13793,
+    "enriched_ids": 674,
+    "unsupported": 2,
+    "allowed_not_enriched": 6,
+    "not_enriched": 8,
+    "valid_enriched": 2,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0007180",
+        "name": "obsolete transforming growth factor beta ligand binding to type II receptor",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0045712",
+        "name": "positive regulation of larval salivary gland boundary specification",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 1,
+      "WRONG_BIOLOGY": 1
+    },
+    "llm_text": "GO:0007167 NOTCH signaling pathway\nGO:0007169 Wnt signaling pathway\nGO:0007186 G protein-coupled receptor signaling pathway\nGO:0008283 regulation of cell population proliferation\nGO:0009607 response to peptide\nGO:0030512 positive regulation of cell cycle\nGO:0045712 negative regulation of cell cycle\nGO:0007180 cell fate commitment\nGO:0007265 single organism development\nGO:0009987 cell-cell signaling",
+    "llm_ids_list": [
+      "GO:0007167",
+      "GO:0007169",
+      "GO:0007180",
+      "GO:0007186",
+      "GO:0007265",
+      "GO:0008283",
+      "GO:0009607",
+      "GO:0009987",
+      "GO:0030512",
+      "GO:0045712"
+    ]
+  },
+  {
+    "disease": "OXIDATIVE_PHOSPHORYLATION",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13915,
+    "enriched_ids": 447,
+    "unsupported": 0,
+    "allowed_not_enriched": 7,
+    "not_enriched": 7,
+    "valid_enriched": 3,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0006139 oxidative phosphorylation\nGO:0006120 electron transport chain\nGO:0006106 electron transport chain, respiratory\nGO:0006107 electron transport chain, complex I\nGO:0006108 electron transport chain, complex II\nGO:0006109 electron transport chain, complex III\nGO:0006110 electron transport chain, complex IV\nGO:0006111 electron transport chain, complex V\nGO:0006112 electron transport chain, complex VI\nGO:0006113 electron transport chain, complex VII",
+    "llm_ids_list": [
+      "GO:0006106",
+      "GO:0006107",
+      "GO:0006108",
+      "GO:0006109",
+      "GO:0006110",
+      "GO:0006111",
+      "GO:0006112",
+      "GO:0006113",
+      "GO:0006120",
+      "GO:0006139"
+    ]
+  },
+  {
+    "disease": "P53_PATHWAY",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13830,
+    "enriched_ids": 535,
+    "unsupported": 1,
+    "allowed_not_enriched": 6,
+    "not_enriched": 7,
+    "valid_enriched": 3,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0032983",
+        "name": "kainate selective glutamate receptor complex",
+        "category": "WRONG_BRANCH"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BRANCH": 1
+    },
+    "llm_text": "GO:0006915 apoptotic process\nGO:0007155 cell adhesion\nGO:0007186 G protein-coupled receptor signaling pathway\nGO:0007189 transmembrane signaling pathway\nGO:0007265 signal transduction\nGO:0008283 regulation of cell population proliferation\nGO:0009607 response to peptide\nGO:0030198 regulation of cell cycle\nGO:0032983 response to chemical stress\nGO:0042126 negative regulation of cell proliferation",
+    "llm_ids_list": [
+      "GO:0006915",
+      "GO:0007155",
+      "GO:0007186",
+      "GO:0007189",
+      "GO:0007265",
+      "GO:0008283",
+      "GO:0009607",
+      "GO:0030198",
+      "GO:0032983",
+      "GO:0042126"
+    ]
+  },
+  {
+    "disease": "PANCREAS_BETA_CELLS",
+    "n_genes": 40,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13794,
+    "enriched_ids": 238,
+    "unsupported": 1,
+    "allowed_not_enriched": 8,
+    "not_enriched": 9,
+    "valid_enriched": 1,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0007180",
+        "name": "obsolete transforming growth factor beta ligand binding to type II receptor",
+        "category": "OBSOLETE"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 1
+    },
+    "llm_text": "GO:0007417 neural tube development\nGO:0007218 neuron differentiation\nGO:0030183 pancreatic acinar cell development\nGO:0001568 pancreatic gland development\nGO:0008283 regulation of insulin secretion\nGO:0007186 G protein-coupled receptor signaling pathway\nGO:0007165 signal transduction\nGO:0007180 cell-cell signaling\nGO:0007155 cell adhesion\nGO:0007189 insulin signaling",
+    "llm_ids_list": [
+      "GO:0001568",
+      "GO:0007155",
+      "GO:0007165",
+      "GO:0007180",
+      "GO:0007186",
+      "GO:0007189",
+      "GO:0007218",
+      "GO:0007417",
+      "GO:0008283",
+      "GO:0030183"
+    ]
+  },
+  {
+    "disease": "PI3K_AKT_MTOR_SIGNALING",
+    "n_genes": 105,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13862,
+    "enriched_ids": 859,
+    "unsupported": 1,
+    "allowed_not_enriched": 4,
+    "not_enriched": 5,
+    "valid_enriched": 5,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0007170",
+        "name": "obsolete transmembrane receptor protein tyrosine kinase ligand binding",
+        "category": "OBSOLETE"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 1
+    },
+    "llm_text": "GO:0007165 signal transduction\nGO:0007155 cellular response to extracellular stimulus\nGO:0007170 response to growth factor or mitogen\nGO:0007166 response to external stimulus\nGO:0007186 response to peptide\nGO:0007154 cellular response to chemical stimulus\nGO:0007167 response to hypoxia\nGO:0007172 response to amino acid or peptide\nGO:0007168 response to nutrient levels\nGO:0007173 response to lipid",
+    "llm_ids_list": [
+      "GO:0007154",
+      "GO:0007155",
+      "GO:0007165",
+      "GO:0007166",
+      "GO:0007167",
+      "GO:0007168",
+      "GO:0007170",
+      "GO:0007172",
+      "GO:0007173",
+      "GO:0007186"
+    ]
+  },
+  {
+    "disease": "PPEROXISOME",
+    "n_genes": 104,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13865,
+    "enriched_ids": 319,
+    "unsupported": 1,
+    "allowed_not_enriched": 6,
+    "not_enriched": 7,
+    "valid_enriched": 3,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0006643",
+        "name": "obsolete membrane lipid metabolic process",
+        "category": "OBSOLETE"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 1
+    },
+    "llm_text": "GO:0006633 lipid metabolic process\nGO:0006635 fatty acid metabolic process\nGO:0006636 long-chain fatty acid metabolic process\nGO:0006637 very long-chain fatty acid metabolic process\nGO:0006638 long-chain fatty acid beta-oxidation\nGO:0006639 very long-chain fatty acid beta-oxidation\nGO:0006640 fatty acid beta-oxidation\nGO:0006641 fatty acid beta-oxidation using oxygen as oxidant\nGO:0006642 fatty acid beta-oxidation using molecular oxygen as oxidant\nGO:0006643 fatty acid beta-oxidation using NADP+ as oxidant",
+    "llm_ids_list": [
+      "GO:0006633",
+      "GO:0006635",
+      "GO:0006636",
+      "GO:0006637",
+      "GO:0006638",
+      "GO:0006639",
+      "GO:0006640",
+      "GO:0006641",
+      "GO:0006642",
+      "GO:0006643"
+    ]
+  },
+  {
+    "disease": "PROTEIN_SECRETION",
+    "n_genes": 96,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13888,
+    "enriched_ids": 324,
+    "unsupported": 1,
+    "allowed_not_enriched": 0,
+    "not_enriched": 1,
+    "valid_enriched": 9,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0006899",
+        "name": "vesicle-mediated transport",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 1
+    },
+    "llm_text": "GO:0006886 intrinsic vesicular transport\nGO:0006898 endocytosis\nGO:0006899 exocytosis\nGO:0006885 protein transport\nGO:0006888 transport\nGO:0006897 endosome organization\nGO:0006890 vesicle-mediated transport\nGO:0006887 extrinsic vesicular transport\nGO:0006891 endosome\nGO:0006892 exosome",
+    "llm_ids_list": [
+      "GO:0006885",
+      "GO:0006886",
+      "GO:0006887",
+      "GO:0006888",
+      "GO:0006890",
+      "GO:0006891",
+      "GO:0006892",
+      "GO:0006897",
+      "GO:0006898",
+      "GO:0006899"
+    ]
+  },
+  {
+    "disease": "REACTIVE_OXYGEN_SPECIES_PATHWAY",
+    "n_genes": 49,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13800,
+    "enriched_ids": 131,
+    "unsupported": 0,
+    "allowed_not_enriched": 7,
+    "not_enriched": 7,
+    "valid_enriched": 3,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0006915 apoptotic process\nGO:0006974 response to hydrogen peroxide\nGO:0006914 autophagy\nGO:0006950 response to endogenous stimulus\nGO:0006954 inflammatory response\nGO:0006970 response to oxidative stress\nGO:0006979 response to toxic substance\nGO:0006995 apoptotic signaling pathway\nGO:0006998 response to oxidative stress\nGO:0006999 response to oxidative stress",
+    "llm_ids_list": [
+      "GO:0006914",
+      "GO:0006915",
+      "GO:0006950",
+      "GO:0006954",
+      "GO:0006970",
+      "GO:0006974",
+      "GO:0006979",
+      "GO:0006995",
+      "GO:0006998",
+      "GO:0006999"
+    ]
+  },
+  {
+    "disease": "SPERMATOGENESIS",
+    "n_genes": 135,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13792,
+    "enriched_ids": 79,
+    "unsupported": 1,
+    "allowed_not_enriched": 7,
+    "not_enriched": 8,
+    "valid_enriched": 2,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0007067",
+        "name": "mitotic cell cycle",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 1
+    },
+    "llm_text": "GO:0007049 cell cycle\nGO:0006281 DNA replication\nGO:0000082 mitotic cell cycle\nGO:0007067 mitotic spindle assembly\nGO:0007051 spindle assembly checkpoint\nGO:0006915 apoptosis\nGO:0006412 translation\nGO:0006417 protein folding\nGO:0006950 response to stress\nGO:0007155 cell adhesion",
+    "llm_ids_list": [
+      "GO:0000082",
+      "GO:0006281",
+      "GO:0006412",
+      "GO:0006417",
+      "GO:0006915",
+      "GO:0006950",
+      "GO:0007049",
+      "GO:0007051",
+      "GO:0007067",
+      "GO:0007155"
+    ]
+  },
+  {
+    "disease": "TGF_BETA_SIGNALING",
+    "n_genes": 54,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13835,
+    "enriched_ids": 850,
+    "unsupported": 2,
+    "allowed_not_enriched": 3,
+    "not_enriched": 5,
+    "valid_enriched": 5,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0007180",
+        "name": "obsolete transforming growth factor beta ligand binding to type II receptor",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0007516",
+        "name": "hemocyte development",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 1,
+      "WRONG_BIOLOGY": 1
+    },
+    "llm_text": "GO:0007155 cell adhesion\nGO:0007159 cell-cell signaling\nGO:0007165 signal transduction\nGO:0007180 cell fate commitment\nGO:0007186 response to external stimulus\nGO:0007265 response to chemical stimulus\nGO:0007507 negative regulation of cell proliferation\nGO:0007516 response to peptide\nGO:0008283 regulation of cell population proliferation\nGO:0030182 negative regulation of TGF beta signaling",
+    "llm_ids_list": [
+      "GO:0007155",
+      "GO:0007159",
+      "GO:0007165",
+      "GO:0007180",
+      "GO:0007186",
+      "GO:0007265",
+      "GO:0007507",
+      "GO:0007516",
+      "GO:0008283",
+      "GO:0030182"
+    ]
+  },
+  {
+    "disease": "TNF_ALPHA_SIGNALING_VIA_NF_KB",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 9,
+    "allowed_ids": 13867,
+    "enriched_ids": 1282,
+    "unsupported": 1,
+    "allowed_not_enriched": 3,
+    "not_enriched": 4,
+    "valid_enriched": 5,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0002936",
+        "name": "bradykinin biosynthetic process",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 1
+    },
+    "llm_text": "GO:0006954 inflammatory response\nGO:0002926 response to lipopolysaccharide\nGO:0009607 response to bacterium\nGO:0030194 response to virus\nGO:0002576 cellular response to lipopolysaccharide\nGO:0002682 cellular response to bacterial molecule\nGO:0002705 cellular response to virus\nGO:0002936 response to interleukin-1\nGO:0002930 response to interleukin-6\nGO:0002576 cellular response to lipopolysaccharide",
+    "llm_ids_list": [
+      "GO:0002576",
+      "GO:0002682",
+      "GO:0002705",
+      "GO:0002926",
+      "GO:0002930",
+      "GO:0002936",
+      "GO:0006954",
+      "GO:0009607",
+      "GO:0030194"
+    ]
+  },
+  {
+    "disease": "UNFOLDED_PROTEIN_RESPONSE",
+    "n_genes": 113,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13846,
+    "enriched_ids": 352,
+    "unsupported": 5,
+    "allowed_not_enriched": 5,
+    "not_enriched": 10,
+    "valid_enriched": 0,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0006973",
+        "name": "intracellular accumulation of glycerol",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0006975",
+        "name": "signal transduction in response to DNA damage",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0006976",
+        "name": "DNA damage response, signal transduction by p53 class mediator",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0006977",
+        "name": "obsolete DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0006978",
+        "name": "obsolete DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator",
+        "category": "OBSOLETE"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 3,
+      "OBSOLETE": 2
+    },
+    "llm_text": "GO:0006974 cellular response to endoplasmic reticulum stress\nGO:0034605 unfolded protein response\nGO:0006978 response to endoplasmic reticulum stress\nGO:0006979 response to unfolded protein\nGO:0006970 response to heat\nGO:0006972 response to stress\nGO:0006973 response to heat\nGO:0006975 cellular response to heat\nGO:0006976 cellular response to stress\nGO:0006977 cellular response to unfolded protein",
+    "llm_ids_list": [
+      "GO:0006970",
+      "GO:0006972",
+      "GO:0006973",
+      "GO:0006974",
+      "GO:0006975",
+      "GO:0006976",
+      "GO:0006977",
+      "GO:0006978",
+      "GO:0006979",
+      "GO:0034605"
+    ]
+  },
+  {
+    "disease": "UV_RESPONSE_DN",
+    "n_genes": 144,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13851,
+    "enriched_ids": 839,
+    "unsupported": 0,
+    "allowed_not_enriched": 4,
+    "not_enriched": 4,
+    "valid_enriched": 6,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0007155 cell adhesion\nGO:0007160 cell migration\nGO:0007165 signal transduction\nGO:0007186 G-protein coupled receptor signaling pathway\nGO:0007189 transmembrane signaling pathway\nGO:0007265 signal transduction\nGO:0007501 transformation of cell shape\nGO:0008283 cell population proliferation\nGO:0009605 wound healing\nGO:0030198 extracellular matrix organization",
+    "llm_ids_list": [
+      "GO:0007155",
+      "GO:0007160",
+      "GO:0007165",
+      "GO:0007186",
+      "GO:0007189",
+      "GO:0007265",
+      "GO:0007501",
+      "GO:0008283",
+      "GO:0009605",
+      "GO:0030198"
+    ]
+  },
+  {
+    "disease": "UV_RESPONSE_UP",
+    "n_genes": 158,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13803,
+    "enriched_ids": 303,
+    "unsupported": 0,
+    "allowed_not_enriched": 7,
+    "not_enriched": 7,
+    "valid_enriched": 3,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0006915 apoptotic process\nGO:0006955 immune response\nGO:0007155 cellular defense response\nGO:0007186 response to stress\nGO:0007598 biological rhythm\nGO:0008283 regulation of cell population proliferation\nGO:0009411 response to ABA\nGO:0015980 transcription, DNA-templated\nGO:0030198 establishment of localization\nGO:0043066 response to chemical",
+    "llm_ids_list": [
+      "GO:0006915",
+      "GO:0006955",
+      "GO:0007155",
+      "GO:0007186",
+      "GO:0007598",
+      "GO:0008283",
+      "GO:0009411",
+      "GO:0015980",
+      "GO:0030198",
+      "GO:0043066"
+    ]
+  },
+  {
+    "disease": "WNT_BETA_CATENIN_SIGNALING",
+    "n_genes": 42,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 9,
+    "allowed_ids": 13808,
+    "enriched_ids": 693,
+    "unsupported": 0,
+    "allowed_not_enriched": 5,
+    "not_enriched": 5,
+    "valid_enriched": 4,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0008283 cell population proliferation\nGO:0007165 signal transduction\nGO:0007186 G protein-coupled receptor signaling pathway\nGO:0007189 transcription, DNA-templated\nGO:0007267 behavioral response to chemical\nGO:0007399 cell cycle\nGO:0007507 transcription from RNA polymerase II promoter\nGO:0008283 cell population proliferation\nGO:0009607 response to peptide\nGO:0030512 negative regulation of cell population proliferation",
+    "llm_ids_list": [
+      "GO:0007165",
+      "GO:0007186",
+      "GO:0007189",
+      "GO:0007267",
+      "GO:0007399",
+      "GO:0007507",
+      "GO:0008283",
+      "GO:0009607",
+      "GO:0030512"
+    ]
+  },
+  {
+    "disease": "XENOBIOTIC_METABOLISM",
+    "n_genes": 200,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13891,
+    "enriched_ids": 543,
+    "unsupported": 2,
+    "allowed_not_enriched": 5,
+    "not_enriched": 7,
+    "valid_enriched": 3,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0006716",
+        "name": "juvenile hormone metabolic process",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0006725",
+        "name": "obsolete cellular aromatic compound metabolic process",
+        "category": "OBSOLETE"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 1,
+      "OBSOLETE": 1
+    },
+    "llm_text": "GO:0006629 lipid metabolic process\nGO:0006633 fatty acid metabolic process\nGO:0043244 xenobiotic metabolic process\nGO:0006805 amino acid metabolic process\nGO:0006710 nitrogen compound metabolic process\nGO:0006796 protein folding\nGO:0006620 cholesterol metabolic process\nGO:0006716 lipid biosynthetic process\nGO:0006713 nitrogen compound biosynthetic process\nGO:0006725 fatty acid biosynthetic process",
+    "llm_ids_list": [
+      "GO:0006620",
+      "GO:0006629",
+      "GO:0006633",
+      "GO:0006710",
+      "GO:0006713",
+      "GO:0006716",
+      "GO:0006725",
+      "GO:0006796",
+      "GO:0006805",
+      "GO:0043244"
+    ]
+  }
+]

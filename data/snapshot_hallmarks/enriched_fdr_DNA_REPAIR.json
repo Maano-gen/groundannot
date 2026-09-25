@@ -1,0 +1,6568 @@
+{
+  "PANTHER": [
+    {
+      "id": "GO:0006139",
+      "label": "nucleobase-containing compound metabolic process",
+      "fdr": 3.7021610125324515e-67,
+      "p_value": 2.6903284736083506e-71,
+      "fold": 5.9793964197960685,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034654",
+      "label": "nucleobase-containing compound biosynthetic process",
+      "fdr": 1.6121256324655932e-55,
+      "p_value": 2.34303558239313e-59,
+      "fold": 7.390666066819785,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090304",
+      "label": "nucleic acid metabolic process",
+      "fdr": 9.195412888415712e-50,
+      "p_value": 2.0046681683923504e-53,
+      "fold": 6.080149943612307,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0141187",
+      "label": "nucleic acid biosynthetic process",
+      "fdr": 5.003956465398947e-39,
+      "p_value": 1.4545328000578293e-42,
+      "fold": 7.00291872151371,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044238",
+      "label": "primary metabolic process",
+      "fdr": 6.784997657622397e-37,
+      "p_value": 2.465299635790421e-40,
+      "fold": 2.6554148129180937,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009058",
+      "label": "biosynthetic process",
+      "fdr": 4.6339056924968503e-35,
+      "p_value": 2.0204515772822545e-38,
+      "fold": 3.626229267960789,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006351",
+      "label": "DNA-templated transcription",
+      "fdr": 6.142883243378895e-34,
+      "p_value": 3.124786185862384e-37,
+      "fold": 12.28066989245917,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008152",
+      "label": "metabolic process",
+      "fdr": 1.1822235118259043e-33,
+      "p_value": 6.8728930271108455e-37,
+      "fold": 2.425402137536435,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006366",
+      "label": "transcription by RNA polymerase II",
+      "fdr": 6.509857633825945e-32,
+      "p_value": 4.25759165063829e-35,
+      "fold": 14.484287574339302,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006352",
+      "label": "DNA-templated transcription initiation",
+      "fdr": 2.26714952872358e-31,
+      "p_value": 1.6475180064846888e-34,
+      "fold": 19.808067940552018,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006281",
+      "label": "DNA repair",
+      "fdr": 9.721108821204931e-28,
+      "p_value": 7.770670520547507e-31,
+      "fold": 11.861320880192707,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009059",
+      "label": "macromolecule biosynthetic process",
+      "fdr": 1.1815073087375394e-27,
+      "p_value": 1.0303094037388614e-30,
+      "fold": 3.949764295224729,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032774",
+      "label": "RNA biosynthetic process",
+      "fdr": 1.1935079234519172e-27,
+      "p_value": 1.1275054868741314e-30,
+      "fold": 6.091989220970112,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016070",
+      "label": "RNA metabolic process",
+      "fdr": 2.5453636969837192e-27,
+      "p_value": 2.5895713798250178e-30,
+      "fold": 5.579937861419409,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043170",
+      "label": "macromolecule metabolic process",
+      "fdr": 3.808496929309668e-27,
+      "p_value": 4.15140280064276e-30,
+      "fold": 2.7585422017200107,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006289",
+      "label": "nucleotide-excision repair",
+      "fdr": 4.543736321489475e-27,
+      "p_value": 5.2830303861515584e-30,
+      "fold": 45.87898089171974,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006259",
+      "label": "DNA metabolic process",
+      "fdr": 4.628774510862718e-26,
+      "p_value": 5.718273867063891e-29,
+      "fold": 8.608422853883448,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006354",
+      "label": "DNA-templated transcription elongation",
+      "fdr": 7.0101036207055375e-25,
+      "p_value": 9.169527299811036e-28,
+      "fold": 37.19917369598898,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006367",
+      "label": "transcription initiation at RNA polymerase II promoter",
+      "fdr": 2.1062315506861535e-23,
+      "p_value": 2.9081025698013895e-26,
+      "fold": 19.475159235668787,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006368",
+      "label": "transcription elongation by RNA polymerase II",
+      "fdr": 1.3615365318393135e-21,
+      "p_value": 1.978833706619161e-24,
+      "fold": 39.324840764331206,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006260",
+      "label": "DNA replication",
+      "fdr": 1.6877527912598401e-21,
+      "p_value": 2.5755983298057294e-24,
+      "fold": 16.464506600203084,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006974",
+      "label": "DNA damage response",
+      "fdr": 1.8336152386115854e-21,
+      "p_value": 2.931439230394221e-24,
+      "fold": 7.332053075659753,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009123",
+      "label": "nucleoside monophosphate metabolic process",
+      "fdr": 3.118004138860831e-19,
+      "p_value": 5.2114014383983075e-22,
+      "fold": 29.866967669112313,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010467",
+      "label": "gene expression",
+      "fdr": 1.9873202284168445e-18,
+      "p_value": 3.466004322505942e-21,
+      "fold": 3.633179305107591,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006261",
+      "label": "DNA-templated DNA replication",
+      "fdr": 6.378374251351654e-17,
+      "p_value": 1.158777387426723e-19,
+      "fold": 17.956548294215164,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009165",
+      "label": "nucleotide biosynthetic process",
+      "fdr": 1.3483825348706024e-16,
+      "p_value": 2.5476306886589393e-19,
+      "fold": 14.276344831935422,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009117",
+      "label": "nucleotide metabolic process",
+      "fdr": 2.3357011741448577e-15,
+      "p_value": 4.582801518923854e-18,
+      "fold": 8.826024111695284,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009394",
+      "label": "2'-deoxyribonucleotide metabolic process",
+      "fdr": 2.4464660020081197e-14,
+      "p_value": 4.977912074429718e-17,
+      "fold": 34.08152866242038,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006383",
+      "label": "transcription by RNA polymerase III",
+      "fdr": 5.406859719052854e-14,
+      "p_value": 1.178735495760378e-16,
+      "fold": 39.32484076433121,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033554",
+      "label": "cellular response to stress",
+      "fdr": 5.4899276337537983e-14,
+      "p_value": 1.156950086322652e-16,
+      "fold": 4.009181460902561,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901293",
+      "label": "nucleoside phosphate biosynthetic process",
+      "fdr": 1.7193492500979379e-13,
+      "p_value": 3.8732524346367326e-16,
+      "fold": 10.154301605813222,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009126",
+      "label": "purine nucleoside monophosphate metabolic process",
+      "fdr": 3.394703804607167e-13,
+      "p_value": 7.89408631258116e-16,
+      "fold": 34.1955137081141,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009987",
+      "label": "cellular process",
+      "fdr": 6.34896753562573e-13,
+      "p_value": 1.522534181205211e-15,
+      "fold": 1.3339081467002174,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055086",
+      "label": "nucleobase-containing small molecule metabolic process",
+      "fdr": 1.7695797055366006e-12,
+      "p_value": 4.372190246947491e-15,
+      "fold": 6.383162558847964,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071897",
+      "label": "DNA biosynthetic process",
+      "fdr": 2.301832634817646e-12,
+      "p_value": 5.854526721794754e-15,
+      "fold": 20.619766692907753,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006753",
+      "label": "nucleoside phosphate metabolic process",
+      "fdr": 3.4446492953554013e-12,
+      "p_value": 9.01150894795396e-15,
+      "fold": 6.505947920569502,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009167",
+      "label": "purine ribonucleoside monophosphate metabolic process",
+      "fdr": 4.640588075758912e-12,
+      "p_value": 1.2477418705259774e-14,
+      "fold": 34.3312101910828,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009411",
+      "label": "response to UV",
+      "fdr": 2.8274200586319707e-11,
+      "p_value": 7.807714717536144e-14,
+      "fold": 15.009481207760004,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009259",
+      "label": "ribonucleotide metabolic process",
+      "fdr": 4.0974320892847206e-11,
+      "p_value": 1.1612517366623364e-13,
+      "fold": 8.886969664255641,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019693",
+      "label": "ribose phosphate metabolic process",
+      "fdr": 6.201193106170868e-11,
+      "p_value": 1.8025414159351407e-13,
+      "fold": 8.680980301176868,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006384",
+      "label": "transcription initiation at RNA polymerase III promoter",
+      "fdr": 6.518059637156694e-11,
+      "p_value": 1.9420132630144935e-13,
+      "fold": 45.37481626653601,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072527",
+      "label": "pyrimidine-containing compound metabolic process",
+      "fdr": 8.617472877501632e-11,
+      "p_value": 2.6301421470464976e-13,
+      "fold": 21.84713375796178,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006220",
+      "label": "pyrimidine nucleotide metabolic process",
+      "fdr": 1.9133622553672156e-10,
+      "p_value": 5.978822540570472e-13,
+      "fold": 24.860531517680652,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009260",
+      "label": "ribonucleotide biosynthetic process",
+      "fdr": 3.271332667021424e-10,
+      "p_value": 1.0459896617174818e-12,
+      "fold": 12.604115629593334,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009124",
+      "label": "nucleoside monophosphate biosynthetic process",
+      "fdr": 3.8781275228919094e-10,
+      "p_value": 1.2681908184734825e-12,
+      "fold": 29.12951167728238,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046390",
+      "label": "ribose phosphate biosynthetic process",
+      "fdr": 5.443029744642752e-10,
+      "p_value": 1.819485271808492e-12,
+      "fold": 12.137296532200992,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006362",
+      "label": "transcription elongation by RNA polymerase I",
+      "fdr": 6.35490132283636e-10,
+      "p_value": 2.1704844282632723e-12,
+      "fold": 70.58304752572268,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006360",
+      "label": "transcription by RNA polymerase I",
+      "fdr": 6.566750502812922e-10,
+      "p_value": 2.290560454436598e-12,
+      "fold": 35.749855240301095,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006284",
+      "label": "base-excision repair",
+      "fdr": 8.938424712268482e-10,
+      "p_value": 3.1827833071808415e-12,
+      "fold": 26.751592356687894,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006164",
+      "label": "purine nucleotide biosynthetic process",
+      "fdr": 1.0117713617932994e-09,
+      "p_value": 3.676227606254267e-12,
+      "fold": 11.566129636568002,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042790",
+      "label": "nucleolar large rRNA transcription by RNA polymerase I",
+      "fdr": 2.1265599442403697e-09,
+      "p_value": 8.035834394339018e-12,
+      "fold": 61.17197452229299,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006363",
+      "label": "termination of RNA polymerase I transcription",
+      "fdr": 2.1682571980490044e-09,
+      "p_value": 8.035834394339018e-12,
+      "fold": 61.17197452229299,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901135",
+      "label": "carbohydrate derivative metabolic process",
+      "fdr": 3.3296506046214707e-09,
+      "p_value": 1.2824030378965043e-11,
+      "fold": 4.430537615250991,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009147",
+      "label": "pyrimidine nucleoside triphosphate metabolic process",
+      "fdr": 3.396617661930498e-09,
+      "p_value": 1.3328780883965328e-11,
+      "fold": 40.33317001469867,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000731",
+      "label": "DNA synthesis involved in DNA repair",
+      "fdr": 3.5515466536976627e-09,
+      "p_value": 1.4194830750190497e-11,
+      "fold": 57.34872611464968,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006361",
+      "label": "transcription initiation at RNA polymerase I promoter",
+      "fdr": 4.624442921835225e-09,
+      "p_value": 1.8819039577267103e-11,
+      "fold": 38.83934890304317,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901137",
+      "label": "carbohydrate derivative biosynthetic process",
+      "fdr": 5.4825229395367454e-09,
+      "p_value": 2.2709382134553774e-11,
+      "fold": 5.593514765489287,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006386",
+      "label": "termination of RNA polymerase III transcription",
+      "fdr": 5.688831566261075e-09,
+      "p_value": 2.3977344004297826e-11,
+      "fold": 53.975271637317356,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006353",
+      "label": "DNA-templated transcription termination",
+      "fdr": 7.32061449055016e-09,
+      "p_value": 3.138698168319595e-11,
+      "fold": 27.435935416975262,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009150",
+      "label": "purine ribonucleotide metabolic process",
+      "fdr": 8.381837365437775e-09,
+      "p_value": 3.654605347912699e-11,
+      "fold": 8.132874610628111,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046385",
+      "label": "deoxyribose phosphate biosynthetic process",
+      "fdr": 8.652892350812357e-09,
+      "p_value": 3.898548984451465e-11,
+      "fold": 50.97664543524416,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009265",
+      "label": "2'-deoxyribonucleotide biosynthetic process",
+      "fdr": 8.794743045087969e-09,
+      "p_value": 3.898548984451465e-11,
+      "fold": 50.97664543524416,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009303",
+      "label": "rRNA transcription",
+      "fdr": 1.0629270675160467e-08,
+      "p_value": 4.8662455674377546e-11,
+      "fold": 34.95541401273885,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009152",
+      "label": "purine ribonucleotide biosynthetic process",
+      "fdr": 1.2027495264225317e-08,
+      "p_value": 5.593777319311244e-11,
+      "fold": 12.171974522292995,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072528",
+      "label": "pyrimidine-containing compound biosynthetic process",
+      "fdr": 1.564499437606783e-08,
+      "p_value": 7.389903600351784e-11,
+      "fold": 25.100962189998643,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006283",
+      "label": "transcription-coupled nucleotide-excision repair",
+      "fdr": 1.6714866448484224e-08,
+      "p_value": 8.016722517258621e-11,
+      "fold": 71.4997104806022,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090407",
+      "label": "organophosphate biosynthetic process",
+      "fdr": 1.870433223128918e-08,
+      "p_value": 9.106825517741261e-11,
+      "fold": 5.492993630573249,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051052",
+      "label": "regulation of DNA metabolic process",
+      "fdr": 2.240604245251424e-08,
+      "p_value": 1.1071948890131301e-10,
+      "fold": 5.7468452056433925,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0160239",
+      "label": "transcription pausing by RNA polymerase II",
+      "fdr": 2.8828531339741787e-08,
+      "p_value": 1.4455117087727516e-10,
+      "fold": 109.23566878980891,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009218",
+      "label": "pyrimidine ribonucleotide metabolic process",
+      "fdr": 2.891931228153381e-08,
+      "p_value": 1.4710790347412008e-10,
+      "fold": 30.843012364181345,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006163",
+      "label": "purine nucleotide metabolic process",
+      "fdr": 3.4484804728755726e-08,
+      "p_value": 1.7792465196872731e-10,
+      "fold": 6.799684282016924,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006950",
+      "label": "response to stress",
+      "fdr": 3.7968448179436065e-08,
+      "p_value": 1.9865767523576754e-10,
+      "fold": 2.3754708863681673,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009200",
+      "label": "deoxyribonucleoside triphosphate metabolic process",
+      "fdr": 5.3948845894954514e-08,
+      "p_value": 2.940312071885465e-10,
+      "fold": 60.499755022048014,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019637",
+      "label": "organophosphate metabolic process",
+      "fdr": 5.4249918069900686e-08,
+      "p_value": 2.9172981158147303e-10,
+      "fold": 4.015665723564091,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072522",
+      "label": "purine-containing compound biosynthetic process",
+      "fdr": 5.496444271523042e-08,
+      "p_value": 2.915779607740586e-10,
+      "fold": 8.511870295309786,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006221",
+      "label": "pyrimidine nucleotide biosynthetic process",
+      "fdr": 5.55544020037362e-08,
+      "p_value": 3.0681887597441694e-10,
+      "fold": 28.342227577896367,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008150",
+      "label": "biological_process",
+      "fdr": 5.8121242831350224e-08,
+      "p_value": 3.252187848276991e-10,
+      "fold": 1.170047330631815,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009133",
+      "label": "nucleoside diphosphate biosynthetic process",
+      "fdr": 8.906670496802805e-08,
+      "p_value": 5.113196491878654e-10,
+      "fold": 56.17834394904459,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006793",
+      "label": "phosphorus metabolic process",
+      "fdr": 1.1990621213515855e-07,
+      "p_value": 6.970784805473937e-10,
+      "fold": 3.8634931277237685,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006271",
+      "label": "DNA strand elongation involved in DNA replication",
+      "fdr": 1.438690791267921e-07,
+      "p_value": 8.468421923748389e-10,
+      "fold": 52.43312101910828,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0065004",
+      "label": "protein-DNA complex assembly",
+      "fdr": 1.5284173539730695e-07,
+      "p_value": 9.107639199606983e-10,
+      "fold": 9.737579617834394,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009416",
+      "label": "response to light stimulus",
+      "fdr": 1.531115227351267e-07,
+      "p_value": 9.234980297228047e-10,
+      "fold": 7.83363361839267,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009314",
+      "label": "response to radiation",
+      "fdr": 2.622678709295795e-07,
+      "p_value": 1.6009375160296983e-09,
+      "fold": 6.366878980891719,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046037",
+      "label": "GMP metabolic process",
+      "fdr": 2.885195479783273e-07,
+      "p_value": 1.7821496677681725e-09,
+      "fold": 31.640676477048103,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009116",
+      "label": "nucleoside metabolic process",
+      "fdr": 4.469763466532159e-07,
+      "p_value": 2.7933991579228666e-09,
+      "fold": 21.84713375796178,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009219",
+      "label": "pyrimidine deoxyribonucleotide metabolic process",
+      "fdr": 4.688859631916548e-07,
+      "p_value": 2.9643978488245014e-09,
+      "fold": 29.599342510786933,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009299",
+      "label": "mRNA transcription",
+      "fdr": 5.186947999793113e-07,
+      "p_value": 3.3169931253672987e-09,
+      "fold": 21.401273885350314,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071824",
+      "label": "protein-DNA complex organization",
+      "fdr": 5.631760379105677e-07,
+      "p_value": 3.6423710031277176e-09,
+      "fold": 8.694267515923565,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009141",
+      "label": "nucleoside triphosphate metabolic process",
+      "fdr": 5.923831766026085e-07,
+      "p_value": 3.87431770178292e-09,
+      "fold": 8.650134178279284,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009158",
+      "label": "ribonucleoside monophosphate catabolic process",
+      "fdr": 6.769184379785715e-07,
+      "p_value": 4.476388188071362e-09,
+      "fold": 41.394569225611804,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046386",
+      "label": "deoxyribose phosphate catabolic process",
+      "fdr": 8.898941104094125e-07,
+      "p_value": 5.949441040452435e-09,
+      "fold": 26.987635818658678,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0022616",
+      "label": "DNA strand elongation",
+      "fdr": 9.302814310331665e-07,
+      "p_value": 6.354658419963495e-09,
+      "fold": 39.32484076433121,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009148",
+      "label": "pyrimidine nucleoside triphosphate biosynthetic process",
+      "fdr": 9.402844571733081e-07,
+      "p_value": 6.354658419963495e-09,
+      "fold": 39.32484076433121,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009142",
+      "label": "nucleoside triphosphate biosynthetic process",
+      "fdr": 1.123852724450598e-06,
+      "p_value": 7.758593766645361e-09,
+      "fold": 12.48407643312102,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070897",
+      "label": "transcription preinitiation complex assembly",
+      "fdr": 1.159379134965222e-06,
+      "p_value": 8.088103841047984e-09,
+      "fold": 15.124938755512002,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034644",
+      "label": "cellular response to UV",
+      "fdr": 1.440299223222536e-06,
+      "p_value": 1.0152534310921152e-08,
+      "fold": 14.746815286624205,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009125",
+      "label": "nucleoside monophosphate catabolic process",
+      "fdr": 1.6961827469354361e-06,
+      "p_value": 1.207949343795311e-08,
+      "fold": 35.7498552403011,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032785",
+      "label": "negative regulation of DNA-templated transcription, elongation",
+      "fdr": 2.257385367041909e-06,
+      "p_value": 1.624018249670438e-08,
+      "fold": 34.1955137081141,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009188",
+      "label": "ribonucleoside diphosphate biosynthetic process",
+      "fdr": 2.5051877030288293e-06,
+      "p_value": 1.8387032774210578e-08,
+      "fold": 54.617834394904456,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070914",
+      "label": "UV-damage excision repair",
+      "fdr": 2.5302395800591173e-06,
+      "p_value": 1.8387032774210578e-08,
+      "fold": 54.617834394904456,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034655",
+      "label": "nucleobase-containing compound catabolic process",
+      "fdr": 3.074712254611438e-06,
+      "p_value": 2.2790542109611706e-08,
+      "fold": 5.714781582464118,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046033",
+      "label": "AMP metabolic process",
+      "fdr": 3.7588597225461752e-06,
+      "p_value": 2.8134768652151444e-08,
+      "fold": 31.45987261146497,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006287",
+      "label": "base-excision repair, gap-filling",
+      "fdr": 3.929183457690777e-06,
+      "p_value": 2.9695158752986035e-08,
+      "fold": 50.41646251837334,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072521",
+      "label": "purine-containing compound metabolic process",
+      "fdr": 3.959225079357424e-06,
+      "p_value": 3.0209914492589896e-08,
+      "fold": 4.905385542328217,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0065003",
+      "label": "protein-containing complex assembly",
+      "fdr": 4.255613277934423e-06,
+      "p_value": 3.278068508546246e-08,
+      "fold": 3.067460278028956,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043094",
+      "label": "metabolic compound salvage",
+      "fdr": 4.327164321338732e-06,
+      "p_value": 3.364628896034041e-08,
+      "fold": 21.33906087986965,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034243",
+      "label": "regulation of transcription elongation by RNA polymerase II",
+      "fdr": 4.4833802691709935e-06,
+      "p_value": 3.518676470245384e-08,
+      "fold": 12.823317640542786,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046039",
+      "label": "GTP metabolic process",
+      "fdr": 4.588536905521432e-06,
+      "p_value": 3.6345507063573586e-08,
+      "fold": 30.249877511024007,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042789",
+      "label": "mRNA transcription by RNA polymerase II",
+      "fdr": 4.973613258673704e-06,
+      "p_value": 3.975710038907837e-08,
+      "fold": 20.854082223508975,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009170",
+      "label": "purine deoxyribonucleoside monophosphate metabolic process",
+      "fdr": 5.691401166525086e-06,
+      "p_value": 4.590840269488297e-08,
+      "fold": 46.81528662420382,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009129",
+      "label": "pyrimidine nucleoside monophosphate metabolic process",
+      "fdr": 5.705470451954816e-06,
+      "p_value": 4.643650102601114e-08,
+      "fold": 29.129511677282377,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000723",
+      "label": "telomere maintenance",
+      "fdr": 6.231311248213856e-06,
+      "p_value": 5.11691135126928e-08,
+      "fold": 12.289012738853502,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901292",
+      "label": "nucleoside phosphate catabolic process",
+      "fdr": 6.340492553228414e-06,
+      "p_value": 5.25264262094353e-08,
+      "fold": 10.240843949044585,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043173",
+      "label": "nucleotide salvage",
+      "fdr": 7.027672848245044e-06,
+      "p_value": 5.872991625232033e-08,
+      "fold": 28.089171974522294,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032200",
+      "label": "telomere organization",
+      "fdr": 8.603765702466935e-06,
+      "p_value": 7.315170316028134e-08,
+      "fold": 11.797452229299363,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071482",
+      "label": "cellular response to light stimulus",
+      "fdr": 8.677936096453721e-06,
+      "p_value": 7.315170316028134e-08,
+      "fold": 11.797452229299363,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006302",
+      "label": "double-strand break repair",
+      "fdr": 9.037477964260083e-06,
+      "p_value": 7.749599591473656e-08,
+      "fold": 7.490445859872612,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009132",
+      "label": "nucleoside diphosphate metabolic process",
+      "fdr": 1.0911143733705291e-05,
+      "p_value": 9.43555050004309e-08,
+      "fold": 14.171113788948183,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032784",
+      "label": "regulation of DNA-templated transcription elongation",
+      "fdr": 1.1806046780789681e-05,
+      "p_value": 1.0295222830424836e-07,
+      "fold": 11.343704066634002,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043933",
+      "label": "protein-containing complex organization",
+      "fdr": 1.2302304284090561e-05,
+      "p_value": 1.0817373870902971e-07,
+      "fold": 2.837686368003416,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009112",
+      "label": "nucleobase metabolic process",
+      "fdr": 1.2499272019040194e-05,
+      "p_value": 1.1263060318007296e-07,
+      "fold": 25.370865009245943,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009136",
+      "label": "purine nucleoside diphosphate biosynthetic process",
+      "fdr": 1.2538996777294648e-05,
+      "p_value": 1.1207736382582965e-07,
+      "fold": 74.90445859872611,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009180",
+      "label": "purine ribonucleoside diphosphate biosynthetic process",
+      "fdr": 1.2641775439403622e-05,
+      "p_value": 1.1207736382582965e-07,
+      "fold": 74.90445859872611,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0022607",
+      "label": "cellular component assembly",
+      "fdr": 1.337215398415593e-05,
+      "p_value": 1.2146786193005532e-07,
+      "fold": 2.267155389977166,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009166",
+      "label": "nucleotide catabolic process",
+      "fdr": 1.439070411008031e-05,
+      "p_value": 1.3176576686796884e-07,
+      "fold": 11.025656289064825,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006298",
+      "label": "mismatch repair",
+      "fdr": 1.492604977145159e-05,
+      "p_value": 1.3775222156633616e-07,
+      "fold": 24.578025477707005,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016071",
+      "label": "mRNA metabolic process",
+      "fdr": 1.694670396209525e-05,
+      "p_value": 1.5763230195103496e-07,
+      "fold": 4.393836956908515,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009159",
+      "label": "deoxyribonucleoside monophosphate catabolic process",
+      "fdr": 2.0290929083759312e-05,
+      "p_value": 1.916881608087138e-07,
+      "fold": 36.41188959660297,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009176",
+      "label": "pyrimidine deoxyribonucleoside monophosphate metabolic process",
+      "fdr": 2.044822310766442e-05,
+      "p_value": 1.916881608087138e-07,
+      "fold": 36.41188959660297,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009211",
+      "label": "pyrimidine deoxyribonucleoside triphosphate metabolic process",
+      "fdr": 2.3054552445173486e-05,
+      "p_value": 2.2282214048456318e-07,
+      "fold": 65.54140127388534,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1900264",
+      "label": "positive regulation of DNA-directed DNA polymerase activity",
+      "fdr": 2.322920814551571e-05,
+      "p_value": 2.2282214048456318e-07,
+      "fold": 65.54140127388534,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046053",
+      "label": "dAMP metabolic process",
+      "fdr": 2.34065303450998e-05,
+      "p_value": 2.2282214048456318e-07,
+      "fold": 65.54140127388534,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071478",
+      "label": "cellular response to radiation",
+      "fdr": 2.4101783460833713e-05,
+      "p_value": 2.3469507911864819e-07,
+      "fold": 8.738853503184714,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009156",
+      "label": "ribonucleoside monophosphate biosynthetic process",
+      "fdr": 2.4680514685371902e-05,
+      "p_value": 2.4212408128226196e-07,
+      "fold": 22.47133757961784,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000724",
+      "label": "double-strand break repair via homologous recombination",
+      "fdr": 2.4828195917266765e-05,
+      "p_value": 2.453771270073599e-07,
+      "fold": 10.258654112434227,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009151",
+      "label": "purine deoxyribonucleotide metabolic process",
+      "fdr": 2.578188248002082e-05,
+      "p_value": 2.5854950819292733e-07,
+      "fold": 34.4954743546765,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009208",
+      "label": "pyrimidine ribonucleoside triphosphate metabolic process",
+      "fdr": 2.597007140323265e-05,
+      "p_value": 2.5854950819292733e-07,
+      "fold": 34.4954743546765,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051276",
+      "label": "chromosome organization",
+      "fdr": 3.094311861802763e-05,
+      "p_value": 3.125567537174508e-07,
+      "fold": 5.054606782047713,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032261",
+      "label": "purine nucleotide salvage",
+      "fdr": 3.343771317678015e-05,
+      "p_value": 3.4261445810086484e-07,
+      "fold": 32.77070063694268,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046112",
+      "label": "nucleobase biosynthetic process",
+      "fdr": 3.367655398518572e-05,
+      "p_value": 3.4261445810086484e-07,
+      "fold": 32.77070063694268,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000725",
+      "label": "recombinational repair",
+      "fdr": 3.4232090086034336e-05,
+      "p_value": 3.5324153711335484e-07,
+      "fold": 9.831210191082802,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060261",
+      "label": "positive regulation of transcription initiation by RNA polymerase II",
+      "fdr": 3.907798493166553e-05,
+      "p_value": 4.0608617434984165e-07,
+      "fold": 15.042288816957294,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009127",
+      "label": "purine nucleoside monophosphate biosynthetic process",
+      "fdr": 4.270867597982317e-05,
+      "p_value": 4.4691878069141315e-07,
+      "fold": 31.210191082802545,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051123",
+      "label": "RNA polymerase II preinitiation complex assembly",
+      "fdr": 5.383650871491169e-05,
+      "p_value": 5.672766342316834e-07,
+      "fold": 14.33718152866242,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033260",
+      "label": "nuclear DNA replication",
+      "fdr": 5.417806445042946e-05,
+      "p_value": 5.748126887408402e-07,
+      "fold": 29.79154603358425,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044281",
+      "label": "small molecule metabolic process",
+      "fdr": 5.67596601858312e-05,
+      "p_value": 6.063273052334268e-07,
+      "fold": 2.742713761822042,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006183",
+      "label": "GTP biosynthetic process",
+      "fdr": 6.141725358678251e-05,
+      "p_value": 6.6054454842263e-07,
+      "fold": 52.433121019108285,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043101",
+      "label": "purine-containing compound salvage",
+      "fdr": 6.696760542880094e-05,
+      "p_value": 7.299717182123494e-07,
+      "fold": 28.496261423428415,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044786",
+      "label": "cell cycle DNA replication",
+      "fdr": 6.741705244510161e-05,
+      "p_value": 7.299717182123494e-07,
+      "fold": 28.496261423428415,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019219",
+      "label": "regulation of nucleobase-containing compound metabolic process",
+      "fdr": 7.148600501396185e-05,
+      "p_value": 7.896136009099776e-07,
+      "fold": 1.893265267890596,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006310",
+      "label": "DNA recombination",
+      "fdr": 7.191702260782403e-05,
+      "p_value": 7.891483477786083e-07,
+      "fold": 6.737901065539615,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0080090",
+      "label": "regulation of primary metabolic process",
+      "fdr": 7.424630448940761e-05,
+      "p_value": 8.254984802615627e-07,
+      "fold": 1.7344556872800454,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009220",
+      "label": "pyrimidine ribonucleotide biosynthetic process",
+      "fdr": 8.188751310257471e-05,
+      "p_value": 9.164070211319312e-07,
+      "fold": 27.308917197452228,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046051",
+      "label": "UTP metabolic process",
+      "fdr": 9.160667783443899e-05,
+      "p_value": 1.031831630283994e-06,
+      "fold": 47.6664736537348,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000144",
+      "label": "positive regulation of DNA-templated transcription initiation",
+      "fdr": 9.293947513968118e-05,
+      "p_value": 1.053597712505651e-06,
+      "fold": 13.108280254777071,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019985",
+      "label": "translesion synthesis",
+      "fdr": 9.97869785631834e-05,
+      "p_value": 1.1384750842540362e-06,
+      "fold": 26.21656050955414,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009119",
+      "label": "ribonucleoside metabolic process",
+      "fdr": 0.00012048502794814842,
+      "p_value": 1.4008868884313455e-06,
+      "fold": 25.20823125918667,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044085",
+      "label": "cellular component biogenesis",
+      "fdr": 0.00012114153666572595,
+      "p_value": 1.3909136540356587e-06,
+      "fold": 2.088212640152756,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090592",
+      "label": "DNA synthesis involved in DNA replication",
+      "fdr": 0.00012124279541952041,
+      "p_value": 1.4008868884313455e-06,
+      "fold": 25.20823125918667,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009157",
+      "label": "deoxyribonucleoside monophosphate biosynthetic process",
+      "fdr": 0.00012831539768973975,
+      "p_value": 1.5385539291335704e-06,
+      "fold": 43.69426751592356,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009169",
+      "label": "purine ribonucleoside monophosphate catabolic process",
+      "fdr": 0.00012909780865126257,
+      "p_value": 1.5385539291335704e-06,
+      "fold": 43.69426751592356,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0080135",
+      "label": "regulation of cellular response to stress",
+      "fdr": 0.00012925455719136472,
+      "p_value": 1.5122435657154075e-06,
+      "fold": 4.1862771272741135,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009221",
+      "label": "pyrimidine deoxyribonucleotide biosynthetic process",
+      "fdr": 0.0001298898197472826,
+      "p_value": 1.5385539291335704e-06,
+      "fold": 43.69426751592356,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046434",
+      "label": "organophosphate catabolic process",
+      "fdr": 0.00013059485784171714,
+      "p_value": 1.5374149386206073e-06,
+      "fold": 7.124065355857104,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006282",
+      "label": "regulation of DNA repair",
+      "fdr": 0.000141813966849584,
+      "p_value": 1.7416292709526703e-06,
+      "fold": 6.215132879420163,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043096",
+      "label": "purine nucleobase salvage",
+      "fdr": 0.00014191858203444637,
+      "p_value": 1.7326009579090903e-06,
+      "fold": 98.31210191082802,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006235",
+      "label": "dTTP biosynthetic process",
+      "fdr": 0.00014276839390291613,
+      "p_value": 1.7326009579090903e-06,
+      "fold": 98.31210191082802,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046075",
+      "label": "dTTP metabolic process",
+      "fdr": 0.00014362844446859634,
+      "p_value": 1.7326009579090903e-06,
+      "fold": 98.31210191082802,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009128",
+      "label": "purine nucleoside monophosphate catabolic process",
+      "fdr": 0.00017777906934137252,
+      "p_value": 2.209157827002013e-06,
+      "fold": 40.33317001469867,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046073",
+      "label": "dTMP metabolic process",
+      "fdr": 0.00017882482857279236,
+      "p_value": 2.209157827002013e-06,
+      "fold": 40.33317001469867,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060260",
+      "label": "regulation of transcription initiation by RNA polymerase II",
+      "fdr": 0.00019246886013556225,
+      "p_value": 2.4056859198689562e-06,
+      "fold": 11.614931871321454,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060255",
+      "label": "regulation of macromolecule metabolic process",
+      "fdr": 0.0002352392129770659,
+      "p_value": 2.957371110023429e-06,
+      "fold": 1.6468888156948613,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902969",
+      "label": "mitotic DNA replication",
+      "fdr": 0.00024314718957060055,
+      "p_value": 3.074457596488954e-06,
+      "fold": 37.452229299363054,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009261",
+      "label": "ribonucleotide catabolic process",
+      "fdr": 0.00024340197854229152,
+      "p_value": 3.0953670696098403e-06,
+      "fold": 11.189995339443842,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043328",
+      "label": "protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway",
+      "fdr": 0.00032218947825318663,
+      "p_value": 4.167555201589073e-06,
+      "fold": 34.95541401273885,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006301",
+      "label": "DNA damage tolerance",
+      "fdr": 0.00032315815693840236,
+      "p_value": 4.133117914479966e-06,
+      "fold": 20.48168789808917,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006177",
+      "label": "GMP biosynthetic process",
+      "fdr": 0.00032400975779134025,
+      "p_value": 4.167555201589073e-06,
+      "fold": 34.95541401273885,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009202",
+      "label": "deoxyribonucleoside triphosphate biosynthetic process",
+      "fdr": 0.0003274660012870835,
+      "p_value": 4.307197604313794e-06,
+      "fold": 78.64968152866243,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009212",
+      "label": "pyrimidine deoxyribonucleoside triphosphate biosynthetic process",
+      "fdr": 0.00032928525684978955,
+      "p_value": 4.307197604313794e-06,
+      "fold": 78.64968152866243,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046059",
+      "label": "dAMP catabolic process",
+      "fdr": 0.00033112483929029115,
+      "p_value": 4.307197604313794e-06,
+      "fold": 78.64968152866243,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000142",
+      "label": "regulation of DNA-templated transcription initiation",
+      "fdr": 0.00037615952999357283,
+      "p_value": 4.975004320821907e-06,
+      "fold": 10.427041111754487,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901987",
+      "label": "regulation of cell cycle phase transition",
+      "fdr": 0.0003930061657254654,
+      "p_value": 5.226373688522649e-06,
+      "fold": 4.297796804844941,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009209",
+      "label": "pyrimidine ribonucleoside triphosphate biosynthetic process",
+      "fdr": 0.00041087829144613984,
+      "p_value": 5.523761639236674e-06,
+      "fold": 32.77070063694267,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006241",
+      "label": "CTP biosynthetic process",
+      "fdr": 0.0004131113256387819,
+      "p_value": 5.523761639236674e-06,
+      "fold": 32.77070063694267,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034244",
+      "label": "negative regulation of transcription elongation by RNA polymerase II",
+      "fdr": 0.0005200585947907938,
+      "p_value": 7.180519803084864e-06,
+      "fold": 30.843012364181345,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034404",
+      "label": "nucleobase-containing small molecule biosynthetic process",
+      "fdr": 0.0005228102275674647,
+      "p_value": 7.180519803084864e-06,
+      "fold": 30.843012364181345,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009163",
+      "label": "nucleoside biosynthetic process",
+      "fdr": 0.0005255911330332491,
+      "p_value": 7.180519803084864e-06,
+      "fold": 30.843012364181345,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046049",
+      "label": "UMP metabolic process",
+      "fdr": 0.0005284017808034803,
+      "p_value": 7.180519803084864e-06,
+      "fold": 30.843012364181345,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010564",
+      "label": "regulation of cell cycle process",
+      "fdr": 0.0005295584263568115,
+      "p_value": 7.1577550543105105e-06,
+      "fold": 3.3610975012248905,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019222",
+      "label": "regulation of metabolic process",
+      "fdr": 0.0005858328666103019,
+      "p_value": 8.131246095673835e-06,
+      "fold": 1.5795751938810865,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044209",
+      "label": "AMP salvage",
+      "fdr": 0.0006045013044245758,
+      "p_value": 8.566074730237068e-06,
+      "fold": 65.54140127388534,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032263",
+      "label": "GMP salvage",
+      "fdr": 0.0006076172905298572,
+      "p_value": 8.566074730237068e-06,
+      "fold": 65.54140127388534,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006172",
+      "label": "ADP biosynthetic process",
+      "fdr": 0.0006107655666465923,
+      "p_value": 8.566074730237068e-06,
+      "fold": 65.54140127388534,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006269",
+      "label": "DNA replication, synthesis of primer",
+      "fdr": 0.0006139466373062098,
+      "p_value": 8.566074730237068e-06,
+      "fold": 65.54140127388534,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009144",
+      "label": "purine nucleoside triphosphate metabolic process",
+      "fdr": 0.0006267477633545272,
+      "p_value": 8.926862990879103e-06,
+      "fold": 6.665227248191731,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009173",
+      "label": "pyrimidine ribonucleoside monophosphate metabolic process",
+      "fdr": 0.000634619207129956,
+      "p_value": 9.177328843751272e-06,
+      "fold": 29.129511677282377,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046036",
+      "label": "CTP metabolic process",
+      "fdr": 0.0006378243546407133,
+      "p_value": 9.177328843751272e-06,
+      "fold": 29.129511677282377,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046040",
+      "label": "IMP metabolic process",
+      "fdr": 0.0006410620417201078,
+      "p_value": 9.177328843751272e-06,
+      "fold": 29.129511677282377,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009168",
+      "label": "purine ribonucleoside monophosphate biosynthetic process",
+      "fdr": 0.0007950878743702082,
+      "p_value": 1.1555670000293703e-05,
+      "fold": 27.596379483741202,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009130",
+      "label": "pyrimidine nucleoside monophosphate biosynthetic process",
+      "fdr": 0.0009830511900833232,
+      "p_value": 1.4358933886109146e-05,
+      "fold": 26.216560509554142,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009185",
+      "label": "ribonucleoside diphosphate metabolic process",
+      "fdr": 0.0010693518158775455,
+      "p_value": 1.5697192559208212e-05,
+      "fold": 11.23566878980892,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009223",
+      "label": "pyrimidine deoxyribonucleotide catabolic process",
+      "fdr": 0.0011894056735200023,
+      "p_value": 1.7632349204133454e-05,
+      "fold": 24.968152866242036,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006312",
+      "label": "mitotic recombination",
+      "fdr": 0.0011952648147688693,
+      "p_value": 1.7632349204133454e-05,
+      "fold": 24.968152866242036,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0039702",
+      "label": "viral budding via host ESCRT complex",
+      "fdr": 0.001438052214999673,
+      "p_value": 2.1422912875149553e-05,
+      "fold": 23.8332368268674,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042455",
+      "label": "ribonucleoside biosynthetic process",
+      "fdr": 0.0015467639952379982,
+      "p_value": 2.3716823122971992e-05,
+      "fold": 49.15605095541401,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0015949",
+      "label": "nucleobase-containing small molecule interconversion",
+      "fdr": 0.0015541295380724649,
+      "p_value": 2.3716823122971992e-05,
+      "fold": 49.15605095541401,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032201",
+      "label": "telomere maintenance via semi-conservative replication",
+      "fdr": 0.001561565564570419,
+      "p_value": 2.3716823122971992e-05,
+      "fold": 49.15605095541401,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006249",
+      "label": "dCMP catabolic process",
+      "fdr": 0.0015690730913231615,
+      "p_value": 2.3716823122971992e-05,
+      "fold": 49.15605095541401,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046063",
+      "label": "dCMP metabolic process",
+      "fdr": 0.0015766531545662685,
+      "p_value": 2.3716823122971992e-05,
+      "fold": 49.15605095541401,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901136",
+      "label": "carbohydrate derivative catabolic process",
+      "fdr": 0.0015809435823717246,
+      "p_value": 2.366647612590475e-05,
+      "fold": 5.898726114649682,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901659",
+      "label": "glycosyl compound biosynthetic process",
+      "fdr": 0.0016654894069932846,
+      "p_value": 2.5779321538374365e-05,
+      "fold": 22.797009138742734,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046128",
+      "label": "purine ribonucleoside metabolic process",
+      "fdr": 0.0016733454891017434,
+      "p_value": 2.5779321538374365e-05,
+      "fold": 22.797009138742734,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006244",
+      "label": "pyrimidine nucleotide catabolic process",
+      "fdr": 0.001977462415974137,
+      "p_value": 3.0751904441426156e-05,
+      "fold": 21.84713375796178,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009628",
+      "label": "response to abiotic stimulus",
+      "fdr": 0.002125976009855414,
+      "p_value": 3.3215961203322e-05,
+      "fold": 2.786031935127964,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009120",
+      "label": "2'-deoxyribonucleoside metabolic process",
+      "fdr": 0.002202749216924802,
+      "p_value": 3.537588670448232e-05,
+      "fold": 43.69426751592356,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009172",
+      "label": "purine deoxyribonucleoside monophosphate catabolic process",
+      "fdr": 0.002212761713365369,
+      "p_value": 3.537588670448232e-05,
+      "fold": 43.69426751592356,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009175",
+      "label": "pyrimidine ribonucleoside monophosphate catabolic process",
+      "fdr": 0.0022228656481295943,
+      "p_value": 3.537588670448232e-05,
+      "fold": 43.69426751592356,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006228",
+      "label": "UTP biosynthetic process",
+      "fdr": 0.002233062279543033,
+      "p_value": 3.537588670448232e-05,
+      "fold": 43.69426751592356,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0106380",
+      "label": "purine ribonucleotide salvage",
+      "fdr": 0.0022433528891261808,
+      "p_value": 3.537588670448232e-05,
+      "fold": 43.69426751592356,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072529",
+      "label": "pyrimidine-containing compound catabolic process",
+      "fdr": 0.002245730878262698,
+      "p_value": 3.639255765224778e-05,
+      "fold": 20.97324840764331,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006303",
+      "label": "double-strand break repair via nonhomologous end joining",
+      "fdr": 0.002246061683870213,
+      "p_value": 3.525538287304455e-05,
+      "fold": 13.375796178343947,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046755",
+      "label": "viral budding",
+      "fdr": 0.002255846783119737,
+      "p_value": 3.639255765224778e-05,
+      "fold": 20.97324840764331,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000076",
+      "label": "DNA replication checkpoint signaling",
+      "fdr": 0.0026265497594437958,
+      "p_value": 4.2754679610159894e-05,
+      "fold": 20.166585007349337,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009113",
+      "label": "purine nucleobase biosynthetic process",
+      "fdr": 0.0030067121174792957,
+      "p_value": 5.025389048908059e-05,
+      "fold": 39.32484076433121,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009131",
+      "label": "pyrimidine nucleoside monophosphate catabolic process",
+      "fdr": 0.0030198418647171964,
+      "p_value": 5.025389048908059e-05,
+      "fold": 39.32484076433121,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009178",
+      "label": "pyrimidine deoxyribonucleoside monophosphate catabolic process",
+      "fdr": 0.0030330867851764824,
+      "p_value": 5.025389048908059e-05,
+      "fold": 39.32484076433121,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006612",
+      "label": "protein targeting to membrane",
+      "fdr": 0.0030331637963636753,
+      "p_value": 5.091641864399455e-05,
+      "fold": 9.145311805658421,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042796",
+      "label": "snRNA transcription by RNA polymerase III",
+      "fdr": 0.0030464484009702112,
+      "p_value": 5.025389048908059e-05,
+      "fold": 39.32484076433121,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032511",
+      "label": "late endosome to vacuole transport via multivesicular body sorting pathway",
+      "fdr": 0.003051462483598846,
+      "p_value": 4.9893107972512196e-05,
+      "fold": 19.419674451521583,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070922",
+      "label": "RISC complex assembly",
+      "fdr": 0.0030599282611514958,
+      "p_value": 5.025389048908059e-05,
+      "fold": 39.32484076433121,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042278",
+      "label": "purine nucleoside metabolic process",
+      "fdr": 0.003359777632156658,
+      "p_value": 5.7864057758965776e-05,
+      "fold": 18.726114649681527,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008617",
+      "label": "guanosine metabolic process",
+      "fdr": 0.0033720391252396722,
+      "p_value": 5.7830189198209624e-05,
+      "fold": 131.08280254777068,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043103",
+      "label": "hypoxanthine salvage",
+      "fdr": 0.0033863882279002665,
+      "p_value": 5.7830189198209624e-05,
+      "fold": 131.08280254777068,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000395",
+      "label": "regulation of ubiquitin-dependent endocytosis",
+      "fdr": 0.0034008599724639427,
+      "p_value": 5.7830189198209624e-05,
+      "fold": 131.08280254777068,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000397",
+      "label": "positive regulation of ubiquitin-dependent endocytosis",
+      "fdr": 0.0034154559380109983,
+      "p_value": 5.7830189198209624e-05,
+      "fold": 131.08280254777068,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046092",
+      "label": "deoxycytidine metabolic process",
+      "fdr": 0.003430177730847253,
+      "p_value": 5.7830189198209624e-05,
+      "fold": 131.08280254777068,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042797",
+      "label": "tRNA transcription by RNA polymerase III",
+      "fdr": 0.003956268070933663,
+      "p_value": 6.871216255745552e-05,
+      "fold": 35.7498552403011,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046078",
+      "label": "dUMP metabolic process",
+      "fdr": 0.00397289104602162,
+      "p_value": 6.871216255745552e-05,
+      "fold": 35.7498552403011,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051726",
+      "label": "regulation of cell cycle",
+      "fdr": 0.004610516621445796,
+      "p_value": 8.041014382290466e-05,
+      "fold": 2.6138146071340116,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009222",
+      "label": "pyrimidine ribonucleotide catabolic process",
+      "fdr": 0.005159149842756817,
+      "p_value": 9.110336543782475e-05,
+      "fold": 32.77070063694267,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009304",
+      "label": "tRNA transcription",
+      "fdr": 0.005180468643759944,
+      "p_value": 9.110336543782475e-05,
+      "fold": 32.77070063694267,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042795",
+      "label": "snRNA transcription by RNA polymerase II",
+      "fdr": 0.005201964364273471,
+      "p_value": 9.110336543782475e-05,
+      "fold": 32.77070063694267,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0036258",
+      "label": "multivesicular body assembly",
+      "fdr": 0.0055970171702040845,
+      "p_value": 9.924222000797882e-05,
+      "fold": 16.385350318471335,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006979",
+      "label": "response to oxidative stress",
+      "fdr": 0.005964374444431138,
+      "p_value": 0.00010618935679715346,
+      "fold": 3.994212820015173,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0104004",
+      "label": "cellular response to environmental stimulus",
+      "fdr": 0.006065616541201969,
+      "p_value": 0.00010887343112251189,
+      "fold": 4.3549103836468674,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071214",
+      "label": "cellular response to abiotic stimulus",
+      "fdr": 0.006090273519011732,
+      "p_value": 0.00010887343112251189,
+      "fold": 4.3549103836468674,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0036257",
+      "label": "multivesicular body organization",
+      "fdr": 0.006229240520694394,
+      "p_value": 0.0001122630367801911,
+      "fold": 15.88882455124493,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009155",
+      "label": "purine deoxyribonucleotide catabolic process",
+      "fdr": 0.006431172099786555,
+      "p_value": 0.0001177716277266341,
+      "fold": 30.249877511024007,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009164",
+      "label": "nucleoside catabolic process",
+      "fdr": 0.006456794299387298,
+      "p_value": 0.0001177716277266341,
+      "fold": 30.249877511024007,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006167",
+      "label": "AMP biosynthetic process",
+      "fdr": 0.006482621476584847,
+      "p_value": 0.0001177716277266341,
+      "fold": 30.249877511024007,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032786",
+      "label": "positive regulation of DNA-templated transcription, elongation",
+      "fdr": 0.006486904494987838,
+      "p_value": 0.00011926363180233435,
+      "fold": 10.40339702760085,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006213",
+      "label": "pyrimidine nucleoside metabolic process",
+      "fdr": 0.006508656100988802,
+      "p_value": 0.0001177716277266341,
+      "fold": 30.249877511024007,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072523",
+      "label": "purine-containing compound catabolic process",
+      "fdr": 0.0067696320590166165,
+      "p_value": 0.00012495360387982128,
+      "fold": 7.787097181055684,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000075",
+      "label": "cell cycle checkpoint signaling",
+      "fdr": 0.007718925690594722,
+      "p_value": 0.00014303655628963404,
+      "fold": 6.199862282664831,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031570",
+      "label": "DNA integrity checkpoint signaling",
+      "fdr": 0.00789252957339521,
+      "p_value": 0.00014682708893170364,
+      "fold": 7.562469377756002,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000722",
+      "label": "telomere maintenance via recombination",
+      "fdr": 0.007980987737512617,
+      "p_value": 0.00014905267411821396,
+      "fold": 28.089171974522294,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060966",
+      "label": "regulation of gene silencing by regulatory ncRNA",
+      "fdr": 0.008402461129895858,
+      "p_value": 0.0001587558966479851,
+      "fold": 14.564755838641188,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045005",
+      "label": "DNA-templated DNA replication maintenance of fidelity",
+      "fdr": 0.00843079717207425,
+      "p_value": 0.0001599039358993808,
+      "fold": 9.782298697594829,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043162",
+      "label": "ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway",
+      "fdr": 0.008434903064760321,
+      "p_value": 0.0001587558966479851,
+      "fold": 14.564755838641188,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019068",
+      "label": "virion assembly",
+      "fdr": 0.00846759648749195,
+      "p_value": 0.0001587558966479851,
+      "fold": 14.564755838641188,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007049",
+      "label": "cell cycle",
+      "fdr": 0.008604741265352947,
+      "p_value": 0.00016382837086857582,
+      "fold": 2.6422065463156463,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903772",
+      "label": "regulation of viral budding via host ESCRT complex",
+      "fdr": 0.008830539954929209,
+      "p_value": 0.00017261937707113996,
+      "fold": 87.38853503184713,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903774",
+      "label": "positive regulation of viral budding via host ESCRT complex",
+      "fdr": 0.008863489730880436,
+      "p_value": 0.00017261937707113996,
+      "fold": 87.38853503184713,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061819",
+      "label": "telomeric DNA-containing double minutes formation",
+      "fdr": 0.008896686321632798,
+      "p_value": 0.00017261937707113996,
+      "fold": 87.38853503184713,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1905764",
+      "label": "regulation of protection from non-homologous end joining at telomere",
+      "fdr": 0.008930132510811869,
+      "p_value": 0.00017261937707113996,
+      "fold": 87.38853503184713,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1905765",
+      "label": "negative regulation of protection from non-homologous end joining at telomere",
+      "fdr": 0.008963831124060215,
+      "p_value": 0.00017261937707113996,
+      "fold": 87.38853503184713,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035196",
+      "label": "miRNA processing",
+      "fdr": 0.008985143399195148,
+      "p_value": 0.0001769474501258546,
+      "fold": 14.171113788948183,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046041",
+      "label": "ITP metabolic process",
+      "fdr": 0.00899778502983317,
+      "p_value": 0.00017261937707113996,
+      "fold": 87.38853503184713,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0022402",
+      "label": "cell cycle process",
+      "fdr": 0.009005794654533186,
+      "p_value": 0.00017800858557030932,
+      "fold": 2.7208884533725297,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045324",
+      "label": "late endosome to vacuole transport",
+      "fdr": 0.009018421708081056,
+      "p_value": 0.0001769474501258546,
+      "fold": 14.171113788948183,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046101",
+      "label": "hypoxanthine biosynthetic process",
+      "fdr": 0.009031997140212763,
+      "p_value": 0.00017261937707113996,
+      "fold": 87.38853503184713,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034656",
+      "label": "nucleobase-containing small molecule catabolic process",
+      "fdr": 0.009237517676978604,
+      "p_value": 0.00018527395384391356,
+      "fold": 26.21656050955414,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009301",
+      "label": "snRNA transcription",
+      "fdr": 0.009271108650349436,
+      "p_value": 0.00018527395384391356,
+      "fold": 26.21656050955414,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031440",
+      "label": "regulation of mRNA 3'-end processing",
+      "fdr": 0.009304944813306916,
+      "p_value": 0.00018527395384391356,
+      "fold": 26.21656050955414,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034214",
+      "label": "protein hexamerization",
+      "fdr": 0.009339028860242104,
+      "p_value": 0.00018527395384391356,
+      "fold": 26.21656050955414,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016032",
+      "label": "viral process",
+      "fdr": 0.009653770726682177,
+      "p_value": 0.00019432414005457184,
+      "fold": 5.066002030831718,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006206",
+      "label": "pyrimidine nucleobase metabolic process",
+      "fdr": 0.01122436098766682,
+      "p_value": 0.00022675476742761252,
+      "fold": 24.578025477707005,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009154",
+      "label": "purine ribonucleotide catabolic process",
+      "fdr": 0.011824183558847134,
+      "p_value": 0.0002397316483481106,
+      "fold": 8.978274147107582,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006144",
+      "label": "purine nucleobase metabolic process",
+      "fdr": 0.013456606282886911,
+      "p_value": 0.00027380639191979764,
+      "fold": 23.132259273136007,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032509",
+      "label": "endosome transport via multivesicular body sorting pathway",
+      "fdr": 0.015626813711805906,
+      "p_value": 0.00031909996751816437,
+      "fold": 12.193749074211228,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009189",
+      "label": "deoxyribonucleoside diphosphate biosynthetic process",
+      "fdr": 0.016470342069361595,
+      "p_value": 0.0003435061531797673,
+      "fold": 65.54140127388534,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1904506",
+      "label": "negative regulation of telomere maintenance in response to DNA damage",
+      "fdr": 0.01652793067799573,
+      "p_value": 0.0003435061531797673,
+      "fold": 65.54140127388534,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006272",
+      "label": "leading strand elongation",
+      "fdr": 0.016585923417216767,
+      "p_value": 0.0003435061531797673,
+      "fold": 65.54140127388534,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006273",
+      "label": "lagging strand elongation",
+      "fdr": 0.016644324556009782,
+      "p_value": 0.0003435061531797673,
+      "fold": 65.54140127388534,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000573",
+      "label": "positive regulation of DNA biosynthetic process",
+      "fdr": 0.01667276580920418,
+      "p_value": 0.0003489395067982562,
+      "fold": 11.9166184134337,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046100",
+      "label": "hypoxanthine metabolic process",
+      "fdr": 0.016703138423698864,
+      "p_value": 0.0003435061531797673,
+      "fold": 65.54140127388534,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046122",
+      "label": "purine deoxyribonucleoside metabolic process",
+      "fdr": 0.016762369411016945,
+      "p_value": 0.0003435061531797673,
+      "fold": 65.54140127388534,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009205",
+      "label": "purine ribonucleoside triphosphate metabolic process",
+      "fdr": 0.01709647114625987,
+      "p_value": 0.0003590494994018678,
+      "fold": 5.334765219967412,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000278",
+      "label": "regulation of DNA biosynthetic process",
+      "fdr": 0.01744424924671181,
+      "p_value": 0.000367620978238967,
+      "fold": 8.19267515923567,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090148",
+      "label": "membrane fission",
+      "fdr": 0.018003920412504607,
+      "p_value": 0.0003807238456535746,
+      "fold": 11.651804670912952,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010556",
+      "label": "regulation of macromolecule biosynthetic process",
+      "fdr": 0.0193099184751196,
+      "p_value": 0.0004097446548023344,
+      "fold": 1.5350558223912922,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006195",
+      "label": "purine nucleotide catabolic process",
+      "fdr": 0.019358527296510213,
+      "p_value": 0.00041218287173006994,
+      "fold": 7.992853813888458,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031124",
+      "label": "mRNA 3'-end processing",
+      "fdr": 0.01940229684438397,
+      "p_value": 0.0004145247636253824,
+      "fold": 11.398504569371367,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901658",
+      "label": "glycosyl compound catabolic process",
+      "fdr": 0.020984647965263895,
+      "p_value": 0.0004513811349261037,
+      "fold": 19.662420382165607,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2001244",
+      "label": "positive regulation of intrinsic apoptotic signaling pathway",
+      "fdr": 0.021010689509420578,
+      "p_value": 0.0004504144615419715,
+      "fold": 11.155983195554953,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006405",
+      "label": "RNA export from nucleus",
+      "fdr": 0.021345972496980663,
+      "p_value": 0.0004607044423808776,
+      "fold": 7.802547770700636,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016072",
+      "label": "rRNA metabolic process",
+      "fdr": 0.024185924957981785,
+      "p_value": 0.0005237559506924331,
+      "fold": 4.369426751592356,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071985",
+      "label": "multivesicular body sorting pathway",
+      "fdr": 0.02433491866299204,
+      "p_value": 0.000528750866959859,
+      "fold": 10.700636942675157,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009153",
+      "label": "purine deoxyribonucleotide biosynthetic process",
+      "fdr": 0.025533548509367912,
+      "p_value": 0.0005696387902315202,
+      "fold": 52.433121019108285,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032264",
+      "label": "IMP salvage",
+      "fdr": 0.025616991478352776,
+      "p_value": 0.0005696387902315202,
+      "fold": 52.433121019108285,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006204",
+      "label": "IMP catabolic process",
+      "fdr": 0.025700981614347376,
+      "p_value": 0.0005696387902315202,
+      "fold": 52.433121019108285,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006297",
+      "label": "nucleotide-excision repair, DNA gap filling",
+      "fdr": 0.02578552431702615,
+      "p_value": 0.0005696387902315202,
+      "fold": 52.433121019108285,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070987",
+      "label": "error-free translesion synthesis",
+      "fdr": 0.02587062505734637,
+      "p_value": 0.0005696387902315202,
+      "fold": 52.433121019108285,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046102",
+      "label": "inosine metabolic process",
+      "fdr": 0.02595628937872831,
+      "p_value": 0.0005696387902315202,
+      "fold": 52.433121019108285,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046121",
+      "label": "2'-deoxyribonucleoside catabolic process",
+      "fdr": 0.02604252289825897,
+      "p_value": 0.0005696387902315202,
+      "fold": 52.433121019108285,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046125",
+      "label": "pyrimidine deoxyribonucleoside metabolic process",
+      "fdr": 0.02612933130791983,
+      "p_value": 0.0005696387902315202,
+      "fold": 52.433121019108285,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072666",
+      "label": "establishment of protein localization to vacuole",
+      "fdr": 0.02965523180368332,
+      "p_value": 0.0006637461954461494,
+      "fold": 10.083292503674668,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009889",
+      "label": "regulation of biosynthetic process",
+      "fdr": 0.030393255505902897,
+      "p_value": 0.0006824733632238933,
+      "fold": 1.504575059448838,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000001",
+      "label": "regulation of DNA damage checkpoint",
+      "fdr": 0.03478732970645565,
+      "p_value": 0.000783669225274417,
+      "fold": 16.385350318471335,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903551",
+      "label": "regulation of extracellular exosome assembly",
+      "fdr": 0.03725879048201871,
+      "p_value": 0.0008501751479800796,
+      "fold": 43.69426751592356,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046038",
+      "label": "GMP catabolic process",
+      "fdr": 0.037377828151290336,
+      "p_value": 0.0008501751479800796,
+      "fold": 43.69426751592356,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046074",
+      "label": "dTMP catabolic process",
+      "fdr": 0.03749762888254447,
+      "p_value": 0.0008501751479800796,
+      "fold": 43.69426751592356,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046130",
+      "label": "purine ribonucleoside catabolic process",
+      "fdr": 0.03761820003650764,
+      "p_value": 0.0008501751479800796,
+      "fold": 43.69426751592356,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032968",
+      "label": "positive regulation of transcription elongation by RNA polymerase II",
+      "fdr": 0.03842108422399458,
+      "p_value": 0.0008794885204969328,
+      "fold": 9.363057324840764,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010604",
+      "label": "positive regulation of macromolecule metabolic process",
+      "fdr": 0.0385516820865106,
+      "p_value": 0.0008852795246956871,
+      "fold": 1.6961610150507822,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009201",
+      "label": "ribonucleoside triphosphate biosynthetic process",
+      "fdr": 0.038566882503952495,
+      "p_value": 0.0008884312007668731,
+      "fold": 6.756845492153129,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009135",
+      "label": "purine nucleoside diphosphate metabolic process",
+      "fdr": 0.04056269479984456,
+      "p_value": 0.0009403022775343664,
+      "fold": 9.198793161247067,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009179",
+      "label": "purine ribonucleoside diphosphate metabolic process",
+      "fdr": 0.04069025044386923,
+      "p_value": 0.0009403022775343664,
+      "fold": 9.198793161247067,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009893",
+      "label": "positive regulation of metabolic process",
+      "fdr": 0.04209618937916577,
+      "p_value": 0.0009789100066370936,
+      "fold": 1.6345483286066298,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051054",
+      "label": "positive regulation of DNA metabolic process",
+      "fdr": 0.042508436049430304,
+      "p_value": 0.0009977635959571244,
+      "fold": 3.957216680687418,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035891",
+      "label": "exit from host cell",
+      "fdr": 0.04254384516824512,
+      "p_value": 0.000995503098915408,
+      "fold": 15.124938755512003,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901976",
+      "label": "regulation of cell cycle checkpoint",
+      "fdr": 0.042642791508942915,
+      "p_value": 0.0010040160198312262,
+      "fold": 9.0401932791566,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019076",
+      "label": "viral release from host cell",
+      "fdr": 0.042676380511448384,
+      "p_value": 0.000995503098915408,
+      "fold": 15.124938755512003,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090150",
+      "label": "establishment of protein localization to membrane",
+      "fdr": 0.04302357858353941,
+      "p_value": 0.0010161080618886933,
+      "fold": 4.4759981357775365,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901988",
+      "label": "negative regulation of cell cycle phase transition",
+      "fdr": 0.0441211866086374,
+      "p_value": 0.0010452370346933938,
+      "fold": 4.454269989487354,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031047",
+      "label": "regulatory ncRNA-mediated gene silencing",
+      "fdr": 0.0448460113455383,
+      "p_value": 0.0010656671542759264,
+      "fold": 6.4892476508797365,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031297",
+      "label": "replication fork processing",
+      "fdr": 0.04492060854532712,
+      "p_value": 0.0010707041350822828,
+      "fold": 8.88696966425564,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006270",
+      "label": "DNA replication initiation",
+      "fdr": 0.04658263078926821,
+      "p_value": 0.0011137043477704557,
+      "fold": 14.564755838641188,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048524",
+      "label": "positive regulation of viral process",
+      "fdr": 0.04755638885841675,
+      "p_value": 0.0011404409798181476,
+      "fold": 8.738853503184712,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042451",
+      "label": "purine nucleoside biosynthetic process",
+      "fdr": 0.04821571762398924,
+      "p_value": 0.001184282578076329,
+      "fold": 37.452229299363054,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009139",
+      "label": "pyrimidine nucleoside diphosphate biosynthetic process",
+      "fdr": 0.048358790970054494,
+      "p_value": 0.001184282578076329,
+      "fold": 37.452229299363054,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009204",
+      "label": "deoxyribonucleoside triphosphate catabolic process",
+      "fdr": 0.048502715943179654,
+      "p_value": 0.001184282578076329,
+      "fold": 37.452229299363054,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009262",
+      "label": "deoxyribonucleotide metabolic process",
+      "fdr": 0.048647500169875714,
+      "p_value": 0.001184282578076329,
+      "fold": 37.452229299363054,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006231",
+      "label": "dTMP biosynthetic process",
+      "fdr": 0.04879315136798911,
+      "p_value": 0.001184282578076329,
+      "fold": 37.452229299363054,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006248",
+      "label": "CMP catabolic process",
+      "fdr": 0.04893967734807316,
+      "p_value": 0.001184282578076329,
+      "fold": 37.452229299363054,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046129",
+      "label": "purine ribonucleoside biosynthetic process",
+      "fdr": 0.04908708601478423,
+      "p_value": 0.001184282578076329,
+      "fold": 37.452229299363054,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046134",
+      "label": "pyrimidine nucleoside biosynthetic process",
+      "fdr": 0.049235385368303214,
+      "p_value": 0.001184282578076329,
+      "fold": 37.452229299363054,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070918",
+      "label": "regulatory ncRNA processing",
+      "fdr": 0.049251424787173655,
+      "p_value": 0.0012133008504361506,
+      "fold": 8.595593609689882,
+      "source": "PANTHER"
+    }
+  ],
+  "Enrichr": [
+    {
+      "id": "GO:0006366",
+      "label": "Transcription by RNA Polymerase II",
+      "fdr": 3.2260251610468865e-32,
+      "p_value": 3.9827471124035634e-35,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006281",
+      "label": "DNA Repair",
+      "fdr": 2.978579343838323e-25,
+      "p_value": 9.682956127037683e-28,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006289",
+      "label": "Nucleotide-Excision Repair",
+      "fdr": 2.978579343838323e-25,
+      "p_value": 1.2463411430833964e-27,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006351",
+      "label": "DNA-templated Transcription",
+      "fdr": 2.978579343838323e-25,
+      "p_value": 1.4709033796732459e-27,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006259",
+      "label": "DNA Metabolic Process",
+      "fdr": 1.7297625531522317e-20,
+      "p_value": 1.0677546624396493e-22,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006352",
+      "label": "DNA-templated Transcription Initiation",
+      "fdr": 6.065200328991625e-17,
+      "p_value": 4.4927409844382405e-19,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006260",
+      "label": "DNA Replication",
+      "fdr": 2.8102540935536182e-14,
+      "p_value": 2.4286146487500405e-16,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006974",
+      "label": "DNA Damage Response",
+      "fdr": 9.507972723070269e-14,
+      "p_value": 1.040910297178314e-15,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006367",
+      "label": "Transcription Initiation at RNA Polymerase II Promoter",
+      "fdr": 9.507972723070269e-14,
+      "p_value": 1.0564414136744743e-15,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071897",
+      "label": "DNA Biosynthetic Process",
+      "fdr": 1.1014872127032218e-13,
+      "p_value": 1.3598607564237307e-15,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006261",
+      "label": "DNA-templated DNA Replication",
+      "fdr": 4.961946145586093e-13,
+      "p_value": 6.738445382894693e-15,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006383",
+      "label": "Transcription by RNA Polymerase III",
+      "fdr": 1.3154833091104376e-10,
+      "p_value": 1.9488641616450925e-12,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009411",
+      "label": "Response to UV",
+      "fdr": 7.539640755559864e-10,
+      "p_value": 1.2100658002750399e-11,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000731",
+      "label": "DNA Synthesis Involved in DNA Repair",
+      "fdr": 9.440475189407584e-10,
+      "p_value": 1.6316870697741504e-11,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070914",
+      "label": "UV-damage Excision Repair",
+      "fdr": 7.736591215559041e-09,
+      "p_value": 1.432702076955378e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1900264",
+      "label": "Positive Regulation of DNA-directed DNA Polymerase Activity",
+      "fdr": 6.177970269987585e-08,
+      "p_value": 1.2203398064173008e-09,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034644",
+      "label": "Cellular Response to UV",
+      "fdr": 2.9362978381555135e-07,
+      "p_value": 6.162600401067127e-09,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006271",
+      "label": "DNA Strand Elongation Involved in DNA Replication",
+      "fdr": 7.581017088034145e-07,
+      "p_value": 1.684670464007588e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009299",
+      "label": "mRNA Transcription",
+      "fdr": 1.2705086730405906e-06,
+      "p_value": 2.980205529354472e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006354",
+      "label": "DNA-templated Transcription Elongation",
+      "fdr": 2.6855757166816804e-06,
+      "p_value": 6.631051152300445e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060261",
+      "label": "Positive Regulation of Transcription Initiation by RNA Polymerase II",
+      "fdr": 5.897143041495625e-06,
+      "p_value": 1.528888936684051e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032785",
+      "label": "Negative Regulation of DNA-templated Transcription, Elongation",
+      "fdr": 6.471018151355957e-06,
+      "p_value": 1.7575604855534698e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006283",
+      "label": "Transcription-Coupled Nucleotide-Excision Repair",
+      "fdr": 7.319797033975982e-06,
+      "p_value": 2.078460886190711e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051123",
+      "label": "RNA Polymerase II Preinitiation Complex Assembly",
+      "fdr": 1.083784397114495e-05,
+      "p_value": 3.2112130284873926e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042789",
+      "label": "mRNA Transcription by RNA Polymerase II",
+      "fdr": 1.1811263335217277e-05,
+      "p_value": 3.645451646671999e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071482",
+      "label": "Cellular Response to Light Stimulus",
+      "fdr": 1.258089157701953e-05,
+      "p_value": 4.03831087657417e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006284",
+      "label": "Base-Excision Repair",
+      "fdr": 1.2845249247077433e-05,
+      "p_value": 4.281749749025811e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070897",
+      "label": "Transcription Preinitiation Complex Assembly",
+      "fdr": 1.3060574099464466e-05,
+      "p_value": 4.514766355370433e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032774",
+      "label": "RNA Biosynthetic Process",
+      "fdr": 1.4710327512918934e-05,
+      "p_value": 5.266660467588261e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019985",
+      "label": "Translesion Synthesis",
+      "fdr": 1.8081678644479692e-05,
+      "p_value": 6.69691801647396e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006302",
+      "label": "Double-Strand Break Repair",
+      "fdr": 2.2790502152899872e-05,
+      "p_value": 8.722290947406124e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000725",
+      "label": "Recombinational Repair",
+      "fdr": 2.355719261552428e-05,
+      "p_value": 9.306545230824407e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0022616",
+      "label": "DNA Strand Elongation",
+      "fdr": 3.5242446203804996e-05,
+      "p_value": 1.4358033638587221e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034243",
+      "label": "Regulation of Transcription Elongation by RNA Polymerase II",
+      "fdr": 5.098764161455178e-05,
+      "p_value": 2.140221993697235e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006368",
+      "label": "Transcription Elongation by RNA Polymerase II",
+      "fdr": 5.253285812176899e-05,
+      "p_value": 2.2793443222708294e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000724",
+      "label": "Double-Strand Break Repair via Homologous Recombination",
+      "fdr": 5.253285812176899e-05,
+      "p_value": 2.334793694300844e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043328",
+      "label": "Prot Transport to Vacuole Inv in Ub-dep Prot Cat Proc via Multivsiclr Bdy Sorting Pway",
+      "fdr": 8.51711288963874e-05,
+      "p_value": 3.890533048353498e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0141187",
+      "label": "Nucleic Acid Biosynthetic Process",
+      "fdr": 8.717310720029394e-05,
+      "p_value": 4.08960256001379e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901987",
+      "label": "Regulation of Cell Cycle Phase Transition",
+      "fdr": 0.0001008066420311771,
+      "p_value": 5.181916041112465e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060260",
+      "label": "Regulation of Transcription Initiation by RNA Polymerase II",
+      "fdr": 0.0001008066420311771,
+      "p_value": 5.227011068283257e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000144",
+      "label": "Positive Regulation of DNA-templated Transcription Initiation",
+      "fdr": 0.0001008066420311771,
+      "p_value": 5.227011068283257e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009416",
+      "label": "Response to Light Stimulus",
+      "fdr": 0.0001008066420311771,
+      "p_value": 5.227011068283257e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006282",
+      "label": "Regulation of DNA Repair",
+      "fdr": 0.0001173446973981908,
+      "p_value": 6.229409861879264e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006360",
+      "label": "Transcription by RNA Polymerase I",
+      "fdr": 0.00012342753119115073,
+      "p_value": 6.704705398037817e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051347",
+      "label": "Positive Regulation of Transferase Activity",
+      "fdr": 0.0001872637070853968,
+      "p_value": 1.0403539282522045e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000573",
+      "label": "Positive Regulation of DNA Biosynthetic Process",
+      "fdr": 0.00023558216517117944,
+      "p_value": 1.3378740244289202e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072666",
+      "label": "Establishment of Protein Localization to Vacuole",
+      "fdr": 0.0003449272695108776,
+      "p_value": 2.0014298354334875e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006303",
+      "label": "Double-Strand Break Repair via Nonhomologous End Joining",
+      "fdr": 0.00044570282436219046,
+      "p_value": 2.641201922146314e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006298",
+      "label": "Mismatch Repair",
+      "fdr": 0.00047502599951908443,
+      "p_value": 2.8736140711648317e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042276",
+      "label": "Error-Prone Translesion Synthesis",
+      "fdr": 0.0005401707024155831,
+      "p_value": 3.360292958922156e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032511",
+      "label": "Late Endosome to Vacuole Transport via Multivesicular Body Sorting Pathway",
+      "fdr": 0.0005401707024155831,
+      "p_value": 3.401074792987005e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042795",
+      "label": "snRNA Transcription by RNA Polymerase II",
+      "fdr": 0.0007296144772746017,
+      "p_value": 4.774020653772085e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042797",
+      "label": "tRNA Transcription by RNA Polymerase III",
+      "fdr": 0.0007296144772746017,
+      "p_value": 4.774020653772085e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009304",
+      "label": "tRNA Transcription",
+      "fdr": 0.000979228495515662,
+      "p_value": 6.528189970104414e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0036258",
+      "label": "Multivesicular Body Assembly",
+      "fdr": 0.0010539510570276858,
+      "p_value": 7.156457794632434e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0036257",
+      "label": "Multivesicular Body Organization",
+      "fdr": 0.0011815799060360184,
+      "p_value": 8.168947498520622e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006287",
+      "label": "Base-Excision Repair, Gap-Filling",
+      "fdr": 0.001208912819874718,
+      "p_value": 8.656412784288105e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009167",
+      "label": "Purine Ribonucleoside Monophosphate Metabolic Process",
+      "fdr": 0.001208912819874718,
+      "p_value": 8.656412784288105e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035196",
+      "label": "miRNA Processing",
+      "fdr": 0.0012742705253642277,
+      "p_value": 9.28172357981351e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043162",
+      "label": "Ub-dep Prot Cat Proc via Multivsiclr Bdy Sorting Pway",
+      "fdr": 0.0014175860810673113,
+      "p_value": 0.0001050063763753564,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009301",
+      "label": "snRNA Transcription",
+      "fdr": 0.0014860848559904456,
+      "p_value": 0.00011191503236471257,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006612",
+      "label": "Protein Targeting to Membrane",
+      "fdr": 0.0016672926590312537,
+      "p_value": 0.00012761993192584906,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034244",
+      "label": "Negative Regulation of Transcription Elongation by RNA Polymerase II",
+      "fdr": 0.001821277241885494,
+      "p_value": 0.00014165489659109397,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0080135",
+      "label": "Regulation of Cellular Response to Stress",
+      "fdr": 0.0024149524149709666,
+      "p_value": 0.00019081105501005168,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2001244",
+      "label": "Positive Regulation of Intrinsic Apoptotic Signaling Pathway",
+      "fdr": 0.0025399815364237775,
+      "p_value": 0.00020382567884882165,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090148",
+      "label": "Membrane Fission",
+      "fdr": 0.00334527124750311,
+      "p_value": 0.0002725776572039571,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0055086",
+      "label": "Nucleobase-Containing Small Molecule Metabolic Process",
+      "fdr": 0.003755512265567507,
+      "p_value": 0.00031064113801607774,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2001242",
+      "label": "Regulation of Intrinsic Apoptotic Signaling Pathway",
+      "fdr": 0.004624971509154699,
+      "p_value": 0.00038826921311422164,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006270",
+      "label": "DNA Replication Initiation",
+      "fdr": 0.005846464578176446,
+      "p_value": 0.0004980321677705861,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903551",
+      "label": "Regulation of Extracellular Exosome Assembly",
+      "fdr": 0.006280782245499345,
+      "p_value": 0.0005505377030005599,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006297",
+      "label": "Nucleotide-Excision Repair, DNA Gap Filling",
+      "fdr": 0.006280782245499345,
+      "p_value": 0.0005505377030005599,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016441",
+      "label": "Post-Transcriptional Gene Silencing",
+      "fdr": 0.006451977901065892,
+      "p_value": 0.0005735091467614126,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032786",
+      "label": "Positive Regulation of DNA-templated Transcription, Elongation",
+      "fdr": 0.007970601134789547,
+      "p_value": 0.0007183381269625146,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904354",
+      "label": "Negative Regulation of Telomere Capping",
+      "fdr": 0.008758034644805613,
+      "p_value": 0.0008217415222286749,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043174",
+      "label": "Nucleoside Salvage",
+      "fdr": 0.008758034644805613,
+      "p_value": 0.0008217415222286749,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010225",
+      "label": "Response to UV-C",
+      "fdr": 0.008758034644805613,
+      "p_value": 0.0008217415222286749,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016071",
+      "label": "mRNA Metabolic Process",
+      "fdr": 0.010374956488248398,
+      "p_value": 0.0009862612957964526,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006359",
+      "label": "Regulation of Transcription by RNA Polymerase III",
+      "fdr": 0.010866375216530035,
+      "p_value": 0.0010598069655628059,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0031124",
+      "label": "mRNA 3'-End Processing",
+      "fdr": 0.010866375216530035,
+      "p_value": 0.0010598069655628059,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035315",
+      "label": "Hair Cell Differentiation",
+      "fdr": 0.011590874690471986,
+      "p_value": 0.0011447777472071098,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046037",
+      "label": "GMP Metabolic Process",
+      "fdr": 0.014646189422284232,
+      "p_value": 0.0015188640882368835,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009141",
+      "label": "Nucleoside Triphosphate Metabolic Process",
+      "fdr": 0.014646189422284232,
+      "p_value": 0.0015188640882368835,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0180010",
+      "label": "Co-Transcriptional mRNA 3'-End Processing, Cleavage and Polyadenylation Pathway",
+      "fdr": 0.014646189422284232,
+      "p_value": 0.0015188640882368835,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042796",
+      "label": "snRNA Transcription by RNA Polymerase III",
+      "fdr": 0.014646189422284232,
+      "p_value": 0.0015188640882368835,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0080090",
+      "label": "Regulation of Primary Metabolic Process",
+      "fdr": 0.015503022575780831,
+      "p_value": 0.0016268603937547785,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051052",
+      "label": "Regulation of DNA Metabolic Process",
+      "fdr": 0.01719820968895386,
+      "p_value": 0.001825982757098805,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2001235",
+      "label": "Positive Regulation of Apoptotic Signaling Pathway",
+      "fdr": 0.01767578300619039,
+      "p_value": 0.0018985100265908198,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070922",
+      "label": "RISC Complex Assembly",
+      "fdr": 0.017685548414092676,
+      "p_value": 0.0019432269245114177,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009116",
+      "label": "Nucleoside Metabolic Process",
+      "fdr": 0.017685548414092676,
+      "p_value": 0.0019432269245114177,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0180012",
+      "label": "Co-Transcriptional RNA 3'-End Processing, Cleavage and Polyadenylation Pathway",
+      "fdr": 0.021514857058855242,
+      "p_value": 0.0024171012251306507,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000722",
+      "label": "Telomere Maintenance via Recombination",
+      "fdr": 0.021514857058855242,
+      "p_value": 0.0024171012251306507,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007346",
+      "label": "Regulation of Mitotic Cell Cycle",
+      "fdr": 0.0215170548854003,
+      "p_value": 0.002443912406736824,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006139",
+      "label": "Nucleobase-Containing Compound Metabolic Process",
+      "fdr": 0.022966897376957948,
+      "p_value": 0.0026652942634988234,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0031047",
+      "label": "Regulatory ncRNA-mediated Gene Silencing",
+      "fdr": 0.022966897376957948,
+      "p_value": 0.0026652942634988234,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032784",
+      "label": "Regulation of DNA-templated Transcription Elongation",
+      "fdr": 0.024538554422751345,
+      "p_value": 0.0028779786051375033,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006206",
+      "label": "Pyrimidine Nucleobase Metabolic Process",
+      "fdr": 0.02480397580467834,
+      "p_value": 0.002939730465739655,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0031053",
+      "label": "Primary miRNA Processing",
+      "fdr": 0.029014254131367535,
+      "p_value": 0.0035103665492271833,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009223",
+      "label": "Pyrimidine Deoxyribonucleotide Catabolic Process",
+      "fdr": 0.029014254131367535,
+      "p_value": 0.0035103665492271833,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006605",
+      "label": "Protein Targeting",
+      "fdr": 0.029762943672622055,
+      "p_value": 0.0036376931155426956,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006310",
+      "label": "DNA Recombination",
+      "fdr": 0.03310790569394848,
+      "p_value": 0.004096830907172753,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0031054",
+      "label": "pre-miRNA Processing",
+      "fdr": 0.03310790569394848,
+      "p_value": 0.0041282697223318475,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901990",
+      "label": "Regulation of Mitotic Cell Cycle Phase Transition",
+      "fdr": 0.03438717504635731,
+      "p_value": 0.004352599012622453,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045005",
+      "label": "DNA-templated DNA Replication Maintenance of Fidelity",
+      "fdr": 0.03438717504635731,
+      "p_value": 0.004372690160215806,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903543",
+      "label": "Positive Regulation of Exosomal Secretion",
+      "fdr": 0.03732782578191528,
+      "p_value": 0.004792708495455789,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048863",
+      "label": "Stem Cell Differentiation",
+      "fdr": 0.04062962244923374,
+      "p_value": 0.005266802910085855,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006312",
+      "label": "Mitotic Recombination",
+      "fdr": 0.042050917428108424,
+      "p_value": 0.0055029595646660405,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0031123",
+      "label": "RNA 3'-End Processing",
+      "fdr": 0.04481119762839112,
+      "p_value": 0.005919503884244259,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042058",
+      "label": "Regulation of Epidermal Growth Factor Receptor Signaling Pathway",
+      "fdr": 0.0496389192259833,
+      "p_value": 0.00661852256346444,
+      "fold": null,
+      "source": "Enrichr"
+    }
+  ],
+  "g:Profiler": [
+    {
+      "id": "KEGG:03420",
+      "label": "Nucleotide excision repair",
+      "fdr": 2.2028394187598917e-50,
+      "p_value": 2.2028394187598917e-50,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-162587",
+      "label": "HIV Life Cycle",
+      "fdr": 1.210779899722653e-43,
+      "p_value": 1.210779899722653e-43,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-162599",
+      "label": "Late Phase of HIV Life Cycle",
+      "fdr": 3.602961239869955e-42,
+      "p_value": 3.602961239869955e-42,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-6781827",
+      "label": "Transcription-Coupled Nucleotide Excision Repair (TC-NER)",
+      "fdr": 4.584565689859462e-42,
+      "p_value": 4.584565689859462e-42,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-167172",
+      "label": "Transcription of the HIV genome",
+      "fdr": 1.2005097834713997e-41,
+      "p_value": 1.2005097834713997e-41,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-6782135",
+      "label": "Dual incision in TC-NER",
+      "fdr": 1.333048170516025e-41,
+      "p_value": 1.333048170516025e-41,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5696398",
+      "label": "Nucleotide Excision Repair",
+      "fdr": 5.118889506659503e-41,
+      "p_value": 5.118889506659503e-41,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-6782210",
+      "label": "Gap-filling DNA repair synthesis and ligation in TC-NER",
+      "fdr": 6.859921518416326e-38,
+      "p_value": 6.859921518416326e-38,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-674695",
+      "label": "RNA Polymerase II Pre-transcription Events",
+      "fdr": 3.477752817330532e-37,
+      "p_value": 3.477752817330532e-37,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-162906",
+      "label": "HIV Infection",
+      "fdr": 2.0671783004384865e-36,
+      "p_value": 2.0671783004384865e-36,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0140513",
+      "label": "nuclear protein-containing complex",
+      "fdr": 1.721501897809002e-35,
+      "p_value": 1.721501897809002e-35,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0000428",
+      "label": "DNA-directed RNA polymerase complex",
+      "fdr": 1.1162276658153517e-34,
+      "p_value": 1.1162276658153517e-34,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0030880",
+      "label": "RNA polymerase complex",
+      "fdr": 2.735132890710166e-34,
+      "p_value": 2.735132890710166e-34,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-167246",
+      "label": "Tat-mediated elongation of the HIV-1 transcript",
+      "fdr": 1.3980907937282274e-33,
+      "p_value": 1.3980907937282274e-33,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-167169",
+      "label": "HIV Transcription Elongation",
+      "fdr": 1.3980907937282274e-33,
+      "p_value": 1.3980907937282274e-33,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-167200",
+      "label": "Formation of HIV-1 elongation complex containing HIV-1 Tat",
+      "fdr": 1.3980907937282274e-33,
+      "p_value": 1.3980907937282274e-33,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-73894",
+      "label": "DNA Repair",
+      "fdr": 4.005470466874669e-33,
+      "p_value": 4.005470466874669e-33,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-167152",
+      "label": "Formation of HIV elongation complex in the absence of HIV Tat",
+      "fdr": 6.828219508581112e-33,
+      "p_value": 6.828219508581112e-33,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-167158",
+      "label": "Formation of the HIV-1 Early Elongation Complex",
+      "fdr": 5.205338440303536e-31,
+      "p_value": 5.205338440303536e-31,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-113418",
+      "label": "Formation of the Early Elongation Complex",
+      "fdr": 5.205338440303536e-31,
+      "p_value": 5.205338440303536e-31,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006139",
+      "label": "nucleobase-containing compound metabolic process",
+      "fdr": 9.347093872981682e-31,
+      "p_value": 9.347093872981682e-31,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-6796648",
+      "label": "TP53 Regulates Transcription of DNA Repair Genes",
+      "fdr": 2.922480831166797e-30,
+      "p_value": 2.922480831166797e-30,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5696400",
+      "label": "Dual Incision in GG-NER",
+      "fdr": 9.354813651954214e-30,
+      "p_value": 9.354813651954214e-30,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-112382",
+      "label": "Formation of RNA Pol II elongation complex ",
+      "fdr": 2.573273931509519e-29,
+      "p_value": 2.573273931509519e-29,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-75955",
+      "label": "RNA Polymerase II Transcription Elongation",
+      "fdr": 2.573273931509519e-29,
+      "p_value": 2.573273931509519e-29,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0061695",
+      "label": "transferase complex, transferring phosphorus-containing groups",
+      "fdr": 9.24402529258826e-29,
+      "p_value": 9.24402529258826e-29,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0055029",
+      "label": "nuclear DNA-directed RNA polymerase complex",
+      "fdr": 1.0098743684821078e-28,
+      "p_value": 1.0098743684821078e-28,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-76042",
+      "label": "RNA Polymerase II Transcription Initiation And Promoter Clearance",
+      "fdr": 2.873083700810384e-28,
+      "p_value": 2.873083700810384e-28,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-73779",
+      "label": "RNA Polymerase II Transcription Pre-Initiation And Promoter Opening",
+      "fdr": 2.873083700810384e-28,
+      "p_value": 2.873083700810384e-28,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-167161",
+      "label": "HIV Transcription Initiation",
+      "fdr": 2.873083700810384e-28,
+      "p_value": 2.873083700810384e-28,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-73776",
+      "label": "RNA Polymerase II Promoter Escape",
+      "fdr": 2.873083700810384e-28,
+      "p_value": 2.873083700810384e-28,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-75953",
+      "label": "RNA Polymerase II Transcription Initiation",
+      "fdr": 2.873083700810384e-28,
+      "p_value": 2.873083700810384e-28,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-167162",
+      "label": "RNA Polymerase II HIV Promoter Escape",
+      "fdr": 2.873083700810384e-28,
+      "p_value": 2.873083700810384e-28,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0005654",
+      "label": "nucleoplasm",
+      "fdr": 6.908767558881243e-28,
+      "p_value": 6.908767558881243e-28,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0031981",
+      "label": "nuclear lumen",
+      "fdr": 9.510374793107231e-28,
+      "p_value": 9.510374793107231e-28,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0031974",
+      "label": "membrane-enclosed lumen",
+      "fdr": 2.107256888163315e-27,
+      "p_value": 2.107256888163315e-27,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0070013",
+      "label": "intracellular organelle lumen",
+      "fdr": 2.107256888163315e-27,
+      "p_value": 2.107256888163315e-27,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043233",
+      "label": "organelle lumen",
+      "fdr": 2.107256888163315e-27,
+      "p_value": 2.107256888163315e-27,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-5696399",
+      "label": "Global Genome Nucleotide Excision Repair (GG-NER)",
+      "fdr": 4.1063374587312587e-26,
+      "p_value": 4.1063374587312587e-26,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-72086",
+      "label": "mRNA Capping",
+      "fdr": 4.718248237370304e-26,
+      "p_value": 4.718248237370304e-26,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-167243",
+      "label": "Tat-mediated HIV elongation arrest and recovery",
+      "fdr": 3.0481037856061595e-25,
+      "p_value": 3.0481037856061595e-25,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-167238",
+      "label": "Pausing and recovery of Tat-mediated HIV elongation",
+      "fdr": 3.0481037856061595e-25,
+      "p_value": 3.0481037856061595e-25,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-167160",
+      "label": "RNA Pol II CTD phosphorylation and interaction with CE during HIV infection",
+      "fdr": 1.0700665343338136e-24,
+      "p_value": 1.0700665343338136e-24,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-77075",
+      "label": "RNA Pol II CTD phosphorylation and interaction with CE",
+      "fdr": 1.0700665343338136e-24,
+      "p_value": 1.0700665343338136e-24,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-167290",
+      "label": "Pausing and recovery of HIV elongation",
+      "fdr": 1.6284433947081467e-24,
+      "p_value": 1.6284433947081467e-24,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-167287",
+      "label": "HIV elongation arrest and recovery",
+      "fdr": 1.6284433947081467e-24,
+      "p_value": 1.6284433947081467e-24,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-3700989",
+      "label": "Transcriptional Regulation by TP53",
+      "fdr": 2.013181743938649e-24,
+      "p_value": 2.013181743938649e-24,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-167242",
+      "label": "Abortive elongation of HIV-1 transcript in the absence of Tat",
+      "fdr": 2.463240585355237e-24,
+      "p_value": 2.463240585355237e-24,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0016591",
+      "label": "RNA polymerase II, holoenzyme",
+      "fdr": 2.768368314044372e-24,
+      "p_value": 2.768368314044372e-24,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0006281",
+      "label": "DNA repair",
+      "fdr": 5.168992773995448e-24,
+      "p_value": 5.168992773995448e-24,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-69186",
+      "label": "Lagging Strand Synthesis",
+      "fdr": 4.796139133428896e-23,
+      "p_value": 4.796139133428896e-23,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:01232",
+      "label": "Nucleotide metabolism",
+      "fdr": 8.504969840220236e-22,
+      "p_value": 8.504969840220236e-22,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-157579",
+      "label": "Telomere Maintenance",
+      "fdr": 2.737265876996011e-21,
+      "p_value": 2.737265876996011e-21,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-6807505",
+      "label": "RNA polymerase II transcribes snRNA genes",
+      "fdr": 2.9230662174928677e-21,
+      "p_value": 2.9230662174928677e-21,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0140535",
+      "label": "intracellular protein-containing complex",
+      "fdr": 5.5476880156058876e-21,
+      "p_value": 5.5476880156058876e-21,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0006289",
+      "label": "nucleotide-excision repair",
+      "fdr": 5.586456050648899e-21,
+      "p_value": 5.586456050648899e-21,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006259",
+      "label": "DNA metabolic process",
+      "fdr": 5.828652763755425e-21,
+      "p_value": 5.828652763755425e-21,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032991",
+      "label": "protein-containing complex",
+      "fdr": 1.4020285170673436e-20,
+      "p_value": 1.4020285170673436e-20,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-5651801",
+      "label": "PCNA-Dependent Long Patch Base Excision Repair",
+      "fdr": 3.242483816621247e-20,
+      "p_value": 3.242483816621247e-20,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-74160",
+      "label": "Gene expression (Transcription)",
+      "fdr": 3.462268205597146e-20,
+      "p_value": 3.462268205597146e-20,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0005634",
+      "label": "nucleus",
+      "fdr": 2.6895668253916724e-19,
+      "p_value": 2.6895668253916724e-19,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-73886",
+      "label": "Chromosome Maintenance",
+      "fdr": 6.852187058025139e-19,
+      "p_value": 6.852187058025139e-19,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:03030",
+      "label": "DNA replication",
+      "fdr": 8.600850567278383e-19,
+      "p_value": 8.600850567278383e-19,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-110373",
+      "label": "Resolution of AP sites via the multiple-nucleotide patch replacement pathway",
+      "fdr": 1.1932685570184127e-18,
+      "p_value": 1.1932685570184127e-18,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006974",
+      "label": "DNA damage response",
+      "fdr": 1.2905053114242464e-18,
+      "p_value": 1.2905053114242464e-18,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0140097",
+      "label": "catalytic activity, acting on DNA",
+      "fdr": 1.3893419636797524e-18,
+      "p_value": 1.3893419636797524e-18,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-69190",
+      "label": "DNA strand elongation",
+      "fdr": 1.549171008413743e-18,
+      "p_value": 1.549171008413743e-18,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:1990234",
+      "label": "transferase complex",
+      "fdr": 2.619491052438617e-18,
+      "p_value": 2.619491052438617e-18,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-6781823",
+      "label": "Formation of TC-NER Pre-Incision Complex",
+      "fdr": 2.6482975195573133e-18,
+      "p_value": 2.6482975195573133e-18,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-174417",
+      "label": "Telomere C-strand (Lagging Strand) Synthesis",
+      "fdr": 4.980098899403735e-18,
+      "p_value": 4.980098899403735e-18,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0034654",
+      "label": "nucleobase-containing compound biosynthetic process",
+      "fdr": 8.586461017036017e-18,
+      "p_value": 8.586461017036017e-18,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0090304",
+      "label": "nucleic acid metabolic process",
+      "fdr": 9.010465893384658e-18,
+      "p_value": 9.010465893384658e-18,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-73933",
+      "label": "Resolution of Abasic Sites (AP sites)",
+      "fdr": 1.4639636466463198e-17,
+      "p_value": 1.4639636466463198e-17,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:03020",
+      "label": "RNA polymerase",
+      "fdr": 1.7156703417962815e-17,
+      "p_value": 1.7156703417962815e-17,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0140640",
+      "label": "catalytic activity, acting on a nucleic acid",
+      "fdr": 5.3867292895479873e-17,
+      "p_value": 5.3867292895479873e-17,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-69091",
+      "label": "Polymerase switching",
+      "fdr": 7.842077278539665e-17,
+      "p_value": 7.842077278539665e-17,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-69109",
+      "label": "Leading Strand Synthesis",
+      "fdr": 7.842077278539665e-17,
+      "p_value": 7.842077278539665e-17,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-69183",
+      "label": "Processive synthesis on the lagging strand",
+      "fdr": 2.9107577902325497e-16,
+      "p_value": 2.9107577902325497e-16,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:00230",
+      "label": "Purine metabolism",
+      "fdr": 3.43579738205463e-16,
+      "p_value": 3.43579738205463e-16,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-15869",
+      "label": "Metabolism of nucleotides",
+      "fdr": 3.6976850955779373e-16,
+      "p_value": 3.6976850955779373e-16,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5696395",
+      "label": "Formation of Incision Complex in GG-NER",
+      "fdr": 3.7105431687178475e-16,
+      "p_value": 3.7105431687178475e-16,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0003684",
+      "label": "damaged DNA binding",
+      "fdr": 5.037593692236248e-16,
+      "p_value": 5.037593692236248e-16,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0044238",
+      "label": "primary metabolic process",
+      "fdr": 8.281799976579089e-16,
+      "p_value": 8.281799976579089e-16,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-73893",
+      "label": "DNA Damage Bypass",
+      "fdr": 2.5443226253210528e-15,
+      "p_value": 2.5443226253210528e-15,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0005657",
+      "label": "replication fork",
+      "fdr": 2.6013433458609426e-15,
+      "p_value": 2.6013433458609426e-15,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-110314",
+      "label": "Recognition of DNA damage by PCNA-containing replication complex",
+      "fdr": 2.7508072011422875e-15,
+      "p_value": 2.7508072011422875e-15,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-203927",
+      "label": "MicroRNA (miRNA) biogenesis",
+      "fdr": 2.9886189933700404e-15,
+      "p_value": 2.9886189933700404e-15,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9824446",
+      "label": "Viral Infection Pathways",
+      "fdr": 3.75756407035443e-15,
+      "p_value": 3.75756407035443e-15,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-73863",
+      "label": "RNA Polymerase I Transcription Termination",
+      "fdr": 4.689273997109226e-15,
+      "p_value": 4.689273997109226e-15,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-8851708",
+      "label": "Signaling by FGFR2 IIIa TM",
+      "fdr": 6.580500670062453e-15,
+      "p_value": 6.580500670062453e-15,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-180786",
+      "label": "Extension of Telomeres",
+      "fdr": 7.197921736715963e-15,
+      "p_value": 7.197921736715963e-15,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5696397",
+      "label": "Gap-filling DNA repair synthesis and ligation in GG-NER",
+      "fdr": 1.1261402295280809e-14,
+      "p_value": 1.1261402295280809e-14,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-69166",
+      "label": "Removal of the Flap Intermediate",
+      "fdr": 1.901500608632086e-14,
+      "p_value": 1.901500608632086e-14,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-73857",
+      "label": "RNA Polymerase II Transcription",
+      "fdr": 5.188191401658474e-14,
+      "p_value": 5.188191401658474e-14,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:03410",
+      "label": "Base excision repair",
+      "fdr": 7.147912219822909e-14,
+      "p_value": 7.147912219822909e-14,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0006260",
+      "label": "DNA replication",
+      "fdr": 7.226851014033697e-14,
+      "p_value": 7.226851014033697e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0008152",
+      "label": "metabolic process",
+      "fdr": 7.69083878774007e-14,
+      "p_value": 7.69083878774007e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1902494",
+      "label": "catalytic complex",
+      "fdr": 8.582149452434455e-14,
+      "p_value": 8.582149452434455e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-1643685",
+      "label": "Disease",
+      "fdr": 9.382260551764943e-14,
+      "p_value": 9.382260551764943e-14,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0140223",
+      "label": "general transcription initiation factor activity",
+      "fdr": 1.2904377688600788e-13,
+      "p_value": 1.2904377688600788e-13,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-110313",
+      "label": "Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template",
+      "fdr": 1.7015165900688048e-13,
+      "p_value": 1.7015165900688048e-13,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-168325",
+      "label": "Viral Messenger RNA Synthesis",
+      "fdr": 2.4950972132423454e-13,
+      "p_value": 2.4950972132423454e-13,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0043231",
+      "label": "intracellular membrane-bounded organelle",
+      "fdr": 3.283025631659048e-13,
+      "p_value": 3.283025631659048e-13,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "KEGG:03430",
+      "label": "Mismatch repair",
+      "fdr": 4.536071634315454e-13,
+      "p_value": 4.536071634315454e-13,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-5656169",
+      "label": "Termination of translesion DNA synthesis",
+      "fdr": 4.550977245009956e-13,
+      "p_value": 4.550977245009956e-13,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0030894",
+      "label": "replisome",
+      "fdr": 8.204272966558585e-13,
+      "p_value": 8.204272966558585e-13,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-6803529",
+      "label": "FGFR2 alternative splicing",
+      "fdr": 8.578062886147749e-13,
+      "p_value": 8.578062886147749e-13,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0005669",
+      "label": "transcription factor TFIID complex",
+      "fdr": 8.91683093435859e-13,
+      "p_value": 8.91683093435859e-13,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0006261",
+      "label": "DNA-templated DNA replication",
+      "fdr": 1.1401781031724628e-12,
+      "p_value": 1.1401781031724628e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000109",
+      "label": "nucleotide-excision repair complex",
+      "fdr": 1.1463121191227733e-12,
+      "p_value": 1.1463121191227733e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-5663205",
+      "label": "Infectious disease",
+      "fdr": 1.2115426815594958e-12,
+      "p_value": 1.2115426815594958e-12,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:03022",
+      "label": "Basal transcription factors",
+      "fdr": 1.2247296233410949e-12,
+      "p_value": 1.2247296233410949e-12,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0005665",
+      "label": "RNA polymerase II, core complex",
+      "fdr": 1.320139689187824e-12,
+      "p_value": 1.320139689187824e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-174411",
+      "label": "Polymerase switching on the C-strand of the telomere",
+      "fdr": 1.4716837117538344e-12,
+      "p_value": 1.4716837117538344e-12,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-76046",
+      "label": "RNA Polymerase III Transcription Initiation",
+      "fdr": 2.421440257055578e-12,
+      "p_value": 2.421440257055578e-12,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-73762",
+      "label": "RNA Polymerase I Transcription Initiation",
+      "fdr": 2.715250045039482e-12,
+      "p_value": 2.715250045039482e-12,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0016779",
+      "label": "nucleotidyltransferase activity",
+      "fdr": 3.7177269386354e-12,
+      "p_value": 3.7177269386354e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-76071",
+      "label": "RNA Polymerase III Transcription Initiation From Type 3 Promoter",
+      "fdr": 4.007315919161679e-12,
+      "p_value": 4.007315919161679e-12,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-1839126",
+      "label": "FGFR2 mutant receptor activation",
+      "fdr": 6.390312754299008e-12,
+      "p_value": 6.390312754299008e-12,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0043227",
+      "label": "membrane-bounded organelle",
+      "fdr": 8.046620941642109e-12,
+      "p_value": 8.046620941642109e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0016251",
+      "label": "RNA polymerase II general transcription initiation factor activity",
+      "fdr": 1.0366967134217077e-11,
+      "p_value": 1.0366967134217077e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-74158",
+      "label": "RNA Polymerase III Transcription",
+      "fdr": 1.451662817794592e-11,
+      "p_value": 1.451662817794592e-11,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-749476",
+      "label": "RNA Polymerase III Abortive And Retractive Initiation",
+      "fdr": 1.451662817794592e-11,
+      "p_value": 1.451662817794592e-11,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0043601",
+      "label": "nuclear replisome",
+      "fdr": 2.6047972326837144e-11,
+      "p_value": 2.6047972326837144e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-69239",
+      "label": "Synthesis of DNA",
+      "fdr": 2.9014804558889734e-11,
+      "p_value": 2.9014804558889734e-11,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0003887",
+      "label": "DNA-directed DNA polymerase activity",
+      "fdr": 2.977378417118137e-11,
+      "p_value": 2.977378417118137e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-73884",
+      "label": "Base Excision Repair",
+      "fdr": 4.9147516005404385e-11,
+      "p_value": 4.9147516005404385e-11,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5693532",
+      "label": "DNA Double-Strand Break Repair",
+      "fdr": 6.386652322033187e-11,
+      "p_value": 6.386652322033187e-11,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:00240",
+      "label": "Pyrimidine metabolism",
+      "fdr": 9.77689476935784e-11,
+      "p_value": 9.77689476935784e-11,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-72165",
+      "label": "mRNA Splicing - Minor Pathway",
+      "fdr": 1.1917068914574022e-10,
+      "p_value": 1.1917068914574022e-10,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5655253",
+      "label": "Signaling by FGFR2 in disease",
+      "fdr": 1.4547387614217842e-10,
+      "p_value": 1.4547387614217842e-10,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-1640170",
+      "label": "Cell Cycle",
+      "fdr": 2.506201019781001e-10,
+      "p_value": 2.506201019781001e-10,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0141187",
+      "label": "nucleic acid biosynthetic process",
+      "fdr": 2.888767115275178e-10,
+      "p_value": 2.888767115275178e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005666",
+      "label": "RNA polymerase III complex",
+      "fdr": 2.889982825629172e-10,
+      "p_value": 2.889982825629172e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043596",
+      "label": "nuclear replication fork",
+      "fdr": 3.155531928468389e-10,
+      "p_value": 3.155531928468389e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-5693538",
+      "label": "Homology Directed Repair",
+      "fdr": 3.3759159837133924e-10,
+      "p_value": 3.3759159837133924e-10,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0009411",
+      "label": "response to UV",
+      "fdr": 6.948697246183026e-10,
+      "p_value": 6.948697246183026e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5685942",
+      "label": "HDR through Homologous Recombination (HRR)",
+      "fdr": 7.238991536963671e-10,
+      "p_value": 7.238991536963671e-10,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0019205",
+      "label": "nucleobase-containing compound kinase activity",
+      "fdr": 7.778712442111765e-10,
+      "p_value": 7.778712442111765e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0071897",
+      "label": "DNA biosynthetic process",
+      "fdr": 7.81156865737502e-10,
+      "p_value": 7.81156865737502e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042575",
+      "label": "DNA polymerase complex",
+      "fdr": 8.200223952966144e-10,
+      "p_value": 8.200223952966144e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0034061",
+      "label": "DNA polymerase activity",
+      "fdr": 9.58615106339832e-10,
+      "p_value": 9.58615106339832e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0033554",
+      "label": "cellular response to stress",
+      "fdr": 9.89137984602557e-10,
+      "p_value": 9.89137984602557e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0043229",
+      "label": "intracellular organelle",
+      "fdr": 1.3475220225962336e-09,
+      "p_value": 1.3475220225962336e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043226",
+      "label": "organelle",
+      "fdr": 1.3793373065800618e-09,
+      "p_value": 1.3793373065800618e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0006367",
+      "label": "transcription initiation at RNA polymerase II promoter",
+      "fdr": 1.3881704868314864e-09,
+      "p_value": 1.3881704868314864e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005736",
+      "label": "RNA polymerase I complex",
+      "fdr": 1.4293510300472854e-09,
+      "p_value": 1.4293510300472854e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0006352",
+      "label": "DNA-templated transcription initiation",
+      "fdr": 1.5054279513915546e-09,
+      "p_value": 1.5054279513915546e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009058",
+      "label": "biosynthetic process",
+      "fdr": 1.7957365312075155e-09,
+      "p_value": 1.7957365312075155e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-110312",
+      "label": "Translesion synthesis by REV1",
+      "fdr": 1.8193334566132129e-09,
+      "p_value": 1.8193334566132129e-09,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5693567",
+      "label": "HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)",
+      "fdr": 2.1559206697176246e-09,
+      "p_value": 2.1559206697176246e-09,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5655862",
+      "label": "Translesion synthesis by POLK",
+      "fdr": 3.4016940116835214e-09,
+      "p_value": 3.4016940116835214e-09,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5656121",
+      "label": "Translesion synthesis by POLI",
+      "fdr": 3.4016940116835214e-09,
+      "p_value": 3.4016940116835214e-09,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-69242",
+      "label": "S Phase",
+      "fdr": 3.7242888325239755e-09,
+      "p_value": 3.7242888325239755e-09,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006383",
+      "label": "transcription by RNA polymerase III",
+      "fdr": 4.0088684171554454e-09,
+      "p_value": 4.0088684171554454e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003697",
+      "label": "single-stranded DNA binding",
+      "fdr": 4.184191999951202e-09,
+      "p_value": 4.184191999951202e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-5685938",
+      "label": "HDR through Single Strand Annealing (SSA)",
+      "fdr": 5.22634823787161e-09,
+      "p_value": 5.22634823787161e-09,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0055086",
+      "label": "nucleobase-containing small molecule metabolic process",
+      "fdr": 6.041056815303802e-09,
+      "p_value": 6.041056815303802e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-73780",
+      "label": "RNA Polymerase III Chain Elongation",
+      "fdr": 6.061002939459521e-09,
+      "p_value": 6.061002939459521e-09,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0032993",
+      "label": "protein-DNA complex",
+      "fdr": 6.513898697589693e-09,
+      "p_value": 6.513898697589693e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-76066",
+      "label": "RNA Polymerase III Transcription Initiation From Type 2 Promoter",
+      "fdr": 6.818560797663516e-09,
+      "p_value": 6.818560797663516e-09,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-76061",
+      "label": "RNA Polymerase III Transcription Initiation From Type 1 Promoter",
+      "fdr": 9.946117879049684e-09,
+      "p_value": 9.946117879049684e-09,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5601884",
+      "label": "PIWI-interacting RNA (piRNA) biogenesis",
+      "fdr": 9.946117879049684e-09,
+      "p_value": 9.946117879049684e-09,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-110320",
+      "label": "Translesion Synthesis by POLH",
+      "fdr": 1.0362925408599637e-08,
+      "p_value": 1.0362925408599637e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-174414",
+      "label": "Processive synthesis on the C-strand of the telomere",
+      "fdr": 1.0362925408599637e-08,
+      "p_value": 1.0362925408599637e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-212436",
+      "label": "Generic Transcription Pathway",
+      "fdr": 2.04152563816539e-08,
+      "p_value": 2.04152563816539e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-73772",
+      "label": "RNA Polymerase I Promoter Escape",
+      "fdr": 2.0419053953507337e-08,
+      "p_value": 2.0419053953507337e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-1226099",
+      "label": "Signaling by FGFR in disease",
+      "fdr": 2.084630986296697e-08,
+      "p_value": 2.084630986296697e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0009123",
+      "label": "nucleoside monophosphate metabolic process",
+      "fdr": 2.5469092614731304e-08,
+      "p_value": 2.5469092614731304e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-211000",
+      "label": "Gene Silencing by RNA",
+      "fdr": 2.6489866017489303e-08,
+      "p_value": 2.6489866017489303e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-6804756",
+      "label": "Regulation of TP53 Activity through Phosphorylation",
+      "fdr": 2.7179439274087423e-08,
+      "p_value": 2.7179439274087423e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0000731",
+      "label": "DNA synthesis involved in DNA repair",
+      "fdr": 3.684716890479919e-08,
+      "p_value": 3.684716890479919e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-69306",
+      "label": "DNA Replication",
+      "fdr": 3.73716860349353e-08,
+      "p_value": 3.73716860349353e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5358565",
+      "label": "Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)",
+      "fdr": 4.266513820053648e-08,
+      "p_value": 4.266513820053648e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5358606",
+      "label": "Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)",
+      "fdr": 4.266513820053648e-08,
+      "p_value": 4.266513820053648e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0043170",
+      "label": "macromolecule metabolic process",
+      "fdr": 4.3061131326764125e-08,
+      "p_value": 4.3061131326764125e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-72203",
+      "label": "Processing of Capped Intron-Containing Pre-mRNA",
+      "fdr": 4.533487949870601e-08,
+      "p_value": 4.533487949870601e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-8956321",
+      "label": "Nucleotide salvage",
+      "fdr": 6.454287889519245e-08,
+      "p_value": 6.454287889519245e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-73980",
+      "label": "RNA Polymerase III Transcription Termination",
+      "fdr": 6.454287889519245e-08,
+      "p_value": 6.454287889519245e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006354",
+      "label": "DNA-templated transcription elongation",
+      "fdr": 6.576907842641956e-08,
+      "p_value": 6.576907842641956e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5358508",
+      "label": "Mismatch Repair",
+      "fdr": 7.919302673997128e-08,
+      "p_value": 7.919302673997128e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5654738",
+      "label": "Signaling by FGFR2",
+      "fdr": 9.589607302205981e-08,
+      "p_value": 9.589607302205981e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-427413",
+      "label": "NoRC negatively regulates rRNA expression",
+      "fdr": 1.4874935161460166e-07,
+      "p_value": 1.4874935161460166e-07,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5250941",
+      "label": "Negative epigenetic regulation of rRNA expression",
+      "fdr": 2.1275262310193145e-07,
+      "p_value": 2.1275262310193145e-07,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-174437",
+      "label": "Removal of the Flap Intermediate from the C-strand",
+      "fdr": 2.345521763244368e-07,
+      "p_value": 2.345521763244368e-07,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006284",
+      "label": "base-excision repair",
+      "fdr": 2.388301096662481e-07,
+      "p_value": 2.388301096662481e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-73854",
+      "label": "RNA Polymerase I Promoter Clearance",
+      "fdr": 2.3909853923237344e-07,
+      "p_value": 2.3909853923237344e-07,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0009394",
+      "label": "2'-deoxyribonucleotide metabolic process",
+      "fdr": 2.571343030761985e-07,
+      "p_value": 2.571343030761985e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-73864",
+      "label": "RNA Polymerase I Transcription",
+      "fdr": 2.683765100317609e-07,
+      "p_value": 2.683765100317609e-07,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0003676",
+      "label": "nucleic acid binding",
+      "fdr": 2.7878768329994377e-07,
+      "p_value": 2.7878768329994377e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005667",
+      "label": "transcription regulator complex",
+      "fdr": 2.825747804450947e-07,
+      "p_value": 2.825747804450947e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0046385",
+      "label": "deoxyribose phosphate biosynthetic process",
+      "fdr": 3.1497777527961787e-07,
+      "p_value": 3.1497777527961787e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009265",
+      "label": "2'-deoxyribonucleotide biosynthetic process",
+      "fdr": 3.1497777527961787e-07,
+      "p_value": 3.1497777527961787e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009263",
+      "label": "deoxyribonucleotide biosynthetic process",
+      "fdr": 3.1497777527961787e-07,
+      "p_value": 3.1497777527961787e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009262",
+      "label": "deoxyribonucleotide metabolic process",
+      "fdr": 3.439649122500529e-07,
+      "p_value": 3.439649122500529e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-190236",
+      "label": "Signaling by FGFR",
+      "fdr": 7.540374653495774e-07,
+      "p_value": 7.540374653495774e-07,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0009165",
+      "label": "nucleotide biosynthetic process",
+      "fdr": 1.0735489341862638e-06,
+      "p_value": 1.0735489341862638e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5578749",
+      "label": "Transcriptional regulation by small RNAs",
+      "fdr": 1.327774302380751e-06,
+      "p_value": 1.327774302380751e-06,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0005622",
+      "label": "intracellular anatomical structure",
+      "fdr": 1.3723065519711033e-06,
+      "p_value": 1.3723065519711033e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0016772",
+      "label": "transferase activity, transferring phosphorus-containing groups",
+      "fdr": 1.7166768273810934e-06,
+      "p_value": 1.7166768273810934e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "KEGG:00983",
+      "label": "Drug metabolism - other enzymes",
+      "fdr": 1.7438428355457137e-06,
+      "p_value": 1.7438428355457137e-06,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0009416",
+      "label": "response to light stimulus",
+      "fdr": 1.7720238434051898e-06,
+      "p_value": 1.7720238434051898e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-74217",
+      "label": "Purine salvage",
+      "fdr": 1.8432943580775197e-06,
+      "p_value": 1.8432943580775197e-06,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0072527",
+      "label": "pyrimidine-containing compound metabolic process",
+      "fdr": 1.9704702922479475e-06,
+      "p_value": 1.9704702922479475e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0140296",
+      "label": "general transcription initiation factor binding",
+      "fdr": 2.319499510957959e-06,
+      "p_value": 2.319499510957959e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0008023",
+      "label": "transcription elongation factor complex",
+      "fdr": 2.3808018811274353e-06,
+      "p_value": 2.3808018811274353e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0009117",
+      "label": "nucleotide metabolic process",
+      "fdr": 2.497726838603947e-06,
+      "p_value": 2.497726838603947e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0043094",
+      "label": "metabolic compound salvage",
+      "fdr": 2.5539346183848446e-06,
+      "p_value": 2.5539346183848446e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006368",
+      "label": "transcription elongation by RNA polymerase II",
+      "fdr": 2.7463107913708316e-06,
+      "p_value": 2.7463107913708316e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-168273",
+      "label": "Influenza Viral RNA Transcription and Replication",
+      "fdr": 2.8543628926832043e-06,
+      "p_value": 2.8543628926832043e-06,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:1901293",
+      "label": "nucleoside phosphate biosynthetic process",
+      "fdr": 2.8676169474504462e-06,
+      "p_value": 2.8676169474504462e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000439",
+      "label": "transcription factor TFIIH core complex",
+      "fdr": 3.108962376308502e-06,
+      "p_value": 3.108962376308502e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0034644",
+      "label": "cellular response to UV",
+      "fdr": 3.1482231757666666e-06,
+      "p_value": 3.1482231757666666e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006271",
+      "label": "DNA strand elongation involved in DNA replication",
+      "fdr": 3.3128863056281785e-06,
+      "p_value": 3.3128863056281785e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0043228",
+      "label": "membraneless organelle",
+      "fdr": 4.214287822229517e-06,
+      "p_value": 4.214287822229517e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043232",
+      "label": "intracellular membraneless organelle",
+      "fdr": 4.214287822229517e-06,
+      "p_value": 4.214287822229517e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043101",
+      "label": "purine-containing compound salvage",
+      "fdr": 4.47882337425904e-06,
+      "p_value": 4.47882337425904e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005663",
+      "label": "DNA replication factor C complex",
+      "fdr": 7.607423440793125e-06,
+      "p_value": 7.607423440793125e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0090575",
+      "label": "RNA polymerase II transcription regulator complex",
+      "fdr": 7.802174908620059e-06,
+      "p_value": 7.802174908620059e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0009059",
+      "label": "macromolecule biosynthetic process",
+      "fdr": 7.805344797412404e-06,
+      "p_value": 7.805344797412404e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9735804",
+      "label": "Diseases of nucleotide metabolism",
+      "fdr": 8.388999178675062e-06,
+      "p_value": 8.388999178675062e-06,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0005675",
+      "label": "transcription factor TFIIH holo complex",
+      "fdr": 9.636753742381368e-06,
+      "p_value": 9.636753742381368e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-499943",
+      "label": "Interconversion of nucleotide di- and triphosphates",
+      "fdr": 9.6815588787914e-06,
+      "p_value": 9.6815588787914e-06,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:1900264",
+      "label": "positive regulation of DNA-directed DNA polymerase activity",
+      "fdr": 1.0004700697341705e-05,
+      "p_value": 1.0004700697341705e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006283",
+      "label": "transcription-coupled nucleotide-excision repair",
+      "fdr": 1.0004700697341705e-05,
+      "p_value": 1.0004700697341705e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003899",
+      "label": "DNA-directed RNA polymerase activity",
+      "fdr": 1.0720112618364899e-05,
+      "p_value": 1.0720112618364899e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0006753",
+      "label": "nucleoside phosphate metabolic process",
+      "fdr": 1.3737626895530418e-05,
+      "p_value": 1.3737626895530418e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-69278",
+      "label": "Cell Cycle, Mitotic",
+      "fdr": 1.4925628805638127e-05,
+      "p_value": 1.4925628805638127e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-168255",
+      "label": "Influenza Infection",
+      "fdr": 1.6846819759703936e-05,
+      "p_value": 1.6846819759703936e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0016776",
+      "label": "phosphotransferase activity, phosphate group as acceptor",
+      "fdr": 1.784144501649148e-05,
+      "p_value": 1.784144501649148e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0009314",
+      "label": "response to radiation",
+      "fdr": 1.7848914024659934e-05,
+      "p_value": 1.7848914024659934e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0034062",
+      "label": "5'-3' RNA polymerase activity",
+      "fdr": 1.9669981168682913e-05,
+      "p_value": 1.9669981168682913e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0097747",
+      "label": "RNA polymerase activity",
+      "fdr": 1.9669981168682913e-05,
+      "p_value": 1.9669981168682913e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-5633007",
+      "label": "Regulation of TP53 Activity",
+      "fdr": 2.6562875464582136e-05,
+      "p_value": 2.6562875464582136e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-8953854",
+      "label": "Metabolism of RNA",
+      "fdr": 3.358768950923499e-05,
+      "p_value": 3.358768950923499e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9670095",
+      "label": "Inhibition of DNA recombination at telomere",
+      "fdr": 3.613891905268678e-05,
+      "p_value": 3.613891905268678e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0003677",
+      "label": "DNA binding",
+      "fdr": 3.8057021958573304e-05,
+      "p_value": 3.8057021958573304e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005694",
+      "label": "chromosome",
+      "fdr": 3.896128923985478e-05,
+      "p_value": 3.896128923985478e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0009116",
+      "label": "nucleoside metabolic process",
+      "fdr": 4.0846522077227907e-05,
+      "p_value": 4.0846522077227907e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071482",
+      "label": "cellular response to light stimulus",
+      "fdr": 4.29443040641094e-05,
+      "p_value": 4.29443040641094e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031390",
+      "label": "Ctf18 RFC-like complex",
+      "fdr": 5.254413840490954e-05,
+      "p_value": 5.254413840490954e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0000228",
+      "label": "nuclear chromosome",
+      "fdr": 5.344687669716339e-05,
+      "p_value": 5.344687669716339e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-72163",
+      "label": "mRNA Splicing - Major Pathway",
+      "fdr": 5.964783441262835e-05,
+      "p_value": 5.964783441262835e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0070914",
+      "label": "UV-damage excision repair",
+      "fdr": 6.153676043195929e-05,
+      "p_value": 6.153676043195929e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0072528",
+      "label": "pyrimidine-containing compound biosynthetic process",
+      "fdr": 6.298553430262196e-05,
+      "p_value": 6.298553430262196e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9709570",
+      "label": "Impaired BRCA2 binding to RAD51",
+      "fdr": 6.762840806713565e-05,
+      "p_value": 6.762840806713565e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9018519",
+      "label": "Estrogen-dependent gene expression",
+      "fdr": 8.297945034490056e-05,
+      "p_value": 8.297945034490056e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0009124",
+      "label": "nucleoside monophosphate biosynthetic process",
+      "fdr": 8.336316254812411e-05,
+      "p_value": 8.336316254812411e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009126",
+      "label": "purine nucleoside monophosphate metabolic process",
+      "fdr": 8.336316254812411e-05,
+      "p_value": 8.336316254812411e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005730",
+      "label": "nucleolus",
+      "fdr": 8.942767604580226e-05,
+      "p_value": 8.942767604580226e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-72172",
+      "label": "mRNA Splicing",
+      "fdr": 9.086377910894487e-05,
+      "p_value": 9.086377910894487e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006287",
+      "label": "base-excision repair, gap-filling",
+      "fdr": 9.927676415265937e-05,
+      "p_value": 9.927676415265937e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0004550",
+      "label": "nucleoside diphosphate kinase activity",
+      "fdr": 0.00011009570675959286,
+      "p_value": 0.00011009570675959286,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0003824",
+      "label": "catalytic activity",
+      "fdr": 0.00011385779559120636,
+      "p_value": 0.00011385779559120636,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0051052",
+      "label": "regulation of DNA metabolic process",
+      "fdr": 0.00012808532285190873,
+      "p_value": 0.00012808532285190873,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071478",
+      "label": "cellular response to radiation",
+      "fdr": 0.00012934808126490843,
+      "p_value": 0.00012934808126490843,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032261",
+      "label": "purine nucleotide salvage",
+      "fdr": 0.0001386985060608936,
+      "p_value": 0.0001386985060608936,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006360",
+      "label": "transcription by RNA polymerase I",
+      "fdr": 0.00015044744520762264,
+      "p_value": 0.00015044744520762264,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:03440",
+      "label": "Homologous recombination",
+      "fdr": 0.00016886089197376677,
+      "p_value": 0.00016886089197376677,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0032774",
+      "label": "RNA biosynthetic process",
+      "fdr": 0.00017645363881289462,
+      "p_value": 0.00017645363881289462,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009299",
+      "label": "mRNA transcription",
+      "fdr": 0.00017662051400936602,
+      "p_value": 0.00017662051400936602,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5693616",
+      "label": "Presynaptic phase of homologous DNA pairing and strand exchange",
+      "fdr": 0.00017828036238945051,
+      "p_value": 0.00017828036238945051,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0032806",
+      "label": "carboxy-terminal domain protein kinase complex",
+      "fdr": 0.00017849670576401553,
+      "p_value": 0.00017849670576401553,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-9675136",
+      "label": "Diseases of DNA Double-Strand Break Repair",
+      "fdr": 0.00021282910491133837,
+      "p_value": 0.00021282910491133837,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9701190",
+      "label": "Defective homologous recombination repair (HRR) due to BRCA2 loss of function",
+      "fdr": 0.00021282910491133837,
+      "p_value": 0.00021282910491133837,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0051123",
+      "label": "RNA polymerase II preinitiation complex assembly",
+      "fdr": 0.00021673963671780476,
+      "p_value": 0.00021673963671780476,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016070",
+      "label": "RNA metabolic process",
+      "fdr": 0.00021879456427501446,
+      "p_value": 0.00021879456427501446,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003689",
+      "label": "DNA clamp loader activity",
+      "fdr": 0.0002277977734848668,
+      "p_value": 0.0002277977734848668,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0001098",
+      "label": "basal transcription machinery binding",
+      "fdr": 0.00025483498990710464,
+      "p_value": 0.00025483498990710464,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0001099",
+      "label": "basal RNA polymerase II transcription machinery binding",
+      "fdr": 0.00025483498990710464,
+      "p_value": 0.00025483498990710464,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "KEGG:04623",
+      "label": "Cytosolic DNA-sensing pathway",
+      "fdr": 0.0002556340237525982,
+      "p_value": 0.0002556340237525982,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0006298",
+      "label": "mismatch repair",
+      "fdr": 0.0002835516309982282,
+      "p_value": 0.0002835516309982282,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5693579",
+      "label": "Homologous DNA Pairing and Strand Exchange",
+      "fdr": 0.00029896791759256836,
+      "p_value": 0.00029896791759256836,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0070897",
+      "label": "transcription preinitiation complex assembly",
+      "fdr": 0.000306689784406069,
+      "p_value": 0.000306689784406069,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003678",
+      "label": "DNA helicase activity",
+      "fdr": 0.0003274217101398758,
+      "p_value": 0.0003274217101398758,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0090734",
+      "label": "site of DNA damage",
+      "fdr": 0.0003791002946245469,
+      "p_value": 0.0003791002946245469,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-1834949",
+      "label": "Cytosolic sensors of pathogen-associated DNA ",
+      "fdr": 0.0003839717120586465,
+      "p_value": 0.0003839717120586465,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0016740",
+      "label": "transferase activity",
+      "fdr": 0.00043244726979935514,
+      "p_value": 0.00043244726979935514,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0000813",
+      "label": "ESCRT I complex",
+      "fdr": 0.0004823425756266391,
+      "p_value": 0.0004823425756266391,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0017025",
+      "label": "TBP-class protein binding",
+      "fdr": 0.0004959146309688641,
+      "p_value": 0.0004959146309688641,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0065004",
+      "label": "protein-DNA complex assembly",
+      "fdr": 0.0005337309288717916,
+      "p_value": 0.0005337309288717916,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-68952",
+      "label": "DNA replication initiation",
+      "fdr": 0.0005654468550499836,
+      "p_value": 0.0005654468550499836,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:1901135",
+      "label": "carbohydrate derivative metabolic process",
+      "fdr": 0.0005731360131254898,
+      "p_value": 0.0005731360131254898,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005515",
+      "label": "protein binding",
+      "fdr": 0.0005895174882142319,
+      "p_value": 0.0005895174882142319,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0043173",
+      "label": "nucleotide salvage",
+      "fdr": 0.0006382695188983211,
+      "p_value": 0.0006382695188983211,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9734207",
+      "label": "Nucleotide salvage defects",
+      "fdr": 0.0007078138009304999,
+      "p_value": 0.0007078138009304999,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0097550",
+      "label": "transcription preinitiation complex",
+      "fdr": 0.000718695486568767,
+      "p_value": 0.000718695486568767,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043625",
+      "label": "delta DNA polymerase complex",
+      "fdr": 0.000725133249906614,
+      "p_value": 0.000725133249906614,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0032021",
+      "label": "NELF complex",
+      "fdr": 0.000725133249906614,
+      "p_value": 0.000725133249906614,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0019908",
+      "label": "nuclear cyclin-dependent protein kinase holoenzyme complex",
+      "fdr": 0.0007265831941358748,
+      "p_value": 0.0007265831941358748,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0017116",
+      "label": "single-stranded DNA helicase activity",
+      "fdr": 0.0008090763470282388,
+      "p_value": 0.0008090763470282388,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0032785",
+      "label": "negative regulation of DNA-templated transcription, elongation",
+      "fdr": 0.0008588993075552283,
+      "p_value": 0.0008588993075552283,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0060261",
+      "label": "positive regulation of transcription initiation by RNA polymerase II",
+      "fdr": 0.0008614942434926855,
+      "p_value": 0.0008614942434926855,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9675135",
+      "label": "Diseases of DNA repair",
+      "fdr": 0.0008636078681579537,
+      "p_value": 0.0008636078681579537,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006220",
+      "label": "pyrimidine nucleotide metabolic process",
+      "fdr": 0.0009269723058624873,
+      "p_value": 0.0009269723058624873,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-68962",
+      "label": "Activation of the pre-replicative complex",
+      "fdr": 0.0009749179982055502,
+      "p_value": 0.0009749179982055502,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0004536",
+      "label": "DNA nuclease activity",
+      "fdr": 0.0010045776407309635,
+      "p_value": 0.0010045776407309635,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0043096",
+      "label": "purine nucleobase salvage",
+      "fdr": 0.0010682368931279663,
+      "p_value": 0.0010682368931279663,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:03460",
+      "label": "Fanconi anemia pathway",
+      "fdr": 0.0011368764591130583,
+      "p_value": 0.0011368764591130583,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0006950",
+      "label": "response to stress",
+      "fdr": 0.0011405544779196737,
+      "p_value": 0.0011405544779196737,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0008094",
+      "label": "ATP-dependent activity, acting on DNA",
+      "fdr": 0.0012605163597447496,
+      "p_value": 0.0012605163597447496,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0022616",
+      "label": "DNA strand elongation",
+      "fdr": 0.0013082352971496539,
+      "p_value": 0.0013082352971496539,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031464",
+      "label": "Cul4A-RING E3 ubiquitin ligase complex",
+      "fdr": 0.0014340753483181794,
+      "p_value": 0.0014340753483181794,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0009112",
+      "label": "nucleobase metabolic process",
+      "fdr": 0.0014815183365431137,
+      "p_value": 0.0014815183365431137,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006312",
+      "label": "mitotic recombination",
+      "fdr": 0.0014815183365431137,
+      "p_value": 0.0014815183365431137,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:2000144",
+      "label": "positive regulation of DNA-templated transcription initiation",
+      "fdr": 0.0017709550918088572,
+      "p_value": 0.0017709550918088572,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005658",
+      "label": "alpha DNA polymerase:primase complex",
+      "fdr": 0.001801421989605349,
+      "p_value": 0.001801421989605349,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0031465",
+      "label": "Cul4B-RING E3 ubiquitin ligase complex",
+      "fdr": 0.001801421989605349,
+      "p_value": 0.001801421989605349,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0071824",
+      "label": "protein-DNA complex organization",
+      "fdr": 0.0018032166774360344,
+      "p_value": 0.0018032166774360344,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042789",
+      "label": "mRNA transcription by RNA polymerase II",
+      "fdr": 0.0018091283139624896,
+      "p_value": 0.0018091283139624896,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-176187",
+      "label": "Activation of ATR in response to replication stress",
+      "fdr": 0.001966588741887495,
+      "p_value": 0.001966588741887495,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0009167",
+      "label": "purine ribonucleoside monophosphate metabolic process",
+      "fdr": 0.002414709388321114,
+      "p_value": 0.002414709388321114,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0060260",
+      "label": "regulation of transcription initiation by RNA polymerase II",
+      "fdr": 0.002465855858467178,
+      "p_value": 0.002465855858467178,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9755088",
+      "label": "Ribavirin ADME",
+      "fdr": 0.002591250446360874,
+      "p_value": 0.002591250446360874,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0009157",
+      "label": "deoxyribonucleoside monophosphate biosynthetic process",
+      "fdr": 0.00424481696013178,
+      "p_value": 0.00424481696013178,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0033276",
+      "label": "transcription factor TFTC complex",
+      "fdr": 0.004268388305464867,
+      "p_value": 0.004268388305464867,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:2000142",
+      "label": "regulation of DNA-templated transcription initiation",
+      "fdr": 0.00455004972819151,
+      "p_value": 0.00455004972819151,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-212165",
+      "label": "Epigenetic regulation of gene expression",
+      "fdr": 0.0045626421859259365,
+      "p_value": 0.0045626421859259365,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-8939211",
+      "label": "ESR-mediated signaling",
+      "fdr": 0.004587267418428062,
+      "p_value": 0.004587267418428062,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0019985",
+      "label": "translesion synthesis",
+      "fdr": 0.004619378066989841,
+      "p_value": 0.004619378066989841,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5250924",
+      "label": "B-WICH complex positively regulates rRNA expression",
+      "fdr": 0.004753606686048188,
+      "p_value": 0.004753606686048188,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0070461",
+      "label": "SAGA-type complex",
+      "fdr": 0.005103943533363395,
+      "p_value": 0.005103943533363395,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0035861",
+      "label": "site of double-strand break",
+      "fdr": 0.005122243964840818,
+      "p_value": 0.005122243964840818,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0090592",
+      "label": "DNA synthesis involved in DNA replication",
+      "fdr": 0.005628481647986377,
+      "p_value": 0.005628481647986377,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5617472",
+      "label": "Activation of anterior HOX genes in hindbrain development during early embryogenesis",
+      "fdr": 0.005882457358546705,
+      "p_value": 0.005882457358546705,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5619507",
+      "label": "Activation of HOX genes during differentiation",
+      "fdr": 0.005882457358546705,
+      "p_value": 0.005882457358546705,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006302",
+      "label": "double-strand break repair",
+      "fdr": 0.005968789146909846,
+      "p_value": 0.005968789146909846,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000307",
+      "label": "cyclin-dependent protein kinase holoenzyme complex",
+      "fdr": 0.006293819785094017,
+      "p_value": 0.006293819785094017,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0046112",
+      "label": "nucleobase biosynthetic process",
+      "fdr": 0.006295626263925362,
+      "p_value": 0.006295626263925362,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:03250",
+      "label": "Viral life cycle - HIV-1",
+      "fdr": 0.006345022683723051,
+      "p_value": 0.006345022683723051,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-174495",
+      "label": "Synthesis And Processing Of GAG, GAGPOL Polyproteins",
+      "fdr": 0.007640879296232332,
+      "p_value": 0.007640879296232332,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-174490",
+      "label": "Membrane binding and targetting of GAG proteins",
+      "fdr": 0.007640879296232332,
+      "p_value": 0.007640879296232332,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:1901137",
+      "label": "carbohydrate derivative biosynthetic process",
+      "fdr": 0.007888924419698904,
+      "p_value": 0.007888924419698904,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046128",
+      "label": "purine ribonucleoside metabolic process",
+      "fdr": 0.00875254955416741,
+      "p_value": 0.00875254955416741,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0120545",
+      "label": "nucleic acid conformation isomerase activity",
+      "fdr": 0.010176147849120699,
+      "p_value": 0.010176147849120699,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0006351",
+      "label": "DNA-templated transcription",
+      "fdr": 0.010251574211885706,
+      "p_value": 0.010251574211885706,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006269",
+      "label": "DNA replication, synthesis of primer",
+      "fdr": 0.01054220627693929,
+      "p_value": 0.01054220627693929,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009221",
+      "label": "pyrimidine deoxyribonucleotide biosynthetic process",
+      "fdr": 0.01054220627693929,
+      "p_value": 0.01054220627693929,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0034243",
+      "label": "regulation of transcription elongation by RNA polymerase II",
+      "fdr": 0.011190937621902423,
+      "p_value": 0.011190937621902423,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-175474",
+      "label": "Assembly Of The HIV Virion",
+      "fdr": 0.013633163407407365,
+      "p_value": 0.013633163407407365,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0000992",
+      "label": "RNA polymerase III cis-regulatory region sequence-specific DNA binding",
+      "fdr": 0.013937764470878595,
+      "p_value": 0.013937764470878595,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0001091",
+      "label": "RNA polymerase II general transcription initiation factor binding",
+      "fdr": 0.014582286387132548,
+      "p_value": 0.014582286387132548,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-5250913",
+      "label": "Positive epigenetic regulation of rRNA expression",
+      "fdr": 0.01489131973454884,
+      "p_value": 0.01489131973454884,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0009119",
+      "label": "ribonucleoside metabolic process",
+      "fdr": 0.01569312186758311,
+      "p_value": 0.01569312186758311,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0043328",
+      "label": "protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway",
+      "fdr": 0.01569312186758311,
+      "p_value": 0.01569312186758311,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0090407",
+      "label": "organophosphate biosynthetic process",
+      "fdr": 0.0170815506360241,
+      "p_value": 0.0170815506360241,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000781",
+      "label": "chromosome, telomeric region",
+      "fdr": 0.017707978892179725,
+      "p_value": 0.017707978892179725,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0009219",
+      "label": "pyrimidine deoxyribonucleotide metabolic process",
+      "fdr": 0.020379089377143198,
+      "p_value": 0.020379089377143198,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006221",
+      "label": "pyrimidine nucleotide biosynthetic process",
+      "fdr": 0.020379089377143198,
+      "p_value": 0.020379089377143198,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019637",
+      "label": "organophosphate metabolic process",
+      "fdr": 0.020828590953403565,
+      "p_value": 0.020828590953403565,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032044",
+      "label": "DSIF complex",
+      "fdr": 0.02157982889644577,
+      "p_value": 0.02157982889644577,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0001016",
+      "label": "RNA polymerase III transcription regulatory region sequence-specific DNA binding",
+      "fdr": 0.022163744489314855,
+      "p_value": 0.022163744489314855,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-72187",
+      "label": "mRNA 3'-end processing",
+      "fdr": 0.022746514848311757,
+      "p_value": 0.022746514848311757,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0008134",
+      "label": "transcription factor binding",
+      "fdr": 0.022862570331035476,
+      "p_value": 0.022862570331035476,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0006301",
+      "label": "DNA damage tolerance",
+      "fdr": 0.024632674610149195,
+      "p_value": 0.024632674610149195,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042278",
+      "label": "purine nucleoside metabolic process",
+      "fdr": 0.026019554436003144,
+      "p_value": 0.026019554436003144,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-77595",
+      "label": "Processing of Intronless Pre-mRNAs",
+      "fdr": 0.02822560501510393,
+      "p_value": 0.02822560501510393,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0032784",
+      "label": "regulation of DNA-templated transcription elongation",
+      "fdr": 0.03029248052090663,
+      "p_value": 0.03029248052090663,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0036452",
+      "label": "ESCRT complex",
+      "fdr": 0.030788918700232808,
+      "p_value": 0.030788918700232808,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0071214",
+      "label": "cellular response to abiotic stimulus",
+      "fdr": 0.03194109637195687,
+      "p_value": 0.03194109637195687,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0104004",
+      "label": "cellular response to environmental stimulus",
+      "fdr": 0.03194109637195687,
+      "p_value": 0.03194109637195687,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006303",
+      "label": "double-strand break repair via nonhomologous end joining",
+      "fdr": 0.034588054988885106,
+      "p_value": 0.034588054988885106,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0004520",
+      "label": "DNA endonuclease activity",
+      "fdr": 0.03480707319021258,
+      "p_value": 0.03480707319021258,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-5696394",
+      "label": "DNA Damage Recognition in GG-NER",
+      "fdr": 0.03591230529757838,
+      "p_value": 0.03591230529757838,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0009130",
+      "label": "pyrimidine nucleoside monophosphate biosynthetic process",
+      "fdr": 0.036413968955328814,
+      "p_value": 0.036413968955328814,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-110362",
+      "label": "POLB-Dependent Long Patch Base Excision Repair",
+      "fdr": 0.037908717320256156,
+      "p_value": 0.037908717320256156,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:1902555",
+      "label": "endoribonuclease complex",
+      "fdr": 0.04024965417427599,
+      "p_value": 0.04024965417427599,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0004386",
+      "label": "helicase activity",
+      "fdr": 0.04048166315651541,
+      "p_value": 0.04048166315651541,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0016604",
+      "label": "nuclear body",
+      "fdr": 0.04451069222371455,
+      "p_value": 0.04451069222371455,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0006282",
+      "label": "regulation of DNA repair",
+      "fdr": 0.04623682827771333,
+      "p_value": 0.04623682827771333,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005662",
+      "label": "DNA replication factor A complex",
+      "fdr": 0.048986906631734606,
+      "p_value": 0.048986906631734606,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "KEGG:05016",
+      "label": "Huntington disease",
+      "fdr": 0.049230961249731815,
+      "p_value": 0.049230961249731815,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0106130",
+      "label": "purine phosphoribosyltransferase activity",
+      "fdr": 0.04952543499539173,
+      "p_value": 0.04952543499539173,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0039702",
+      "label": "viral budding via host ESCRT complex",
+      "fdr": 0.04983781125829208,
+      "p_value": 0.04983781125829208,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    }
+  ]
+}

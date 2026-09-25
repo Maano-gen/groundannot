@@ -1,0 +1,1152 @@
+{
+  "PANTHER": [
+    {
+      "id": "GO:0042254",
+      "label": "ribosome biogenesis",
+      "fdr": 1.3839680180403372e-25,
+      "p_value": 1.0057176208417537e-29,
+      "fold": 29.68626036783267,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0022613",
+      "label": "ribonucleoprotein complex biogenesis",
+      "fdr": 4.139890575629521e-21,
+      "p_value": 6.0168455426633545e-25,
+      "fold": 18.854786990380212,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016072",
+      "label": "rRNA metabolic process",
+      "fdr": 8.319113068258652e-21,
+      "p_value": 1.8136283122430022e-24,
+      "fold": 29.06779661016949,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006364",
+      "label": "rRNA processing",
+      "fdr": 2.9743035338555103e-19,
+      "p_value": 8.645602888904906e-23,
+      "fold": 32.03389830508475,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090304",
+      "label": "nucleic acid metabolic process",
+      "fdr": 2.3106519725920425e-16,
+      "p_value": 8.395654285996812e-20,
+      "fold": 5.915042901221523,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006139",
+      "label": "nucleobase-containing compound metabolic process",
+      "fdr": 3.212112964248465e-14,
+      "p_value": 1.4005288703939243e-17,
+      "fold": 4.800815798769637,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016070",
+      "label": "RNA metabolic process",
+      "fdr": 4.758475578286565e-12,
+      "p_value": 2.766354525564459e-15,
+      "fold": 6.328787538292311,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006396",
+      "label": "RNA processing",
+      "fdr": 5.329712316141954e-12,
+      "p_value": 2.711139176876221e-15,
+      "fold": 9.099484156226971,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042273",
+      "label": "ribosomal large subunit biogenesis",
+      "fdr": 2.1203989479921245e-11,
+      "p_value": 1.3867880627809838e-14,
+      "fold": 45.896520963425516,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032774",
+      "label": "RNA biosynthetic process",
+      "fdr": 1.9943948088858447e-10,
+      "p_value": 1.4493095043135271e-13,
+      "fold": 6.428455019556714,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0141187",
+      "label": "nucleic acid biosynthetic process",
+      "fdr": 6.752589601964871e-10,
+      "p_value": 5.397753478788866e-13,
+      "fold": 6.036653020622107,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044085",
+      "label": "cellular component biogenesis",
+      "fdr": 1.06304758348794e-09,
+      "p_value": 9.270090111078612e-13,
+      "fold": 3.9149965021662023,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010467",
+      "label": "gene expression",
+      "fdr": 1.8632609038652754e-08,
+      "p_value": 1.760220314675429e-11,
+      "fold": 4.1434078758006665,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042274",
+      "label": "ribosomal small subunit biogenesis",
+      "fdr": 1.9922018773536183e-08,
+      "p_value": 2.1715738798273583e-11,
+      "fold": 29.067796610169488,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030490",
+      "label": "maturation of SSU-rRNA",
+      "fdr": 1.9986611288272636e-08,
+      "p_value": 2.0333737231001884e-11,
+      "fold": 40.44215180545321,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034654",
+      "label": "nucleobase-containing compound biosynthetic process",
+      "fdr": 2.5141799619805655e-08,
+      "p_value": 2.923252626385368e-11,
+      "fold": 4.970701279062441,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043170",
+      "label": "macromolecule metabolic process",
+      "fdr": 4.1860833974579935e-07,
+      "p_value": 5.171384184055366e-10,
+      "fold": 2.5622596178112476,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009059",
+      "label": "macromolecule biosynthetic process",
+      "fdr": 4.79302454152709e-07,
+      "p_value": 6.269489262952375e-10,
+      "fold": 3.547256535478311,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071840",
+      "label": "cellular component organization or biogenesis",
+      "fdr": 1.1243923994103983e-06,
+      "p_value": 1.5524638898915463e-09,
+      "fold": 2.4060474231688667,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000470",
+      "label": "maturation of LSU-rRNA",
+      "fdr": 2.126426821349487e-05,
+      "p_value": 3.090512057771219e-08,
+      "fold": 54.50211864406779,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009058",
+      "label": "biosynthetic process",
+      "fdr": 2.2039111997654342e-05,
+      "p_value": 3.3632828424586963e-08,
+      "fold": 2.7706363243875605,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044238",
+      "label": "primary metabolic process",
+      "fdr": 2.3003428550588123e-05,
+      "p_value": 3.677606482907773e-08,
+      "fold": 2.1362639468529085,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008152",
+      "label": "metabolic process",
+      "fdr": 2.8574915496572128e-05,
+      "p_value": 4.7759832600912647e-08,
+      "fold": 2.0199655271473715,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000463",
+      "label": "maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",
+      "fdr": 0.00029693333083281046,
+      "p_value": 5.178693365298635e-07,
+      "fold": 60.663227708179804,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000466",
+      "label": "maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",
+      "fdr": 0.0009957265059329242,
+      "p_value": 1.8089646572431588e-06,
+      "fold": 45.00820120284308,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000460",
+      "label": "maturation of 5.8S rRNA",
+      "fdr": 0.003016319979199026,
+      "p_value": 5.699027647640046e-06,
+      "fold": 34.030591153369166,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006259",
+      "label": "DNA metabolic process",
+      "fdr": 0.009481189929405269,
+      "p_value": 1.8602727134215702e-05,
+      "fold": 5.206172527194536,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000959",
+      "label": "mitochondrial RNA metabolic process",
+      "fdr": 0.009837988817771034,
+      "p_value": 2.0017708516647697e-05,
+      "fold": 24.915254237288135,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042255",
+      "label": "ribosome assembly",
+      "fdr": 0.014243212113093725,
+      "p_value": 3.0016216211010686e-05,
+      "fold": 22.50410060142154,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000479",
+      "label": "endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",
+      "fdr": 0.015208512768721361,
+      "p_value": 3.3155685129106955e-05,
+      "fold": 47.56548536209554,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031167",
+      "label": "rRNA methylation",
+      "fdr": 0.027670937836821986,
+      "p_value": 6.233551870805041e-05,
+      "fold": 38.75706214689265,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000462",
+      "label": "maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",
+      "fdr": 0.035860497338964986,
+      "p_value": 8.59963964963189e-05,
+      "fold": 34.88135593220339,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000963",
+      "label": "mitochondrial RNA processing",
+      "fdr": 0.03698113788080764,
+      "p_value": 8.59963964963189e-05,
+      "fold": 34.88135593220339,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009987",
+      "label": "cellular process",
+      "fdr": 0.04303908394007578,
+      "p_value": 0.00010633884557536347,
+      "fold": 1.2843774360789895,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000480",
+      "label": "endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",
+      "fdr": 0.047301359417095644,
+      "p_value": 0.00012030721456277506,
+      "fold": 116.27118644067797,
+      "source": "PANTHER"
+    }
+  ],
+  "Enrichr": [
+    {
+      "id": "GO:0042254",
+      "label": "Ribosome Biogenesis",
+      "fdr": 2.5763369517314506e-25,
+      "p_value": 5.49325576062143e-28,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0022613",
+      "label": "Ribonucleoprotein Complex Biogenesis",
+      "fdr": 1.5190859236989186e-20,
+      "p_value": 6.477978352660634e-23,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006364",
+      "label": "rRNA Processing",
+      "fdr": 1.8083496697995257e-19,
+      "p_value": 1.1567268676756027e-21,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016072",
+      "label": "rRNA Metabolic Process",
+      "fdr": 1.7427317677155864e-18,
+      "p_value": 1.4863383946401588e-20,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006396",
+      "label": "RNA Processing",
+      "fdr": 3.0761802659697237e-13,
+      "p_value": 3.2795098784325412e-15,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042273",
+      "label": "Ribosomal Large Subunit Biogenesis",
+      "fdr": 6.810514608662626e-11,
+      "p_value": 8.71281186609291e-13,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042274",
+      "label": "Ribosomal Small Subunit Biogenesis",
+      "fdr": 8.209642792796022e-09,
+      "p_value": 1.2253198198203018e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000470",
+      "label": "Maturation of LSU-rRNA",
+      "fdr": 3.171417028660593e-05,
+      "p_value": 5.409666573408261e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016070",
+      "label": "RNA Metabolic Process",
+      "fdr": 5.538870602382838e-05,
+      "p_value": 1.062896277642762e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000959",
+      "label": "Mitochondrial RNA Metabolic Process",
+      "fdr": 0.0021038470814825636,
+      "p_value": 4.4858146726707115e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006260",
+      "label": "DNA Replication",
+      "fdr": 0.002545211882193859,
+      "p_value": 5.969580107490928e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030490",
+      "label": "Maturation of SSU-rRNA",
+      "fdr": 0.007099755617279364,
+      "p_value": 0.00018165686014360845,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006259",
+      "label": "DNA Metabolic Process",
+      "fdr": 0.0085158951483696,
+      "p_value": 0.00023604826637271811,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006325",
+      "label": "Chromatin Organization",
+      "fdr": 0.011332607290095354,
+      "p_value": 0.0003382867847789658,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000727",
+      "label": "Double-Strand Break Repair via Break-Induced Replication",
+      "fdr": 0.011369180092498363,
+      "p_value": 0.00036641752551901487,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006402",
+      "label": "mRNA Catabolic Process",
+      "fdr": 0.011369180092498363,
+      "p_value": 0.000387861154541522,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000963",
+      "label": "Mitochondrial RNA Processing",
+      "fdr": 0.012332204587480727,
+      "p_value": 0.00044700954794706256,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030174",
+      "label": "Regulation of DNA-templated DNA Replication Initiation",
+      "fdr": 0.013466014417739126,
+      "p_value": 0.0005354125163723767,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006261",
+      "label": "DNA-templated DNA Replication",
+      "fdr": 0.013466014417739126,
+      "p_value": 0.0005455315009318622,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000479",
+      "label": "Endonucleolytic Clvg of Tricistronic rRNA Trnscpt",
+      "fdr": 0.014810598494023528,
+      "p_value": 0.0006315820253314937,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043069",
+      "label": "Negative Regulation of Programmed Cell Death",
+      "fdr": 0.017272331171235746,
+      "p_value": 0.0008176529694230265,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000463",
+      "label": "Maturation of LSU-rRNA Frm Tricistronic rRNA Trnscpt",
+      "fdr": 0.017272331171235746,
+      "p_value": 0.0008470439593569769,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048864",
+      "label": "Stem Cell Development",
+      "fdr": 0.017272331171235746,
+      "p_value": 0.0008470439593569769,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006338",
+      "label": "Chromatin Remodeling",
+      "fdr": 0.018873677003564553,
+      "p_value": 0.00096581716009712,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006304",
+      "label": "DNA Modification",
+      "fdr": 0.018986575026857206,
+      "p_value": 0.0010930437648723765,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000460",
+      "label": "Maturation of 5.8S rRNA",
+      "fdr": 0.018986575026857206,
+      "p_value": 0.0010930437648723765,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090329",
+      "label": "Regulation of DNA-templated DNA Replication",
+      "fdr": 0.018986575026857206,
+      "p_value": 0.0010930437648723765,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0014033",
+      "label": "Neural Crest Cell Differentiation",
+      "fdr": 0.02055872043718272,
+      "p_value": 0.0012273862947571772,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000466",
+      "label": "Maturation of 5.8S rRNA Frm Tricistronic rRNA Trnscpt",
+      "fdr": 0.020715166668986124,
+      "p_value": 0.0013692327649010019,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0031167",
+      "label": "rRNA Methylation",
+      "fdr": 0.020715166668986124,
+      "p_value": 0.0013692327649010019,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046599",
+      "label": "Regulation of Centriole Replication",
+      "fdr": 0.020715166668986124,
+      "p_value": 0.0013692327649010019,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051254",
+      "label": "Positive Regulation of RNA Metabolic Process",
+      "fdr": 0.02158167513763629,
+      "p_value": 0.001518540041667372,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902749",
+      "label": "Regulation of Cell Cycle G2/M Phase Transition",
+      "fdr": 0.02158167513763629,
+      "p_value": 0.001518540041667372,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032986",
+      "label": "protein-DNA Complex Disassembly",
+      "fdr": 0.025372422422078583,
+      "p_value": 0.0018393653781464217,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902751",
+      "label": "Positive Regulation of Cell Cycle G2/M Phase Transition",
+      "fdr": 0.02693514745221774,
+      "p_value": 0.002010798065278464,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048522",
+      "label": "Positive Regulation of Cellular Process",
+      "fdr": 0.02693514745221774,
+      "p_value": 0.0020675166487843038,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051726",
+      "label": "Regulation of Cell Cycle",
+      "fdr": 0.02871231125302724,
+      "p_value": 0.0022651503547164347,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043066",
+      "label": "Negative Regulation of Apoptotic Process",
+      "fdr": 0.030571136591034217,
+      "p_value": 0.0024769790841349683,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000462",
+      "label": "Maturation of SSU-rRNA Frm Tricistronic rRNA Trnscpt",
+      "fdr": 0.03329909465716109,
+      "p_value": 0.0027690078712777877,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048146",
+      "label": "Positive Regulation of Fibroblast Proliferation",
+      "fdr": 0.034899112996578004,
+      "p_value": 0.0029764701916058,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006356",
+      "label": "Regulation of Transcription by RNA Polymerase I",
+      "fdr": 0.04165149496506696,
+      "p_value": 0.003641175466029308,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0044772",
+      "label": "Mitotic Cell Cycle Phase Transition",
+      "fdr": 0.04764707253935724,
+      "p_value": 0.00432338349077202,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045943",
+      "label": "Positive Regulation of Transcription by RNA Polymerase I",
+      "fdr": 0.04764707253935724,
+      "p_value": 0.00436849492365109,
+      "fold": null,
+      "source": "Enrichr"
+    }
+  ],
+  "g:Profiler": [
+    {
+      "id": "GO:0042254",
+      "label": "ribosome biogenesis",
+      "fdr": 3.558113155110117e-24,
+      "p_value": 3.558113155110117e-24,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016072",
+      "label": "rRNA metabolic process",
+      "fdr": 7.160443837789187e-23,
+      "p_value": 7.160443837789187e-23,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006364",
+      "label": "rRNA processing",
+      "fdr": 3.0541620187190274e-21,
+      "p_value": 3.0541620187190274e-21,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005730",
+      "label": "nucleolus",
+      "fdr": 5.129480050385365e-21,
+      "p_value": 5.129480050385365e-21,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0022613",
+      "label": "ribonucleoprotein complex biogenesis",
+      "fdr": 1.1533760926616893e-19,
+      "p_value": 1.1533760926616893e-19,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003723",
+      "label": "RNA binding",
+      "fdr": 5.113348519730573e-19,
+      "p_value": 5.113348519730573e-19,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0030684",
+      "label": "preribosome",
+      "fdr": 3.2024020105921757e-17,
+      "p_value": 3.2024020105921757e-17,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-8868773",
+      "label": "rRNA processing in the nucleus and cytosol",
+      "fdr": 1.8133706566316515e-13,
+      "p_value": 1.8133706566316515e-13,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-72312",
+      "label": "rRNA processing",
+      "fdr": 3.8938376122109764e-13,
+      "p_value": 3.8938376122109764e-13,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-6791226",
+      "label": "Major pathway of rRNA processing in the nucleolus and cytosol",
+      "fdr": 2.532225051929013e-12,
+      "p_value": 2.532225051929013e-12,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006396",
+      "label": "RNA processing",
+      "fdr": 1.5563420071075073e-11,
+      "p_value": 1.5563420071075073e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042273",
+      "label": "ribosomal large subunit biogenesis",
+      "fdr": 2.6705039218346375e-11,
+      "p_value": 2.6705039218346375e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003676",
+      "label": "nucleic acid binding",
+      "fdr": 3.9797565746514506e-11,
+      "p_value": 3.9797565746514506e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0031974",
+      "label": "membrane-enclosed lumen",
+      "fdr": 2.346002962228241e-10,
+      "p_value": 2.346002962228241e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043233",
+      "label": "organelle lumen",
+      "fdr": 2.346002962228241e-10,
+      "p_value": 2.346002962228241e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0070013",
+      "label": "intracellular organelle lumen",
+      "fdr": 2.346002962228241e-10,
+      "p_value": 2.346002962228241e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-6790901",
+      "label": "rRNA modification in the nucleus and cytosol",
+      "fdr": 5.174649550634933e-10,
+      "p_value": 5.174649550634933e-10,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0090304",
+      "label": "nucleic acid metabolic process",
+      "fdr": 9.354185159838215e-10,
+      "p_value": 9.354185159838215e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031981",
+      "label": "nuclear lumen",
+      "fdr": 1.4898986184153625e-09,
+      "p_value": 1.4898986184153625e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0006139",
+      "label": "nucleobase-containing compound metabolic process",
+      "fdr": 5.739626291407341e-09,
+      "p_value": 5.739626291407341e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032040",
+      "label": "small-subunit processome",
+      "fdr": 2.2743547768536938e-08,
+      "p_value": 2.2743547768536938e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:1990904",
+      "label": "ribonucleoprotein complex",
+      "fdr": 1.6007653883715517e-07,
+      "p_value": 1.6007653883715517e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-8953854",
+      "label": "Metabolism of RNA",
+      "fdr": 3.2703671629295274e-07,
+      "p_value": 3.2703671629295274e-07,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0043232",
+      "label": "intracellular membraneless organelle",
+      "fdr": 3.7690056449697067e-07,
+      "p_value": 3.7690056449697067e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043228",
+      "label": "membraneless organelle",
+      "fdr": 3.7690056449697067e-07,
+      "p_value": 3.7690056449697067e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0030687",
+      "label": "preribosome, large subunit precursor",
+      "fdr": 5.105105194871822e-07,
+      "p_value": 5.105105194871822e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0005634",
+      "label": "nucleus",
+      "fdr": 7.07911553104445e-07,
+      "p_value": 7.07911553104445e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0016070",
+      "label": "RNA metabolic process",
+      "fdr": 1.1093416180942999e-06,
+      "p_value": 1.1093416180942999e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032774",
+      "label": "RNA biosynthetic process",
+      "fdr": 1.2658594971735064e-06,
+      "p_value": 1.2658594971735064e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042274",
+      "label": "ribosomal small subunit biogenesis",
+      "fdr": 2.104279097383593e-06,
+      "p_value": 2.104279097383593e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030686",
+      "label": "90S preribosome",
+      "fdr": 2.1452553624741975e-06,
+      "p_value": 2.1452553624741975e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0141187",
+      "label": "nucleic acid biosynthetic process",
+      "fdr": 2.4065476390282145e-06,
+      "p_value": 2.4065476390282145e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005654",
+      "label": "nucleoplasm",
+      "fdr": 4.923361484400847e-06,
+      "p_value": 4.923361484400847e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0034654",
+      "label": "nucleobase-containing compound biosynthetic process",
+      "fdr": 1.4931351249275879e-05,
+      "p_value": 1.4931351249275879e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0044085",
+      "label": "cellular component biogenesis",
+      "fdr": 1.8892789805838628e-05,
+      "p_value": 1.8892789805838628e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:03008",
+      "label": "Ribosome biogenesis in eukaryotes",
+      "fdr": 2.516869617495752e-05,
+      "p_value": 2.516869617495752e-05,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0000470",
+      "label": "maturation of LSU-rRNA",
+      "fdr": 2.8957393692720714e-05,
+      "p_value": 2.8957393692720714e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0140513",
+      "label": "nuclear protein-containing complex",
+      "fdr": 0.00010829127344543967,
+      "p_value": 0.00010829127344543967,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-8869496",
+      "label": "TFAP2A acts as a transcriptional repressor during retinoic acid induced cell differentiation",
+      "fdr": 0.00022867993626362777,
+      "p_value": 0.00022867993626362777,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0010467",
+      "label": "gene expression",
+      "fdr": 0.0005212313541495334,
+      "p_value": 0.0005212313541495334,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0043170",
+      "label": "macromolecule metabolic process",
+      "fdr": 0.0005971297176256109,
+      "p_value": 0.0005971297176256109,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0044238",
+      "label": "primary metabolic process",
+      "fdr": 0.0008967400267819214,
+      "p_value": 0.0008967400267819214,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030688",
+      "label": "preribosome, small subunit precursor",
+      "fdr": 0.0010316174146754358,
+      "p_value": 0.0010316174146754358,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043231",
+      "label": "intracellular membrane-bounded organelle",
+      "fdr": 0.001538911859348551,
+      "p_value": 0.001538911859348551,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0030515",
+      "label": "snoRNA binding",
+      "fdr": 0.001712024056368637,
+      "p_value": 0.001712024056368637,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0009059",
+      "label": "macromolecule biosynthetic process",
+      "fdr": 0.002976112002556275,
+      "p_value": 0.002976112002556275,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071840",
+      "label": "cellular component organization or biogenesis",
+      "fdr": 0.0036415246351144954,
+      "p_value": 0.0036415246351144954,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0008152",
+      "label": "metabolic process",
+      "fdr": 0.005040887996276239,
+      "p_value": 0.005040887996276239,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-8864260",
+      "label": "Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors",
+      "fdr": 0.005831351612425739,
+      "p_value": 0.005831351612425739,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0140640",
+      "label": "catalytic activity, acting on a nucleic acid",
+      "fdr": 0.007856224524249715,
+      "p_value": 0.007856224524249715,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0034457",
+      "label": "Mpp10 complex",
+      "fdr": 0.008159549204820914,
+      "p_value": 0.008159549204820914,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "KEGG:04110",
+      "label": "Cell cycle",
+      "fdr": 0.012871329252959843,
+      "p_value": 0.012871329252959843,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0032991",
+      "label": "protein-containing complex",
+      "fdr": 0.012928869090044955,
+      "p_value": 0.012928869090044955,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0009058",
+      "label": "biosynthetic process",
+      "fdr": 0.014238065777410614,
+      "p_value": 0.014238065777410614,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005732",
+      "label": "sno(s)RNA-containing ribonucleoprotein complex",
+      "fdr": 0.01476480531312069,
+      "p_value": 0.01476480531312069,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043227",
+      "label": "membrane-bounded organelle",
+      "fdr": 0.017014007648653507,
+      "p_value": 0.017014007648653507,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:1905354",
+      "label": "exoribonuclease complex",
+      "fdr": 0.01908482757367961,
+      "p_value": 0.01908482757367961,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0030490",
+      "label": "maturation of SSU-rRNA",
+      "fdr": 0.028537405904373966,
+      "p_value": 0.028537405904373966,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000463",
+      "label": "maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",
+      "fdr": 0.029584527891982425,
+      "p_value": 0.029584527891982425,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005622",
+      "label": "intracellular anatomical structure",
+      "fdr": 0.03031283364915311,
+      "p_value": 0.03031283364915311,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0006259",
+      "label": "DNA metabolic process",
+      "fdr": 0.03558872058502398,
+      "p_value": 0.03558872058502398,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031428",
+      "label": "box C/D methylation guide snoRNP complex",
+      "fdr": 0.04053677579784984,
+      "p_value": 0.04053677579784984,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0170049",
+      "label": "box C/D RNP complex",
+      "fdr": 0.04053677579784984,
+      "p_value": 0.04053677579784984,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0001650",
+      "label": "fibrillar center",
+      "fdr": 0.04717059780153184,
+      "p_value": 0.04717059780153184,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0000959",
+      "label": "mitochondrial RNA metabolic process",
+      "fdr": 0.049696909120106596,
+      "p_value": 0.049696909120106596,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[2026-09-24T14:05:54] data_dir = /home/maano.malima/Method_API
+[2026-09-24T14:05:54] provider = groq
+[2026-09-24T14:05:54] model    = openai/gpt-oss-120b
+[2026-09-24T14:05:54] tag      = groq-gpt-oss-120b-run039
+[2026-09-24T14:05:57] client ready
+[2026-09-24T14:05:57] querying alzheimers_disease (15 genes) | allowed=13824 enriched=794
+[2026-09-24T14:06:01]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 5 | valid_enriched 4
+[2026-09-24T14:06:01]     OBSOLETE         GO:1902008  obsolete negative regulation of toxin transport
+[2026-09-24T14:06:01] querying hereditary_cancer (28 genes) | allowed=13806 enriched=557
+[2026-09-24T14:06:01]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 5 | valid_enriched 5
+[2026-09-24T14:06:01] querying hypertrophic_cardiomyopathy (20 genes) | allowed=13809 enriched=230
+[2026-09-24T14:06:04]   LLM 10 IDs | unsupported 3 | allowed_not_enriched 2 | valid_enriched 5
+[2026-09-24T14:06:04]     WRONG_BRANCH     GO:0005509  calcium ion binding
+[2026-09-24T14:06:04]     WRONG_BRANCH     GO:0005515  protein binding
+[2026-09-24T14:06:04]     OBSOLETE         GO:0006949  obsolete syncytium formation
+[2026-09-24T14:06:04] querying parkinsons_disease (16 genes) | allowed=13807 enriched=684
+[2026-09-24T14:06:05]   LLM 9 IDs | unsupported 1 | allowed_not_enriched 6 | valid_enriched 2
+[2026-09-24T14:06:05]     WRONG_BRANCH     GO:0008289  lipid binding
+[2026-09-24T14:06:05] querying primary_immunodeficiency (24 genes) | allowed=13793 enriched=354
+[2026-09-24T14:06:09]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 3 | valid_enriched 6
+[2026-09-24T14:06:09]     OBSOLETE         GO:0016570  obsolete histone modification
+[2026-09-24T14:06:09] querying type2_diabetes (18 genes) | allowed=13776 enriched=303
+[2026-09-24T14:06:12]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 10 | valid_enriched 0
+[2026-09-24T14:06:12] ==================================================
+[2026-09-24T14:06:12] provider=groq model=openai/gpt-oss-120b
+[2026-09-24T14:06:12] TOTAL: 59 LLM IDs across 6 disease lists
+[2026-09-24T14:06:12]   Contract A unsupported (not in allowed):     6
+[2026-09-24T14:06:12]   Contract B allowed but not enriched:         31
+[2026-09-24T14:06:12]   Contract A+B violated (not in enriched):     37
+[2026-09-24T14:06:12]   Valid enriched hits:                         22
+[2026-09-24T14:06:12]   QuickGO breakdown: {'OBSOLETE': 3, 'WRONG_BRANCH': 3}
+[2026-09-24T14:06:12] wrote llm_baseline_groq-gpt-oss-120b-run039.json

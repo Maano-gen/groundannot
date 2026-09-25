@@ -1,0 +1,33 @@
+[2026-09-24T12:35:17] data_dir = /home/maano.malima/Method_API
+[2026-09-24T12:35:17] provider = groq
+[2026-09-24T12:35:17] model    = qwen/qwen3.8-27b
+[2026-09-24T12:35:17] tag      = groq-qwen3.8-27b-run004
+[2026-09-24T12:35:18] client ready
+[2026-09-24T12:35:18] querying alzheimers_disease (15 genes) | allowed=13824 enriched=794
+[2026-09-24T12:35:23]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 7 | valid_enriched 2
+[2026-09-24T12:35:23]     WRONG_BRANCH     GO:0008289  lipid binding
+[2026-09-24T12:35:23] querying hereditary_cancer (28 genes) | allowed=13806 enriched=557
+[2026-09-24T12:35:30]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 5 | valid_enriched 5
+[2026-09-24T12:35:30] querying hypertrophic_cardiomyopathy (20 genes) | allowed=13809 enriched=230
+[2026-09-24T12:36:02]   LLM 9 IDs | unsupported 4 | allowed_not_enriched 3 | valid_enriched 2
+[2026-09-24T12:36:02]     OBSOLETE         GO:0003304  obsolete myocardial epithelial involution involved in heart jogging
+[2026-09-24T12:36:02]     OBSOLETE         GO:0006928  obsolete movement of cell or subcellular component
+[2026-09-24T12:36:02]     WRONG_BIOLOGY    GO:0007516  hemocyte development
+[2026-09-24T12:36:02]     WRONG_BRANCH     GO:0030027  lamellipodium
+[2026-09-24T12:36:02] querying parkinsons_disease (16 genes) | allowed=13807 enriched=684
+[2026-09-24T12:36:03]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 7 | valid_enriched 2
+[2026-09-24T12:36:03]     OBSOLETE         GO:0007180  obsolete transforming growth factor beta ligand binding to type II receptor
+[2026-09-24T12:36:03] querying primary_immunodeficiency (24 genes) | allowed=13793 enriched=354
+[2026-09-24T12:36:05]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 8 | valid_enriched 1
+[2026-09-24T12:36:05]     WRONG_BIOLOGY    GO:0002549  negative regulation of plasma kallikrein-kinin cascade
+[2026-09-24T12:36:05] querying type2_diabetes (18 genes) | allowed=13776 enriched=303
+[2026-09-24T12:36:24]   LLM 4 IDs | unsupported 0 | allowed_not_enriched 4 | valid_enriched 0
+[2026-09-24T12:36:24] ==================================================
+[2026-09-24T12:36:24] provider=groq model=qwen/qwen3.8-27b
+[2026-09-24T12:36:25] TOTAL: 53 LLM IDs across 6 disease lists
+[2026-09-24T12:36:25]   Contract A unsupported (not in allowed):     7
+[2026-09-24T12:36:25]   Contract B allowed but not enriched:         34
+[2026-09-24T12:36:25]   Contract A+B violated (not in enriched):     41
+[2026-09-24T12:36:25]   Valid enriched hits:                         12
+[2026-09-24T12:36:25]   QuickGO breakdown: {'WRONG_BRANCH': 2, 'OBSOLETE': 3, 'WRONG_BIOLOGY': 2}
+[2026-09-24T12:36:25] wrote llm_baseline_groq-qwen3.8-27b-run004.json

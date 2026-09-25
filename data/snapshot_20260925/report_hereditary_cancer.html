@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<title>GroundAnnot report</title>
+<style>
+body { font-family: system-ui, sans-serif; max-width: 1100px; margin: 2em auto; }
+h1 { border-bottom: 2px solid #333; }
+h2 { margin-top: 2em; color: #444; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: 0.9em; }
+th, td { border: 1px solid #ccc; padding: 6px 8px; text-align: left; }
+th { background: #f0f0f0; }
+.gene-card { border: 1px solid #ddd; padding: 1em; margin: 1em 0; border-radius: 6px; }
+.gene-card h3 { margin-top: 0; }
+.small { color: #666; font-size: 0.85em; }
+.section-tag { display: inline-block; background: #eee; padding: 2px 8px;
+               border-radius: 4px; font-size: 0.8em; }
+.closed { background: #e8f4ea; }
+.context { background: #f4f0e8; }
+</style></head><body>
+
+<h1>GroundAnnot report — hereditary_cancer</h1>
+<p class="small">Run: 2026-09-25T09:58:42 &nbsp;|&nbsp; Organism: human
+&nbsp;|&nbsp; Input genes: 28</p>
+<p class="small">Genes: APC, BMPR1A, BRCA1, BRCA2, MAX, MEN1, MLH1, MSH2, MSH6, MUTYH, NF2, PALB2, PMS2, PTEN, RB1, RET, SDHAF2, SDHB, SDHC, SDHD, SMAD4, STK11, TMEM127, TP53, TSC1, TSC2, VHL, WT1</p>
+
+<h2><span class="section-tag closed">Closed vocabulary</span> Enrichment</h2>
+<p>The language model may cite term IDs only from the tables below.</p>
+
+
+<h3>PANTHER</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0008285</td><td>negative regulation of cell population proliferation</td>
+<td>3.61e-12</td>
+<td>4.97e-08</td></tr>
+
+<tr><td>GO:0033554</td><td>cellular response to stress</td>
+<td>8.03e-12</td>
+<td>5.52e-08</td></tr>
+
+<tr><td>GO:0006121</td><td>mitochondrial electron transport, succinate to ubiquinone</td>
+<td>1.37e-11</td>
+<td>6.28e-08</td></tr>
+
+<tr><td>GO:0006974</td><td>DNA damage response</td>
+<td>6.87e-11</td>
+<td>2.36e-07</td></tr>
+
+<tr><td>GO:0045926</td><td>negative regulation of growth</td>
+<td>9.76e-11</td>
+<td>2.69e-07</td></tr>
+
+<tr><td>GO:0006281</td><td>DNA repair</td>
+<td>1.37e-10</td>
+<td>3.14e-07</td></tr>
+
+<tr><td>GO:0042127</td><td>regulation of cell population proliferation</td>
+<td>5.62e-10</td>
+<td>1.11e-06</td></tr>
+
+<tr><td>GO:0006298</td><td>mismatch repair</td>
+<td>6.28e-10</td>
+<td>1.08e-06</td></tr>
+
+<tr><td>GO:0030308</td><td>negative regulation of cell growth</td>
+<td>9.89e-10</td>
+<td>1.51e-06</td></tr>
+
+<tr><td>GO:0048583</td><td>regulation of response to stimulus</td>
+<td>2.03e-09</td>
+<td>2.80e-06</td></tr>
+
+<tr><td>GO:0000710</td><td>meiotic mismatch repair</td>
+<td>2.26e-09</td>
+<td>2.82e-06</td></tr>
+
+<tr><td>GO:0009968</td><td>negative regulation of signal transduction</td>
+<td>2.97e-09</td>
+<td>3.40e-06</td></tr>
+
+<tr><td>GO:0006950</td><td>response to stress</td>
+<td>3.07e-09</td>
+<td>3.25e-06</td></tr>
+
+<tr><td>GO:0002520</td><td>immune system development</td>
+<td>3.46e-09</td>
+<td>3.40e-06</td></tr>
+
+<tr><td>GO:0010648</td><td>negative regulation of cell communication</td>
+<td>6.36e-09</td>
+<td>5.83e-06</td></tr>
+
+<tr><td>GO:0023057</td><td>negative regulation of signaling</td>
+<td>6.36e-09</td>
+<td>5.47e-06</td></tr>
+
+<tr><td>GO:0040008</td><td>regulation of growth</td>
+<td>6.96e-09</td>
+<td>5.63e-06</td></tr>
+
+<tr><td>GO:0010212</td><td>response to ionizing radiation</td>
+<td>8.18e-09</td>
+<td>6.26e-06</td></tr>
+
+<tr><td>GO:0006259</td><td>DNA metabolic process</td>
+<td>9.66e-09</td>
+<td>7.00e-06</td></tr>
+
+<tr><td>GO:0048523</td><td>negative regulation of cellular process</td>
+<td>9.97e-09</td>
+<td>6.86e-06</td></tr>
+
+<tr><td>GO:0009628</td><td>response to abiotic stimulus</td>
+<td>1.81e-08</td>
+<td>1.19e-05</td></tr>
+
+<tr><td>GO:0009966</td><td>regulation of signal transduction</td>
+<td>1.83e-08</td>
+<td>1.15e-05</td></tr>
+
+<tr><td>GO:0048304</td><td>positive regulation of isotype switching to IgG isotypes</td>
+<td>2.25e-08</td>
+<td>1.35e-05</td></tr>
+
+<tr><td>GO:0048298</td><td>positive regulation of isotype switching to IgA isotypes</td>
+<td>2.25e-08</td>
+<td>1.29e-05</td></tr>
+
+<tr><td>GO:0048296</td><td>regulation of isotype switching to IgA isotypes</td>
+<td>2.25e-08</td>
+<td>1.24e-05</td></tr>
+
+</table>
+
+<h3>Enrichr</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0048523</td><td>Negative Regulation of Cellular Process</td>
+<td>7.32e-14</td>
+<td>4.65e-11</td></tr>
+
+<tr><td>GO:0008285</td><td>Negative Regulation of Cell Population Proliferation</td>
+<td>5.14e-11</td>
+<td>1.63e-08</td></tr>
+
+<tr><td>GO:0006298</td><td>Mismatch Repair</td>
+<td>1.54e-10</td>
+<td>3.09e-08</td></tr>
+
+<tr><td>GO:0006281</td><td>DNA Repair</td>
+<td>1.95e-10</td>
+<td>3.09e-08</td></tr>
+
+<tr><td>GO:0010212</td><td>Response to Ionizing Radiation</td>
+<td>5.71e-10</td>
+<td>7.25e-08</td></tr>
+
+<tr><td>GO:0042127</td><td>Regulation of Cell Population Proliferation</td>
+<td>2.98e-09</td>
+<td>3.16e-07</td></tr>
+
+<tr><td>GO:0051726</td><td>Regulation of Cell Cycle</td>
+<td>8.82e-09</td>
+<td>8.00e-07</td></tr>
+
+<tr><td>GO:0045926</td><td>Negative Regulation of Growth</td>
+<td>1.08e-08</td>
+<td>8.54e-07</td></tr>
+
+<tr><td>GO:0030308</td><td>Negative Regulation of Cell Growth</td>
+<td>1.46e-08</td>
+<td>1.03e-06</td></tr>
+
+<tr><td>GO:0006099</td><td>Tricarboxylic Acid Cycle</td>
+<td>3.20e-08</td>
+<td>2.03e-06</td></tr>
+
+<tr><td>GO:0032007</td><td>Negative Regulation of TOR Signaling</td>
+<td>4.19e-08</td>
+<td>2.42e-06</td></tr>
+
+<tr><td>GO:0016446</td><td>Somatic Hypermutation of Immunoglobulin Genes</td>
+<td>1.37e-07</td>
+<td>7.25e-06</td></tr>
+
+<tr><td>GO:0045893</td><td>Positive Regulation of DNA-templated Transcription</td>
+<td>5.26e-07</td>
+<td>2.44e-05</td></tr>
+
+<tr><td>GO:0001558</td><td>Regulation of Cell Growth</td>
+<td>5.37e-07</td>
+<td>2.44e-05</td></tr>
+
+<tr><td>GO:1904262</td><td>Negative Regulation of TORC1 Signaling</td>
+<td>6.23e-07</td>
+<td>2.53e-05</td></tr>
+
+<tr><td>GO:1902680</td><td>Positive Regulation of RNA Biosynthetic Process</td>
+<td>6.37e-07</td>
+<td>2.53e-05</td></tr>
+
+<tr><td>GO:0006974</td><td>DNA Damage Response</td>
+<td>1.41e-06</td>
+<td>5.26e-05</td></tr>
+
+<tr><td>GO:0019646</td><td>Aerobic Electron Transport Chain</td>
+<td>1.84e-06</td>
+<td>6.50e-05</td></tr>
+
+<tr><td>GO:0042775</td><td>Mitochondrial ATP Synthesis Coupled Electron Transport</td>
+<td>1.96e-06</td>
+<td>6.56e-05</td></tr>
+
+<tr><td>GO:0009060</td><td>Aerobic Respiration</td>
+<td>4.75e-06</td>
+<td>1.35e-04</td></tr>
+
+<tr><td>GO:0045786</td><td>Negative Regulation of Cell Cycle</td>
+<td>4.75e-06</td>
+<td>1.35e-04</td></tr>
+
+<tr><td>GO:0030511</td><td>Positive Regulation of Transforming Growth Factor Beta Receptor Signaling Pathway</td>
+<td>4.88e-06</td>
+<td>1.35e-04</td></tr>
+
+<tr><td>GO:1903846</td><td>Positive Regulation of Cellular Response to Transforming Growth Factor Beta Stimulus</td>
+<td>4.88e-06</td>
+<td>1.35e-04</td></tr>
+
+<tr><td>GO:0001933</td><td>Negative Regulation of Protein Phosphorylation</td>
+<td>5.23e-06</td>
+<td>1.38e-04</td></tr>
+
+<tr><td>GO:0090100</td><td>+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway</td>
+<td>5.49e-06</td>
+<td>1.39e-04</td></tr>
+
+</table>
+
+<h3>g:Profiler</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0032404</td><td>mismatch repair complex binding</td>
+<td>9.82e-10</td>
+<td>9.82e-10</td></tr>
+
+<tr><td>REAC:R-HSA-9675135</td><td>Diseases of DNA repair</td>
+<td>4.12e-09</td>
+<td>4.12e-09</td></tr>
+
+<tr><td>GO:0008285</td><td>negative regulation of cell population proliferation</td>
+<td>1.03e-08</td>
+<td>1.03e-08</td></tr>
+
+<tr><td>GO:0033554</td><td>cellular response to stress</td>
+<td>2.54e-08</td>
+<td>2.54e-08</td></tr>
+
+<tr><td>GO:0032300</td><td>mismatch repair complex</td>
+<td>3.10e-08</td>
+<td>3.10e-08</td></tr>
+
+<tr><td>REAC:R-HSA-5423599</td><td>Diseases of Mismatch Repair (MMR)</td>
+<td>3.70e-08</td>
+<td>3.70e-08</td></tr>
+
+<tr><td>GO:0030983</td><td>mismatched DNA binding</td>
+<td>2.02e-07</td>
+<td>2.02e-07</td></tr>
+
+<tr><td>KEGG:05200</td><td>Pathways in cancer</td>
+<td>6.87e-07</td>
+<td>6.87e-07</td></tr>
+
+<tr><td>GO:0006298</td><td>mismatch repair</td>
+<td>1.40e-06</td>
+<td>1.40e-06</td></tr>
+
+<tr><td>GO:0045273</td><td>respiratory chain complex II (succinate dehydrogenase)</td>
+<td>2.54e-06</td>
+<td>2.54e-06</td></tr>
+
+<tr><td>GO:0006974</td><td>DNA damage response</td>
+<td>3.34e-06</td>
+<td>3.34e-06</td></tr>
+
+<tr><td>GO:0032138</td><td>single base insertion or deletion binding</td>
+<td>4.66e-06</td>
+<td>4.66e-06</td></tr>
+
+<tr><td>GO:0045926</td><td>negative regulation of growth</td>
+<td>6.20e-06</td>
+<td>6.20e-06</td></tr>
+
+<tr><td>REAC:R-HSA-5358565</td><td>Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)</td>
+<td>7.32e-06</td>
+<td>7.32e-06</td></tr>
+
+<tr><td>GO:0010212</td><td>response to ionizing radiation</td>
+<td>8.75e-06</td>
+<td>8.75e-06</td></tr>
+
+<tr><td>GO:0006281</td><td>DNA repair</td>
+<td>9.61e-06</td>
+<td>9.61e-06</td></tr>
+
+<tr><td>GO:0009628</td><td>response to abiotic stimulus</td>
+<td>9.65e-06</td>
+<td>9.65e-06</td></tr>
+
+<tr><td>REAC:R-HSA-5358508</td><td>Mismatch Repair</td>
+<td>9.96e-06</td>
+<td>9.96e-06</td></tr>
+
+<tr><td>KEGG:05210</td><td>Colorectal cancer</td>
+<td>1.12e-05</td>
+<td>1.12e-05</td></tr>
+
+<tr><td>REAC:R-HSA-3700989</td><td>Transcriptional Regulation by TP53</td>
+<td>1.59e-05</td>
+<td>1.59e-05</td></tr>
+
+<tr><td>REAC:R-HSA-212436</td><td>Generic Transcription Pathway</td>
+<td>2.08e-05</td>
+<td>2.08e-05</td></tr>
+
+<tr><td>GO:0002520</td><td>immune system development</td>
+<td>2.12e-05</td>
+<td>2.12e-05</td></tr>
+
+<tr><td>GO:0042127</td><td>regulation of cell population proliferation</td>
+<td>2.15e-05</td>
+<td>2.15e-05</td></tr>
+
+<tr><td>GO:0032135</td><td>DNA insertion or deletion binding</td>
+<td>2.33e-05</td>
+<td>2.33e-05</td></tr>
+
+<tr><td>GO:0006950</td><td>response to stress</td>
+<td>2.44e-05</td>
+<td>2.44e-05</td></tr>
+
+</table>
+
+
+<h2><span class="section-tag context">Context only</span> Per-gene annotations</h2>
+<p>The language model may read these for narrative but must not cite them as enrichment evidence.</p>
+
+
+<div class="gene-card">
+<h3>APC — APC regulator of Wnt signaling pathway</h3>
+<p><b>Summary:</b> This gene encodes a tumor suppressor protein that acts as an antagonist of the Wnt signaling pathway. It is also involved in other processes including cell migration and adhesion, transcriptional activation, and apoptosis. Defects in this gene cause familial adenomatous polyposis (FAP), an autosomal dominant pre-malignant disease that usually progresses to malignancy. Mutations in the APC gene have been found to occur in most colorectal cancers, where disease-associated mutations tend to be clustered in a small region designated the mutation cluster region (MCR) and result in a truncated protein product. [provided by RefSeq, Jun 2022].</p>
+<p><b>GO:BP:</b> mitotic cytokinesis; cell fate specification; heart valve development; endocardial cushion morphogenesis; DNA damage response; negative regulation of microtubule depolymerization</p>
+<p><b>GO:MF:</b> protein binding; beta-catenin binding; microtubule binding; protein kinase regulator activity; protein kinase binding; ubiquitin protein ligase binding</p>
+<p><b>GO:CC:</b> kinetochore; nucleus; nucleoplasm; cytoplasm; centrosome; cytosol</p>
+<p><b>Pathways:</b> Wnt signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Regulation of actin cytoskeleton - Homo sapiens (human) (kegg); Cushing syndrome - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Human papillomavirus infection - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Armadillo; Adenomatous polyposis coli protein repeat; SAMP; EB-1 binding; Adenomatous polyposis coli protein basic domain; Adenomatous polyposis coli protein, 15 residue repeat</p>
+</div>
+
+<div class="gene-card">
+<h3>BMPR1A — bone morphogenetic protein receptor type 1A</h3>
+<p><b>Summary:</b> The bone morphogenetic protein (BMP) receptors are a family of transmembrane serine/threonine kinases that include the type I receptors BMPR1A and BMPR1B and the type II receptor BMPR2. These receptors are also closely related to the activin receptors, ACVR1 and ACVR2. The ligands of these receptors are members of the TGF-beta superfamily. TGF-betas and activins transduce their signals through the formation of heteromeric complexes with 2 different types of serine (threonine) kinase receptors: type I receptors of about 50-55 kD and type II receptors of about 70-80 kD. Type II receptors bind ligands in the absence of type I receptors, but they require their respective type I receptors for signaling, whereas type I receptors require their respective type II receptors for ligand binding. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> angiogenesis; osteoblast differentiation; chondrocyte differentiation; outflow tract septum morphogenesis; outflow tract morphogenesis; cardiac conduction system development</p>
+<p><b>GO:MF:</b> protein kinase activity; protein serine/threonine kinase activity; transmembrane receptor protein serine/threonine kinase activity; transforming growth factor beta receptor activity, type I; protein binding; ATP binding</p>
+<p><b>GO:CC:</b> plasma membrane; caveola; external side of plasma membrane; cell surface; membrane; dendrite</p>
+<p><b>Pathways:</b> Cytokine-cytokine receptor interaction - Homo sapiens (human) (kegg); TGF-beta signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Fluid shear stress and atherosclerosis - Homo sapiens (human) (kegg); Signal Transduction (reactome); Signaling by BMP (reactome); Signaling by TGFB family members (reactome)</p>
+<p><b>InterPro:</b> Ser/Thr protein kinase, TGFB receptor; Activin types I and II receptor domain; Protein kinase domain; GS domain; Serine/threonine-protein kinase, active site; Protein kinase-like domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>BRCA1 — BRCA1 DNA repair associated</h3>
+<p><b>Summary:</b> This gene encodes a 190 kD nuclear phosphoprotein that plays a role in maintaining genomic stability, and it also acts as a tumor suppressor. The BRCA1 gene contains 22 exons spanning about 110 kb of DNA. The encoded protein combines with other tumor suppressors, DNA damage sensors, and signal transducers to form a large multi-subunit protein complex known as the BRCA1-associated genome surveillance complex (BASC). This gene product associates with RNA polymerase II, and through the C-terminal domain, also interacts with histone deacetylase complexes. This protein thus plays a role in transcription, DNA repair of double-stranded breaks, and recombination. Mutations in this gene are responsible for approximately 40% of inherited breast cancers and more than 80% of inherited breast and ovarian cancers. Alternative splicing plays a role in modulating the subcellular localization and physiological function of this gene. Many alternatively spliced transcript variants, some of which are disease-associated mutations, have been described for this gene, but the full-length natures of only some of these variants has been described. A related pseudogene, which is also located on chromosome 17, has been identified. [provided by RefSeq, May 2020].</p>
+<p><b>GO:BP:</b> double-strand break repair via homologous recombination; DNA repair; regulation of DNA repair; DNA damage tolerance; double-strand break repair; chromatin remodeling</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; p53 binding; DNA binding; damaged DNA binding; transcription coactivator activity; RNA binding</p>
+<p><b>GO:CC:</b> ubiquitin ligase complex; nuclear ubiquitin ligase complex; condensed chromosome; condensed nuclear chromosome; lateral element; gamma-tubulin ring complex</p>
+<p><b>Pathways:</b> Homologous recombination - Homo sapiens (human) (kegg); Fanconi anemia pathway - Homo sapiens (human) (kegg); Ubiquitin mediated proteolysis - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); MicroRNAs in cancer - Homo sapiens (human) (kegg); Breast cancer - Homo sapiens (human) (kegg); Meiotic synapsis (reactome); Developmental Biology (reactome)</p>
+<p><b>InterPro:</b> BRCT domain; Zinc finger, RING-type; Breast cancer type 1 susceptibility protein (BRCA1); Zinc finger, RING/FYVE/PHD-type; Zinc finger, RING-type, conserved site; Zinc finger, C3HC4 RING-type</p>
+</div>
+
+<div class="gene-card">
+<h3>BRCA2 — BRCA2 DNA repair associated</h3>
+<p><b>Summary:</b> The product of this gene in involved in maintenance of genome stability. It is involved in double-strand break repair pathways during mitotic and meiotic homologous recombination and functions in protecting DNA replication forks. The encoded protein contains sites for interactions with PALB2 and EMSY and an N-terminal DNA binding domain. It also contains a RAD51 binding domain with multiple components. It has multiple BRC repeats, an alpha helix domain, oligonucleotide binding folds, and a tower-like domain. It has a nuclear localization signal and a phosphorylation site for cyclin-dependent kinase. The C-terminus of the protein can bind single-stranded and double-stranded DNA. The product of this gene interacts with multiple proteins, including RAD51. It is involved in recruiting RAD51 filaments to DNA double-strand break sites and also in cytoplasmic division. It also acts as a tumor suppressor. Mutations in this gene or decreased expression have been implicated in multiple tumor types, including breast, ovarian, pancreatic, prostate and other cancers. [provided by RefSeq, May 2026].</p>
+<p><b>GO:BP:</b> telomere maintenance via recombination; double-strand break repair via homologous recombination; DNA recombinase assembly; DNA repair; nucleotide-excision repair; double-strand break repair</p>
+<p><b>GO:MF:</b> protease binding; double-stranded DNA binding; single-stranded DNA binding; histone acetyltransferase activity; protein binding; protein-macromolecule adaptor activity</p>
+<p><b>GO:CC:</b> nuclear ubiquitin ligase complex; chromosome, telomeric region; lateral element; nucleus; nucleoplasm; chromosome</p>
+<p><b>Pathways:</b> Homologous recombination - Homo sapiens (human) (kegg); Fanconi anemia pathway - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Pancreatic cancer - Homo sapiens (human) (kegg); Breast cancer - Homo sapiens (human) (kegg); Reproduction (reactome); Meiosis (reactome); Cell Cycle (reactome)</p>
+<p><b>InterPro:</b> BRCA2 repeat; Nucleic acid-binding, OB-fold; BRCA2, OB1; BRCA2, OB3; Tower domain; Breast cancer type 2 susceptibility protein, helical domain</p>
+</div>
+
+<div class="gene-card">
+<h3>MAX — MYC associated transcriptional regulator X</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the basic helix-loop-helix leucine zipper (bHLHZ) family of transcription factors. It is able to form homodimers and heterodimers with other family members, which include Mad, Mxi1 and Myc. Myc is an oncoprotein implicated in cell proliferation, differentiation and apoptosis. The homodimers and heterodimers compete for a common DNA target site (the E box) and rearrangement among these dimer forms provides a complex system of transcriptional regulation. Mutations of this gene have been reported to be associated with hereditary pheochromocytoma. A pseudogene of this gene is located on the long arm of chromosome 7. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Aug 2012].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; regulation of transcription by RNA polymerase II; heterochromatin formation; negative regulation of DNA-templated transcription; positive regulation of DNA-templated transcription; positive regulation of transcription by RNA polymerase II</p>
+<p><b>GO:MF:</b> RNA polymerase II transcription regulatory region sequence-specific DNA binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA binding; DNA-binding transcription factor activity</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; dendrite; protein-DNA complex; PRC1 complex</p>
+<p><b>Pathways:</b> MAPK signaling pathway - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Transcriptional misregulation in cancer - Homo sapiens (human) (kegg); Small cell lung cancer - Homo sapiens (human) (kegg); Transcription of E2F targets under negative control by DREAM complex (reactome); G0 and Early G1 (reactome); Cell Cycle (reactome); Generic Transcription Pathway (reactome)</p>
+<p><b>InterPro:</b> Myc-type, basic helix-loop-helix (bHLH) domain; Helix-loop-helix DNA-binding domain superfamily; Basic-leucine zipper domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>MEN1 — menin 1</h3>
+<p><b>Summary:</b> This gene encodes menin, a tumor suppressor associated with a syndrome known as multiple endocrine neoplasia type 1. Menin is a scaffold protein that functions in histone modification and epigenetic gene regulation. It is thought to regulate several pathways and processes by altering chromatin structure through the modification of histones. [provided by RefSeq, May 2019].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; osteoblast development; DNA repair; regulation of transcription by RNA polymerase II; DNA damage response; response to UV</p>
+<p><b>GO:MF:</b> four-way junction DNA binding; Y-form DNA binding; transcription cis-regulatory region binding; DNA-binding transcription activator activity; DNA binding; chromatin binding</p>
+<p><b>GO:CC:</b> chromosome, telomeric region; chromatin; nucleus; nucleoplasm; cytoplasm; endoplasmic reticulum lumen</p>
+<p><b>Pathways:</b> Cushing syndrome - Homo sapiens (human) (kegg); Transcriptional misregulation in cancer - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signal Transduction (reactome); Signaling by TGF-beta Receptor Complex (reactome); Signaling by Rho GTPases (reactome); RHO GTPase Effectors (reactome); Signaling by WNT (reactome)</p>
+<p><b>InterPro:</b> Menin</p>
+</div>
+
+<div class="gene-card">
+<h3>MLH1 — mutL homolog 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene can heterodimerize with mismatch repair endonuclease PMS2 to form MutL alpha, part of the DNA mismatch repair system. When MutL alpha is bound by MutS beta and some accessory proteins, the PMS2 subunit of MutL alpha introduces a single-strand break near DNA mismatches, providing an entry point for exonuclease degradation. The encoded protein is also involved in DNA damage signaling and can heterodimerize with DNA mismatch repair protein MLH3 to form MutL gamma, which is involved in meiosis. This gene was identified as a locus frequently mutated in hereditary nonpolyposis colon cancer (HNPCC). [provided by RefSeq, Aug 2017].</p>
+<p><b>GO:BP:</b> meiotic mismatch repair; DNA metabolic process; mismatch repair; response to stress; somatic hypermutation of immunoglobulin genes; positive regulation of isotype switching to IgA isotypes</p>
+<p><b>GO:MF:</b> chromatin binding; single-stranded DNA binding; DNA endonuclease activity; protein binding; ATP binding; enzyme activator activity</p>
+<p><b>GO:CC:</b> condensed chromosome; condensed nuclear chromosome; synaptonemal complex; male germ cell nucleus; nucleus; nucleoplasm</p>
+<p><b>Pathways:</b> Mismatch repair - Homo sapiens (human) (kegg); Fanconi anemia pathway - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Colorectal cancer - Homo sapiens (human) (kegg); Endometrial cancer - Homo sapiens (human) (kegg); Gastric cancer - Homo sapiens (human) (kegg); Adaptive Immune System (reactome); Reproduction (reactome)</p>
+<p><b>InterPro:</b> DNA mismatch repair protein MutL/Mlh/PMS; DNA mismatch repair protein, S5 domain 2-like; Small ribosomal subunit protein uS5 domain 2-type fold, subgroup; DNA mismatch repair, conserved site; Ribosomal protein uS5 domain 2-type superfamily; DNA mismatch repair protein Mlh1, C-terminal</p>
+</div>
+
+<div class="gene-card">
+<h3>MSH2 — mutS homolog 2</h3>
+<p><b>Summary:</b> This locus is frequently mutated in hereditary nonpolyposis colon cancer (HNPCC). When cloned, it was discovered to be a human homolog of the E. coli mismatch repair gene mutS, consistent with the characteristic alterations in microsatellite sequences (RER+ phenotype) found in HNPCC. Two transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Apr 2012].</p>
+<p><b>GO:BP:</b> somatic recombination of immunoglobulin genes involved in immune response; DNA repair; mismatch repair; DNA damage tolerance; mitotic recombination; male gonad development</p>
+<p><b>GO:MF:</b> magnesium ion binding; four-way junction DNA binding; DNA binding; chromatin binding; damaged DNA binding; double-stranded DNA binding</p>
+<p><b>GO:CC:</b> chromosome, telomeric region; nucleus; nucleoplasm; chromosome; membrane; MutSalpha complex</p>
+<p><b>Pathways:</b> Mismatch repair - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Colorectal cancer - Homo sapiens (human) (kegg); Adaptive Immune System (reactome); Disease (reactome); Immune System (reactome); Generic Transcription Pathway (reactome); Transcriptional Regulation by TP53 (reactome)</p>
+<p><b>InterPro:</b> DNA mismatch repair protein MutS, C-terminal; DNA mismatch repair protein MutS-like, N-terminal; DNA mismatch repair protein MutS, core; DNA mismatch repair protein MutS, connector domain; DNA mismatch repair protein MutS, clamp; DNA mismatch repair Msh2-type</p>
+</div>
+
+<div class="gene-card">
+<h3>MSH6 — mutS homolog 6</h3>
+<p><b>Summary:</b> This gene encodes a member of the DNA mismatch repair MutS family. In E. coli, the MutS protein helps in the recognition of mismatched nucleotides prior to their repair. A highly conserved region of approximately 150 aa, called the Walker-A adenine nucleotide binding motif, exists in MutS homologs. The encoded protein heterodimerizes with MSH2 to form a mismatch recognition complex that functions as a bidirectional molecular switch that exchanges ADP and ATP as DNA mismatches are bound and dissociated. Mutations in this gene may be associated with hereditary nonpolyposis colon cancer, colorectal cancer, and endometrial cancer. Transcripts variants encoding different isoforms have been described. [provided by RefSeq, Jul 2013].</p>
+<p><b>GO:BP:</b> meiotic mismatch repair; DNA repair; mismatch repair; chromatin organization; spermatogenesis; determination of adult lifespan</p>
+<p><b>GO:MF:</b> magnesium ion binding; four-way junction DNA binding; DNA binding; chromatin binding; damaged DNA binding; double-stranded DNA binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; chromosome; MutSalpha complex</p>
+<p><b>Pathways:</b> Mismatch repair - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Colorectal cancer - Homo sapiens (human) (kegg); Adaptive Immune System (reactome); Disease (reactome); Immune System (reactome); Mismatch Repair (reactome); Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha) (reactome)</p>
+<p><b>InterPro:</b> PWWP domain; DNA mismatch repair protein MutS, C-terminal; DNA mismatch repair protein MutS-like, N-terminal; DNA mismatch repair protein MutS, core; DNA mismatch repair protein MutS, connector domain; DNA mismatch repair protein MutS, clamp</p>
+</div>
+
+<div class="gene-card">
+<h3>MUTYH — mutY DNA glycosylase</h3>
+<p><b>Summary:</b> This gene encodes a DNA glycosylase involved in oxidative DNA damage repair. The enzyme excises adenine bases from the DNA backbone at sites where adenine is inappropriately paired with guanine, cytosine, or 8-oxo-7,8-dihydroguanine, a major oxidatively damaged DNA lesion. The protein is localized to the nucleus and mitochondria. This gene product is thought to play a role in signaling apoptosis by the introduction of single-strand breaks following oxidative damage. Mutations in this gene result in heritable predisposition to colorectal cancer, termed MUTYH-associated polyposis (MAP). Multiple transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Apr 2017].</p>
+<p><b>GO:BP:</b> DNA repair; base-excision repair; mismatch repair; response to stress; depurination; negative regulation of necroptotic process</p>
+<p><b>GO:MF:</b> purine-specific mismatch base pair DNA N-glycosylase activity; DNA binding; catalytic activity; protein binding; hydrolase activity, acting on glycosyl bonds; DNA N-glycosylase activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; mitochondrion</p>
+<p><b>Pathways:</b> Base excision repair - Homo sapiens (human) (kegg); Recognition and association of DNA glycosylase with site containing an affected purine (reactome); Cleavage of the damaged purine (reactome); Displacement of DNA glycosylase by APEX1 (reactome); Disease (reactome); Base Excision Repair (reactome); DNA Repair (reactome); Depurination (reactome)</p>
+<p><b>InterPro:</b> NUDIX hydrolase domain; Helix-hairpin-helix motif; HhH-GPD domain; Endonuclease III-like, iron-sulphur cluster loop motif; Endonuclease III, iron-sulphur binding site; Endonuclease III-like, conserved site-2</p>
+</div>
+
+<div class="gene-card">
+<h3>NF2 — NF2, moesin-ezrin-radixin like (MERLIN) tumor suppressor</h3>
+<p><b>Summary:</b> This gene encodes a protein that is similar to some members of the ERM (ezrin, radixin, moesin) family of proteins that link cytoskeletal components with proteins in the cell membrane. The encoded protein is involved in regulation of contact-dependent inhibition of cell proliferation and functions in cell-cell adhesion and transmembrane signaling. The encoded protein has been shown to interact with cell-surface proteins, proteins involved in cytoskeletal dynamics, and proteins involved in regulating ion transport. Disruption of this protein's function has been implicated in tumorigenesis and metastasis. Mutations in this gene are associated with neurofibromatosis type II which is characterized by nervous system and skin tumors and ocular abnormalities. [provided by RefSeq, May 2022].</p>
+<p><b>GO:BP:</b> negative regulation of cell-matrix adhesion; negative regulation of cell population proliferation; regulation of cell shape; Schwann cell proliferation; regulation of gliogenesis; negative regulation of cell-cell adhesion</p>
+<p><b>GO:MF:</b> actin binding; integrin binding; protein binding; cytoskeletal protein binding; signaling adaptor activity</p>
+<p><b>GO:CC:</b> ruffle; nucleus; nucleoplasm; nucleolus; cytoplasm; early endosome</p>
+<p><b>Pathways:</b> Hippo signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - multiple species - Homo sapiens (human) (kegg); Tight junction - Homo sapiens (human) (kegg); Signal Transduction (reactome); Innate Immune System (reactome); Immune System (reactome); Signaling by Rho GTPases (reactome); RHO GTPase Effectors (reactome)</p>
+<p><b>InterPro:</b> FERM domain; Ezrin/radixin/moesin-like; Moesin tail domain superfamily; Ezrin/radixin/moesin; Ezrin/radixin/moesin, C-terminal; PH-like domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>PALB2 — partner and localizer of BRCA2</h3>
+<p><b>Summary:</b> This gene encodes a protein that may function in tumor suppression. This protein binds to and colocalizes with the breast cancer 2 early onset protein (BRCA2) in nuclear foci and likely permits the stable intranuclear localization and accumulation of BRCA2. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> double-strand break repair via homologous recombination; protein homotetramerization</p>
+<p><b>GO:MF:</b> DNA binding; single-stranded DNA binding; protein binding; protein homodimerization activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; nuclear speck; protein-containing complex; DNA repair complex</p>
+<p><b>Pathways:</b> Homologous recombination - Homo sapiens (human) (kegg); Fanconi anemia pathway - Homo sapiens (human) (kegg); Disease (reactome); Cellular responses to stress (reactome); Metabolism of proteins (reactome); HDR through Homologous Recombination (HRR) (reactome); DNA Double-Strand Break Repair (reactome); Resolution of D-Loop Structures (reactome)</p>
+<p><b>InterPro:</b> WD40/YVTN repeat-like-containing domain superfamily; Partner and localiser of BRCA2, WD40 domain; WD40-repeat-containing domain superfamily; Partner and localizer of BRCA2</p>
+</div>
+
+<div class="gene-card">
+<h3>PMS2 — PMS1 homolog 2, mismatch repair system component</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a key component of the mismatch repair system that functions to correct DNA mismatches and small insertions and deletions that can occur during DNA replication and homologous recombination. This protein forms heterodimers with the gene product of the mutL homolog 1 (MLH1) gene to form the MutL-alpha heterodimer. The MutL-alpha heterodimer possesses an endonucleolytic activity that is activated following recognition of mismatches and insertion/deletion loops by the MutS-alpha and MutS-beta heterodimers, and is necessary for removal of the mismatched DNA. There is a DQHA(X)2E(X)4E motif found at the C-terminus of the protein encoded by this gene that forms part of the active site of the nuclease. Mutations in this gene have been associated with hereditary nonpolyposis colorectal cancer (HNPCC; also known as Lynch syndrome) and Turcot syndrome. [provided by RefSeq, Apr 2016].</p>
+<p><b>GO:BP:</b> meiotic mismatch repair; mismatch repair; response to xenobiotic stimulus; somatic hypermutation of immunoglobulin genes; positive regulation of isotype switching to IgA isotypes; positive regulation of isotype switching to IgG isotypes</p>
+<p><b>GO:MF:</b> DNA binding; single-stranded DNA binding; endonuclease activity; DNA endonuclease activity; protein binding; ATP binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; mismatch repair complex; MutLalpha complex</p>
+<p><b>Pathways:</b> Mismatch repair - Homo sapiens (human) (kegg); Fanconi anemia pathway - Homo sapiens (human) (kegg); Adaptive Immune System (reactome); Disease (reactome); Immune System (reactome); Generic Transcription Pathway (reactome); Transcriptional Regulation by TP53 (reactome); Mismatch Repair (reactome)</p>
+<p><b>InterPro:</b> DNA mismatch repair protein MutL/Mlh/PMS; DNA mismatch repair protein, S5 domain 2-like; Small ribosomal subunit protein uS5 domain 2-type fold, subgroup; DNA mismatch repair, conserved site; MutL, C-terminal, dimerisation; Ribosomal protein uS5 domain 2-type superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>PTEN — phosphatase and tensin homolog</h3>
+<p><b>Summary:</b> This gene was identified as a tumor suppressor that is mutated in a large number of cancers at high frequency. The protein encoded by this gene is a phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase. It contains a tensin like domain as well as a catalytic domain similar to that of the dual specificity protein tyrosine phosphatases. Unlike most of the protein tyrosine phosphatases, this protein preferentially dephosphorylates phosphoinositide substrates. It negatively regulates intracellular levels of phosphatidylinositol-3,4,5-trisphosphate in cells and functions as a tumor suppressor by negatively regulating AKT/PKB signaling pathway. The use of a non-canonical (CUG) upstream initiation site produces a longer isoform that initiates translation with a leucine, and is thought to be preferentially associated with the mitochondrial inner membrane. This longer isoform may help regulate energy metabolism in the mitochondria. A pseudogene of this gene is found on chromosome 9. Alternative splicing and the use of multiple translation start codons results in multiple transcript variants encoding different isoforms. [provided by RefSeq, Feb 2015].</p>
+<p><b>GO:BP:</b> blood vessel development; protein dephosphorylation; phosphatidylinositol biosynthetic process; spindle assembly involved in female meiosis; neuron-neuron synaptic transmission; synapse assembly</p>
+<p><b>GO:MF:</b> phosphatidylinositol-3-phosphate phosphatase activity; phosphoprotein phosphatase activity; protein serine/threonine phosphatase activity; protein tyrosine phosphatase activity; protein binding; beta-catenin binding</p>
+<p><b>GO:CC:</b> extracellular region; nucleus; nucleoplasm; cytoplasm; cytosol; plasma membrane</p>
+<p><b>Pathways:</b> Inositol phosphate metabolism - Homo sapiens (human) (kegg); FoxO signaling pathway - Homo sapiens (human) (kegg); Phosphatidylinositol signaling system - Homo sapiens (human) (kegg); Sphingolipid signaling pathway - Homo sapiens (human) (kegg); p53 signaling pathway - Homo sapiens (human) (kegg); Autophagy - animal - Homo sapiens (human) (kegg); mTOR signaling pathway - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Tyrosine-specific protein phosphatases domain; Protein-tyrosine phosphatase, catalytic; Tensin phosphatase, C2 domain; Protein-tyrosine phosphatase, active site; Bifunctional phosphatidylinositol trisphosphate phosphatase/dual specificity phosphatase PTEN; Protein-tyrosine phosphatase-like</p>
+</div>
+
+<div class="gene-card">
+<h3>RB1 — RB transcriptional corepressor 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a negative regulator of the cell cycle and was the first tumor suppressor gene found. The encoded protein also stabilizes constitutive heterochromatin to maintain the overall chromatin structure. The active, hypophosphorylated form of the protein binds transcription factor E2F1. Defects in this gene are a cause of childhood cancer retinoblastoma (RB), bladder cancer, and osteogenic sarcoma. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; chondrocyte differentiation; aortic valve morphogenesis; chromatin remodeling; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II</p>
+<p><b>GO:MF:</b> RNA polymerase II transcription regulatory region sequence-specific DNA binding; transcription corepressor activity; protein binding; enzyme binding; kinase binding; ubiquitin protein ligase binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; transcription regulator complex; cytoplasm; spindle</p>
+<p><b>Pathways:</b> Cell cycle - Homo sapiens (human) (kegg); Cellular senescence - Homo sapiens (human) (kegg); Cushing syndrome - Homo sapiens (human) (kegg); Hepatitis C - Homo sapiens (human) (kegg); Hepatitis B - Homo sapiens (human) (kegg); Human cytomegalovirus infection - Homo sapiens (human) (kegg); Human papillomavirus infection - Homo sapiens (human) (kegg); Human T-cell leukemia virus 1 infection - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Retinoblastoma-associated protein, B-box; Retinoblastoma-associated protein, A-box; Cyclin-like domain; Retinoblastoma-associated protein, C-terminal; Retinoblastoma-associated protein, N-terminal; Retinoblastoma protein family</p>
+</div>
+
+<div class="gene-card">
+<h3>RET — ret proto-oncogene</h3>
+<p><b>Summary:</b> This gene encodes a transmembrane receptor and member of the tyrosine protein kinase family of proteins. Binding of ligands such as GDNF (glial cell-line derived neurotrophic factor) and other related proteins to the encoded receptor stimulates receptor dimerization and activation of downstream signaling pathways that play a role in cell differentiation, growth, migration and survival. The encoded receptor is important in development of the nervous system, and the development of organs and tissues derived from the neural crest. This proto-oncogene can undergo oncogenic activation through both cytogenetic rearrangement and activating point mutations. Mutations in this gene are associated with Hirschsprung disease and central hypoventilation syndrome and have been identified in patients with renal agenesis. [provided by RefSeq, Sep 2017].</p>
+<p><b>GO:BP:</b> homophilic cell-cell adhesion; neuron cell-cell adhesion; signal transduction; cell surface receptor protein tyrosine kinase signaling pathway; nervous system development; axon guidance</p>
+<p><b>GO:MF:</b> protein kinase activity; protein tyrosine kinase activity; transmembrane receptor protein tyrosine kinase activity; calcium ion binding; protein binding; ATP binding</p>
+<p><b>GO:CC:</b> plasma membrane; endosome membrane; membrane; axon; signaling receptor complex; plasma membrane protein complex</p>
+<p><b>Pathways:</b> Calcium signaling pathway - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Thyroid cancer - Homo sapiens (human) (kegg); Non-small cell lung cancer - Homo sapiens (human) (kegg); Central carbon metabolism in cancer - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signal Transduction (reactome); Generic Transcription Pathway (reactome)</p>
+<p><b>InterPro:</b> Protein kinase domain; Serine-threonine/tyrosine-protein kinase, catalytic domain; Cadherin-like; Tyrosine-protein kinase, active site; Protein kinase-like domain superfamily; Cadherin-like superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>SDHAF2 — succinate dehydrogenase complex assembly factor 2</h3>
+<p><b>Summary:</b> This gene encodes a mitochondrial assembly factor needed for the flavination of a succinate dehydrogenase complex subunit (SDHA), which is required for activity of the succinate dehydrogenase complex. Mutations in this gene are associated with paraganglioma. [provided by RefSeq, May 2022].</p>
+<p><b>GO:BP:</b> tricarboxylic acid cycle; mitochondrial electron transport, succinate to ubiquinone; protein dephosphorylation; negative regulation of epithelial to mesenchymal transition; protein-FAD linkage; mitochondrial respiratory chain complex II assembly</p>
+<p><b>GO:MF:</b> protein binding</p>
+<p><b>GO:CC:</b> mitochondrion; mitochondrial matrix</p>
+<p><b>Pathways:</b> Aerobic respiration and respiratory electron transport (reactome); Metabolism (reactome); Citric acid cycle (TCA cycle) (reactome); Maturation of TCA enzymes and regulation of TCA cycle (reactome); Mitochondrial CII Assembly (wikipathways)</p>
+<p><b>InterPro:</b> Flavinator of succinate dehydrogenase; Succinate dehydrogenase assembly factor 2, mitochondrial; Flavinator of succinate dehydrogenase superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>SDHB — succinate dehydrogenase complex iron sulfur subunit B</h3>
+<p><b>Summary:</b> This tumor suppressor gene encodes the iron-sulfur protein subunit of the succinate dehydrogenase (SDH) enzyme complex which plays a critical role in mitochondria. The SDH enzyme complex is composed of four nuclear-encoded subunits. This enzyme complex converts succinate to fumarate which releases electrons as part of the citric acid cycle, and the enzyme complex additionally provides an attachment site for released electrons to be transferred to the oxidative phosphorylation pathway. The SDH enzyme complex plays a role in oxygen-related gene regulation through its conversion of succinate, which is an oxygen sensor that stabilizes the hypoxia-inducible factor 1 (HIF1) transcription factor. Sporadic and familial mutations in this gene result in paragangliomas, pheochromocytoma, and gastrointestinal stromal tumors, supporting a link between mitochondrial dysfunction and tumorigenesis. Mutations in this gene are also implicated in nuclear type 4 mitochondrial complex II deficiency. [provided by RefSeq, Jun 2022].</p>
+<p><b>GO:BP:</b> tricarboxylic acid cycle; succinate metabolic process; mitochondrial electron transport, succinate to ubiquinone; aerobic respiration; respiratory electron transport chain; proton motive force-driven mitochondrial ATP synthesis</p>
+<p><b>GO:MF:</b> protein binding; succinate dehydrogenase (quinone) activity; electron transfer activity; oxidoreductase activity; ubiquinone binding; iron-sulfur cluster binding</p>
+<p><b>GO:CC:</b> mitochondrion; mitochondrial inner membrane; mitochondrial matrix; mitochondrial membrane; respiratory chain complex II (succinate dehydrogenase)</p>
+<p><b>Pathways:</b> Citrate cycle (TCA cycle) - Homo sapiens (human) (kegg); Oxidative phosphorylation - Homo sapiens (human) (kegg); Thermogenesis - Homo sapiens (human) (kegg); Non-alcoholic fatty liver disease - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Parkinson disease - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Huntington disease - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> 2Fe-2S ferredoxin-type iron-sulfur binding domain; Succinate dehydrogenase/fumarate reductase iron-sulphur protein; 2Fe-2S ferredoxin, iron-sulphur binding site; Alpha-helical ferredoxin; Beta-grasp domain superfamily; 4Fe-4S ferredoxin-type, iron-sulphur binding domain</p>
+</div>
+
+<div class="gene-card">
+<h3>SDHC — succinate dehydrogenase complex subunit C</h3>
+<p><b>Summary:</b> This gene encodes one of four nuclear-encoded subunits that comprise succinate dehydrogenase, also known as mitochondrial complex II, a key enzyme complex of the tricarboxylic acid cycle and aerobic respiratory chains of mitochondria. The encoded protein is one of two integral membrane proteins that anchor other subunits of the complex, which form the catalytic core, to the inner mitochondrial membrane. There are several related pseudogenes for this gene on different chromosomes. Mutations in this gene have been associated with paragangliomas. Alternatively spliced transcript variants have been described. [provided by RefSeq, May 2013].</p>
+<p><b>GO:BP:</b> tricarboxylic acid cycle; mitochondrial electron transport, succinate to ubiquinone; aerobic respiration; proton motive force-driven mitochondrial ATP synthesis</p>
+<p><b>GO:MF:</b> protein binding; succinate dehydrogenase (quinone) activity; electron transfer activity; heme binding</p>
+<p><b>GO:CC:</b> mitochondrion; mitochondrial inner membrane; mitochondrial matrix; membrane; respiratory chain complex II (succinate dehydrogenase)</p>
+<p><b>Pathways:</b> Citrate cycle (TCA cycle) - Homo sapiens (human) (kegg); Oxidative phosphorylation - Homo sapiens (human) (kegg); Thermogenesis - Homo sapiens (human) (kegg); Non-alcoholic fatty liver disease - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Parkinson disease - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Huntington disease - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Succinate dehydrogenase/fumarate reductase type B, transmembrane subunit; Succinate dehydrogenase, cytochrome b556 subunit; Succinate dehydrogenase, cytochrome b subunit, conserved site; Fumarate reductase/succinate dehydrogenase, transmembrane subunit</p>
+</div>
+
+<div class="gene-card">
+<h3>SDHD — succinate dehydrogenase complex subunit D</h3>
+<p><b>Summary:</b> This gene encodes a member of complex II of the respiratory chain, which is responsible for the oxidation of succinate. The encoded protein is one of two integral membrane proteins anchoring the complex to the matrix side of the mitochondrial inner membrane. Mutations in this gene are associated with the formation of tumors, including hereditary paraganglioma. Transmission of disease occurs almost exclusively through the paternal allele, suggesting that this locus may be maternally imprinted. There are pseudogenes for this gene on chromosomes 1, 2, 3, 7, and 18. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Feb 2013].</p>
+<p><b>GO:BP:</b> tricarboxylic acid cycle; mitochondrial electron transport, succinate to ubiquinone; proton motive force-driven mitochondrial ATP synthesis</p>
+<p><b>GO:MF:</b> protein binding; succinate dehydrogenase (quinone) activity; electron transfer activity; heme binding; ubiquinone binding</p>
+<p><b>GO:CC:</b> mitochondrion; mitochondrial envelope; mitochondrial inner membrane; mitochondrial matrix; membrane; respiratory chain complex II (succinate dehydrogenase)</p>
+<p><b>Pathways:</b> Citrate cycle (TCA cycle) - Homo sapiens (human) (kegg); Oxidative phosphorylation - Homo sapiens (human) (kegg); Thermogenesis - Homo sapiens (human) (kegg); Non-alcoholic fatty liver disease - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Parkinson disease - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Huntington disease - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, CybS; Fumarate reductase/succinate dehydrogenase, transmembrane subunit</p>
+</div>
+
+<div class="gene-card">
+<h3>SMAD4 — SMAD family member 4</h3>
+<p><b>Summary:</b> This gene encodes a member of the Smad family of signal transduction proteins. Smad proteins are phosphorylated and activated by transmembrane serine-threonine receptor kinases in response to transforming growth factor (TGF)-beta signaling. The product of this gene forms homomeric complexes and heteromeric complexes with other activated Smad proteins, which then accumulate in the nucleus and regulate the transcription of target genes. This protein binds to DNA and recognizes an 8-bp palindromic sequence (GTCTAGAC) called the Smad-binding element (SBE). The protein acts as a tumor suppressor and inhibits epithelial cell proliferation. It may also have an inhibitory effect on tumors by reducing angiogenesis and increasing blood vessel hyperpermeability. The encoded protein is a crucial component of the bone morphogenetic protein signaling pathway. The Smad proteins are subject to complex regulation by post-translational modifications. Mutations or deletions in this gene have been shown to result in pancreatic cancer, juvenile polyposis syndrome, and hereditary hemorrhagic telangiectasia syndrome. [provided by RefSeq, May 2022].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; ovarian follicle development; osteoblast differentiation; response to hypoxia; epithelial to mesenchymal transition; outflow tract septum morphogenesis</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II transcription regulatory region sequence-specific DNA binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; transcription corepressor binding; transcription coactivator binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; transcription regulator complex; cytoplasm; cytosol</p>
+<p><b>Pathways:</b> FoxO signaling pathway - Homo sapiens (human) (kegg); Cell cycle - Homo sapiens (human) (kegg); Wnt signaling pathway - Homo sapiens (human) (kegg); TGF-beta signaling pathway - Homo sapiens (human) (kegg); Apelin signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Adherens junction - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> SMAD domain, Dwarfin-type; MAD homology 1, Dwarfin-type; SMAD/FHA domain superfamily; MAD homology, MH1; Dwarfin; SMAD-like domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>STK11 — serine/threonine kinase 11</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a serine/threonine kinase that regulates cell polarity and energy metabolism and functions as a tumor suppressor. Mutations in this gene have been associated with the autosomal dominant Peutz-Jeghers syndrome, as well as with skin, pancreatic, and testicular cancers. [provided by RefSeq, May 2022].</p>
+<p><b>GO:BP:</b> regulation of cell growth; vasculature development; protein phosphorylation; protein dephosphorylation; DNA damage response; signal transduction</p>
+<p><b>GO:MF:</b> magnesium ion binding; p53 binding; protein kinase activity; protein serine/threonine kinase activity; protein binding; ATP binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm; mitochondrion; late endosome; cytosol</p>
+<p><b>Pathways:</b> FoxO signaling pathway - Homo sapiens (human) (kegg); Autophagy - animal - Homo sapiens (human) (kegg); mTOR signaling pathway - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); AMPK signaling pathway - Homo sapiens (human) (kegg); Longevity regulating pathway - Homo sapiens (human) (kegg); Tight junction - Homo sapiens (human) (kegg); Adipocytokine signaling pathway - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Protein kinase domain; Serine/threonine-protein kinase, active site; Protein kinase-like domain superfamily; Protein kinase, ATP binding site; Serine/Threonine kinase LKB1, catalytic domain</p>
+</div>
+
+<div class="gene-card">
+<h3>TMEM127 — transmembrane protein 127</h3>
+<p><b>Summary:</b> This gene encodes a transmembrane protein with four predicted transmembrane domains. The protein is associated with a subpopulation of vesicular organelles corresponding to early endosomal structures, with the Golgi, and with lysosomes, and may participate in protein trafficking between these structures. Mutations in this gene and several other genes cause pheochromocytomas. Alternatively spliced transcript variants encoding the same protein have been identified. [provided by RefSeq, Aug 2022].</p>
+<p><b>GO:BP:</b> negative regulation of cell population proliferation; regulation of TOR signaling; negative regulation of TOR signaling</p>
+<p><b>GO:MF:</b> small GTPase binding</p>
+<p><b>GO:CC:</b> cytoplasm; early endosome; plasma membrane; membrane</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> Transmembrane protein 127; Transmembrane protein 127, transmembrane region</p>
+</div>
+
+<div class="gene-card">
+<h3>TP53 — tumor protein p53</h3>
+<p><b>Summary:</b> This gene encodes a tumor suppressor protein containing transcriptional activation, DNA binding, and oligomerization domains. The encoded protein responds to diverse cellular stresses to regulate expression of target genes, thereby inducing cell cycle arrest, apoptosis, senescence, DNA repair, or changes in metabolism. Mutations in this gene are associated with a variety of human cancers, including hereditary cancers such as Li-Fraumeni syndrome. Alternative splicing of this gene and the use of alternate promoters result in multiple transcript variants and isoforms. Additional isoforms have also been shown to result from the use of alternate translation initiation codons from identical transcript variants (PMIDs: 12032546, 20937277). [provided by RefSeq, Dec 2016].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; hematopoietic progenitor cell differentiation; nucleotide-excision repair; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; autophagy</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II transcription regulatory region sequence-specific DNA binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; cis-regulatory region sequence-specific DNA binding; core promoter sequence-specific DNA binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; replication fork; transcription regulator complex; nucleolus</p>
+<p><b>Pathways:</b> MAPK signaling pathway - Homo sapiens (human) (kegg); Sphingolipid signaling pathway - Homo sapiens (human) (kegg); Cell cycle - Homo sapiens (human) (kegg); p53 signaling pathway - Homo sapiens (human) (kegg); Mitophagy - animal - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); Apoptosis - Homo sapiens (human) (kegg); Longevity regulating pathway - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> p53 tumour suppressor family; p53-like transcription factor, DNA-binding domain superfamily; p53, tetramerisation domain; p53, DNA-binding domain; p53/RUNT-type transcription factor, DNA-binding domain superfamily; p53, transactivation domain</p>
+</div>
+
+<div class="gene-card">
+<h3>TSC1 — TSC complex subunit 1</h3>
+<p><b>Summary:</b> This gene is a tumor suppressor gene that encodes the growth inhibitory protein hamartin. The encoded protein interacts with and stabilizes the GTPase activating protein tuberin. This hamartin-tuberin complex negatively regulates mammalian target of rapamycin complex 1 (mTORC1) signaling which is a major regulator of anabolic cell growth. This protein also functions as a co-chaperone for Hsp90 that inhibits its ATPase activity. This protein functions as a facilitator of Hsp90-mediated folding of kinase and non-kinase clients, including TSC2 and thereby preventing their ubiquitination and proteasomal degradation. Mutations in this gene have been associated with tuberous sclerosis and lymphangioleiomyomatosis. [provided by RefSeq, May 2022].</p>
+<p><b>GO:BP:</b> regulation of cell-matrix adhesion; protein folding; cell-matrix adhesion; negative regulation of cell population proliferation; adult locomotory behavior; cellular response to starvation</p>
+<p><b>GO:MF:</b> protein binding; Hsp70 protein binding; ATPase inhibitor activity; protein folding chaperone; protein-folding chaperone binding; Hsp90 protein binding</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; lysosomal membrane; cytosol; actin filament; plasma membrane</p>
+<p><b>Pathways:</b> Phospholipase D signaling pathway - Homo sapiens (human) (kegg); Autophagy - animal - Homo sapiens (human) (kegg); mTOR signaling pathway - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); AMPK signaling pathway - Homo sapiens (human) (kegg); Longevity regulating pathway - Homo sapiens (human) (kegg); Cellular senescence - Homo sapiens (human) (kegg); Thermogenesis - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Hamartin; Armadillo-type fold</p>
+</div>
+
+<div class="gene-card">
+<h3>TSC2 — TSC complex subunit 2</h3>
+<p><b>Summary:</b> This gene is a tumor suppressor gene that encodes the growth inhibitory protein tuberin. Tuberin interacts with hamartin to form the TSC protein complex which functions in the control of cell growth. This TSC protein complex negatively regulates mammalian target of rapamycin complex 1 (mTORC1) signaling which is a major regulator of anabolic cell growth. Mutations in this gene have been associated with tuberous sclerosis and lymphangioleiomyomatosis. [provided by RefSeq, May 2022].</p>
+<p><b>GO:BP:</b> neural tube closure; protein import into nucleus; endocytosis; small GTPase-mediated signal transduction; heart development; intracellular protein localization</p>
+<p><b>GO:MF:</b> GTPase activator activity; protein binding; phosphatase binding; small GTPase binding; protein homodimerization activity; Hsp90 protein binding</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; lysosome; lysosomal membrane; Golgi apparatus; cytosol</p>
+<p><b>Pathways:</b> Phospholipase D signaling pathway - Homo sapiens (human) (kegg); p53 signaling pathway - Homo sapiens (human) (kegg); Autophagy - animal - Homo sapiens (human) (kegg); mTOR signaling pathway - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); AMPK signaling pathway - Homo sapiens (human) (kegg); Longevity regulating pathway - Homo sapiens (human) (kegg); Cellular senescence - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Armadillo-type fold; Tuberin, N-terminal; Tuberin/Ral GTPase-activating protein subunit alpha; Tuberin; Armadillo-like helical; Rap/Ran-GAP domain</p>
+</div>
+
+<div class="gene-card">
+<h3>VHL — von Hippel-Lindau tumor suppressor</h3>
+<p><b>Summary:</b> This gene encodes a component of a ubiquitination complex. The encoded protein is involved in the ubiquitination and degradation of hypoxia-inducible-factor (HIF), which is a transcription factor that plays a central role in the regulation of gene expression by oxygen. In addition to oxygen-related gene expression, this protein plays a role in many other cellular processes including cilia formation, cytokine signaling, regulation of senescence, and formation of the extracellular matrix. Variants of this gene are associated with von Hippel-Lindau syndrome, pheochromocytoma, erythrocytosis, renal cell carcinoma, and cerebellar hemangioblastoma. [provided by RefSeq, Jun 2022].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; cell morphogenesis; regulation of DNA-templated transcription; proteolysis; negative regulation of cell population proliferation; negative regulation of signal transduction</p>
+<p><b>GO:MF:</b> transcription elongation factor activity; transcription corepressor activity; ubiquitin-protein transferase activity; protein binding; enzyme binding; molecular adaptor activity</p>
+<p><b>GO:CC:</b> ubiquitin ligase complex; nucleus; nucleoplasm; cytoplasm; mitochondrion; endoplasmic reticulum</p>
+<p><b>Pathways:</b> HIF-1 signaling pathway - Homo sapiens (human) (kegg); Ubiquitin mediated proteolysis - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Renal cell carcinoma - Homo sapiens (human) (kegg); Cellular response to hypoxia (reactome); Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha (reactome); Adaptive Immune System (reactome); Signal Transduction (reactome)</p>
+<p><b>InterPro:</b> von Hippel-Lindau disease tumour suppressor, beta/alpha domain; von Hippel-Lindau disease tumour suppressor, alpha domain; von Hippel-Lindau disease tumour suppressor, beta domain; VHL superfamily; von Hippel-Lindau disease tumour suppressor, alpha domain superfamily; von Hippel-Lindau disease tumour suppressor, beta domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>WT1 — WT1 transcription factor</h3>
+<p><b>Summary:</b> This gene encodes a transcription factor that contains four zinc-finger motifs at the C-terminus and a proline/glutamine-rich DNA-binding domain at the N-terminus. It has an essential role in the normal development of the urogenital system, and it is mutated in a small subset of patients with Wilms tumor. This gene exhibits complex tissue-specific and polymorphic imprinting pattern, with biallelic, and monoallelic expression from the maternal and paternal alleles in different tissues. Multiple transcript variants have been described. In several variants, there is evidence for the use of a non-AUG (CUG) translation initiation codon upstream of, and in-frame with the first AUG. Authors of PMID:7926762 also provide evidence that WT1 mRNA undergoes RNA editing in human and rat, and that this process is tissue-restricted and developmentally regulated. [provided by RefSeq, Mar 2015].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; vasculogenesis; ureteric bud development; branching involved in ureteric bud morphogenesis; kidney development; regulation of animal organ formation</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA-binding transcription factor activity; protein binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; nucleolus; cytoplasm; cytosol; nuclear speck</p>
+<p><b>Pathways:</b> Transcriptional misregulation in cancer - Homo sapiens (human) (kegg); Developmental Biology (reactome); Cell-Cell communication (reactome); Adherens junctions interactions (reactome); Cell-cell junction organization (reactome); Cell junction organization (reactome); Transcriptional regulation of testis differentiation (reactome); Regulation of Homotypic Cell-Cell Adhesion (reactome)</p>
+<p><b>InterPro:</b> Wilm's tumour protein, N-terminal; Zinc finger C2H2-type; Zinc finger C2H2 superfamily</p>
+</div>
+
+
+<h2>Provenance</h2>
+<ul>
+<li>PANTHER: pantherdb.org, REST (geneinfo + enrich/overrep)</li>
+<li>Enrichr: maayanlab.cloud/Enrichr, GO_Biological_Process_2025</li>
+<li>g:Profiler: biit.cs.ut.ee/gprofiler, GO/KEGG/REAC</li>
+<li>MyGene.info: mygene.info/v3/query</li>
+</ul>
+</body></html>

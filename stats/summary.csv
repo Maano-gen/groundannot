@@ -1,0 +1,4 @@
+model,n_runs,llm_ids_mean,llm_ids_sd,unsupported_mean,unsupported_sd,ane_mean,ane_sd,valid_mean,valid_sd,valid_rate_mean,valid_rate_sd
+groq-gpt-oss-120b,87,59.82,0.39,7.21,1.38,31.64,0.94,20.97,1.22,0.3505,0.0202
+groq-qwen3.8-27b,92,55.59,2.97,6.85,1.19,37.58,2.50,11.16,0.68,0.2014,0.0160
+qwen2.5-7b,36,59.00,0.00,18.00,0.00,32.00,0.00,9.00,0.00,0.1525,0.0000

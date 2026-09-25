@@ -1,0 +1,10 @@
+model,category,n_hallmarks,n_hits,hit_rate
+groq-gpt-oss-120b,all,50,21,0.420
+groq-gpt-oss-120b,direct,44,21,0.477
+groq-gpt-oss-120b,indirect,6,0,0.000
+groq-qwen3.8-27b,all,50,8,0.160
+groq-qwen3.8-27b,direct,44,8,0.182
+groq-qwen3.8-27b,indirect,6,0,0.000
+qwen2.5-7b,all,50,6,0.120
+qwen2.5-7b,direct,44,6,0.136
+qwen2.5-7b,indirect,6,0,0.000

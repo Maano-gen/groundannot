@@ -1,0 +1,181 @@
+disease,backend,rank,term_id,label,fdr
+alzheimers_disease,PANTHER,1,GO:1902003,regulation of amyloid-beta formation,9.351273473184976e-12
+alzheimers_disease,PANTHER,2,GO:1902991,regulation of amyloid precursor protein catabolic process,1.3392666236182742e-11
+alzheimers_disease,PANTHER,3,GO:1902430,negative regulation of amyloid-beta formation,1.342391714608511e-11
+alzheimers_disease,PANTHER,4,GO:1902992,negative regulation of amyloid precursor protein catabolic process,1.4089237990684972e-11
+alzheimers_disease,PANTHER,5,GO:0060627,regulation of vesicle-mediated transport,2.0327496223736423e-09
+alzheimers_disease,PANTHER,6,GO:1905908,positive regulation of amyloid fibril formation,2.0938960172063232e-09
+alzheimers_disease,PANTHER,7,GO:1905906,regulation of amyloid fibril formation,2.3788284674996317e-09
+alzheimers_disease,PANTHER,8,GO:1900221,regulation of amyloid-beta clearance,2.406332347110226e-09
+alzheimers_disease,PANTHER,9,GO:0032879,regulation of localization,1.2551165364006184e-08
+alzheimers_disease,PANTHER,10,GO:0045807,positive regulation of endocytosis,1.7039822911354828e-08
+alzheimers_disease,Enrichr,1,GO:1902003,Regulation of Amyloid-Beta Formation,4.1239202747934897e-11
+alzheimers_disease,Enrichr,2,GO:1902991,Regulation of Amyloid Precursor Protein Catabolic Process,3.205657069767925e-10
+alzheimers_disease,Enrichr,3,GO:1900221,Regulation of Amyloid-Beta Clearance,4.9526765036363924e-08
+alzheimers_disease,Enrichr,4,GO:1905906,Regulation of Amyloid Fibril Formation,4.9526765036363924e-08
+alzheimers_disease,Enrichr,5,GO:1902430,Negative Regulation of Amyloid-Beta Formation,4.9526765036363924e-08
+alzheimers_disease,Enrichr,6,GO:1902992,Negative Regulation of Amyloid Precursor Protein Catabolic Process,5.394801250407729e-08
+alzheimers_disease,Enrichr,7,GO:0034249,Negative Regulation of Amide Metabolic Process,1.160804004419631e-07
+alzheimers_disease,Enrichr,8,GO:1902993,Positive Regulation of Amyloid Precursor Protein Catabolic Process,1.5014543985616894e-07
+alzheimers_disease,Enrichr,9,GO:0051247,Positive Regulation of Protein Metabolic Process,3.393166593965339e-07
+alzheimers_disease,Enrichr,10,GO:1902905,Positive Regulation of Supramolecular Fiber Organization,4.915705446391506e-07
+alzheimers_disease,g:Profiler,1,GO:0050435,amyloid-beta metabolic process,3.307806657115372e-14
+alzheimers_disease,g:Profiler,2,GO:0034205,amyloid-beta formation,2.3705855878327728e-12
+alzheimers_disease,g:Profiler,3,GO:0042987,amyloid precursor protein catabolic process,1.2974223750530204e-11
+alzheimers_disease,g:Profiler,4,GO:0042982,amyloid precursor protein metabolic process,7.064395450718368e-11
+alzheimers_disease,g:Profiler,5,GO:1902003,regulation of amyloid-beta formation,2.003830469507804e-10
+alzheimers_disease,g:Profiler,6,GO:1902991,regulation of amyloid precursor protein catabolic process,5.704415535821717e-10
+alzheimers_disease,g:Profiler,7,GO:1905906,regulation of amyloid fibril formation,1.1775998929796734e-09
+alzheimers_disease,g:Profiler,8,GO:1902430,negative regulation of amyloid-beta formation,1.6674926375659288e-09
+alzheimers_disease,g:Profiler,9,GO:1905908,positive regulation of amyloid fibril formation,2.190571786853498e-09
+alzheimers_disease,g:Profiler,10,GO:1902992,negative regulation of amyloid precursor protein catabolic process,2.3077648915400275e-09
+hereditary_cancer,PANTHER,1,GO:0008285,negative regulation of cell population proliferation,4.9744938605779746e-08
+hereditary_cancer,PANTHER,2,GO:0033554,cellular response to stress,5.5242064020609086e-08
+hereditary_cancer,PANTHER,3,GO:0006121,mitochondrial electron transport; succinate to ubiquinone,6.278755879875227e-08
+hereditary_cancer,PANTHER,4,GO:0006974,DNA damage response,2.3630415402969226e-07
+hereditary_cancer,PANTHER,5,GO:0045926,negative regulation of growth,2.6871341225925594e-07
+hereditary_cancer,PANTHER,6,GO:0006281,DNA repair,3.143764095207605e-07
+hereditary_cancer,PANTHER,7,GO:0006298,mismatch repair,1.079612146301422e-06
+hereditary_cancer,PANTHER,8,GO:0042127,regulation of cell population proliferation,1.105167395703266e-06
+hereditary_cancer,PANTHER,9,GO:0030308,negative regulation of cell growth,1.5115816379911908e-06
+hereditary_cancer,PANTHER,10,GO:0048583,regulation of response to stimulus,2.7963261846401074e-06
+hereditary_cancer,Enrichr,1,GO:0048523,Negative Regulation of Cellular Process,4.651317271121773e-11
+hereditary_cancer,Enrichr,2,GO:0008285,Negative Regulation of Cell Population Proliferation,1.631345882054511e-08
+hereditary_cancer,Enrichr,3,GO:0006298,Mismatch Repair,3.0883300586864656e-08
+hereditary_cancer,Enrichr,4,GO:0006281,DNA Repair,3.0883300586864656e-08
+hereditary_cancer,Enrichr,5,GO:0010212,Response to Ionizing Radiation,7.253922890612728e-08
+hereditary_cancer,Enrichr,6,GO:0042127,Regulation of Cell Population Proliferation,3.159027034275536e-07
+hereditary_cancer,Enrichr,7,GO:0051726,Regulation of Cell Cycle,7.997232196547295e-07
+hereditary_cancer,Enrichr,8,GO:0045926,Negative Regulation of Growth,8.544572335815449e-07
+hereditary_cancer,Enrichr,9,GO:0030308,Negative Regulation of Cell Growth,1.0315716610600555e-06
+hereditary_cancer,Enrichr,10,GO:0006099,Tricarboxylic Acid Cycle,2.0332127923447887e-06
+hereditary_cancer,g:Profiler,1,GO:0032404,mismatch repair complex binding,9.816638533099528e-10
+hereditary_cancer,g:Profiler,2,REAC:R-HSA-9675135,Diseases of DNA repair,4.121156992654698e-09
+hereditary_cancer,g:Profiler,3,GO:0008285,negative regulation of cell population proliferation,1.0294822240859855e-08
+hereditary_cancer,g:Profiler,4,GO:0033554,cellular response to stress,2.5361931564307987e-08
+hereditary_cancer,g:Profiler,5,GO:0032300,mismatch repair complex,3.097901026283891e-08
+hereditary_cancer,g:Profiler,6,REAC:R-HSA-5423599,Diseases of Mismatch Repair (MMR),3.704282790151609e-08
+hereditary_cancer,g:Profiler,7,GO:0030983,mismatched DNA binding,2.0216877735624948e-07
+hereditary_cancer,g:Profiler,8,KEGG:05200,Pathways in cancer,6.868496552618891e-07
+hereditary_cancer,g:Profiler,9,GO:0006298,mismatch repair,1.403098268770479e-06
+hereditary_cancer,g:Profiler,10,GO:0045273,respiratory chain complex II (succinate dehydrogenase),2.5355971807761645e-06
+hypertrophic_cardiomyopathy,PANTHER,1,GO:0060047,heart contraction,2.586029185846534e-18
+hypertrophic_cardiomyopathy,PANTHER,2,GO:0048644,muscle organ morphogenesis,3.1844818660597585e-18
+hypertrophic_cardiomyopathy,PANTHER,3,GO:0003015,heart process,3.242476556553291e-18
+hypertrophic_cardiomyopathy,PANTHER,4,GO:0048738,cardiac muscle tissue development,3.3479384241778604e-18
+hypertrophic_cardiomyopathy,PANTHER,5,GO:0055008,cardiac muscle tissue morphogenesis,3.4559451445558214e-18
+hypertrophic_cardiomyopathy,PANTHER,6,GO:0060415,muscle tissue morphogenesis,3.980602332574698e-18
+hypertrophic_cardiomyopathy,PANTHER,7,GO:0060048,cardiac muscle contraction,4.35592284490769e-17
+hypertrophic_cardiomyopathy,PANTHER,8,GO:0014706,striated muscle tissue development,1.0295607258620207e-16
+hypertrophic_cardiomyopathy,PANTHER,9,GO:0060537,muscle tissue development,2.486804217989151e-16
+hypertrophic_cardiomyopathy,PANTHER,10,GO:0007517,muscle organ development,2.645803540859504e-15
+hypertrophic_cardiomyopathy,Enrichr,1,GO:0060047,Heart Contraction,1.82564889031042e-20
+hypertrophic_cardiomyopathy,Enrichr,2,GO:0060048,Cardiac Muscle Contraction,7.776386056974979e-19
+hypertrophic_cardiomyopathy,Enrichr,3,GO:0006941,Striated Muscle Contraction,6.220739387374336e-17
+hypertrophic_cardiomyopathy,Enrichr,4,GO:0055008,Cardiac Muscle Tissue Morphogenesis,7.234600317037596e-17
+hypertrophic_cardiomyopathy,Enrichr,5,GO:0003229,Ventricular Cardiac Muscle Tissue Development,5.275262219175765e-15
+hypertrophic_cardiomyopathy,Enrichr,6,GO:0055010,Ventricular Cardiac Muscle Tissue Morphogenesis,5.39887235072596e-14
+hypertrophic_cardiomyopathy,Enrichr,7,GO:0003208,Cardiac Ventricle Morphogenesis,2.9075935927619877e-13
+hypertrophic_cardiomyopathy,Enrichr,8,GO:0030239,Myofibril Assembly,1.0862589926568805e-12
+hypertrophic_cardiomyopathy,Enrichr,9,GO:0030049,Muscle Filament Sliding,2.0849434777285938e-11
+hypertrophic_cardiomyopathy,Enrichr,10,GO:0033275,Actin-Myosin Filament Sliding,4.373004366746806e-11
+hypertrophic_cardiomyopathy,g:Profiler,1,GO:0030017,sarcomere,1.0696909929577097e-20
+hypertrophic_cardiomyopathy,g:Profiler,2,GO:0030016,myofibril,4.6264537342805873e-20
+hypertrophic_cardiomyopathy,g:Profiler,3,REAC:R-HSA-390522,Striated Muscle Contraction,8.826158751996418e-20
+hypertrophic_cardiomyopathy,g:Profiler,4,GO:0043292,contractile muscle fiber,9.435712861442221e-20
+hypertrophic_cardiomyopathy,g:Profiler,5,GO:0055008,cardiac muscle tissue morphogenesis,1.8484711753590974e-18
+hypertrophic_cardiomyopathy,g:Profiler,6,GO:0048644,muscle organ morphogenesis,6.104839872792624e-18
+hypertrophic_cardiomyopathy,g:Profiler,7,GO:0060415,muscle tissue morphogenesis,6.104839872792624e-18
+hypertrophic_cardiomyopathy,g:Profiler,8,GO:0033275,actin-myosin filament sliding,1.1288710453421649e-16
+hypertrophic_cardiomyopathy,g:Profiler,9,GO:0060048,cardiac muscle contraction,3.498330445242523e-16
+hypertrophic_cardiomyopathy,g:Profiler,10,KEGG:05410,Hypertrophic cardiomyopathy,4.551487313648465e-16
+parkinsons_disease,PANTHER,1,GO:0010506,regulation of autophagy,2.514454852508716e-10
+parkinsons_disease,PANTHER,2,GO:0016241,regulation of macroautophagy,3.895884839400686e-07
+parkinsons_disease,PANTHER,3,GO:0034599,cellular response to oxidative stress,4.271182727737319e-07
+parkinsons_disease,PANTHER,4,GO:1903377,negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway,4.770752448191979e-07
+parkinsons_disease,PANTHER,5,GO:2000377,regulation of reactive oxygen species metabolic process,5.166028839709494e-07
+parkinsons_disease,PANTHER,6,GO:0099074,mitochondrion to lysosome vesicle-mediated transport,5.305379705380254e-07
+parkinsons_disease,PANTHER,7,GO:0062197,cellular response to chemical stress,5.348997405098619e-07
+parkinsons_disease,PANTHER,8,GO:0033238,regulation of amine metabolic process,5.51472818840421e-07
+parkinsons_disease,PANTHER,9,GO:0042053,regulation of dopamine metabolic process,5.565877856223975e-07
+parkinsons_disease,PANTHER,10,GO:1903146,regulation of autophagy of mitochondrion,5.62333453706102e-07
+parkinsons_disease,Enrichr,1,GO:0062197,Cellular Response to Chemical Stress,4.215001133727737e-10
+parkinsons_disease,Enrichr,2,GO:0034599,Cellular Response to Oxidative Stress,8.244369296100207e-10
+parkinsons_disease,Enrichr,3,GO:1903377,- Reg of Oxidative Stress-Induced Neuron Intrinsic Apoptotic Sgnlng Pway,3.852848215532281e-09
+parkinsons_disease,Enrichr,4,GO:1903376,Regulation of Oxidative Stress-Induced Neuron Intrinsic Apoptotic Signaling Pathway,1.3603437036622556e-08
+parkinsons_disease,Enrichr,5,GO:0010506,Regulation of Autophagy,3.0819022206358455e-08
+parkinsons_disease,Enrichr,6,GO:0007005,Mitochondrion Organization,6.469942695143442e-08
+parkinsons_disease,Enrichr,7,GO:2000377,Regulation of Reactive Oxygen Species Metabolic Process,8.224496103056729e-08
+parkinsons_disease,Enrichr,8,GO:1902176,Negative Regulation of Oxidative Stress-Induced Intrinsic Apoptotic Signaling Pathway,1.8147596750895331e-07
+parkinsons_disease,Enrichr,9,GO:0010042,Response to Manganese Ion,2.8251653264110805e-07
+parkinsons_disease,Enrichr,10,GO:0090140,Regulation of Mitochondrial Fission,2.871895090694342e-07
+parkinsons_disease,g:Profiler,1,GO:0010506,regulation of autophagy,8.754729790677597e-11
+parkinsons_disease,g:Profiler,2,GO:0034599,cellular response to oxidative stress,2.2698322101123224e-09
+parkinsons_disease,g:Profiler,3,GO:0006914,autophagy,7.137494414967107e-09
+parkinsons_disease,g:Profiler,4,GO:0061919,process utilizing autophagic mechanism,7.137494414967107e-09
+parkinsons_disease,g:Profiler,5,GO:0062197,cellular response to chemical stress,1.3838473560785041e-08
+parkinsons_disease,g:Profiler,6,GO:0006979,response to oxidative stress,5.1467342715332867e-08
+parkinsons_disease,g:Profiler,7,GO:1903377,negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway,9.535242020557685e-08
+parkinsons_disease,g:Profiler,8,GO:0016241,regulation of macroautophagy,1.8499625666200074e-07
+parkinsons_disease,g:Profiler,9,GO:0042176,regulation of protein catabolic process,4.0246665093397066e-07
+parkinsons_disease,g:Profiler,10,GO:1903146,regulation of autophagy of mitochondrion,4.1343224084128185e-07
+primary_immunodeficiency,PANTHER,1,GO:0002376,immune system process,6.302621925695855e-16
+primary_immunodeficiency,PANTHER,2,GO:0046649,lymphocyte activation,2.608984790061683e-13
+primary_immunodeficiency,PANTHER,3,GO:0045321,leukocyte activation,3.89953305102827e-12
+primary_immunodeficiency,PANTHER,4,GO:0001775,cell activation,3.3373083194730614e-11
+primary_immunodeficiency,PANTHER,5,GO:0030098,lymphocyte differentiation,3.8078744951214405e-11
+primary_immunodeficiency,PANTHER,6,GO:0006955,immune response,5.095213110153245e-11
+primary_immunodeficiency,PANTHER,7,GO:0042110,T cell activation,1.8314250593855916e-10
+primary_immunodeficiency,PANTHER,8,GO:0002682,regulation of immune system process,2.003899789275889e-10
+primary_immunodeficiency,PANTHER,9,GO:1903131,mononuclear cell differentiation,2.313620749545837e-10
+primary_immunodeficiency,PANTHER,10,GO:0002521,leukocyte differentiation,9.452781520926132e-10
+primary_immunodeficiency,Enrichr,1,GO:0033151,V(D)J Recombination,5.235708199391349e-10
+primary_immunodeficiency,Enrichr,2,GO:0030217,T Cell Differentiation,4.4111269985404284e-07
+primary_immunodeficiency,Enrichr,3,GO:0042554,Superoxide Anion Generation,8.485954616638433e-07
+primary_immunodeficiency,Enrichr,4,GO:0033152,Immunoglobulin V(D)J Recombination,1.5800157943520125e-06
+primary_immunodeficiency,Enrichr,5,GO:0030098,Lymphocyte Differentiation,2.0078043587676084e-06
+primary_immunodeficiency,Enrichr,6,GO:0038110,Interleukin-2-Mediated Signaling Pathway,2.0078043587676084e-06
+primary_immunodeficiency,Enrichr,7,GO:0038111,Interleukin-7-Mediated Signaling Pathway,2.0078043587676084e-06
+primary_immunodeficiency,Enrichr,8,GO:0038113,Interleukin-9-Mediated Signaling Pathway,2.0078043587676084e-06
+primary_immunodeficiency,Enrichr,9,GO:0071352,Cellular Response to Interleukin-2,2.0078043587676084e-06
+primary_immunodeficiency,Enrichr,10,GO:0098761,Cellular Response to Interleukin-7,2.0078043587676084e-06
+primary_immunodeficiency,g:Profiler,1,KEGG:05340,Primary immunodeficiency,9.543966708344708e-20
+primary_immunodeficiency,g:Profiler,2,GO:0002376,immune system process,2.266500986565883e-13
+primary_immunodeficiency,g:Profiler,3,GO:0030098,lymphocyte differentiation,1.6068100175676407e-12
+primary_immunodeficiency,g:Profiler,4,GO:0046649,lymphocyte activation,6.7177808959974966e-12
+primary_immunodeficiency,g:Profiler,5,GO:0030097,hemopoiesis,1.7505749154787837e-11
+primary_immunodeficiency,g:Profiler,6,GO:1903131,mononuclear cell differentiation,1.7795446182123222e-11
+primary_immunodeficiency,g:Profiler,7,GO:0006955,immune response,3.2070365130536774e-11
+primary_immunodeficiency,g:Profiler,8,GO:0045321,leukocyte activation,1.1058088812163148e-10
+primary_immunodeficiency,g:Profiler,9,GO:0002521,leukocyte differentiation,1.813800904223485e-10
+primary_immunodeficiency,g:Profiler,10,KEGG:04659,Th17 cell differentiation,1.9474711030311814e-10
+type2_diabetes,PANTHER,1,GO:0010817,regulation of hormone levels,5.409887221856234e-05
+type2_diabetes,PANTHER,2,GO:0070201,regulation of establishment of protein localization,0.00011699872353954367
+type2_diabetes,PANTHER,3,GO:0046883,regulation of hormone secretion,0.0001375756286571014
+type2_diabetes,PANTHER,4,GO:0051223,regulation of protein transport,0.00014174325585504847
+type2_diabetes,PANTHER,5,GO:0050708,regulation of protein secretion,0.00016606569102358174
+type2_diabetes,PANTHER,6,GO:0050796,regulation of insulin secretion,0.00038657518217532393
+type2_diabetes,PANTHER,7,GO:0065008,regulation of biological quality,0.00044291535551254664
+type2_diabetes,PANTHER,8,GO:0051046,regulation of secretion,0.0004653831904530658
+type2_diabetes,PANTHER,9,GO:0042592,homeostatic process,0.0004998392496001713
+type2_diabetes,PANTHER,10,GO:0090087,regulation of peptide transport,0.0006286980163040559
+type2_diabetes,Enrichr,1,GO:0050796,Regulation of Insulin Secretion,7.867092744452993e-06
+type2_diabetes,Enrichr,2,GO:0000079,Regulation of Cyclin-Dependent Protein Serine/Threonine Kinase Activity,1.8073432723581463e-05
+type2_diabetes,Enrichr,3,GO:0042593,Glucose Homeostasis,0.00020106250198560608
+type2_diabetes,Enrichr,4,GO:1901142,Insulin Metabolic Process,0.0032933595255500224
+type2_diabetes,Enrichr,5,GO:0050714,Positive Regulation of Protein Secretion,0.0032933595255500224
+type2_diabetes,Enrichr,6,GO:0034393,Positive Regulation of Smooth Muscle Cell Apoptotic Process,0.0032933595255500224
+type2_diabetes,Enrichr,7,GO:1902679,Negative Regulation of RNA Biosynthetic Process,0.0032933595255500224
+type2_diabetes,Enrichr,8,GO:0045736,Negative Regulation of Cyclin-Dependent Protein Serine/Threonine Kinase Activity,0.003663081445812663
+type2_diabetes,Enrichr,9,GO:1904030,Negative Regulation of Cyclin-Dependent Protein Kinase Activity,0.004378513080376586
+type2_diabetes,Enrichr,10,GO:0031016,Pancreas Development,0.004501217492076396
+type2_diabetes,g:Profiler,1,GO:0046883,regulation of hormone secretion,1.8872724547544407e-05
+type2_diabetes,g:Profiler,2,GO:0051223,regulation of protein transport,2.243042227260459e-05
+type2_diabetes,g:Profiler,3,GO:0050708,regulation of protein secretion,2.8317499286084102e-05
+type2_diabetes,g:Profiler,4,GO:0046879,hormone secretion,3.656184877805607e-05
+type2_diabetes,g:Profiler,5,GO:0009914,hormone transport,4.811437317269953e-05
+type2_diabetes,g:Profiler,6,GO:0070201,regulation of establishment of protein localization,4.982627436651647e-05
+type2_diabetes,g:Profiler,7,GO:0010817,regulation of hormone levels,6.025530521319516e-05
+type2_diabetes,g:Profiler,8,GO:0050796,regulation of insulin secretion,8.392744412410659e-05
+type2_diabetes,g:Profiler,9,GO:0009306,protein secretion,0.00014928091086250663
+type2_diabetes,g:Profiler,10,GO:0071692,protein localization to extracellular region,0.0001529700627116061

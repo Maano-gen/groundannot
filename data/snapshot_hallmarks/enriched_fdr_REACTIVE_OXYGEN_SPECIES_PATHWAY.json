@@ -1,0 +1,1608 @@
+{
+  "PANTHER": [
+    {
+      "id": "GO:0006979",
+      "label": "response to oxidative stress",
+      "fdr": 3.7093145479493e-35,
+      "p_value": 2.6955268860906184e-39,
+      "fold": 32.26885485809857,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0098869",
+      "label": "cellular oxidant detoxification",
+      "fdr": 5.1585501143342865e-30,
+      "p_value": 7.4973477426557465e-34,
+      "fold": 95.81475128644941,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1990748",
+      "label": "cellular detoxification",
+      "fdr": 1.0794289629207817e-26,
+      "p_value": 2.3532351491623757e-30,
+      "fold": 65.28969777926197,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0097237",
+      "label": "cellular response to toxic substance",
+      "fdr": 5.400482549238781e-26,
+      "p_value": 1.5697936339622938e-29,
+      "fold": 59.49786975045648,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0098754",
+      "label": "detoxification",
+      "fdr": 2.616683988956999e-24,
+      "p_value": 9.507608418563327e-28,
+      "fold": 48.5377358490566,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009636",
+      "label": "response to toxic substance",
+      "fdr": 1.5992155596137709e-22,
+      "p_value": 6.972816915691175e-26,
+      "fold": 33.47430058555628,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070887",
+      "label": "cellular response to chemical stimulus",
+      "fdr": 2.2291681225663284e-17,
+      "p_value": 1.1339420723758665e-20,
+      "fold": 6.738427536528466,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042743",
+      "label": "hydrogen peroxide metabolic process",
+      "fdr": 7.310343494201967e-17,
+      "p_value": 4.249890847584894e-20,
+      "fold": 143.81551362683436,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034599",
+      "label": "cellular response to oxidative stress",
+      "fdr": 8.529433056997179e-17,
+      "p_value": 5.578438886198286e-20,
+      "fold": 30.306488725264614,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0062197",
+      "label": "cellular response to chemical stress",
+      "fdr": 9.947170724793816e-17,
+      "p_value": 7.22852316313772e-20,
+      "fold": 25.291693775753632,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045454",
+      "label": "cell redox homeostasis",
+      "fdr": 1.574698629252746e-15,
+      "p_value": 1.2587519018806923e-18,
+      "fold": 107.86163522012579,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006950",
+      "label": "response to stress",
+      "fdr": 3.2057458989562444e-14,
+      "p_value": 2.7955054710758614e-17,
+      "fold": 4.477945976189736,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072593",
+      "label": "reactive oxygen species metabolic process",
+      "fdr": 5.837309573634917e-14,
+      "p_value": 5.514499270202306e-17,
+      "fold": 56.20158887785501,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042744",
+      "label": "hydrogen peroxide catabolic process",
+      "fdr": 3.097036684230894e-12,
+      "p_value": 3.1508257815008007e-15,
+      "fold": 181.20754716981133,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042221",
+      "label": "response to chemical",
+      "fdr": 6.507655819648335e-12,
+      "p_value": 7.093586025341546e-15,
+      "fold": 3.9269078378772746,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019725",
+      "label": "cellular homeostasis",
+      "fdr": 1.7087761205178608e-10,
+      "p_value": 1.9868045874780737e-13,
+      "fold": 10.379138483446066,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901700",
+      "label": "response to oxygen-containing compound",
+      "fdr": 8.596966171660944e-10,
+      "p_value": 1.0620479973710925e-12,
+      "fold": 6.101886792452829,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050896",
+      "label": "response to stimulus",
+      "fdr": 2.50416785839472e-09,
+      "p_value": 3.275562927919843e-12,
+      "fold": 2.2908665887460344,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000305",
+      "label": "response to oxygen radical",
+      "fdr": 2.85926411875064e-09,
+      "p_value": 3.947824886001175e-12,
+      "fold": 129.43396226415095,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033554",
+      "label": "cellular response to stress",
+      "fdr": 3.047131404767262e-09,
+      "p_value": 4.428648215634419e-12,
+      "fold": 5.679947812123644,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000302",
+      "label": "response to reactive oxygen species",
+      "fdr": 9.485925835240443e-08,
+      "p_value": 1.4476015009087225e-10,
+      "fold": 23.454476383436745,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051716",
+      "label": "cellular response to stimulus",
+      "fdr": 1.0840507965280863e-07,
+      "p_value": 1.7330947986060534e-10,
+      "fold": 2.462528654558279,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019430",
+      "label": "removal of superoxide radicals",
+      "fdr": 1.0984494984257255e-07,
+      "p_value": 1.8359376835834378e-10,
+      "fold": 138.67924528301887,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071450",
+      "label": "cellular response to oxygen radical",
+      "fdr": 1.5129136881383896e-07,
+      "p_value": 2.748553317597539e-10,
+      "fold": 129.43396226415095,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071451",
+      "label": "cellular response to superoxide",
+      "fdr": 1.575951758477489e-07,
+      "p_value": 2.748553317597539e-10,
+      "fold": 129.43396226415095,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034614",
+      "label": "cellular response to reactive oxygen species",
+      "fdr": 2.2854197501518725e-07,
+      "p_value": 4.3180665288822534e-10,
+      "fold": 27.735849056603772,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000303",
+      "label": "response to superoxide",
+      "fdr": 2.875380661647468e-07,
+      "p_value": 5.641688675567301e-10,
+      "fold": 114.2064372918979,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042592",
+      "label": "homeostatic process",
+      "fdr": 4.774425324252929e-07,
+      "p_value": 9.714694359354844e-10,
+      "fold": 5.582614985833987,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901701",
+      "label": "cellular response to oxygen-containing compound",
+      "fdr": 8.907643629031032e-07,
+      "p_value": 1.877201258933943e-09,
+      "fold": 6.307441815918016,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006749",
+      "label": "glutathione metabolic process",
+      "fdr": 2.347721970349745e-06,
+      "p_value": 5.118207914431535e-09,
+      "fold": 43.14465408805031,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043069",
+      "label": "negative regulation of programmed cell death",
+      "fdr": 3.4566792943833683e-06,
+      "p_value": 7.787010982187662e-09,
+      "fold": 6.89876448616033,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009628",
+      "label": "response to abiotic stimulus",
+      "fdr": 3.7595317537842094e-06,
+      "p_value": 8.742461748498997e-09,
+      "fold": 6.189721893609769,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006575",
+      "label": "modified amino acid metabolic process",
+      "fdr": 5.676913442598358e-06,
+      "p_value": 1.3613701301195103e-08,
+      "fold": 17.956156614679898,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043067",
+      "label": "regulation of programmed cell death",
+      "fdr": 7.210477703151146e-06,
+      "p_value": 1.781529263186825e-08,
+      "fold": 4.981986472054112,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046686",
+      "label": "response to cadmium ion",
+      "fdr": 2.255486459635433e-05,
+      "p_value": 5.736648941736804e-08,
+      "fold": 48.53773584905661,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006801",
+      "label": "superoxide metabolic process",
+      "fdr": 2.4925416109799086e-05,
+      "p_value": 6.52071055848243e-08,
+      "fold": 47.35388863322596,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033993",
+      "label": "response to lipid",
+      "fdr": 2.981286489659898e-05,
+      "p_value": 8.015958151109383e-08,
+      "fold": 6.333656873653559,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008152",
+      "label": "metabolic process",
+      "fdr": 8.161883743572797e-05,
+      "p_value": 2.3131565002495391e-07,
+      "fold": 2.0292612727854173,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031667",
+      "label": "response to nutrient levels",
+      "fdr": 8.267518148078905e-05,
+      "p_value": 2.2830149671317374e-07,
+      "fold": 8.459736095696138,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006790",
+      "label": "sulfur compound metabolic process",
+      "fdr": 8.832202990113764e-05,
+      "p_value": 2.567314291145633e-07,
+      "fold": 12.278320530986651,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043066",
+      "label": "negative regulation of apoptotic process",
+      "fdr": 0.0001139569524489816,
+      "p_value": 3.3952729092422395e-07,
+      "fold": 6.212830188679245,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042981",
+      "label": "regulation of apoptotic process",
+      "fdr": 0.0001460574812796206,
+      "p_value": 4.457825894734442e-07,
+      "fold": 4.586242757391175,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070482",
+      "label": "response to oxygen levels",
+      "fdr": 0.00018215878260688322,
+      "p_value": 5.692048290164943e-07,
+      "fold": 11.054857986973747,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043523",
+      "label": "regulation of neuron apoptotic process",
+      "fdr": 0.0001915117567856588,
+      "p_value": 6.123477435192927e-07,
+      "fold": 14.08348812200606,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007584",
+      "label": "response to nutrient",
+      "fdr": 0.0006134177347815565,
+      "p_value": 2.005944194838314e-06,
+      "fold": 15.957611785991212,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0097069",
+      "label": "cellular response to thyroxine stimulus",
+      "fdr": 0.0018655991409637365,
+      "p_value": 6.507431056337429e-06,
+      "fold": 388.3018867924528,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1904387",
+      "label": "cellular response to L-phenylalanine derivative",
+      "fdr": 0.0019052927397076459,
+      "p_value": 6.507431056337429e-06,
+      "fold": 388.3018867924528,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061692",
+      "label": "cellular detoxification of hydrogen peroxide",
+      "fdr": 0.0019467121470925946,
+      "p_value": 6.507431056337429e-06,
+      "fold": 388.3018867924528,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009987",
+      "label": "cellular process",
+      "fdr": 0.004561979368228431,
+      "p_value": 1.6244240174637972e-05,
+      "fold": 1.3257947530571799,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034284",
+      "label": "response to monosaccharide",
+      "fdr": 0.004588499966474532,
+      "p_value": 1.6672116730159622e-05,
+      "fold": 15.657334144856968,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061691",
+      "label": "detoxification of hydrogen peroxide",
+      "fdr": 0.0051577385672379565,
+      "p_value": 1.949003746067682e-05,
+      "fold": 258.8679245283019,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006982",
+      "label": "response to lipid hydroperoxide",
+      "fdr": 0.005258870696007329,
+      "p_value": 1.949003746067682e-05,
+      "fold": 258.8679245283019,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0014823",
+      "label": "response to activity",
+      "fdr": 0.005766833547851157,
+      "p_value": 2.221075343624092e-05,
+      "fold": 24.2688679245283,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009410",
+      "label": "response to xenobiotic stimulus",
+      "fdr": 0.007090220091626072,
+      "p_value": 2.7822969620507805e-05,
+      "fold": 7.878589007383101,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009743",
+      "label": "response to carbohydrate",
+      "fdr": 0.008290608835788024,
+      "p_value": 3.31359266018706e-05,
+      "fold": 13.576989048687164,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044281",
+      "label": "small molecule metabolic process",
+      "fdr": 0.009045680745209924,
+      "p_value": 3.6811141757994026e-05,
+      "fold": 3.6420811892510008,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044752",
+      "label": "response to human chorionic gonadotropin",
+      "fdr": 0.00939506468785473,
+      "p_value": 3.8915681070250675e-05,
+      "fold": 194.1509433962264,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001666",
+      "label": "response to hypoxia",
+      "fdr": 0.009995039071061591,
+      "p_value": 4.2127190329305456e-05,
+      "fold": 9.356671970902477,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0036293",
+      "label": "response to decreased oxygen levels",
+      "fdr": 0.011464973042699092,
+      "p_value": 4.915583239003317e-05,
+      "fold": 9.100825471698114,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033273",
+      "label": "response to vitamin",
+      "fdr": 0.011707310692290472,
+      "p_value": 5.1045610169132204e-05,
+      "fold": 19.660855027465967,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042542",
+      "label": "response to hydrogen peroxide",
+      "fdr": 0.012098438208521241,
+      "p_value": 5.3630167191322994e-05,
+      "fold": 19.41509433962264,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0097068",
+      "label": "response to thyroxine",
+      "fdr": 0.01392276505737358,
+      "p_value": 6.475234093975068e-05,
+      "fold": 155.32075471698113,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033591",
+      "label": "response to L-ascorbic acid",
+      "fdr": 0.014143761328125542,
+      "p_value": 6.475234093975068e-05,
+      "fold": 155.32075471698113,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010269",
+      "label": "response to selenium ion",
+      "fdr": 0.014371886510837244,
+      "p_value": 6.475234093975068e-05,
+      "fold": 155.32075471698113,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1904386",
+      "label": "response to L-phenylalanine derivative",
+      "fdr": 0.02052889541958652,
+      "p_value": 9.696811294768722e-05,
+      "fold": 129.43396226415095,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010038",
+      "label": "response to metal ion",
+      "fdr": 0.02793322270945423,
+      "p_value": 0.0001360021743720248,
+      "fold": 7.564322469982848,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051409",
+      "label": "response to nitrosative stress",
+      "fdr": 0.028258257159860002,
+      "p_value": 0.00013553120939980816,
+      "fold": 110.94339622641509,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006750",
+      "label": "glutathione biosynthetic process",
+      "fdr": 0.036509138854103874,
+      "p_value": 0.00018040995872967543,
+      "fold": 97.0754716981132,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006120",
+      "label": "mitochondrial electron transport, NADH to ubiquinone",
+      "fdr": 0.039534051796702,
+      "p_value": 0.00019823047554483236,
+      "fold": 26.475128644939968,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034635",
+      "label": "glutathione transport",
+      "fdr": 0.0448827235206216,
+      "p_value": 0.00023157280502609793,
+      "fold": 86.28930817610063,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050665",
+      "label": "hydrogen peroxide biosynthetic process",
+      "fdr": 0.045523905285201914,
+      "p_value": 0.00023157280502609793,
+      "fold": 86.28930817610063,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043524",
+      "label": "negative regulation of neuron apoptotic process",
+      "fdr": 0.04627005199050387,
+      "p_value": 0.0002420931431811844,
+      "fold": 13.162775823472977,
+      "source": "PANTHER"
+    }
+  ],
+  "Enrichr": [
+    {
+      "id": "GO:0042743",
+      "label": "Hydrogen Peroxide Metabolic Process",
+      "fdr": 1.6373782008861723e-08,
+      "p_value": 5.6937711744638084e-11,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019430",
+      "label": "Removal of Superoxide Radicals",
+      "fdr": 1.6373782008861723e-08,
+      "p_value": 9.07117269729898e-11,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0062197",
+      "label": "Cellular Response to Chemical Stress",
+      "fdr": 1.6373782008861723e-08,
+      "p_value": 1.1186054266634434e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071451",
+      "label": "Cellular Response to Superoxide",
+      "fdr": 1.6373782008861723e-08,
+      "p_value": 1.4084973771063847e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034599",
+      "label": "Cellular Response to Oxidative Stress",
+      "fdr": 4.8406040085691454e-08,
+      "p_value": 5.204950546848543e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042744",
+      "label": "Hydrogen Peroxide Catabolic Process",
+      "fdr": 8.361290749790317e-08,
+      "p_value": 1.0788762257793958e-09,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006801",
+      "label": "Superoxide Metabolic Process",
+      "fdr": 1.9531889092268135e-06,
+      "p_value": 2.9402843794812243e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006749",
+      "label": "Glutathione Metabolic Process",
+      "fdr": 1.964382545791017e-06,
+      "p_value": 3.379582874479169e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006120",
+      "label": "Mitochondrial Electron Transport, NADH to Ubiquinone",
+      "fdr": 0.004050162689327634,
+      "p_value": 7.839024559988971e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006750",
+      "label": "Glutathione Biosynthetic Process",
+      "fdr": 0.0040756955877311535,
+      "p_value": 8.764936747808933e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019184",
+      "label": "Nonribosomal Peptide Biosynthetic Process",
+      "fdr": 0.005179141563528451,
+      "p_value": 0.0001225173273092752,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0110076",
+      "label": "Negative Regulation of Ferroptosis",
+      "fdr": 0.005834000085750979,
+      "p_value": 0.0001631010776661564,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033280",
+      "label": "Response to Vitamin D",
+      "fdr": 0.005834000085750979,
+      "p_value": 0.0001631010776661564,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008015",
+      "label": "Blood Circulation",
+      "fdr": 0.00734642507782765,
+      "p_value": 0.00022118269051524107,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043523",
+      "label": "Regulation of Neuron Apoptotic Process",
+      "fdr": 0.00815722682515084,
+      "p_value": 0.0002795382242728731,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042776",
+      "label": "Proton Motive Force-Driven Mitochondrial ATP Synthesis",
+      "fdr": 0.00815722682515084,
+      "p_value": 0.0002806787724783085,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0110075",
+      "label": "Regulation of Ferroptosis",
+      "fdr": 0.00842796120589762,
+      "p_value": 0.0003188769026553481,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043069",
+      "label": "Negative Regulation of Programmed Cell Death",
+      "fdr": 0.00842796120589762,
+      "p_value": 0.00032624365958313365,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003018",
+      "label": "Vascular Process in Circulatory System",
+      "fdr": 0.00866659845875549,
+      "p_value": 0.0003820541066945404,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035296",
+      "label": "Regulation of Tube Diameter",
+      "fdr": 0.00866659845875549,
+      "p_value": 0.0003820541066945404,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0015986",
+      "label": "Proton Motive Force-Driven ATP Synthesis",
+      "fdr": 0.00866659845875549,
+      "p_value": 0.00040793755585084526,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2001243",
+      "label": "Negative Regulation of Intrinsic Apoptotic Signaling Pathway",
+      "fdr": 0.00866659845875549,
+      "p_value": 0.0004286704614008092,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006119",
+      "label": "Oxidative Phosphorylation",
+      "fdr": 0.00866659845875549,
+      "p_value": 0.0004286704614008092,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042398",
+      "label": "Modified Amino Acid Biosynthetic Process",
+      "fdr": 0.008734496216296924,
+      "p_value": 0.00045081270793790576,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019646",
+      "label": "Aerobic Electron Transport Chain",
+      "fdr": 0.009641218236504948,
+      "p_value": 0.0005183450664787606,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042775",
+      "label": "Mitochondrial ATP Synthesis Coupled Electron Transport",
+      "fdr": 0.009702284265371479,
+      "p_value": 0.0005424933137627064,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000096",
+      "label": "Sulfur Amino Acid Metabolic Process",
+      "fdr": 0.013452801559510653,
+      "p_value": 0.0007811304131328766,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043066",
+      "label": "Negative Regulation of Apoptotic Process",
+      "fdr": 0.016530476662807585,
+      "p_value": 0.0010236201542509636,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009060",
+      "label": "Aerobic Respiration",
+      "fdr": 0.016530476662807585,
+      "p_value": 0.001030932953164344,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006536",
+      "label": "Glutamate Metabolic Process",
+      "fdr": 0.016835774162500986,
+      "p_value": 0.00108617897822587,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045333",
+      "label": "Cellular Respiration",
+      "fdr": 0.016889909734207755,
+      "p_value": 0.0011852880325503546,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042311",
+      "label": "Vasodilation",
+      "fdr": 0.016889909734207755,
+      "p_value": 0.0011986387553308729,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902175",
+      "label": "Regulation of Oxidative Stress-Induced Intrinsic Apoptotic Signaling Pathway",
+      "fdr": 0.016889909734207755,
+      "p_value": 0.0011986387553308729,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009064",
+      "label": "Glutamine Family Amino Acid Metabolic Process",
+      "fdr": 0.02517294221218096,
+      "p_value": 0.001840602226266995,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901701",
+      "label": "Cellular Response to Oxygen-Containing Compound",
+      "fdr": 0.032189384143973106,
+      "p_value": 0.002422856871051739,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071396",
+      "label": "Cellular Response to Lipid",
+      "fdr": 0.03308778994352558,
+      "p_value": 0.002561635350466497,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042168",
+      "label": "Heme Metabolic Process",
+      "fdr": 0.03717204924005384,
+      "p_value": 0.0029577759610365417,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010257",
+      "label": "NADH Dehydrogenase Complex Assembly",
+      "fdr": 0.03961702072772916,
+      "p_value": 0.0033227178674869614,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032981",
+      "label": "Mitochondrial Respiratory Chain Complex I Assembly",
+      "fdr": 0.03961702072772916,
+      "p_value": 0.0033227178674869614,
+      "fold": null,
+      "source": "Enrichr"
+    }
+  ],
+  "g:Profiler": [
+    {
+      "id": "GO:0006979",
+      "label": "response to oxidative stress",
+      "fdr": 5.7339422919659663e-39,
+      "p_value": 5.7339422919659663e-39,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016209",
+      "label": "antioxidant activity",
+      "fdr": 1.0340772164836124e-28,
+      "p_value": 1.0340772164836124e-28,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0016491",
+      "label": "oxidoreductase activity",
+      "fdr": 1.9766450203468126e-21,
+      "p_value": 1.9766450203468126e-21,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0045454",
+      "label": "cell redox homeostasis",
+      "fdr": 4.496239000434991e-21,
+      "p_value": 4.496239000434991e-21,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9711123",
+      "label": "Cellular response to chemical stress",
+      "fdr": 3.037762123803778e-19,
+      "p_value": 3.037762123803778e-19,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-3299685",
+      "label": "Detoxification of Reactive Oxygen Species",
+      "fdr": 2.2918271035664195e-17,
+      "p_value": 2.2918271035664195e-17,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0004601",
+      "label": "peroxidase activity",
+      "fdr": 5.096136769822877e-16,
+      "p_value": 5.096136769822877e-16,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0016684",
+      "label": "oxidoreductase activity, acting on peroxide as acceptor",
+      "fdr": 1.018096103234237e-15,
+      "p_value": 1.018096103234237e-15,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0062197",
+      "label": "cellular response to chemical stress",
+      "fdr": 3.0537350579868068e-15,
+      "p_value": 3.0537350579868068e-15,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0034599",
+      "label": "cellular response to oxidative stress",
+      "fdr": 3.740813336896191e-15,
+      "p_value": 3.740813336896191e-15,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006950",
+      "label": "response to stress",
+      "fdr": 1.2592231707953674e-12,
+      "p_value": 1.2592231707953674e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019725",
+      "label": "cellular homeostasis",
+      "fdr": 2.0996894092777563e-12,
+      "p_value": 2.0996894092777563e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-2262752",
+      "label": "Cellular responses to stress",
+      "fdr": 2.2838155295901433e-12,
+      "p_value": 2.2838155295901433e-12,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-8953897",
+      "label": "Cellular responses to stimuli",
+      "fdr": 3.2429158823165374e-12,
+      "p_value": 3.2429158823165374e-12,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0098869",
+      "label": "cellular oxidant detoxification",
+      "fdr": 5.094377230119029e-12,
+      "p_value": 5.094377230119029e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9818027",
+      "label": "NFE2L2 regulating anti-oxidant/detoxification enzymes",
+      "fdr": 3.5419171793109856e-11,
+      "p_value": 3.5419171793109856e-11,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0016667",
+      "label": "oxidoreductase activity, acting on a sulfur group of donors",
+      "fdr": 8.936148471685727e-10,
+      "p_value": 8.936148471685727e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0042743",
+      "label": "hydrogen peroxide metabolic process",
+      "fdr": 9.622545358715734e-10,
+      "p_value": 9.622545358715734e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1990748",
+      "label": "cellular detoxification",
+      "fdr": 4.8932493713632955e-09,
+      "p_value": 4.8932493713632955e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9759194",
+      "label": "Nuclear events mediated by NFE2L2",
+      "fdr": 8.347836353725618e-09,
+      "p_value": 8.347836353725618e-09,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:00480",
+      "label": "Glutathione metabolism",
+      "fdr": 8.92562202341526e-09,
+      "p_value": 8.92562202341526e-09,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0097237",
+      "label": "cellular response to toxic substance",
+      "fdr": 1.0623848341851542e-08,
+      "p_value": 1.0623848341851542e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042221",
+      "label": "response to chemical",
+      "fdr": 1.7627012641423604e-08,
+      "p_value": 1.7627012641423604e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042592",
+      "label": "homeostatic process",
+      "fdr": 2.237514268174999e-08,
+      "p_value": 2.237514268174999e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000305",
+      "label": "response to oxygen radical",
+      "fdr": 3.90488332267496e-08,
+      "p_value": 3.90488332267496e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0070062",
+      "label": "extracellular exosome",
+      "fdr": 4.943075861183991e-08,
+      "p_value": 4.943075861183991e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:1903561",
+      "label": "extracellular vesicle",
+      "fdr": 6.262216418099687e-08,
+      "p_value": 6.262216418099687e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0065010",
+      "label": "extracellular membrane-bounded organelle",
+      "fdr": 6.323811278243004e-08,
+      "p_value": 6.323811278243004e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043230",
+      "label": "extracellular organelle",
+      "fdr": 6.323811278243004e-08,
+      "p_value": 6.323811278243004e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-9755511",
+      "label": "KEAP1-NFE2L2 pathway",
+      "fdr": 9.408865831931143e-08,
+      "p_value": 9.408865831931143e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0070887",
+      "label": "cellular response to chemical stimulus",
+      "fdr": 1.0341637187030121e-07,
+      "p_value": 1.0341637187030121e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000302",
+      "label": "response to reactive oxygen species",
+      "fdr": 1.1814820091748631e-07,
+      "p_value": 1.1814820091748631e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042744",
+      "label": "hydrogen peroxide catabolic process",
+      "fdr": 1.3436708000855442e-07,
+      "p_value": 1.3436708000855442e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0098754",
+      "label": "detoxification",
+      "fdr": 1.5959782435353905e-07,
+      "p_value": 1.5959782435353905e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0072593",
+      "label": "reactive oxygen species metabolic process",
+      "fdr": 1.6905756327943975e-07,
+      "p_value": 1.6905756327943975e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0015036",
+      "label": "disulfide oxidoreductase activity",
+      "fdr": 5.629376212823791e-07,
+      "p_value": 5.629376212823791e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0034614",
+      "label": "cellular response to reactive oxygen species",
+      "fdr": 9.222078074124062e-07,
+      "p_value": 9.222078074124062e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006749",
+      "label": "glutathione metabolic process",
+      "fdr": 2.252999467990391e-06,
+      "p_value": 2.252999467990391e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009636",
+      "label": "response to toxic substance",
+      "fdr": 2.3366879922674334e-06,
+      "p_value": 2.3366879922674334e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0033554",
+      "label": "cellular response to stress",
+      "fdr": 2.3589833271981527e-06,
+      "p_value": 2.3589833271981527e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019430",
+      "label": "removal of superoxide radicals",
+      "fdr": 3.1809372393343226e-06,
+      "p_value": 3.1809372393343226e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031982",
+      "label": "vesicle",
+      "fdr": 3.903161084911968e-06,
+      "p_value": 3.903161084911968e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0071450",
+      "label": "cellular response to oxygen radical",
+      "fdr": 4.307201746407943e-06,
+      "p_value": 4.307201746407943e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000303",
+      "label": "response to superoxide",
+      "fdr": 4.307201746407943e-06,
+      "p_value": 4.307201746407943e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071451",
+      "label": "cellular response to superoxide",
+      "fdr": 4.307201746407943e-06,
+      "p_value": 4.307201746407943e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1901700",
+      "label": "response to oxygen-containing compound",
+      "fdr": 5.216172079933401e-06,
+      "p_value": 5.216172079933401e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016668",
+      "label": "oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor",
+      "fdr": 7.795233944043278e-06,
+      "p_value": 7.795233944043278e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0003824",
+      "label": "catalytic activity",
+      "fdr": 8.738122802276726e-06,
+      "p_value": 8.738122802276726e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0050896",
+      "label": "response to stimulus",
+      "fdr": 1.1483213576826424e-05,
+      "p_value": 1.1483213576826424e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005615",
+      "label": "extracellular space",
+      "fdr": 3.669538876254593e-05,
+      "p_value": 3.669538876254593e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "KEGG:04216",
+      "label": "Ferroptosis",
+      "fdr": 7.74023295769573e-05,
+      "p_value": 7.74023295769573e-05,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0015038",
+      "label": "glutathione disulfide oxidoreductase activity",
+      "fdr": 9.004651492440525e-05,
+      "p_value": 9.004651492440525e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0051920",
+      "label": "peroxiredoxin activity",
+      "fdr": 9.004651492440525e-05,
+      "p_value": 9.004651492440525e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0008379",
+      "label": "thioredoxin peroxidase activity",
+      "fdr": 9.004651492440525e-05,
+      "p_value": 9.004651492440525e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0140824",
+      "label": "thioredoxin-dependent peroxiredoxin activity",
+      "fdr": 9.004651492440525e-05,
+      "p_value": 9.004651492440525e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-5628897",
+      "label": "TP53 Regulates Metabolic Genes",
+      "fdr": 0.00010633546120779878,
+      "p_value": 0.00010633546120779878,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0004602",
+      "label": "glutathione peroxidase activity",
+      "fdr": 0.00011232951422464694,
+      "p_value": 0.00011232951422464694,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:1901701",
+      "label": "cellular response to oxygen-containing compound",
+      "fdr": 0.00017734556663280855,
+      "p_value": 0.00017734556663280855,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0004791",
+      "label": "thioredoxin-disulfide reductase (NADPH) activity",
+      "fdr": 0.0003139110067428683,
+      "p_value": 0.0003139110067428683,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005576",
+      "label": "extracellular region",
+      "fdr": 0.0003708718057785694,
+      "p_value": 0.0003708718057785694,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0006575",
+      "label": "modified amino acid metabolic process",
+      "fdr": 0.00042400923739509445,
+      "p_value": 0.00042400923739509445,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:05208",
+      "label": "Chemical carcinogenesis - reactive oxygen species",
+      "fdr": 0.00045358457700579523,
+      "p_value": 0.00045358457700579523,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0012501",
+      "label": "programmed cell death",
+      "fdr": 0.0006408764831357283,
+      "p_value": 0.0006408764831357283,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0008219",
+      "label": "cell death",
+      "fdr": 0.0006743271543631252,
+      "p_value": 0.0006743271543631252,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0047134",
+      "label": "protein-disulfide reductase [NAD(P)H] activity",
+      "fdr": 0.0007503945600727285,
+      "p_value": 0.0007503945600727285,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0015035",
+      "label": "protein-disulfide reductase activity",
+      "fdr": 0.0010444210733201575,
+      "p_value": 0.0010444210733201575,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0042802",
+      "label": "identical protein binding",
+      "fdr": 0.0012470385935001275,
+      "p_value": 0.0012470385935001275,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0006801",
+      "label": "superoxide metabolic process",
+      "fdr": 0.0014228742103179347,
+      "p_value": 0.0014228742103179347,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0017109",
+      "label": "glutamate-cysteine ligase complex",
+      "fdr": 0.0017997989862144164,
+      "p_value": 0.0017997989862144164,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0004357",
+      "label": "glutamate-cysteine ligase activity",
+      "fdr": 0.003337700010495991,
+      "p_value": 0.003337700010495991,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0043069",
+      "label": "negative regulation of programmed cell death",
+      "fdr": 0.004126003857439311,
+      "p_value": 0.004126003857439311,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5578999",
+      "label": "Defective GCLC causes HAGGSD",
+      "fdr": 0.0041679208373265955,
+      "p_value": 0.0041679208373265955,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0009055",
+      "label": "electron transfer activity",
+      "fdr": 0.005326561455990243,
+      "p_value": 0.005326561455990243,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0043067",
+      "label": "regulation of programmed cell death",
+      "fdr": 0.005583208928231584,
+      "p_value": 0.005583208928231584,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006790",
+      "label": "sulfur compound metabolic process",
+      "fdr": 0.010544089572247615,
+      "p_value": 0.010544089572247615,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006915",
+      "label": "apoptotic process",
+      "fdr": 0.01094013671734189,
+      "p_value": 0.01094013671734189,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0061692",
+      "label": "cellular detoxification of hydrogen peroxide",
+      "fdr": 0.016638469130448738,
+      "p_value": 0.016638469130448738,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-8862803",
+      "label": "Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models",
+      "fdr": 0.01729738156979905,
+      "p_value": 0.01729738156979905,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-8863678",
+      "label": "Neurodegenerative Diseases",
+      "fdr": 0.01729738156979905,
+      "p_value": 0.01729738156979905,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0016721",
+      "label": "oxidoreductase activity, acting on superoxide radicals as acceptor",
+      "fdr": 0.019953947438843836,
+      "p_value": 0.019953947438843836,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0004784",
+      "label": "superoxide dismutase activity",
+      "fdr": 0.019953947438843836,
+      "p_value": 0.019953947438843836,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0019826",
+      "label": "oxygen sensor activity",
+      "fdr": 0.019953947438843836,
+      "p_value": 0.019953947438843836,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005829",
+      "label": "cytosol",
+      "fdr": 0.021400823001260953,
+      "p_value": 0.021400823001260953,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "KEGG:05415",
+      "label": "Diabetic cardiomyopathy",
+      "fdr": 0.022086142365806107,
+      "p_value": 0.022086142365806107,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-9734009",
+      "label": "Defective Intrinsic Pathway for Apoptosis",
+      "fdr": 0.026136442098483766,
+      "p_value": 0.026136442098483766,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-499943",
+      "label": "Interconversion of nucleotide di- and triphosphates",
+      "fdr": 0.03750333529129346,
+      "p_value": 0.03750333529129346,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:04146",
+      "label": "Peroxisome",
+      "fdr": 0.04121198077579327,
+      "p_value": 0.04121198077579327,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0006982",
+      "label": "response to lipid hydroperoxide",
+      "fdr": 0.04981873190004545,
+      "p_value": 0.04981873190004545,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0061691",
+      "label": "detoxification of hydrogen peroxide",
+      "fdr": 0.04981873190004545,
+      "p_value": 0.04981873190004545,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+[project]
+name = "groundannot"
+version = "0.1.0"
+description = "Closed-vocabulary functional annotation for LLM agents"
+requires-python = ">=3.8"
+dependencies = ["requests>=2.28", "jinja2>=3.0"]
+
+[project.scripts]
+groundannot = "groundannot.cli:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"

@@ -1,0 +1,137 @@
+[2026-09-25T09:42:27] data_dir   = /home/maano.malima/Method_API/data/snapshot_hallmarks
+[2026-09-25T09:42:27] genes_root = /home/maano.malima/Method_API/examples/lists
+[2026-09-25T09:42:27] provider   = groq
+[2026-09-25T09:42:27] model      = openai/gpt-oss-120b
+[2026-09-25T09:42:27] tag        = groq-gpt-oss-120b-hallmark
+[2026-09-25T09:42:34] client ready
+[2026-09-25T09:42:34] querying ADIPOGENESIS (200 genes) | allowed=13865 enriched=460
+[2026-09-25T09:42:39]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 4 | valid_enriched 5
+[2026-09-25T09:42:39]     OBSOLETE         GO:0055114  obsolete oxidation-reduction process
+[2026-09-25T09:42:39] querying ALLOGRAFT_REJECTION (200 genes) | allowed=13933 enriched=1679
+[2026-09-25T09:42:40]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 0 | valid_enriched 10
+[2026-09-25T09:42:40] querying ANDROGEN_RESPONSE (100 genes) | allowed=13805 enriched=97
+[2026-09-25T09:42:41]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 7 | valid_enriched 3
+[2026-09-25T09:42:41] querying ANGIOGENESIS (36 genes) | allowed=13811 enriched=494
+[2026-09-25T09:42:41]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 5 | valid_enriched 5
+[2026-09-25T09:42:41] querying APICAL_JUNCTION (200 genes) | allowed=13887 enriched=826
+[2026-09-25T09:42:42]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 4 | valid_enriched 6
+[2026-09-25T09:42:42] querying APICAL_SURFACE (44 genes) | allowed=13794 enriched=271
+[2026-09-25T09:42:42]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 4 | valid_enriched 6
+[2026-09-25T09:42:42] querying APOPTOSIS (161 genes) | allowed=13854 enriched=1293
+[2026-09-25T09:42:43]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 2 | valid_enriched 8
+[2026-09-25T09:42:43] querying BILE_ACID_METABOLISM (112 genes) | allowed=13873 enriched=407
+[2026-09-25T09:42:43]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 4 | valid_enriched 6
+[2026-09-25T09:42:44] querying CHOLESTEROL_HOMEOSTASIS (74 genes) | allowed=13807 enriched=195
+[2026-09-25T09:42:45]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 6 | valid_enriched 3
+[2026-09-25T09:42:45]     WRONG_BRANCH     GO:0008289  lipid binding
+[2026-09-25T09:42:45] querying COAGULATION (138 genes) | allowed=13892 enriched=674
+[2026-09-25T09:42:46]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 2 | valid_enriched 8
+[2026-09-25T09:42:46] querying COMPLEMENT (200 genes) | allowed=13922 enriched=1078
+[2026-09-25T09:42:46]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 0 | valid_enriched 10
+[2026-09-25T09:42:46] querying DNA_REPAIR (150 genes) | allowed=13872 enriched=462
+[2026-09-25T09:42:53]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 3 | valid_enriched 6
+[2026-09-25T09:42:53]     OBSOLETE         GO:0006295  obsolete nucleotide-excision repair, DNA incision, 3'-to lesion
+[2026-09-25T09:42:53] querying E2F_TARGETS (200 genes) | allowed=13908 enriched=675
+[2026-09-25T09:43:00]   LLM 9 IDs | unsupported 0 | allowed_not_enriched 1 | valid_enriched 8
+[2026-09-25T09:43:00] querying EPITHELIAL_MESENCHYMAL_TRANSITION (200 genes) | allowed=13902 enriched=1089
+[2026-09-25T09:43:09]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 1 | valid_enriched 8
+[2026-09-25T09:43:09]     WRONG_BRANCH     GO:0008289  lipid binding
+[2026-09-25T09:43:09] querying ESTROGEN_RESPONSE_EARLY (200 genes) | allowed=13794 enriched=199
+[2026-09-25T09:43:17]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 8 | valid_enriched 2
+[2026-09-25T09:43:17] querying ESTROGEN_RESPONSE_LATE (200 genes) | allowed=13800 enriched=294
+[2026-09-25T09:43:25]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 6 | valid_enriched 4
+[2026-09-25T09:43:25] querying FATTY_ACID_METABOLISM (158 genes) | allowed=13883 enriched=408
+[2026-09-25T09:43:33]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 3 | valid_enriched 7
+[2026-09-25T09:43:33] querying G2_M_CHECKPOINT (200 genes) | allowed=13922 enriched=720
+[2026-09-25T09:43:43]   LLM 10 IDs | unsupported 4 | allowed_not_enriched 1 | valid_enriched 5
+[2026-09-25T09:43:43]     WRONG_BIOLOGY    GO:0000279  M phase
+[2026-09-25T09:43:43]     WRONG_BIOLOGY    GO:0006262  DNA-templated DNA replication
+[2026-09-25T09:43:43]     WRONG_BIOLOGY    GO:0006263  DNA-templated DNA replication
+[2026-09-25T09:43:43]     OBSOLETE         GO:0006268  obsolete DNA unwinding involved in DNA replication
+[2026-09-25T09:43:43] querying GLYCOLYSIS (200 genes) | allowed=13860 enriched=271
+[2026-09-25T09:43:48]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 6 | valid_enriched 4
+[2026-09-25T09:43:48] querying HEDGEHOG_SIGNALING (36 genes) | allowed=13784 enriched=583
+[2026-09-25T09:43:51]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 6 | valid_enriched 4
+[2026-09-25T09:43:51] querying HEME_METABOLISM (200 genes) | allowed=13809 enriched=143
+[2026-09-25T09:44:01]   LLM 10 IDs | unsupported 2 | allowed_not_enriched 6 | valid_enriched 2
+[2026-09-25T09:44:01]     WRONG_BIOLOGY    GO:0007587  carbohydrate utilization
+[2026-09-25T09:44:01]     OBSOLETE         GO:0007590  obsolete fat body metabolic process (sensu Insecta)
+[2026-09-25T09:44:02] querying HYPOXIA (200 genes) | allowed=13859 enriched=574
+[2026-09-25T09:44:08]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 3 | valid_enriched 7
+[2026-09-25T09:44:08] querying IL_2_STAT5_SIGNALING (199 genes) | allowed=13832 enriched=467
+[2026-09-25T09:44:16]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 5 | valid_enriched 5
+[2026-09-25T09:44:16] querying IL_6_JAK_STAT3_SIGNALING (87 genes) | allowed=13848 enriched=1056
+[2026-09-25T09:44:21]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 0 | valid_enriched 10
+[2026-09-25T09:44:21] querying INFLAMMATORY_RESPONSE (200 genes) | allowed=13873 enriched=1239
+[2026-09-25T09:44:29]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 0 | valid_enriched 10
+[2026-09-25T09:44:29] querying INTERFERON_ALPHA_RESPONSE (97 genes) | allowed=13784 enriched=283
+[2026-09-25T09:44:34]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 1 | valid_enriched 9
+[2026-09-25T09:44:34] querying INTERFERON_GAMMA_RESPONSE (200 genes) | allowed=13861 enriched=955
+[2026-09-25T09:44:42]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 0 | valid_enriched 10
+[2026-09-25T09:44:42] querying KRAS_SIGNALING_DN (200 genes) | allowed=13819 enriched=204
+[2026-09-25T09:44:50]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 9 | valid_enriched 1
+[2026-09-25T09:44:50] querying KRAS_SIGNALING_UP (200 genes) | allowed=13828 enriched=580
+[2026-09-25T09:44:58]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 1 | valid_enriched 9
+[2026-09-25T09:44:58] querying MITOTIC_SPINDLE (199 genes) | allowed=13924 enriched=783
+[2026-09-25T09:45:07]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 2 | valid_enriched 8
+[2026-09-25T09:45:07] querying MTORC1_SIGNALING (200 genes) | allowed=13873 enriched=386
+[2026-09-25T09:45:15]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 4 | valid_enriched 5
+[2026-09-25T09:45:15]     WRONG_BIOLOGY    GO:0008151  cellular process
+[2026-09-25T09:45:15] querying MYC_TARGETS_V1 (200 genes) | allowed=13925 enriched=620
+[2026-09-25T09:45:25]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 1 | valid_enriched 9
+[2026-09-25T09:45:25] querying MYC_TARGETS_V2 (58 genes) | allowed=13799 enriched=89
+[2026-09-25T09:45:31]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 6 | valid_enriched 4
+[2026-09-25T09:45:31] querying MYOGENESIS (200 genes) | allowed=13887 enriched=741
+[2026-09-25T09:45:42]   LLM 10 IDs | unsupported 2 | allowed_not_enriched 3 | valid_enriched 5
+[2026-09-25T09:45:42]     OBSOLETE         GO:0016053  obsolete organic acid biosynthetic process
+[2026-09-25T09:45:42]     WRONG_BRANCH     GO:0051010  microtubule plus-end binding
+[2026-09-25T09:45:42] querying NOTCH_SIGNALING (32 genes) | allowed=13793 enriched=674
+[2026-09-25T09:45:43]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 3 | valid_enriched 7
+[2026-09-25T09:45:43] querying OXIDATIVE_PHOSPHORYLATION (200 genes) | allowed=13915 enriched=447
+[2026-09-25T09:45:54]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 3 | valid_enriched 6
+[2026-09-25T09:45:54]     OBSOLETE         GO:0006200  obsolete ATP catabolic process
+[2026-09-25T09:45:54] querying P53_PATHWAY (200 genes) | allowed=13830 enriched=535
+[2026-09-25T09:46:02]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 0 | valid_enriched 9
+[2026-09-25T09:46:02]     OBSOLETE         GO:0010941  obsolete regulation of cell death
+[2026-09-25T09:46:02] querying PANCREAS_BETA_CELLS (40 genes) | allowed=13794 enriched=238
+[2026-09-25T09:46:06]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 7 | valid_enriched 2
+[2026-09-25T09:46:06]     WRONG_BRANCH     GO:0008289  lipid binding
+[2026-09-25T09:46:06] querying PI3K_AKT_MTOR_SIGNALING (105 genes) | allowed=13862 enriched=859
+[2026-09-25T09:46:09]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 1 | valid_enriched 9
+[2026-09-25T09:46:09] querying PPEROXISOME (104 genes) | allowed=13865 enriched=319
+[2026-09-25T09:46:19]   LLM 10 IDs | unsupported 2 | allowed_not_enriched 3 | valid_enriched 5
+[2026-09-25T09:46:19]     OBSOLETE         GO:0006725  obsolete cellular aromatic compound metabolic process
+[2026-09-25T09:46:19]     OBSOLETE         GO:0006775  obsolete fat-soluble vitamin metabolic process
+[2026-09-25T09:46:19] querying PROTEIN_SECRETION (96 genes) | allowed=13888 enriched=324
+[2026-09-25T09:46:19]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 4 | valid_enriched 6
+[2026-09-25T09:46:19] querying REACTIVE_OXYGEN_SPECIES_PATHWAY (49 genes) | allowed=13800 enriched=131
+[2026-09-25T09:46:24]   LLM 10 IDs | unsupported 2 | allowed_not_enriched 3 | valid_enriched 5
+[2026-09-25T09:46:24]     OBSOLETE         GO:0006800  obsolete oxygen and reactive oxygen species metabolic process
+[2026-09-25T09:46:24]     OBSOLETE         GO:0006977  obsolete DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest
+[2026-09-25T09:46:24] querying SPERMATOGENESIS (135 genes) | allowed=13792 enriched=79
+[2026-09-25T09:46:30]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 7 | valid_enriched 2
+[2026-09-25T09:46:30]     WRONG_BIOLOGY    GO:0007126  meiotic cell cycle
+[2026-09-25T09:46:30] querying TGF_BETA_SIGNALING (54 genes) | allowed=13835 enriched=850
+[2026-09-25T09:46:33]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 3 | valid_enriched 7
+[2026-09-25T09:46:33] querying TNF_ALPHA_SIGNALING_VIA_NF_KB (200 genes) | allowed=13867 enriched=1282
+[2026-09-25T09:46:42]   LLM 9 IDs | unsupported 0 | allowed_not_enriched 0 | valid_enriched 9
+[2026-09-25T09:46:42] querying UNFOLDED_PROTEIN_RESPONSE (113 genes) | allowed=13846 enriched=352
+[2026-09-25T09:46:50]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 3 | valid_enriched 7
+[2026-09-25T09:46:50] querying UV_RESPONSE_DN (144 genes) | allowed=13851 enriched=839
+[2026-09-25T09:46:56]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 3 | valid_enriched 7
+[2026-09-25T09:46:56] querying UV_RESPONSE_UP (158 genes) | allowed=13803 enriched=303
+[2026-09-25T09:47:03]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 6 | valid_enriched 4
+[2026-09-25T09:47:03] querying WNT_BETA_CATENIN_SIGNALING (42 genes) | allowed=13808 enriched=693
+[2026-09-25T09:47:04]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 4 | valid_enriched 6
+[2026-09-25T09:47:04] querying XENOBIOTIC_METABOLISM (200 genes) | allowed=13891 enriched=543
+[2026-09-25T09:47:16]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 3 | valid_enriched 6
+[2026-09-25T09:47:16]     OBSOLETE         GO:0006725  obsolete cellular aromatic compound metabolic process
+[2026-09-25T09:47:16] ==================================================
+[2026-09-25T09:47:16] provider=groq model=openai/gpt-oss-120b
+[2026-09-25T09:47:16] TOTAL: 498 LLM IDs across 50 disease lists
+[2026-09-25T09:47:16]   Contract A unsupported (not in allowed):     22
+[2026-09-25T09:47:16]   Contract B allowed but not enriched:         167
+[2026-09-25T09:47:16]   Contract A+B violated (not in enriched):     189
+[2026-09-25T09:47:16]   Valid enriched hits:                         309
+[2026-09-25T09:47:16]   QuickGO breakdown: {'OBSOLETE': 12, 'WRONG_BRANCH': 4, 'WRONG_BIOLOGY': 6}
+[2026-09-25T09:47:16] wrote llm_baseline_groq-gpt-oss-120b-hallmark.json

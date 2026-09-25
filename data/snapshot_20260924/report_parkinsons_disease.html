@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<title>GroundAnnot report</title>
+<style>
+body { font-family: system-ui, sans-serif; max-width: 1100px; margin: 2em auto; }
+h1 { border-bottom: 2px solid #333; }
+h2 { margin-top: 2em; color: #444; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: 0.9em; }
+th, td { border: 1px solid #ccc; padding: 6px 8px; text-align: left; }
+th { background: #f0f0f0; }
+.gene-card { border: 1px solid #ddd; padding: 1em; margin: 1em 0; border-radius: 6px; }
+.gene-card h3 { margin-top: 0; }
+.small { color: #666; font-size: 0.85em; }
+.section-tag { display: inline-block; background: #eee; padding: 2px 8px;
+               border-radius: 4px; font-size: 0.8em; }
+.closed { background: #e8f4ea; }
+.context { background: #f4f0e8; }
+</style></head><body>
+
+<h1>GroundAnnot report — parkinsons disease</h1>
+<p class="small">Run: 2026-09-24T19:55:37 &nbsp;|&nbsp; Organism: human
+&nbsp;|&nbsp; Input genes: 16</p>
+<p class="small">Genes: SNCA, LRRK2, PRKN, PINK1, PARK7, GBA1, VPS35, EIF4G1, DNAJC13, CHCHD2, ATP13A2, FBXO7, PLA2G6, GCH1, PANK2, SLC6A3</p>
+
+<h2><span class="section-tag closed">Closed vocabulary</span> Enrichment</h2>
+<p>The language model may cite term IDs only from the tables below.</p>
+
+
+<h3>PANTHER</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0010506</td><td>regulation of autophagy</td>
+<td>1.83e-14</td>
+<td>2.51e-10</td></tr>
+
+<tr><td>GO:0016241</td><td>regulation of macroautophagy</td>
+<td>5.66e-11</td>
+<td>3.90e-07</td></tr>
+
+<tr><td>GO:0034599</td><td>cellular response to oxidative stress</td>
+<td>9.31e-11</td>
+<td>4.27e-07</td></tr>
+
+<tr><td>GO:0042176</td><td>regulation of protein catabolic process</td>
+<td>2.05e-10</td>
+<td>7.06e-07</td></tr>
+
+<tr><td>GO:0042069</td><td>regulation of catecholamine metabolic process</td>
+<td>2.43e-10</td>
+<td>6.68e-07</td></tr>
+
+<tr><td>GO:0042053</td><td>regulation of dopamine metabolic process</td>
+<td>2.43e-10</td>
+<td>5.57e-07</td></tr>
+
+<tr><td>GO:1903377</td><td>negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway</td>
+<td>2.43e-10</td>
+<td>4.77e-07</td></tr>
+
+<tr><td>GO:1903146</td><td>regulation of autophagy of mitochondrion</td>
+<td>3.27e-10</td>
+<td>5.62e-07</td></tr>
+
+<tr><td>GO:0099075</td><td>mitochondrion-derived vesicle mediated transport</td>
+<td>3.86e-10</td>
+<td>5.89e-07</td></tr>
+
+<tr><td>GO:0099074</td><td>mitochondrion to lysosome vesicle-mediated transport</td>
+<td>3.86e-10</td>
+<td>5.31e-07</td></tr>
+
+<tr><td>GO:0033238</td><td>regulation of amine metabolic process</td>
+<td>4.41e-10</td>
+<td>5.51e-07</td></tr>
+
+<tr><td>GO:2000377</td><td>regulation of reactive oxygen species metabolic process</td>
+<td>4.50e-10</td>
+<td>5.17e-07</td></tr>
+
+<tr><td>GO:0062197</td><td>cellular response to chemical stress</td>
+<td>5.05e-10</td>
+<td>5.35e-07</td></tr>
+
+<tr><td>GO:1903829</td><td>positive regulation of protein localization</td>
+<td>6.13e-10</td>
+<td>6.02e-07</td></tr>
+
+<tr><td>GO:0009894</td><td>regulation of catabolic process</td>
+<td>6.25e-10</td>
+<td>5.74e-07</td></tr>
+
+<tr><td>GO:1903376</td><td>regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway</td>
+<td>1.45e-09</td>
+<td>1.24e-06</td></tr>
+
+<tr><td>GO:0031647</td><td>regulation of protein stability</td>
+<td>2.23e-09</td>
+<td>1.80e-06</td></tr>
+
+<tr><td>GO:0032880</td><td>regulation of protein localization</td>
+<td>2.25e-09</td>
+<td>1.72e-06</td></tr>
+
+<tr><td>GO:1903599</td><td>positive regulation of autophagy of mitochondrion</td>
+<td>3.60e-09</td>
+<td>2.61e-06</td></tr>
+
+<tr><td>GO:1902956</td><td>regulation of mitochondrial electron transport, NADH to ubiquinone</td>
+<td>3.85e-09</td>
+<td>2.65e-06</td></tr>
+
+<tr><td>GO:1902803</td><td>regulation of synaptic vesicle transport</td>
+<td>3.85e-09</td>
+<td>2.52e-06</td></tr>
+
+<tr><td>GO:0009895</td><td>negative regulation of catabolic process</td>
+<td>4.46e-09</td>
+<td>2.79e-06</td></tr>
+
+<tr><td>GO:0043523</td><td>regulation of neuron apoptotic process</td>
+<td>4.66e-09</td>
+<td>2.79e-06</td></tr>
+
+<tr><td>GO:0006979</td><td>response to oxidative stress</td>
+<td>4.82e-09</td>
+<td>2.76e-06</td></tr>
+
+<tr><td>GO:1903421</td><td>regulation of synaptic vesicle recycling</td>
+<td>4.93e-09</td>
+<td>2.71e-06</td></tr>
+
+</table>
+
+<h3>Enrichr</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0062197</td><td>Cellular Response to Chemical Stress</td>
+<td>6.96e-13</td>
+<td>4.22e-10</td></tr>
+
+<tr><td>GO:0034599</td><td>Cellular Response to Oxidative Stress</td>
+<td>2.72e-12</td>
+<td>8.24e-10</td></tr>
+
+<tr><td>GO:1903377</td><td>- Reg of Oxidative Stress-Induced Neuron Intrinsic Apoptotic Sgnlng Pway</td>
+<td>1.91e-11</td>
+<td>3.85e-09</td></tr>
+
+<tr><td>GO:1903376</td><td>Regulation of Oxidative Stress-Induced Neuron Intrinsic Apoptotic Signaling Pathway</td>
+<td>8.98e-11</td>
+<td>1.36e-08</td></tr>
+
+<tr><td>GO:0010506</td><td>Regulation of Autophagy</td>
+<td>2.54e-10</td>
+<td>3.08e-08</td></tr>
+
+<tr><td>GO:0007005</td><td>Mitochondrion Organization</td>
+<td>6.41e-10</td>
+<td>6.47e-08</td></tr>
+
+<tr><td>GO:2000377</td><td>Regulation of Reactive Oxygen Species Metabolic Process</td>
+<td>9.50e-10</td>
+<td>8.22e-08</td></tr>
+
+<tr><td>GO:1902176</td><td>Negative Regulation of Oxidative Stress-Induced Intrinsic Apoptotic Signaling Pathway</td>
+<td>2.40e-09</td>
+<td>1.81e-07</td></tr>
+
+<tr><td>GO:0010042</td><td>Response to Manganese Ion</td>
+<td>4.20e-09</td>
+<td>2.83e-07</td></tr>
+
+<tr><td>GO:0090140</td><td>Regulation of Mitochondrial Fission</td>
+<td>4.74e-09</td>
+<td>2.87e-07</td></tr>
+
+<tr><td>GO:0010821</td><td>Regulation of Mitochondrion Organization</td>
+<td>7.39e-09</td>
+<td>4.07e-07</td></tr>
+
+<tr><td>GO:1903829</td><td>Positive Regulation of Protein Localization</td>
+<td>1.31e-08</td>
+<td>6.59e-07</td></tr>
+
+<tr><td>GO:0016241</td><td>Regulation of Macroautophagy</td>
+<td>1.59e-08</td>
+<td>7.39e-07</td></tr>
+
+<tr><td>GO:0051049</td><td>Regulation of Transport</td>
+<td>4.37e-08</td>
+<td>1.89e-06</td></tr>
+
+<tr><td>GO:1900407</td><td>Regulation of Cellular Response to Oxidative Stress</td>
+<td>5.02e-08</td>
+<td>2.03e-06</td></tr>
+
+<tr><td>GO:0019222</td><td>Regulation of Metabolic Process</td>
+<td>9.09e-08</td>
+<td>3.44e-06</td></tr>
+
+<tr><td>GO:2001243</td><td>Negative Regulation of Intrinsic Apoptotic Signaling Pathway</td>
+<td>1.30e-07</td>
+<td>4.62e-06</td></tr>
+
+<tr><td>GO:0010507</td><td>Negative Regulation of Autophagy</td>
+<td>1.80e-07</td>
+<td>5.76e-06</td></tr>
+
+<tr><td>GO:1902236</td><td>- Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway</td>
+<td>1.90e-07</td>
+<td>5.76e-06</td></tr>
+
+<tr><td>GO:1903599</td><td>Positive Regulation of Autophagy of Mitochondrion</td>
+<td>1.90e-07</td>
+<td>5.76e-06</td></tr>
+
+<tr><td>GO:1905606</td><td>Regulation of Presynapse Assembly</td>
+<td>2.34e-07</td>
+<td>6.39e-06</td></tr>
+
+<tr><td>GO:0099174</td><td>Regulation of Presynapse Organization</td>
+<td>2.34e-07</td>
+<td>6.39e-06</td></tr>
+
+<tr><td>GO:0007041</td><td>Lysosomal Transport</td>
+<td>2.43e-07</td>
+<td>6.39e-06</td></tr>
+
+<tr><td>GO:1903146</td><td>Regulation of Autophagy of Mitochondrion</td>
+<td>3.40e-07</td>
+<td>8.59e-06</td></tr>
+
+<tr><td>GO:0090141</td><td>Positive Regulation of Mitochondrial Fission</td>
+<td>4.04e-07</td>
+<td>8.74e-06</td></tr>
+
+</table>
+
+<h3>g:Profiler</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0010506</td><td>regulation of autophagy</td>
+<td>8.75e-11</td>
+<td>8.75e-11</td></tr>
+
+<tr><td>GO:0034599</td><td>cellular response to oxidative stress</td>
+<td>2.27e-09</td>
+<td>2.27e-09</td></tr>
+
+<tr><td>GO:0006914</td><td>autophagy</td>
+<td>7.14e-09</td>
+<td>7.14e-09</td></tr>
+
+<tr><td>GO:0061919</td><td>process utilizing autophagic mechanism</td>
+<td>7.14e-09</td>
+<td>7.14e-09</td></tr>
+
+<tr><td>GO:0062197</td><td>cellular response to chemical stress</td>
+<td>1.38e-08</td>
+<td>1.38e-08</td></tr>
+
+<tr><td>GO:0006979</td><td>response to oxidative stress</td>
+<td>5.15e-08</td>
+<td>5.15e-08</td></tr>
+
+<tr><td>GO:1903377</td><td>negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway</td>
+<td>9.54e-08</td>
+<td>9.54e-08</td></tr>
+
+<tr><td>GO:0016241</td><td>regulation of macroautophagy</td>
+<td>1.85e-07</td>
+<td>1.85e-07</td></tr>
+
+<tr><td>GO:0042176</td><td>regulation of protein catabolic process</td>
+<td>4.02e-07</td>
+<td>4.02e-07</td></tr>
+
+<tr><td>GO:1903146</td><td>regulation of autophagy of mitochondrion</td>
+<td>4.13e-07</td>
+<td>4.13e-07</td></tr>
+
+<tr><td>GO:1903376</td><td>regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway</td>
+<td>5.40e-07</td>
+<td>5.40e-07</td></tr>
+
+<tr><td>GO:2000377</td><td>regulation of reactive oxygen species metabolic process</td>
+<td>6.19e-07</td>
+<td>6.19e-07</td></tr>
+
+<tr><td>GO:0099075</td><td>mitochondrion-derived vesicle mediated transport</td>
+<td>9.45e-07</td>
+<td>9.45e-07</td></tr>
+
+<tr><td>GO:0099074</td><td>mitochondrion to lysosome vesicle-mediated transport</td>
+<td>9.45e-07</td>
+<td>9.45e-07</td></tr>
+
+<tr><td>GO:0036480</td><td>neuron intrinsic apoptotic signaling pathway in response to oxidative stress</td>
+<td>1.03e-06</td>
+<td>1.03e-06</td></tr>
+
+<tr><td>GO:0009894</td><td>regulation of catabolic process</td>
+<td>1.56e-06</td>
+<td>1.56e-06</td></tr>
+
+<tr><td>GO:0043005</td><td>neuron projection</td>
+<td>1.66e-06</td>
+<td>1.66e-06</td></tr>
+
+<tr><td>GO:0097413</td><td>Lewy body</td>
+<td>3.12e-06</td>
+<td>3.12e-06</td></tr>
+
+<tr><td>GO:1902956</td><td>regulation of mitochondrial electron transport, NADH to ubiquinone</td>
+<td>3.78e-06</td>
+<td>3.78e-06</td></tr>
+
+<tr><td>GO:0071287</td><td>cellular response to manganese ion</td>
+<td>3.78e-06</td>
+<td>3.78e-06</td></tr>
+
+<tr><td>GO:1903599</td><td>positive regulation of autophagy of mitochondrion</td>
+<td>5.49e-06</td>
+<td>5.49e-06</td></tr>
+
+<tr><td>GO:1902176</td><td>negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway</td>
+<td>7.97e-06</td>
+<td>7.97e-06</td></tr>
+
+<tr><td>GO:1902803</td><td>regulation of synaptic vesicle transport</td>
+<td>9.43e-06</td>
+<td>9.43e-06</td></tr>
+
+<tr><td>GO:2001243</td><td>negative regulation of intrinsic apoptotic signaling pathway</td>
+<td>1.22e-05</td>
+<td>1.22e-05</td></tr>
+
+<tr><td>GO:0072593</td><td>reactive oxygen species metabolic process</td>
+<td>1.24e-05</td>
+<td>1.24e-05</td></tr>
+
+</table>
+
+
+<h2><span class="section-tag context">Context only</span> Per-gene annotations</h2>
+<p>The language model may read these for narrative but must not cite them as enrichment evidence.</p>
+
+
+<div class="gene-card">
+<h3>SNCA — synuclein alpha</h3>
+<p><b>Summary:</b> Alpha-synuclein is a member of the synuclein family, which also includes beta- and gamma-synuclein. Synucleins are abundantly expressed in the brain and alpha- and beta-synuclein inhibit phospholipase D2 selectively. SNCA may serve to integrate presynaptic signaling and membrane trafficking. Defects in SNCA have been implicated in the pathogenesis of Parkinson disease. SNCA peptides are a major component of amyloid plaques in the brains of patients with Alzheimer's disease. Alternatively spliced transcripts encoding different isoforms have been identified for this gene. [provided by RefSeq, Feb 2016].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; microglial cell activation; positive regulation of receptor recycling; synaptic transmission, dopaminergic; glutathione metabolic process; response to iron(II) ion</p>
+<p><b>GO:MF:</b> SNARE binding; magnesium ion binding; transcription cis-regulatory region binding; actin binding; enzyme inhibitor activity; protein kinase inhibitor activity</p>
+<p><b>GO:CC:</b> extracellular region; nucleus; nuclear outer membrane; cytoplasm; mitochondrion; mitochondrial outer membrane</p>
+<p><b>Pathways:</b> Alzheimer disease - Homo sapiens (human) (kegg); Parkinson disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Antimicrobial mechanism of IFN-stimulated genes (reactome); Cytokine Signaling in Immune system (reactome); Immune System (reactome); Metabolism of proteins (reactome); Interferon Signaling (reactome)</p>
+<p><b>InterPro:</b> Synuclein; Alpha-synuclein</p>
+</div>
+
+<div class="gene-card">
+<h3>LRRK2 — leucine rich repeat kinase 2</h3>
+<p><b>Summary:</b> This gene is a member of the leucine-rich repeat kinase family and encodes a protein with an ankryin repeat region, a leucine-rich repeat (LRR) domain, a kinase domain, a DFG-like motif, a RAS domain, a GTPase domain, a MLK-like domain, and a WD40 domain. The protein is present largely in the cytoplasm but also associates with the mitochondrial outer membrane. Mutations in this gene have been associated with Parkinson disease-8. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> MAPK cascade; protein phosphorylation; endocytosis; response to oxidative stress; mitochondrion organization; endoplasmic reticulum organization</p>
+<p><b>GO:MF:</b> SNARE binding; magnesium ion binding; actin binding; GTPase activity; protein kinase activity; protein serine/threonine kinase activity</p>
+<p><b>GO:CC:</b> Golgi membrane; extracellular region; cytoplasm; mitochondrion; mitochondrial outer membrane; mitochondrial inner membrane</p>
+<p><b>Pathways:</b> Parkinson disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Signal Transduction (reactome); Signaling by PTK6 (reactome); PTK6 promotes HIF1A stabilization (reactome); Signaling by Non-Receptor Tyrosine Kinases (reactome); Allograft Rejection (wikipathways); Parkinson,s disease pathway (wikipathways)</p>
+<p><b>InterPro:</b> Protein kinase domain; Leucine-rich repeat; Leucine-rich repeat, typical subtype; Small GTP-binding domain; Serine/threonine-protein kinase, active site; Protein kinase-like domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>PRKN — parkin RBR E3 ubiquitin protein ligase</h3>
+<p><b>Summary:</b> The precise function of this gene is unknown; however, the encoded protein is a component of a multiprotein E3 ubiquitin ligase complex that mediates the targeting of substrate proteins for proteasomal degradation. Mutations in this gene are known to cause Parkinson disease and autosomal recessive juvenile Parkinson disease. Alternative splicing of this gene produces multiple transcript variants encoding distinct isoforms. Additional splice variants of this gene have been described but currently lack transcript support. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; protein polyubiquitination; mitochondrial fission; autophagy of mitochondrion; mitophagy; ubiquitin-dependent protein catabolic process</p>
+<p><b>GO:MF:</b> G protein-coupled receptor binding; transcription corepressor activity; actin binding; ubiquitin-protein transferase activity; protein binding; beta-catenin binding</p>
+<p><b>GO:CC:</b> Golgi membrane; ubiquitin ligase complex; nucleus; cytoplasm; mitochondrion; mitochondrial outer membrane</p>
+<p><b>Pathways:</b> Ubiquitin mediated proteolysis - Homo sapiens (human) (kegg); Mitophagy - animal - Homo sapiens (human) (kegg); Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Parkinson disease - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Adaptive Immune System (reactome); Macroautophagy (reactome)</p>
+<p><b>InterPro:</b> Ubiquitin-like domain; IBR domain; E3 ubiquitin-protein ligase parkin; Ubiquilin; Ubiquitin-like domain superfamily; RING/Ubox-like zinc-binding domain</p>
+</div>
+
+<div class="gene-card">
+<h3>PINK1 — PTEN induced kinase 1</h3>
+<p><b>Summary:</b> This gene encodes a serine/threonine protein kinase that localizes to mitochondria. It is thought to protect cells from stress-induced mitochondrial dysfunction. Mutations in this gene cause one form of autosomal recessive early-onset Parkinson disease. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> autophagy of mitochondrion; mitophagy; regulation of oxidative phosphorylation; response to ischemia; protein phosphorylation; ubiquitin-dependent protein catabolic process</p>
+<p><b>GO:MF:</b> magnesium ion binding; protease binding; protein kinase activity; protein serine/threonine kinase activity; protein binding; ATP binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; cytoplasm; mitochondrion; mitochondrial outer membrane; mitochondrial inner membrane</p>
+<p><b>Pathways:</b> Mitophagy - animal - Homo sapiens (human) (kegg); Parkinson disease - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Macroautophagy (reactome); Generic Transcription Pathway (reactome); Mitophagy (reactome); PINK1-PRKN Mediated Mitophagy (reactome)</p>
+<p><b>InterPro:</b> Protein kinase domain; Serine/threonine-protein kinase, active site; Protein kinase-like domain superfamily; PINK1, protein kinase domain; Mitochondrial Quality Control and Scaffold Kinases</p>
+</div>
+
+<div class="gene-card">
+<h3>PARK7 — Parkinsonism associated deglycase</h3>
+<p><b>Summary:</b> The product of this gene belongs to the peptidase C56 family of proteins. It acts as a positive regulator of androgen receptor-dependent transcription. It may also function as a redox-sensitive chaperone, as a sensor for oxidative stress, and it apparently protects neurons against oxidative stress and cell death. Defects in this gene are the cause of autosomal recessive early-onset Parkinson disease 7. Two transcript variants encoding the same protein have been identified for this gene. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> positive regulation of acute inflammatory response to antigenic stimulus; DNA repair; response to oxidative stress; mitochondrion organization; Ras protein signal transduction; methylglyoxal metabolic process</p>
+<p><b>GO:MF:</b> core promoter sequence-specific DNA binding; double-stranded DNA binding; single-stranded DNA binding; transcription coactivator activity; mRNA binding; signaling receptor binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; cytoplasm; mitochondrion; mitochondrial intermembrane space</p>
+<p><b>Pathways:</b> Parkinson disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Macroautophagy (reactome); SUMOylation (reactome); SUMO E3 ligases SUMOylate target proteins (reactome); SUMOylation of transcription cofactors (reactome); Metabolism of proteins (reactome); Post-translational protein modification (reactome)</p>
+<p><b>InterPro:</b> DJ-1/PfpI; Protein/nucleic acid deglycase DJ-1; Class I glutamine amidotransferase-like; Protein/nucleic acid deglycase</p>
+</div>
+
+<div class="gene-card">
+<h3>GBA1 — glucosylceramidase beta 1</h3>
+<p><b>Summary:</b> This gene encodes a lysosomal membrane protein that cleaves the beta-glucosidic linkage of glycosylceramide, an intermediate in glycolipid metabolism. Mutations in this gene cause Gaucher disease, a lysosomal storage disease characterized by an accumulation of glucocerebrosides. A related pseudogene is approximately 12 kb downstream of this gene on chromosome 1. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jan 2010].</p>
+<p><b>GO:BP:</b> sphingolipid metabolic process; glucosylceramide catabolic process; autophagy; mitochondrion organization; lysosome organization; cholesterol metabolic process</p>
+<p><b>GO:MF:</b> galactosylceramidase activity; glucosylceramidase activity; signaling receptor binding; scavenger receptor binding; protein binding; beta-glucosidase activity</p>
+<p><b>GO:CC:</b> extracellular region; lysosome; lysosomal membrane; endoplasmic reticulum; Golgi apparatus; trans-Golgi network</p>
+<p><b>Pathways:</b> Other glycan degradation - Homo sapiens (human) (kegg); Sphingolipid metabolism - Homo sapiens (human) (kegg); Lysosome - Homo sapiens (human) (kegg); Metabolism (reactome); Glycosphingolipid metabolism (reactome); Chaperonin-mediated protein folding (reactome); Association of TriC/CCT with target proteins during biosynthesis (reactome); Protein folding (reactome)</p>
+<p><b>InterPro:</b> Glycoside hydrolase family 30; Glycoside hydrolase superfamily; Glycosyl hydrolase family 30, beta sandwich domain; Glycosyl hydrolase family 30, TIM-barrel domain</p>
+</div>
+
+<div class="gene-card">
+<h3>VPS35 — VPS35 retromer complex component</h3>
+<p><b>Summary:</b> This gene belongs to a group of vacuolar protein sorting (VPS) genes. The encoded protein is a component of a large multimeric complex, termed the retromer complex, involved in retrograde transport of proteins from endosomes to the trans-Golgi network. The close structural similarity between the yeast and human proteins that make up this complex suggests a similarity in function. Expression studies in yeast and mammalian cells indicate that this protein interacts directly with VPS35, which serves as the core of the retromer complex. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> lysosome organization; positive regulation of signal transduction; positive regulation of gene expression; negative regulation of gene expression; regulation of mitochondrion organization; protein transport</p>
+<p><b>GO:MF:</b> protein binding; D1 dopamine receptor binding; cargo adaptor activity</p>
+<p><b>GO:CC:</b> cytoplasm; mitochondrion; lysosomal membrane; endosome; early endosome; late endosome</p>
+<p><b>Pathways:</b> Endocytosis - Homo sapiens (human) (kegg); Signal Transduction (reactome); Signaling by WNT (reactome); WNT ligand biogenesis and trafficking (reactome)</p>
+<p><b>InterPro:</b> Vacuolar protein sorting-associated protein 35; Armadillo-type fold; Vacuolar protein sorting-associated protein 35, C-terminal</p>
+</div>
+
+<div class="gene-card">
+<h3>EIF4G1 — eukaryotic translation initiation factor 4 gamma 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a component of the multi-subunit protein complex EIF4F. This complex facilitates the recruitment of mRNA to the ribosome, which is a rate-limiting step during the initiation phase of protein synthesis. The recognition of the mRNA cap and the ATP-dependent unwinding of 5'-terminal secondary structure is catalyzed by factors in this complex. The subunit encoded by this gene is a large scaffolding protein that contains binding sites for other members of the EIF4F complex. A domain at its N-terminus can also interact with the poly(A)-binding protein, which may mediate the circularization of mRNA during translation. Alternative splicing results in multiple transcript variants, some of which are derived from alternative promoter usage. [provided by RefSeq, Aug 2010].</p>
+<p><b>GO:BP:</b> cap-dependent translational initiation; translation; translational initiation; regulation of translational initiation; negative regulation of autophagy; positive regulation of cell growth</p>
+<p><b>GO:MF:</b> RNA binding; mRNA binding; translation initiation factor activity; protein binding; ATP binding; translation factor activity, RNA binding</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; cytosol; ribosome; cytoplasmic stress granule; membrane</p>
+<p><b>Pathways:</b> RNA transport - Homo sapiens (human) (kegg); Viral myocarditis - Homo sapiens (human) (kegg); ISG15 antiviral mechanism (reactome); Antimicrobial mechanism of IFN-stimulated genes (reactome); Developmental Biology (reactome); Cytokine Signaling in Immune system (reactome); L13a-mediated translational silencing of Ceruloplasmin expression (reactome); Signal Transduction (reactome)</p>
+<p><b>InterPro:</b> W2 domain; MIF4G-like, type 3; Initiation factor eIF-4 gamma, MA3; Armadillo-type fold</p>
+</div>
+
+<div class="gene-card">
+<h3>DNAJC13 — DnaJ heat shock protein family (Hsp40) member C13</h3>
+<p><b>Summary:</b> This gene encodes a member of the Dnaj protein family whose members act as co-chaperones of a partner heat-shock protein by binding to the latter and stimulating ATP hydrolysis. The encoded protein associates with the heat-shock protein Hsc70 and plays a role in clathrin-mediated endocytosis. It may also be involved in post-endocytic transport mechanisms via its associations with other proteins, including the sorting nexin SNX1. Mutations in this gene are associated with Parkinson's disease. [provided by RefSeq, Jun 2016].</p>
+<p><b>GO:BP:</b> osteoblast differentiation; receptor-mediated endocytosis; endosome organization; endocytic recycling; regulation of early endosome to late endosome transport; regulation of endocytic recycling</p>
+<p><b>GO:MF:</b> protein binding</p>
+<p><b>GO:CC:</b> lysosomal membrane; early endosome; plasma membrane; endosome membrane; membrane; secretory granule membrane</p>
+<p><b>Pathways:</b> Innate Immune System (reactome); Immune System (reactome); Neutrophil degranulation (reactome)</p>
+<p><b>InterPro:</b> DnaJ domain; Armadillo-like helical; Armadillo-type fold; GYF domain 2; GYF-like domain superfamily; Chaperone J-domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>CHCHD2 — coiled-coil-helix-coiled-coil-helix domain containing 2</h3>
+<p><b>Summary:</b> The protein encoded by this gene belongs to a class of eukaryotic CX(9)C proteins characterized by four cysteine residues spaced ten amino acids apart from one another. These residues form disulfide linkages that define a CHCH fold. In response to stress, the protein translocates from the mitochondrial intermembrane space to the nucleus where it binds to a highly conserved 13 nucleotide oxygen responsive element in the promoter of cytochrome oxidase 4I2, a subunit of the terminal enzyme of the electron transport chain. In concert with recombination signal sequence-binding protein J, binding of this protein activates the oxygen responsive element at four percent oxygen. In addition, it has been shown that this protein is a negative regulator of mitochondria-mediated apoptosis. In response to apoptotic stimuli, mitochondrial levels of this protein decrease, allowing BCL2-associated X protein to oligomerize and activate the caspase cascade. Pseudogenes of this gene are found on multiple chromosomes. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Feb 2016].</p>
+<p><b>GO:BP:</b> mitochondrion organization; cellular response to oxidative stress; regulation of generation of precursor metabolites and energy; positive regulation of transcription by RNA polymerase II; regulation of cellular response to hypoxia; positive regulation of mitochondrial ATP synthesis coupled electron transport</p>
+<p><b>GO:MF:</b> protein binding; sequence-specific DNA binding; DNA-binding transcription factor binding</p>
+<p><b>GO:CC:</b> nucleus; mitochondrion; mitochondrial intermembrane space</p>
+<p><b>Pathways:</b> Mitochondrial protein import (reactome); Metabolism of proteins (reactome); Protein localization (reactome); Mitochondrial protein degradation (reactome)</p>
+<p><b>InterPro:</b> CHCH; Coiled-coil-helix-coiled-coil-helix domain-containing protein 2/10-like</p>
+</div>
+
+<div class="gene-card">
+<h3>ATP13A2 — ATPase cation transporting 13A2</h3>
+<p><b>Summary:</b> This gene encodes a member of the P5 subfamily of ATPases which transports inorganic cations as well as other substrates. Mutations in this gene are associated with Kufor-Rakeb syndrome (KRS), also referred to as Parkinson disease 9. Multiple transcript variants encoding different isoforms have been found for this gene.[provided by RefSeq, Nov 2008].</p>
+<p><b>GO:BP:</b> intracellular calcium ion homeostasis; intracellular iron ion homeostasis; intracellular zinc ion homeostasis; autophagy; lysosomal transport; positive regulation of gene expression</p>
+<p><b>GO:MF:</b> nucleotide binding; protein binding; ATP binding; zinc ion binding; polyamine transmembrane transporter activity; ABC-type polyamine transporter activity</p>
+<p><b>GO:CC:</b> autophagosome membrane; lysosome; lysosomal membrane; late endosome; multivesicular body; autophagosome</p>
+<p><b>Pathways:</b> Transport of small molecules (reactome); Ion transport by P-type ATPases (reactome); Ion channel transport (reactome); Neurodegeneration with brain iron accumulation (NBIA) subtypes pathway (wikipathways)</p>
+<p><b>InterPro:</b> P-type ATPase; P-type ATPase, subfamily V; P-type ATPase, A domain superfamily; P-type ATPase, phosphorylation site; HAD superfamily; P-type ATPase, transmembrane domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>FBXO7 — F-box protein 7</h3>
+<p><b>Summary:</b> This gene encodes a member of the F-box protein family which is characterized by an approximately 40 amino acid motif, the F-box. The F-box proteins constitute one of the four subunits of the ubiquitin protein ligase complex called SCFs (SKP1-cullin-F-box), which function in phosphorylation-dependent ubiquitination. The F-box proteins are divided into 3 classes: Fbws containing WD-40 domains, Fbls containing leucine-rich repeats, and Fbxs containing either different protein-protein interaction modules or no recognizable motifs. The protein encoded by this gene belongs to the Fbxs class and it may play a role in regulation of hematopoiesis. Alternatively spliced transcript variants of this gene have been identified with the full-length natures of only some variants being determined. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> autophagy of mitochondrion; ubiquitin-dependent protein catabolic process; regulation of neuron projection development; protein ubiquitination; SCF-dependent proteasomal ubiquitin-dependent protein catabolic process; regulation of protein stability</p>
+<p><b>GO:MF:</b> ubiquitin-protein transferase activity; protein binding; protein kinase binding; ubiquitin protein ligase binding; ubiquitin binding; protein heterodimerization activity</p>
+<p><b>GO:CC:</b> ubiquitin ligase complex; nucleus; nucleoplasm; cytoplasm; mitochondrion; cytosol</p>
+<p><b>Pathways:</b> Adaptive Immune System (reactome); Immune System (reactome); Metabolism of proteins (reactome); Post-translational protein modification (reactome); Neddylation (reactome); Antigen processing: Ubiquitination & Proteasome degradation (reactome); Class I MHC mediated antigen processing & presentation (reactome)</p>
+<p><b>InterPro:</b> F-box domain; PI31 proteasome regulator, N-terminal; Ubiquitin-like domain superfamily; F-box-like domain superfamily; F-box only protein 7</p>
+</div>
+
+<div class="gene-card">
+<h3>PLA2G6 — phospholipase A2 group VI</h3>
+<p><b>Summary:</b> The protein encoded by this gene is an A2 phospholipase, a class of enzyme that catalyzes the release of fatty acids from phospholipids. The encoded protein may play a role in phospholipid remodelling, arachidonic acid release, leukotriene and prostaglandin synthesis, fas-mediated apoptosis, and transmembrane ion flux in glucose-stimulated B-cells. Several transcript variants encoding multiple isoforms have been described, but the full-length nature of only three of them have been determined to date. [provided by RefSeq, Dec 2010].</p>
+<p><b>GO:BP:</b> lipid metabolic process; antibacterial humoral response; phosphatidylcholine catabolic process; positive regulation of insulin secretion involved in cellular response to glucose stimulus; cardiolipin acyl-chain remodeling; Fc-gamma receptor signaling pathway involved in phagocytosis</p>
+<p><b>GO:MF:</b> 1-alkyl-2-acetylglycerophosphocholine esterase activity; phosphatidylcholine lysophospholipase A1 activity; A2-type glycerophospholipase activity; protein binding; hydrolase activity; serine hydrolase activity</p>
+<p><b>GO:CC:</b> extracellular region; cytoplasm; mitochondrion; cytosol; plasma membrane; pseudopodium</p>
+<p><b>Pathways:</b> Glycerophospholipid metabolism - Homo sapiens (human) (kegg); Ether lipid metabolism - Homo sapiens (human) (kegg); Arachidonic acid metabolism - Homo sapiens (human) (kegg); Linoleic acid metabolism - Homo sapiens (human) (kegg); alpha-Linolenic acid metabolism - Homo sapiens (human) (kegg); Ras signaling pathway - Homo sapiens (human) (kegg); Vascular smooth muscle contraction - Homo sapiens (human) (kegg); Fc gamma R-mediated phagocytosis - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Ankyrin repeat; Patatin-like phospholipase domain; Acyl transferase/acyl hydrolase/lysophospholipase; Ankyrin repeat-containing domain superfamily; 85/88 kDa calcium-independent phospholipase A2</p>
+</div>
+
+<div class="gene-card">
+<h3>GCH1 — GTP cyclohydrolase 1</h3>
+<p><b>Summary:</b> This gene encodes a member of the GTP cyclohydrolase family. The encoded protein is the first and rate-limiting enzyme in tetrahydrobiopterin (BH4) biosynthesis, catalyzing the conversion of GTP into 7,8-dihydroneopterin triphosphate. BH4 is an essential cofactor required by aromatic amino acid hydroxylases as well as nitric oxide synthases. Mutations in this gene are associated with malignant hyperphenylalaninemia and dopa-responsive dystonia. Several alternatively spliced transcript variants encoding different isoforms have been described; however, not all variants give rise to a functional enzyme. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> tetrahydrobiopterin biosynthetic process; nitric oxide biosynthetic process; regulation of blood pressure; positive regulation of heart rate; response to lipopolysaccharide; response to type II interferon</p>
+<p><b>GO:MF:</b> GTPase activity; GTP cyclohydrolase I activity; protein binding; GTP binding; zinc ion binding; identical protein binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm; cytosol; cytoplasmic vesicle; nuclear membrane</p>
+<p><b>Pathways:</b> Folate biosynthesis - Homo sapiens (human) (kegg); Metabolism (reactome); Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation (reactome); Metabolism of vitamins and cofactors (reactome); Metabolism of cofactors (reactome)</p>
+<p><b>InterPro:</b> GTP cyclohydrolase I; GTP cyclohydrolase I, conserved site; GTP cyclohydrolase I domain; GTP cyclohydrolase I, C-terminal/NADPH-dependent 7-cyano-7-deazaguanine reductase; GTP cyclohydrolase I, N-terminal domain</p>
+</div>
+
+<div class="gene-card">
+<h3>PANK2 — pantothenate kinase 2</h3>
+<p><b>Summary:</b> This gene encodes a protein belonging to the pantothenate kinase family and is the only member of that family to be expressed in mitochondria. Pantothenate kinase is a key regulatory enzyme in the biosynthesis of coenzyme A (CoA) in bacteria and mammalian cells. It catalyzes the first committed step in the universal biosynthetic pathway leading to CoA and is itself subject to regulation through feedback inhibition by acyl CoA species. Mutations in this gene are associated with HARP syndrome and pantothenate kinase-associated neurodegeneration (PKAN), formerly Hallervorden-Spatz syndrome. Alternative splicing, involving the use of alternate first exons, results in multiple transcripts encoding different isoforms. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> angiogenesis; coenzyme A biosynthetic process; pantothenate metabolic process; regulation of fatty acid metabolic process; regulation of triglyceride metabolic process</p>
+<p><b>GO:MF:</b> pantothenate kinase activity; protein binding; ATP binding</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; mitochondrion; mitochondrial intermembrane space; cytosol</p>
+<p><b>Pathways:</b> Pantothenate and CoA biosynthesis - Homo sapiens (human) (kegg); Metabolism (reactome); Coenzyme A biosynthesis (reactome); Metabolism of water-soluble vitamins and cofactors (reactome); Metabolism of vitamins and cofactors (reactome); Vitamin B5 (pantothenate) metabolism (reactome); Neurodegeneration with brain iron accumulation (NBIA) subtypes pathway (wikipathways)</p>
+<p><b>InterPro:</b> Type II pantothenate kinase; ATPase, nucleotide binding domain</p>
+</div>
+
+<div class="gene-card">
+<h3>SLC6A3 — solute carrier family 6 member 3</h3>
+<p><b>Summary:</b> This gene encodes a dopamine transporter which is a member of the sodium- and chloride-dependent neurotransmitter transporter family. The 3' UTR of this gene contains a 40 bp tandem repeat, referred to as a variable number tandem repeat or VNTR, which can be present in 3 to 11 copies. Variation in the number of repeats is associated with idiopathic epilepsy, attention-deficit hyperactivity disorder, dependence on alcohol and cocaine, susceptibility to Parkinson disease and protection against nicotine dependence.[provided by RefSeq, Nov 2009].</p>
+<p><b>GO:BP:</b> neurotransmitter uptake; neurotransmitter transport; amino acid transport; response to xenobiotic stimulus; response to iron ion; response to nicotine</p>
+<p><b>GO:MF:</b> protease binding; signaling receptor binding; neurotransmitter transmembrane transporter activity; dopamine:sodium symporter activity; norepinephrine:sodium symporter activity; protein binding</p>
+<p><b>GO:CC:</b> cytoplasm; plasma membrane; cell surface; membrane; flotillin complex; axon</p>
+<p><b>Pathways:</b> Synaptic vesicle cycle - Homo sapiens (human) (kegg); Dopaminergic synapse - Homo sapiens (human) (kegg); Parkinson disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Cocaine addiction - Homo sapiens (human) (kegg); Amphetamine addiction - Homo sapiens (human) (kegg); Alcoholism - Homo sapiens (human) (kegg); Neurotransmitter clearance (reactome)</p>
+<p><b>InterPro:</b> Sodium:neurotransmitter symporter; Sodium:neurotransmitter symporter, dopamine; Sodium:neurotransmitter symporter superfamily</p>
+</div>
+
+
+<h2>Provenance</h2>
+<ul>
+<li>PANTHER: pantherdb.org, REST (geneinfo + enrich/overrep)</li>
+<li>Enrichr: maayanlab.cloud/Enrichr, GO_Biological_Process_2025</li>
+<li>g:Profiler: biit.cs.ut.ee/gprofiler, GO/KEGG/REAC</li>
+<li>MyGene.info: mygene.info/v3/query</li>
+</ul>
+</body></html>

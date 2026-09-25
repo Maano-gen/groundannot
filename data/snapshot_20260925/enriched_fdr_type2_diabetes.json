@@ -1,0 +1,2680 @@
+{
+  "PANTHER": [
+    {
+      "id": "GO:0010817",
+      "label": "regulation of hormone levels",
+      "fdr": 5.409887221856234e-05,
+      "p_value": 3.931318379373762e-09,
+      "fold": 18.366800535475235,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070201",
+      "label": "regulation of establishment of protein localization",
+      "fdr": 0.00011699872353954367,
+      "p_value": 4.251098159274169e-08,
+      "fold": 18.655788655788655,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046883",
+      "label": "regulation of hormone secretion",
+      "fdr": 0.0001375756286571014,
+      "p_value": 3.999000905663873e-08,
+      "fold": 28.464730290456433,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051223",
+      "label": "regulation of protein transport",
+      "fdr": 0.00014174325585504847,
+      "p_value": 2.0600720275423073e-08,
+      "fold": 20.734024179620036,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050708",
+      "label": "regulation of protein secretion",
+      "fdr": 0.00016606569102358174,
+      "p_value": 3.620355156389399e-08,
+      "fold": 28.945147679324894,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050796",
+      "label": "regulation of insulin secretion",
+      "fdr": 0.00038657518217532393,
+      "p_value": 1.685525102137885e-07,
+      "fold": 37.363834422657945,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0065008",
+      "label": "regulation of biological quality",
+      "fdr": 0.00044291535551254664,
+      "p_value": 2.253039378379352e-07,
+      "fold": 5.0683413372737345,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051046",
+      "label": "regulation of secretion",
+      "fdr": 0.0004653831904530658,
+      "p_value": 2.7055196015002734e-07,
+      "fold": 14.215512137359385,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042592",
+      "label": "homeostatic process",
+      "fdr": 0.0004998392496001713,
+      "p_value": 3.269059840419695e-07,
+      "fold": 8.218849840255592,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090087",
+      "label": "regulation of peptide transport",
+      "fdr": 0.0006286980163040559,
+      "p_value": 5.482433104896934e-07,
+      "fold": 29.46735395189003,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090276",
+      "label": "regulation of peptide hormone secretion",
+      "fdr": 0.000645739222915496,
+      "p_value": 4.692531232581178e-07,
+      "fold": 30.407801418439714,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002791",
+      "label": "regulation of peptide secretion",
+      "fdr": 0.000651554868978923,
+      "p_value": 5.208272333964213e-07,
+      "fold": 29.774305555555557,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051049",
+      "label": "regulation of transport",
+      "fdr": 0.0013305268496613591,
+      "p_value": 1.2569471001815034e-06,
+      "fold": 7.009536784741145,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903530",
+      "label": "regulation of secretion by cell",
+      "fdr": 0.003215779788423001,
+      "p_value": 3.5053191502321793e-06,
+      "fold": 13.268858800773694,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048878",
+      "label": "chemical homeostasis",
+      "fdr": 0.003289391457225547,
+      "p_value": 3.824595837192701e-06,
+      "fold": 9.573365231259967,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032880",
+      "label": "regulation of protein localization",
+      "fdr": 0.003415906909050001,
+      "p_value": 3.475234120100284e-06,
+      "fold": 9.712783171521036,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032879",
+      "label": "regulation of localization",
+      "fdr": 0.005989886793114503,
+      "p_value": 7.399758410213396e-06,
+      "fold": 5.666299559471366,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901700",
+      "label": "response to oxygen-containing compound",
+      "fdr": 0.008116366427272642,
+      "p_value": 1.0616568250193124e-05,
+      "fold": 6.533333333333333,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048523",
+      "label": "negative regulation of cellular process",
+      "fdr": 0.01013057983883101,
+      "p_value": 1.4723609968506664e-05,
+      "fold": 3.1049369821043107,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042593",
+      "label": "glucose homeostasis",
+      "fdr": 0.010432216807127373,
+      "p_value": 1.4403903737767612e-05,
+      "fold": 25.984848484848484,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033500",
+      "label": "carbohydrate homeostasis",
+      "fdr": 0.010770038459693178,
+      "p_value": 1.643563750116683e-05,
+      "fold": 25.128205128205124,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048519",
+      "label": "negative regulation of biological process",
+      "fdr": 0.016855857915418753,
+      "p_value": 2.694781441313949e-05,
+      "fold": 2.94731971709961,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010647",
+      "label": "positive regulation of cell communication",
+      "fdr": 0.025055049128994266,
+      "p_value": 4.369749139567345e-05,
+      "fold": 5.383558956248773,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032501",
+      "label": "multicellular organismal process",
+      "fdr": 0.02506830493803531,
+      "p_value": 4.1898918216322364e-05,
+      "fold": 2.8365139949109412,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034393",
+      "label": "positive regulation of smooth muscle cell apoptotic process",
+      "fdr": 0.030844646118274862,
+      "p_value": 5.603634568395258e-05,
+      "fold": 175.89743589743588,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901142",
+      "label": "insulin metabolic process",
+      "fdr": 0.034583435734084796,
+      "p_value": 6.534185953682179e-05,
+      "fold": 163.33333333333334,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050678",
+      "label": "regulation of epithelial cell proliferation",
+      "fdr": 0.034787554455629636,
+      "p_value": 6.825550252903133e-05,
+      "fold": 17.455470737913487,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090287",
+      "label": "regulation of cellular response to growth factor stimulus",
+      "fdr": 0.03934290691993836,
+      "p_value": 8.005242306215203e-05,
+      "fold": 16.752136752136753,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042127",
+      "label": "regulation of cell population proliferation",
+      "fdr": 0.04654469963317337,
+      "p_value": 9.808853203706326e-05,
+      "fold": 5.8079342041606195,
+      "source": "PANTHER"
+    }
+  ],
+  "Enrichr": [
+    {
+      "id": "GO:0050796",
+      "label": "Regulation of Insulin Secretion",
+      "fdr": 7.867092744452993e-06,
+      "p_value": 1.5925288956382576e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000079",
+      "label": "Regulation of Cyclin-Dependent Protein Serine/Threonine Kinase Activity",
+      "fdr": 1.8073432723581463e-05,
+      "p_value": 7.317179240316382e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042593",
+      "label": "Glucose Homeostasis",
+      "fdr": 0.00020106250198560608,
+      "p_value": 1.2210273399935593e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901142",
+      "label": "Insulin Metabolic Process",
+      "fdr": 0.0032933595255500224,
+      "p_value": 2.7437270887714988e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050714",
+      "label": "Positive Regulation of Protein Secretion",
+      "fdr": 0.0032933595255500224,
+      "p_value": 4.12960074597834e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034393",
+      "label": "Positive Regulation of Smooth Muscle Cell Apoptotic Process",
+      "fdr": 0.0032933595255500224,
+      "p_value": 4.187352980469567e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902679",
+      "label": "Negative Regulation of RNA Biosynthetic Process",
+      "fdr": 0.0032933595255500224,
+      "p_value": 4.666703781143757e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045736",
+      "label": "Negative Regulation of Cyclin-Dependent Protein Serine/Threonine Kinase Activity",
+      "fdr": 0.003663081445812663,
+      "p_value": 5.932115701720912e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904030",
+      "label": "Negative Regulation of Cyclin-Dependent Protein Kinase Activity",
+      "fdr": 0.004378513080376586,
+      "p_value": 7.977048122143578e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0031016",
+      "label": "Pancreas Development",
+      "fdr": 0.004501217492076396,
+      "p_value": 9.11177629974979e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045936",
+      "label": "Negative Regulation of Phosphate Metabolic Process",
+      "fdr": 0.006465244484852582,
+      "p_value": 0.00014396293387323563,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010883",
+      "label": "Regulation of Lipid Storage",
+      "fdr": 0.008590666933618934,
+      "p_value": 0.00020868016842799032,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009746",
+      "label": "Response to Hexose",
+      "fdr": 0.008614809412590902,
+      "p_value": 0.0002267055108576553,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008285",
+      "label": "Negative Regulation of Cell Population Proliferation",
+      "fdr": 0.011102674283670552,
+      "p_value": 0.00031465068820118975,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000122",
+      "label": "Negative Regulation of Transcription by RNA Polymerase II",
+      "fdr": 0.012285458219959413,
+      "p_value": 0.00037304022935099435,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042127",
+      "label": "Regulation of Cell Population Proliferation",
+      "fdr": 0.014449213109000766,
+      "p_value": 0.00046799070798383047,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032092",
+      "label": "Positive Regulation of Protein Binding",
+      "fdr": 0.015330886638888975,
+      "p_value": 0.0005275811191520497,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032024",
+      "label": "Positive Regulation of Insulin Secretion",
+      "fdr": 0.016764291956034818,
+      "p_value": 0.0006144037622474869,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045666",
+      "label": "Positive Regulation of Neuron Differentiation",
+      "fdr": 0.016764291956034818,
+      "p_value": 0.000644780459847493,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071901",
+      "label": "Negative Regulation of Protein Serine/Threonine Kinase Activity",
+      "fdr": 0.018907510789216247,
+      "p_value": 0.0007734351437291583,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051276",
+      "label": "Chromosome Organization",
+      "fdr": 0.018907510789216247,
+      "p_value": 0.0008073799549727844,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090277",
+      "label": "Positive Regulation of Peptide Hormone Secretion",
+      "fdr": 0.018907510789216247,
+      "p_value": 0.0008420348934468774,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042326",
+      "label": "Negative Regulation of Phosphorylation",
+      "fdr": 0.019559289040921277,
+      "p_value": 0.0009134705062420161,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009749",
+      "label": "Response to Glucose",
+      "fdr": 0.019559289040921277,
+      "p_value": 0.0009502488602876735,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048660",
+      "label": "Regulation of Smooth Muscle Cell Proliferation",
+      "fdr": 0.020195775461388787,
+      "p_value": 0.001064812220373368,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090276",
+      "label": "Regulation of Peptide Hormone Secretion",
+      "fdr": 0.020195775461388787,
+      "p_value": 0.0011044055879804073,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048523",
+      "label": "Negative Regulation of Cellular Process",
+      "fdr": 0.020195775461388787,
+      "p_value": 0.0011177872987202103,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1900180",
+      "label": "Regulation of Protein Localization to Nucleus",
+      "fdr": 0.020195775461388787,
+      "p_value": 0.0011446998237224415,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902680",
+      "label": "Positive Regulation of RNA Biosynthetic Process",
+      "fdr": 0.02242859469097588,
+      "p_value": 0.001316658392790082,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045944",
+      "label": "Positive Regulation of Transcription by RNA Polymerase II",
+      "fdr": 0.02291351885109238,
+      "p_value": 0.0014225746681129645,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051099",
+      "label": "Positive Regulation of Binding",
+      "fdr": 0.02291351885109238,
+      "p_value": 0.0014921470517396229,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045444",
+      "label": "Fat Cell Differentiation",
+      "fdr": 0.02291351885109238,
+      "p_value": 0.0015386974380497008,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042325",
+      "label": "Regulation of Phosphorylation",
+      "fdr": 0.02291351885109238,
+      "p_value": 0.0015386974380497008,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045892",
+      "label": "Negative Regulation of DNA-templated Transcription",
+      "fdr": 0.02291351885109238,
+      "p_value": 0.0015770438075650628,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090288",
+      "label": "Negative Regulation of Cellular Response to Growth Factor Stimulus",
+      "fdr": 0.027262544972225133,
+      "p_value": 0.0019358238702516727,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045598",
+      "label": "Regulation of Fat Cell Differentiation",
+      "fdr": 0.027262544972225133,
+      "p_value": 0.0020419315060168624,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1900182",
+      "label": "Positive Regulation of Protein Localization to Nucleus",
+      "fdr": 0.027262544972225133,
+      "p_value": 0.0020419315060168624,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043393",
+      "label": "Regulation of Protein Binding",
+      "fdr": 0.028298363930038786,
+      "p_value": 0.00220617578300177,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902806",
+      "label": "Regulation of Cell Cycle G1/S Phase Transition",
+      "fdr": 0.028298363930038786,
+      "p_value": 0.0022622747962299803,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045786",
+      "label": "Negative Regulation of Cell Cycle",
+      "fdr": 0.028298363930038786,
+      "p_value": 0.0023764924719155735,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0098655",
+      "label": "Monoatomic Cation Transmembrane Transport",
+      "fdr": 0.028298363930038786,
+      "p_value": 0.0023955195095588426,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000181",
+      "label": "Negative Regulation of Blood Vessel Morphogenesis",
+      "fdr": 0.028298363930038786,
+      "p_value": 0.0024346088945992775,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0098662",
+      "label": "Inorganic Cation Transmembrane Transport",
+      "fdr": 0.028298363930038786,
+      "p_value": 0.0024632179129385986,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901990",
+      "label": "Regulation of Mitotic Cell Cycle Phase Transition",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0027973432696242373,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050678",
+      "label": "Regulation of Epithelial Cell Proliferation",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0031178798401161494,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016525",
+      "label": "Negative Regulation of Angiogenesis",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0031178798401161494,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0098659",
+      "label": "Inorganic Cation Import Across Plasma Membrane",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.003386160098682633,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050708",
+      "label": "Regulation of Protein Secretion",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.003524226323481464,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903829",
+      "label": "Positive Regulation of Protein Localization",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0037362085914807515,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010629",
+      "label": "Negative Regulation of Gene Expression",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.003982225938925707,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032869",
+      "label": "Cellular Response to Insulin Stimulus",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0041776435065928345,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000045",
+      "label": "Regulation of G1/S Transition of Mitotic Cell Cycle",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0044070373895657615,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045893",
+      "label": "Positive Regulation of DNA-templated Transcription",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.004432546184928908,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048845",
+      "label": "Venous Blood Vessel Morphogenesis",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0044922927083929694,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0055015",
+      "label": "Ventricular Cardiac Muscle Cell Development",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0044922927083929694,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1905962",
+      "label": "Glutamatergic Neuron Differentiation",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0044922927083929694,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030070",
+      "label": "Insulin Processing",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0044922927083929694,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010815",
+      "label": "Bradykinin Catabolic Process",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0044922927083929694,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060297",
+      "label": "Regulation of Sarcomere Organization",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0044922927083929694,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043570",
+      "label": "Maintenance of DNA Repeat Elements",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0044922927083929694,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0098915",
+      "label": "Membrane Repolarization During Ventricular Cardiac Muscle Cell Action Potential",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0044922927083929694,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0021707",
+      "label": "Cerebellar Granule Cell Differentiation",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0044922927083929694,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030240",
+      "label": "Skeletal Muscle Thin Filament Assembly",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0044922927083929694,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010616",
+      "label": "Negative Regulation of Cardiac Muscle Adaptation",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0044922927083929694,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903243",
+      "label": "Negative Regulation of Cardiac Muscle Hypertrophy in Response to Stress",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0044922927083929694,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050679",
+      "label": "Positive Regulation of Epithelial Cell Proliferation",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.004964582188685505,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0017015",
+      "label": "Regulation of Transforming Growth Factor Beta Receptor Signaling Pathway",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.005129574273968294,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043433",
+      "label": "Negative Regulation of DNA-binding Transcription Factor Activity",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0052970811067221055,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902260",
+      "label": "Negative Regulation of Delayed Rectifier Potassium Channel Activity",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0053884659389882355,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0044058",
+      "label": "Regulation of Digestive System Process",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0053884659389882355,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033084",
+      "label": "Regulation of Immature T Cell Proliferation in Thymus",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0053884659389882355,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010661",
+      "label": "Positive Regulation of Muscle Cell Apoptotic Process",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0053884659389882355,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050872",
+      "label": "White Fat Cell Differentiation",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0053884659389882355,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032373",
+      "label": "Positive Regulation of Sterol Transport",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0053884659389882355,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045989",
+      "label": "Positive Regulation of Striated Muscle Contraction",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0053884659389882355,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019885",
+      "label": "Antigen Processing and Presentation of Endogenous Peptide Antigen via MHC Class I",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0053884659389882355,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903533",
+      "label": "Regulation of Protein Targeting",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0053884659389882355,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1905459",
+      "label": "Regulation of Vascular Associated Smooth Muscle Cell Apoptotic Process",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0053884659389882355,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070163",
+      "label": "Regulation of Adiponectin Secretion",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0053884659389882355,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060372",
+      "label": "Regulation of Atrial Cardiac Muscle Cell Membrane Repolarization",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0053884659389882355,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033085",
+      "label": "Negative Regulation of T Cell Differentiation in Thymus",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0053884659389882355,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045737",
+      "label": "Positive Regulation of Cyclin-Dependent Protein Serine/Threonine Kinase Activity",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.0053884659389882355,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006813",
+      "label": "Potassium Ion Transport",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.005726794167239465,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034504",
+      "label": "Protein Localization to Nucleus",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.005726794167239465,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030855",
+      "label": "Epithelial Cell Differentiation",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.006172038024067215,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060841",
+      "label": "Venous Blood Vessel Development",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.006283877774032595,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033034",
+      "label": "Positive Regulation of Myeloid Cell Apoptotic Process",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.006283877774032595,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070663",
+      "label": "Regulation of Leukocyte Proliferation",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.006283877774032595,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0015014",
+      "label": "Heparan Sulfate Proteoglycan Biosynthetic Process, Chain Elongation",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.006283877774032595,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060331",
+      "label": "Negative Regulation of Response to Type II Interferon",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.006283877774032595,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060336",
+      "label": "Negative Regulation of Type II Interferon-Mediated Signaling Pathway",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.006283877774032595,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0086026",
+      "label": "Atrial Cardiac Muscle Cell to AV Node Cell Signaling",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.006283877774032595,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070307",
+      "label": "Lens Fiber Cell Development",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.006283877774032595,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043584",
+      "label": "Nose Development",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.006283877774032595,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060836",
+      "label": "Lymphatic Endothelial Cell Differentiation",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.006283877774032595,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0005976",
+      "label": "Polysaccharide Metabolic Process",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.006283877774032595,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904179",
+      "label": "Positive Regulation of Adipose Tissue Development",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.006283877774032595,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0014866",
+      "label": "Skeletal Myofibril Assembly",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.006283877774032595,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904031",
+      "label": "Positive Regulation of Cyclin-Dependent Protein Kinase Activity",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.006283877774032595,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903242",
+      "label": "Regulation of Cardiac Muscle Hypertrophy in Response to Stress",
+      "fdr": 0.031042356203721023,
+      "p_value": 0.006283877774032595,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071805",
+      "label": "Potassium Ion Transmembrane Transport",
+      "fdr": 0.031080203400943914,
+      "p_value": 0.0063544545414885335,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0099625",
+      "label": "Ventricular Cardiac Muscle Cell Membrane Repolarization",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.007178528720410204,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071578",
+      "label": "Zinc Ion Import Across Plasma Membrane",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.007178528720410204,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046834",
+      "label": "Lipid Phosphorylation",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.007178528720410204,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006171",
+      "label": "cAMP Biosynthetic Process",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.007178528720410204,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035357",
+      "label": "Peroxisome Proliferator Activated Receptor Signaling Pathway",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.007178528720410204,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071824",
+      "label": "protein-DNA Complex Organization",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.007178528720410204,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071872",
+      "label": "Cellular Response to Epinephrine Stimulus",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.007178528720410204,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033365",
+      "label": "Protein Localization to Organelle",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.008003283183497207,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902259",
+      "label": "Regulation of Delayed Rectifier Potassium Channel Activity",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.008072419310050151,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006307",
+      "label": "DNA Alkylation Repair",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.008072419310050151,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0062111",
+      "label": "Zinc Ion Import Into Organelle",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.008072419310050151,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901017",
+      "label": "Negative Regulation of Potassium Ion Transmembrane Transporter Activity",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.008072419310050151,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042447",
+      "label": "Hormone Catabolic Process",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.008072419310050151,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903817",
+      "label": "Negative Regulation of Voltage-Gated Potassium Channel Activity",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.008072419310050151,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904322",
+      "label": "Cellular Response to Forskolin",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.008072419310050151,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904321",
+      "label": "Response to Forskolin",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.008072419310050151,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902369",
+      "label": "Negative Regulation of RNA Catabolic Process",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.008072419310050151,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070857",
+      "label": "Regulation of Bile Acid Biosynthetic Process",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.008072419310050151,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048745",
+      "label": "Smooth Muscle Tissue Development",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.008072419310050151,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1900076",
+      "label": "Regulation of Cellular Response to Insulin Stimulus",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.008072419310050151,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010887",
+      "label": "Negative Regulation of Cholesterol Storage",
+      "fdr": 0.03268668146856373,
+      "p_value": 0.008072419310050151,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060429",
+      "label": "Epithelium Development",
+      "fdr": 0.03433319183033794,
+      "p_value": 0.008839125793675793,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070934",
+      "label": "CRD-mediated mRNA Stabilization",
+      "fdr": 0.03433319183033794,
+      "p_value": 0.008965550093347357,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901201",
+      "label": "Regulation of Extracellular Matrix Assembly",
+      "fdr": 0.03433319183033794,
+      "p_value": 0.008965550093347357,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1905953",
+      "label": "Negative Regulation of Lipid Localization",
+      "fdr": 0.03433319183033794,
+      "p_value": 0.008965550093347357,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010894",
+      "label": "Negative Regulation of Steroid Biosynthetic Process",
+      "fdr": 0.03433319183033794,
+      "p_value": 0.008965550093347357,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030948",
+      "label": "Negative Regulation of Vascular Endothelial Growth Factor Receptor Signaling Pathway",
+      "fdr": 0.03433319183033794,
+      "p_value": 0.008965550093347357,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030889",
+      "label": "Negative Regulation of B Cell Proliferation",
+      "fdr": 0.03433319183033794,
+      "p_value": 0.008965550093347357,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904036",
+      "label": "Negative Regulation of Epithelial Cell Apoptotic Process",
+      "fdr": 0.03554608239123612,
+      "p_value": 0.009857921634816495,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903054",
+      "label": "Negative Regulation of Extracellular Matrix Organization",
+      "fdr": 0.03554608239123612,
+      "p_value": 0.009857921634816495,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903747",
+      "label": "Regulation of Establishment of Protein Localization to Mitochondrion",
+      "fdr": 0.03554608239123612,
+      "p_value": 0.009857921634816495,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051444",
+      "label": "Negative Regulation of Ubiquitin-Protein Transferase Activity",
+      "fdr": 0.03554608239123612,
+      "p_value": 0.009857921634816495,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0099622",
+      "label": "Cardiac Muscle Cell Membrane Repolarization",
+      "fdr": 0.03554608239123612,
+      "p_value": 0.009857921634816495,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000271",
+      "label": "Polysaccharide Biosynthetic Process",
+      "fdr": 0.03554608239123612,
+      "p_value": 0.009857921634816495,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030224",
+      "label": "Monocyte Differentiation",
+      "fdr": 0.03554608239123612,
+      "p_value": 0.009857921634816495,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904177",
+      "label": "Regulation of Adipose Tissue Development",
+      "fdr": 0.03554608239123612,
+      "p_value": 0.009857921634816495,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010745",
+      "label": "Negative Regulation of Macrophage Derived Foam Cell Differentiation",
+      "fdr": 0.035880203015634014,
+      "p_value": 0.010749534506708167,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046486",
+      "label": "Glycerolipid Metabolic Process",
+      "fdr": 0.035880203015634014,
+      "p_value": 0.010749534506708167,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070252",
+      "label": "Actin-Mediated Cell Contraction",
+      "fdr": 0.035880203015634014,
+      "p_value": 0.010749534506708167,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010944",
+      "label": "Negative Regulation of Transcription by Competitive Promoter Binding",
+      "fdr": 0.035880203015634014,
+      "p_value": 0.010749534506708167,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050892",
+      "label": "Intestinal Absorption",
+      "fdr": 0.035880203015634014,
+      "p_value": 0.010749534506708167,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0086014",
+      "label": "Atrial Cardiac Muscle Cell Action Potential",
+      "fdr": 0.035880203015634014,
+      "p_value": 0.010749534506708167,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003228",
+      "label": "Atrial Cardiac Muscle Tissue Development",
+      "fdr": 0.035880203015634014,
+      "p_value": 0.010749534506708167,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0097623",
+      "label": "Potassium Ion Export Across Plasma Membrane",
+      "fdr": 0.035880203015634014,
+      "p_value": 0.010749534506708167,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046058",
+      "label": "cAMP Metabolic Process",
+      "fdr": 0.035880203015634014,
+      "p_value": 0.010749534506708167,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0021533",
+      "label": "Cell Differentiation in Hindbrain",
+      "fdr": 0.035880203015634014,
+      "p_value": 0.010749534506708167,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060334",
+      "label": "Regulation of Type II Interferon-Mediated Signaling Pathway",
+      "fdr": 0.035880203015634014,
+      "p_value": 0.010749534506708167,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045446",
+      "label": "Endothelial Cell Differentiation",
+      "fdr": 0.03808180336123405,
+      "p_value": 0.011640389286531055,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030575",
+      "label": "Nuclear Body Organization",
+      "fdr": 0.03808180336123405,
+      "p_value": 0.011640389286531055,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010614",
+      "label": "Negative Regulation of Cardiac Muscle Hypertrophy",
+      "fdr": 0.03808180336123405,
+      "p_value": 0.011640389286531055,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010460",
+      "label": "Positive Regulation of Heart Rate",
+      "fdr": 0.03993587328532597,
+      "p_value": 0.01253048655713669,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042953",
+      "label": "Lipoprotein Transport",
+      "fdr": 0.03993587328532597,
+      "p_value": 0.01253048655713669,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048384",
+      "label": "Retinoic Acid Receptor Signaling Pathway",
+      "fdr": 0.03993587328532597,
+      "p_value": 0.01253048655713669,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903715",
+      "label": "Regulation of Aerobic Respiration",
+      "fdr": 0.03993587328532597,
+      "p_value": 0.01253048655713669,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050435",
+      "label": "Amyloid-Beta Metabolic Process",
+      "fdr": 0.041433715569558216,
+      "p_value": 0.01341982690512007,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0044872",
+      "label": "Lipoprotein Localization",
+      "fdr": 0.041433715569558216,
+      "p_value": 0.01341982690512007,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0055003",
+      "label": "Cardiac Myofibril Assembly",
+      "fdr": 0.041433715569558216,
+      "p_value": 0.01341982690512007,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0086011",
+      "label": "Membrane Repolarization During Action Potential",
+      "fdr": 0.041433715569558216,
+      "p_value": 0.01341982690512007,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010885",
+      "label": "Regulation of Cholesterol Storage",
+      "fdr": 0.041433715569558216,
+      "p_value": 0.01341982690512007,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034391",
+      "label": "Regulation of Smooth Muscle Cell Apoptotic Process",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.014308410919694987,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043171",
+      "label": "Peptide Catabolic Process",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.014308410919694987,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0086013",
+      "label": "Membrane Repolarization During Cardiac Muscle Cell Action Potential",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.014308410919694987,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043517",
+      "label": "Positive Regulation of DNA Damage Response, Signal Transduction by P53 Class Mediator",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.014308410919694987,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045765",
+      "label": "Regulation of Angiogenesis",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.015166189126667928,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071103",
+      "label": "DNA Conformation Change",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.015196239191186837,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0086005",
+      "label": "Ventricular Cardiac Muscle Cell Action Potential",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.015196239191186837,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043268",
+      "label": "Positive Regulation of Potassium Ion Transport",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.015196239191186837,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0015012",
+      "label": "Heparan Sulfate Proteoglycan Biosynthetic Process",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.015196239191186837,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904893",
+      "label": "Negative Regulation of Receptor Signaling Pathway via STAT",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.015196239191186837,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904706",
+      "label": "Negative Regulation of Vascular Associated Smooth Muscle Cell Proliferation",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.015196239191186837,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046822",
+      "label": "Regulation of Nucleocytoplasmic Transport",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.015196239191186837,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0021915",
+      "label": "Neural Tube Development",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.015196239191186837,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033233",
+      "label": "Regulation of Protein Sumoylation",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.015196239191186837,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051046",
+      "label": "Regulation of Secretion",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.015196239191186837,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904666",
+      "label": "Regulation of Ubiquitin Protein Ligase Activity",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.015196239191186837,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051438",
+      "label": "Regulation of Ubiquitin-Protein Transferase Activity",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.015196239191186837,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060307",
+      "label": "Regulation of Ventricular Cardiac Muscle Cell Membrane Repolarization",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.015196239191186837,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060415",
+      "label": "Muscle Tissue Morphogenesis",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.015196239191186837,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090335",
+      "label": "Regulation of Brown Fat Cell Differentiation",
+      "fdr": 0.041705234224701654,
+      "p_value": 0.015196239191186837,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060828",
+      "label": "Regulation of Canonical Wnt Signaling Pathway",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.015853166400935495,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046676",
+      "label": "Negative Regulation of Insulin Secretion",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.0160833123117468,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901381",
+      "label": "Positive Regulation of Potassium Ion Transmembrane Transport",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.0160833123117468,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035909",
+      "label": "Aorta Morphogenesis",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.0160833123117468,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003209",
+      "label": "Cardiac Atrium Morphogenesis",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.0160833123117468,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030219",
+      "label": "Megakaryocyte Differentiation",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.0160833123117468,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1905562",
+      "label": "Regulation of Vascular Endothelial Cell Proliferation",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.0160833123117468,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009190",
+      "label": "Cyclic Nucleotide Biosynthetic Process",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.0160833123117468,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043457",
+      "label": "Regulation of Cellular Respiration",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.0160833123117468,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045923",
+      "label": "Positive Regulation of Fatty Acid Metabolic Process",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.0160833123117468,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010468",
+      "label": "Regulation of Gene Expression",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.016267591384928986,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046887",
+      "label": "Positive Regulation of Hormone Secretion",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.016969630876880012,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010888",
+      "label": "Negative Regulation of Lipid Storage",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.016969630876880012,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090278",
+      "label": "Negative Regulation of Peptide Hormone Secretion",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.016969630876880012,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0062013",
+      "label": "Positive Regulation of Small Molecule Metabolic Process",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.016969630876880012,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051348",
+      "label": "Negative Regulation of Transferase Activity",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.016969630876880012,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030073",
+      "label": "Insulin Secretion",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.016969630876880012,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002474",
+      "label": "Antigen Processing and Presentation of Peptide Antigen via MHC Class I",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.016969630876880012,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904892",
+      "label": "Regulation of Receptor Signaling Pathway via STAT",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.016969630876880012,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0086009",
+      "label": "Membrane Repolarization",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.016969630876880012,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904064",
+      "label": "Positive Regulation of Cation Transmembrane Transport",
+      "fdr": 0.041706455985963814,
+      "p_value": 0.016969630876880012,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019217",
+      "label": "Regulation of Fatty Acid Metabolic Process",
+      "fdr": 0.04302666617256776,
+      "p_value": 0.017855195476470426,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033198",
+      "label": "Response to ATP",
+      "fdr": 0.04302666617256776,
+      "p_value": 0.017855195476470426,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050869",
+      "label": "Negative Regulation of B Cell Activation",
+      "fdr": 0.04302666617256776,
+      "p_value": 0.017855195476470426,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903844",
+      "label": "Regulation of Cellular Response to Transforming Growth Factor Beta Stimulus",
+      "fdr": 0.04302666617256776,
+      "p_value": 0.017855195476470426,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002483",
+      "label": "Antigen Processing and Presentation of Endogenous Peptide Antigen",
+      "fdr": 0.04429456131051532,
+      "p_value": 0.01874000670829494,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045445",
+      "label": "Myoblast Differentiation",
+      "fdr": 0.04429456131051532,
+      "p_value": 0.01874000670829494,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0099623",
+      "label": "Regulation of Cardiac Muscle Cell Membrane Repolarization",
+      "fdr": 0.04429456131051532,
+      "p_value": 0.01874000670829494,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2001258",
+      "label": "Negative Regulation of Cation Channel Activity",
+      "fdr": 0.04429456131051532,
+      "p_value": 0.01874000670829494,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045823",
+      "label": "Positive Regulation of Heart Contraction",
+      "fdr": 0.04467413914568894,
+      "p_value": 0.019624065171284413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000179",
+      "label": "Positive Regulation of Neural Precursor Cell Proliferation",
+      "fdr": 0.04467413914568894,
+      "p_value": 0.019624065171284413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030201",
+      "label": "Heparan Sulfate Proteoglycan Metabolic Process",
+      "fdr": 0.04467413914568894,
+      "p_value": 0.019624065171284413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000177",
+      "label": "Regulation of Neural Precursor Cell Proliferation",
+      "fdr": 0.04467413914568894,
+      "p_value": 0.019624065171284413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070293",
+      "label": "Renal Absorption",
+      "fdr": 0.04467413914568894,
+      "p_value": 0.019624065171284413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060392",
+      "label": "Negative Regulation of SMAD Protein Signal Transduction",
+      "fdr": 0.04467413914568894,
+      "p_value": 0.019624065171284413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046339",
+      "label": "Diacylglycerol Metabolic Process",
+      "fdr": 0.04467413914568894,
+      "p_value": 0.019624065171284413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010875",
+      "label": "Positive Regulation of Cholesterol Efflux",
+      "fdr": 0.04467413914568894,
+      "p_value": 0.019624065171284413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050779",
+      "label": "RNA Destabilization",
+      "fdr": 0.04563352026935455,
+      "p_value": 0.02050737145707836,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071577",
+      "label": "Zinc Ion Transmembrane Transport",
+      "fdr": 0.04563352026935455,
+      "p_value": 0.02050737145707836,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0061008",
+      "label": "Hepaticobiliary System Development",
+      "fdr": 0.04563352026935455,
+      "p_value": 0.02050737145707836,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001890",
+      "label": "Placenta Development",
+      "fdr": 0.04563352026935455,
+      "p_value": 0.02050737145707836,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016973",
+      "label": "poly(A)+ mRNA Export From Nucleus",
+      "fdr": 0.04563352026935455,
+      "p_value": 0.02050737145707836,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003229",
+      "label": "Ventricular Cardiac Muscle Tissue Development",
+      "fdr": 0.04614246079441851,
+      "p_value": 0.02138992615773652,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006023",
+      "label": "Aminoglycan Biosynthetic Process",
+      "fdr": 0.04614246079441851,
+      "p_value": 0.02138992615773652,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051155",
+      "label": "Positive Regulation of Striated Muscle Cell Differentiation",
+      "fdr": 0.04614246079441851,
+      "p_value": 0.02138992615773652,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030511",
+      "label": "Positive Regulation of Transforming Growth Factor Beta Receptor Signaling Pathway",
+      "fdr": 0.04614246079441851,
+      "p_value": 0.02138992615773652,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0015909",
+      "label": "Long-Chain Fatty Acid Transport",
+      "fdr": 0.04614246079441851,
+      "p_value": 0.02138992615773652,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903846",
+      "label": "Positive Regulation of Cellular Response to Transforming Growth Factor Beta Stimulus",
+      "fdr": 0.04614246079441851,
+      "p_value": 0.02138992615773652,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032374",
+      "label": "Regulation of Cholesterol Transport",
+      "fdr": 0.04614246079441851,
+      "p_value": 0.02138992615773652,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009967",
+      "label": "Positive Regulation of Signal Transduction",
+      "fdr": 0.046476330321988446,
+      "p_value": 0.02181742288338004,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902894",
+      "label": "Negative Regulation of miRNA Transcription",
+      "fdr": 0.046476330321988446,
+      "p_value": 0.02227172987906945,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006829",
+      "label": "Zinc Ion Transport",
+      "fdr": 0.046476330321988446,
+      "p_value": 0.02227172987906945,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006024",
+      "label": "Glycosaminoglycan Biosynthetic Process",
+      "fdr": 0.046476330321988446,
+      "p_value": 0.02227172987906945,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046825",
+      "label": "Regulation of Protein Export From Nucleus",
+      "fdr": 0.046476330321988446,
+      "p_value": 0.02227172987906945,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071404",
+      "label": "Cellular Response to Low-Density Lipoprotein Particle Stimulus",
+      "fdr": 0.046476330321988446,
+      "p_value": 0.02227172987906945,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0014074",
+      "label": "Response to Purine-Containing Compound",
+      "fdr": 0.046476330321988446,
+      "p_value": 0.02227172987906945,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006629",
+      "label": "Lipid Metabolic Process",
+      "fdr": 0.046476330321988446,
+      "p_value": 0.022297348757715107,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1990000",
+      "label": "Amyloid Fibril Formation",
+      "fdr": 0.047458402108594595,
+      "p_value": 0.023152783214921657,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030947",
+      "label": "Regulation of Vascular Endothelial Growth Factor Receptor Signaling Pathway",
+      "fdr": 0.047458402108594595,
+      "p_value": 0.023152783214921657,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030323",
+      "label": "Respiratory Tube Development",
+      "fdr": 0.047458402108594595,
+      "p_value": 0.023152783214921657,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071466",
+      "label": "Cellular Response to Xenobiotic Stimulus",
+      "fdr": 0.047458402108594595,
+      "p_value": 0.023152783214921657,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045834",
+      "label": "Positive Regulation of Lipid Metabolic Process",
+      "fdr": 0.04768009983035633,
+      "p_value": 0.02403308675659661,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000629",
+      "label": "Negative Regulation of miRNA Metabolic Process",
+      "fdr": 0.04768009983035633,
+      "p_value": 0.02403308675659661,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903051",
+      "label": "Negative Regulation of Proteolysis Involved in Protein Catabolic Process",
+      "fdr": 0.04768009983035633,
+      "p_value": 0.02403308675659661,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090140",
+      "label": "Regulation of Mitochondrial Fission",
+      "fdr": 0.04768009983035633,
+      "p_value": 0.02403308675659661,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903050",
+      "label": "Regulation of Proteolysis Involved in Protein Catabolic Process",
+      "fdr": 0.04768009983035633,
+      "p_value": 0.02403308675659661,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0086003",
+      "label": "Cardiac Muscle Cell Contraction",
+      "fdr": 0.04768009983035633,
+      "p_value": 0.02403308675659661,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030072",
+      "label": "Peptide Hormone Secretion",
+      "fdr": 0.04768009983035633,
+      "p_value": 0.02403308675659661,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0044248",
+      "label": "Cellular Catabolic Process",
+      "fdr": 0.04768009983035633,
+      "p_value": 0.02403308675659661,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0061178",
+      "label": "Regulation of Insulin Secretion Involved in Cellular Response to Glucose Stimulus",
+      "fdr": 0.04788655526859537,
+      "p_value": 0.0249126411012733,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060412",
+      "label": "Ventricular Septum Morphogenesis",
+      "fdr": 0.04788655526859537,
+      "p_value": 0.0249126411012733,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030203",
+      "label": "Glycosaminoglycan Metabolic Process",
+      "fdr": 0.04788655526859537,
+      "p_value": 0.0249126411012733,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043269",
+      "label": "Regulation of Monoatomic Ion Transport",
+      "fdr": 0.04788655526859537,
+      "p_value": 0.0249126411012733,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901798",
+      "label": "Positive Regulation of Signal Transduction by P53 Class Mediator",
+      "fdr": 0.04788655526859537,
+      "p_value": 0.0249126411012733,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016051",
+      "label": "Carbohydrate Biosynthetic Process",
+      "fdr": 0.04788655526859537,
+      "p_value": 0.0249126411012733,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010043",
+      "label": "Response to Zinc Ion",
+      "fdr": 0.04788655526859537,
+      "p_value": 0.0249126411012733,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032376",
+      "label": "Positive Regulation of Cholesterol Transport",
+      "fdr": 0.04788655526859537,
+      "p_value": 0.0249126411012733,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009968",
+      "label": "Negative Regulation of Signal Transduction",
+      "fdr": 0.04838313707409411,
+      "p_value": 0.025268925840316356,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034765",
+      "label": "Regulation of Monoatomic Ion Transmembrane Transport",
+      "fdr": 0.049003749020339,
+      "p_value": 0.025791446852810002,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006882",
+      "label": "Intracellular Zinc Ion Homeostasis",
+      "fdr": 0.049003749020339,
+      "p_value": 0.025791446852810002,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0055008",
+      "label": "Cardiac Muscle Tissue Morphogenesis",
+      "fdr": 0.04990430027539872,
+      "p_value": 0.02666950460061794,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016486",
+      "label": "Peptide Hormone Processing",
+      "fdr": 0.04990430027539872,
+      "p_value": 0.02666950460061794,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034762",
+      "label": "Regulation of Transmembrane Transport",
+      "fdr": 0.04990430027539872,
+      "p_value": 0.02666950460061794,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001953",
+      "label": "Negative Regulation of Cell-Matrix Adhesion",
+      "fdr": 0.04990430027539872,
+      "p_value": 0.02666950460061794,
+      "fold": null,
+      "source": "Enrichr"
+    }
+  ],
+  "g:Profiler": [
+    {
+      "id": "GO:0046883",
+      "label": "regulation of hormone secretion",
+      "fdr": 1.8872724547544407e-05,
+      "p_value": 1.8872724547544407e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0051223",
+      "label": "regulation of protein transport",
+      "fdr": 2.243042227260459e-05,
+      "p_value": 2.243042227260459e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050708",
+      "label": "regulation of protein secretion",
+      "fdr": 2.8317499286084102e-05,
+      "p_value": 2.8317499286084102e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046879",
+      "label": "hormone secretion",
+      "fdr": 3.656184877805607e-05,
+      "p_value": 3.656184877805607e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009914",
+      "label": "hormone transport",
+      "fdr": 4.811437317269953e-05,
+      "p_value": 4.811437317269953e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0070201",
+      "label": "regulation of establishment of protein localization",
+      "fdr": 4.982627436651647e-05,
+      "p_value": 4.982627436651647e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0010817",
+      "label": "regulation of hormone levels",
+      "fdr": 6.025530521319516e-05,
+      "p_value": 6.025530521319516e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050796",
+      "label": "regulation of insulin secretion",
+      "fdr": 8.392744412410659e-05,
+      "p_value": 8.392744412410659e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009306",
+      "label": "protein secretion",
+      "fdr": 0.00014928091086250663,
+      "p_value": 0.00014928091086250663,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071692",
+      "label": "protein localization to extracellular region",
+      "fdr": 0.0001529700627116061,
+      "p_value": 0.0001529700627116061,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0035592",
+      "label": "establishment of protein localization to extracellular region",
+      "fdr": 0.0001605742665551374,
+      "p_value": 0.0001605742665551374,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030073",
+      "label": "insulin secretion",
+      "fdr": 0.0001699729424526424,
+      "p_value": 0.0001699729424526424,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000079",
+      "label": "regulation of cyclin-dependent protein serine/threonine kinase activity",
+      "fdr": 0.000174246834122465,
+      "p_value": 0.000174246834122465,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0065008",
+      "label": "regulation of biological quality",
+      "fdr": 0.00017486147183515347,
+      "p_value": 0.00017486147183515347,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0051046",
+      "label": "regulation of secretion",
+      "fdr": 0.0002186355161150444,
+      "p_value": 0.0002186355161150444,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0090276",
+      "label": "regulation of peptide hormone secretion",
+      "fdr": 0.00026175032063156665,
+      "p_value": 0.00026175032063156665,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002791",
+      "label": "regulation of peptide secretion",
+      "fdr": 0.00027172682780545685,
+      "p_value": 0.00027172682780545685,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0090087",
+      "label": "regulation of peptide transport",
+      "fdr": 0.0002925842446353378,
+      "p_value": 0.0002925842446353378,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030072",
+      "label": "peptide hormone secretion",
+      "fdr": 0.0005433924907144334,
+      "p_value": 0.0005433924907144334,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002790",
+      "label": "peptide secretion",
+      "fdr": 0.0005611566086512046,
+      "p_value": 0.0005611566086512046,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0023061",
+      "label": "signal release",
+      "fdr": 0.0007598310356392749,
+      "p_value": 0.0007598310356392749,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0015833",
+      "label": "peptide transport",
+      "fdr": 0.0010244148866995378,
+      "p_value": 0.0010244148866995378,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050692",
+      "label": "DNA binding domain binding",
+      "fdr": 0.0014396517270905715,
+      "p_value": 0.0014396517270905715,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "KEGG:04934",
+      "label": "Cushing syndrome",
+      "fdr": 0.0024067364708033347,
+      "p_value": 0.0024067364708033347,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0032880",
+      "label": "regulation of protein localization",
+      "fdr": 0.0030032292460667916,
+      "p_value": 0.0030032292460667916,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1903530",
+      "label": "regulation of secretion by cell",
+      "fdr": 0.0030113042633459616,
+      "p_value": 0.0030113042633459616,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046903",
+      "label": "secretion",
+      "fdr": 0.003460024755629243,
+      "p_value": 0.003460024755629243,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050693",
+      "label": "LBD domain binding",
+      "fdr": 0.0035949824384061027,
+      "p_value": 0.0035949824384061027,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0140352",
+      "label": "export from cell",
+      "fdr": 0.0036007754992989547,
+      "p_value": 0.0036007754992989547,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0140297",
+      "label": "DNA-binding transcription factor binding",
+      "fdr": 0.011227639533189105,
+      "p_value": 0.011227639533189105,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0004861",
+      "label": "cyclin-dependent protein serine/threonine kinase inhibitor activity",
+      "fdr": 0.013143669655446054,
+      "p_value": 0.013143669655446054,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0015031",
+      "label": "protein transport",
+      "fdr": 0.015184711570818233,
+      "p_value": 0.015184711570818233,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042593",
+      "label": "glucose homeostasis",
+      "fdr": 0.017220529019376995,
+      "p_value": 0.017220529019376995,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0033500",
+      "label": "carbohydrate homeostasis",
+      "fdr": 0.019704131785526418,
+      "p_value": 0.019704131785526418,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071705",
+      "label": "nitrogen compound transport",
+      "fdr": 0.020900786426591277,
+      "p_value": 0.020900786426591277,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0051049",
+      "label": "regulation of transport",
+      "fdr": 0.022758417958549857,
+      "p_value": 0.022758417958549857,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:05200",
+      "label": "Pathways in cancer",
+      "fdr": 0.027542234665407946,
+      "p_value": 0.027542234665407946,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0032940",
+      "label": "secretion by cell",
+      "fdr": 0.028833856929033334,
+      "p_value": 0.028833856929033334,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0008134",
+      "label": "transcription factor binding",
+      "fdr": 0.02944925833805646,
+      "p_value": 0.02944925833805646,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0071900",
+      "label": "regulation of protein serine/threonine kinase activity",
+      "fdr": 0.03234837835569383,
+      "p_value": 0.03234837835569383,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0065009",
+      "label": "regulation of molecular function",
+      "fdr": 0.04890551225941085,
+      "p_value": 0.04890551225941085,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    }
+  ]
+}

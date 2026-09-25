@@ -1,0 +1,134 @@
+[
+  {
+    "disease": "alzheimers_disease",
+    "n_genes": 15,
+    "shortlist_size": 50,
+    "picked_n": 10,
+    "in_list": 10,
+    "out_of_list": 0,
+    "in_list_ids": [
+      "GO:0030100",
+      "GO:0032879",
+      "GO:0045807",
+      "GO:0051049",
+      "GO:0060627",
+      "GO:1900221",
+      "GO:1902003",
+      "GO:1902430",
+      "GO:1902991",
+      "GO:1902992"
+    ],
+    "out_of_list_ids": [],
+    "llm_text": "GO:1902003 regulation of amyloid-beta formation\nGO:1902991 regulation of amyloid precursor protein catabolic process\nGO:1902430 negative regulation of amyloid-beta formation\nGO:1902992 negative regulation of amyloid precursor protein catabolic process\nGO:0060627 regulation of vesicle-mediated transport\nGO:1900221 regulation of amyloid-beta clearance\nGO:0032879 regulation of localization\nGO:0045807 positive regulation of endocytosis\nGO:0030100 regulation of endocytosis\nGO:0051049 regulation of transport"
+  },
+  {
+    "disease": "hereditary_cancer",
+    "n_genes": 28,
+    "shortlist_size": 50,
+    "picked_n": 10,
+    "in_list": 10,
+    "out_of_list": 0,
+    "in_list_ids": [
+      "GO:0006281",
+      "GO:0006298",
+      "GO:0006950",
+      "GO:0006974",
+      "GO:0008285",
+      "GO:0010212",
+      "GO:0045926",
+      "GO:0048519",
+      "GO:0048583",
+      "GO:0051726"
+    ],
+    "out_of_list_ids": [],
+    "llm_text": "GO:0006974 DNA damage response\nGO:0006281 DNA repair\nGO:0006298 mismatch repair\nGO:0045926 negative regulation of growth\nGO:0008285 negative regulation of cell population proliferation\nGO:0006950 response to stress\nGO:0010212 response to ionizing radiation\nGO:0048583 regulation of response to stimulus\nGO:0048519 negative regulation of biological process\nGO:0051726 regulation of cell cycle"
+  },
+  {
+    "disease": "hypertrophic_cardiomyopathy",
+    "n_genes": 20,
+    "shortlist_size": 50,
+    "picked_n": 10,
+    "in_list": 10,
+    "out_of_list": 0,
+    "in_list_ids": [
+      "GO:0003012",
+      "GO:0003015",
+      "GO:0003208",
+      "GO:0003229",
+      "GO:0006937",
+      "GO:0006941",
+      "GO:0007517",
+      "GO:0008015",
+      "GO:0060047",
+      "GO:0060048"
+    ],
+    "out_of_list_ids": [],
+    "llm_text": "GO:0060047 heart contraction\nGO:0060048 cardiac muscle contraction\nGO:0003015 heart process\nGO:0007517 muscle organ development\nGO:0003229 ventricular cardiac muscle tissue development\nGO:0006937 regulation of muscle contraction\nGO:0003012 muscle system process\nGO:0008015 blood circulation\nGO:0003208 cardiac ventricle morphogenesis\nGO:0006941 striated muscle contraction"
+  },
+  {
+    "disease": "parkinsons_disease",
+    "n_genes": 16,
+    "shortlist_size": 50,
+    "picked_n": 10,
+    "in_list": 10,
+    "out_of_list": 0,
+    "in_list_ids": [
+      "GO:0006979",
+      "GO:0010506",
+      "GO:0016241",
+      "GO:0034599",
+      "GO:0042053",
+      "GO:0042176",
+      "GO:0099074",
+      "GO:1902803",
+      "GO:1903146",
+      "GO:1903829"
+    ],
+    "out_of_list_ids": [],
+    "llm_text": "GO:0010506 regulation of autophagy\nGO:0016241 regulation of macroautophagy\nGO:0034599 cellular response to oxidative stress\nGO:1903146 regulation of autophagy of mitochondrion\nGO:0099074 mitochondrion to lysosome vesicle-mediated transport\nGO:0042053 regulation of dopamine metabolic process\nGO:1903829 positive regulation of protein localization\nGO:0042176 regulation of protein catabolic process\nGO:0006979 response to oxidative stress\nGO:1902803 regulation of synaptic vesicle transport"
+  },
+  {
+    "disease": "primary_immunodeficiency",
+    "n_genes": 24,
+    "shortlist_size": 50,
+    "picked_n": 10,
+    "in_list": 10,
+    "out_of_list": 0,
+    "in_list_ids": [
+      "GO:0002200",
+      "GO:0002250",
+      "GO:0002682",
+      "GO:0006955",
+      "GO:0033151",
+      "GO:0042110",
+      "GO:0045619",
+      "GO:0045730",
+      "GO:0046649",
+      "GO:0050896"
+    ],
+    "out_of_list_ids": [],
+    "llm_text": "GO:0033151 V(D)J recombination\nGO:0045730 respiratory burst\nGO:0002200 somatic diversification of immune receptors\nGO:0002250 adaptive immune response\nGO:0042110 T cell activation\nGO:0045619 regulation of lymphocyte differentiation\nGO:0006955 immune response\nGO:0046649 lymphocyte activation\nGO:0002682 regulation of immune system process\nGO:0050896 response to stimulus"
+  },
+  {
+    "disease": "type2_diabetes",
+    "n_genes": 18,
+    "shortlist_size": 50,
+    "picked_n": 10,
+    "in_list": 10,
+    "out_of_list": 0,
+    "in_list_ids": [
+      "GO:0010817",
+      "GO:0032880",
+      "GO:0042326",
+      "GO:0042592",
+      "GO:0042593",
+      "GO:0045736",
+      "GO:0048523",
+      "GO:0048878",
+      "GO:0050796",
+      "GO:0090276"
+    ],
+    "out_of_list_ids": [],
+    "llm_text": "GO:0050796 regulation of insulin secretion\nGO:0042592 homeostatic process\nGO:0090276 regulation of peptide hormone secretion\nGO:0048523 negative regulation of cellular process\nGO:0042326 negative regulation of phosphorylation\nGO:0048878 chemical homeostasis\nGO:0045736 negative regulation of cyclin-dependent protein serine/threonine kinase activity\nGO:0010817 regulation of hormone levels\nGO:0032880 regulation of protein localization\nGO:0042593 glucose homeostasis"
+  }
+]

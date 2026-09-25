@@ -1,0 +1,760 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<title>GroundAnnot report</title>
+<style>
+body { font-family: system-ui, sans-serif; max-width: 1100px; margin: 2em auto; }
+h1 { border-bottom: 2px solid #333; }
+h2 { margin-top: 2em; color: #444; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: 0.9em; }
+th, td { border: 1px solid #ccc; padding: 6px 8px; text-align: left; }
+th { background: #f0f0f0; }
+.gene-card { border: 1px solid #ddd; padding: 1em; margin: 1em 0; border-radius: 6px; }
+.gene-card h3 { margin-top: 0; }
+.small { color: #666; font-size: 0.85em; }
+.section-tag { display: inline-block; background: #eee; padding: 2px 8px;
+               border-radius: 4px; font-size: 0.8em; }
+.closed { background: #e8f4ea; }
+.context { background: #f4f0e8; }
+</style></head><body>
+
+<h1>GroundAnnot report — PANCREAS_BETA_CELLS</h1>
+<p class="small">Run: 2026-09-25T08:23:45 &nbsp;|&nbsp; Organism: human
+&nbsp;|&nbsp; Input genes: 40</p>
+<p class="small">Genes: PAX6, NEUROD1, ISL1, NKX2-2, PCSK1, NKX6-1, SLC2A2, SEC11A, DCX, SPCS1, FOXA2, GCK, MAFB, INS, PDX1, ABCC8, IAPP, SRP9, NEUROG3, FOXO1, AKT3, GCG, DPP4, PAX4, SYT13, SCGN, HNF1A, STXBP1, CHGA, VDR, PCSK2, INSM1, SST, ELP4, SRPRB, PAK3, G6PC2, PKLR, LMO2, SRP14</p>
+
+<h2><span class="section-tag closed">Closed vocabulary</span> Enrichment</h2>
+<p>The language model may cite term IDs only from the tables below.</p>
+
+
+<h3>PANTHER</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0090276</td><td>regulation of peptide hormone secretion</td>
+<td>7.30e-19</td>
+<td>1.00e-14</td></tr>
+
+<tr><td>GO:0002791</td><td>regulation of peptide secretion</td>
+<td>9.85e-19</td>
+<td>6.78e-15</td></tr>
+
+<tr><td>GO:0090087</td><td>regulation of peptide transport</td>
+<td>1.14e-18</td>
+<td>5.24e-15</td></tr>
+
+<tr><td>GO:0050796</td><td>regulation of insulin secretion</td>
+<td>2.67e-18</td>
+<td>9.20e-15</td></tr>
+
+<tr><td>GO:0050708</td><td>regulation of protein secretion</td>
+<td>1.95e-17</td>
+<td>5.36e-14</td></tr>
+
+<tr><td>GO:0046883</td><td>regulation of hormone secretion</td>
+<td>2.47e-17</td>
+<td>5.66e-14</td></tr>
+
+<tr><td>GO:0010817</td><td>regulation of hormone levels</td>
+<td>3.72e-17</td>
+<td>7.32e-14</td></tr>
+
+<tr><td>GO:0031016</td><td>pancreas development</td>
+<td>2.06e-16</td>
+<td>3.54e-13</td></tr>
+
+<tr><td>GO:1903530</td><td>regulation of secretion by cell</td>
+<td>1.82e-15</td>
+<td>2.79e-12</td></tr>
+
+<tr><td>GO:0035883</td><td>enteroendocrine cell differentiation</td>
+<td>2.73e-15</td>
+<td>3.75e-12</td></tr>
+
+<tr><td>GO:0051046</td><td>regulation of secretion</td>
+<td>6.88e-15</td>
+<td>8.60e-12</td></tr>
+
+<tr><td>GO:0051223</td><td>regulation of protein transport</td>
+<td>1.73e-14</td>
+<td>1.99e-11</td></tr>
+
+<tr><td>GO:0090277</td><td>positive regulation of peptide hormone secretion</td>
+<td>1.75e-14</td>
+<td>1.86e-11</td></tr>
+
+<tr><td>GO:0002793</td><td>positive regulation of peptide secretion</td>
+<td>1.92e-14</td>
+<td>1.89e-11</td></tr>
+
+<tr><td>GO:0031018</td><td>endocrine pancreas development</td>
+<td>2.94e-14</td>
+<td>2.69e-11</td></tr>
+
+<tr><td>GO:0042593</td><td>glucose homeostasis</td>
+<td>4.44e-14</td>
+<td>3.82e-11</td></tr>
+
+<tr><td>GO:0033500</td><td>carbohydrate homeostasis</td>
+<td>6.44e-14</td>
+<td>5.21e-11</td></tr>
+
+<tr><td>GO:0032024</td><td>positive regulation of insulin secretion</td>
+<td>7.23e-14</td>
+<td>5.53e-11</td></tr>
+
+<tr><td>GO:0070201</td><td>regulation of establishment of protein localization</td>
+<td>7.36e-14</td>
+<td>5.33e-11</td></tr>
+
+<tr><td>GO:0050714</td><td>positive regulation of protein secretion</td>
+<td>1.50e-13</td>
+<td>1.03e-10</td></tr>
+
+<tr><td>GO:0046887</td><td>positive regulation of hormone secretion</td>
+<td>2.32e-13</td>
+<td>1.52e-10</td></tr>
+
+<tr><td>GO:1903532</td><td>positive regulation of secretion by cell</td>
+<td>7.16e-12</td>
+<td>4.48e-09</td></tr>
+
+<tr><td>GO:0051047</td><td>positive regulation of secretion</td>
+<td>1.35e-11</td>
+<td>8.09e-09</td></tr>
+
+<tr><td>GO:0051222</td><td>positive regulation of protein transport</td>
+<td>2.93e-11</td>
+<td>1.68e-08</td></tr>
+
+<tr><td>GO:0003309</td><td>type B pancreatic cell differentiation</td>
+<td>5.46e-11</td>
+<td>3.01e-08</td></tr>
+
+</table>
+
+<h3>Enrichr</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0050796</td><td>Regulation of Insulin Secretion</td>
+<td>1.09e-11</td>
+<td>5.97e-09</td></tr>
+
+<tr><td>GO:0042593</td><td>Glucose Homeostasis</td>
+<td>5.69e-10</td>
+<td>1.55e-07</td></tr>
+
+<tr><td>GO:0090276</td><td>Regulation of Peptide Hormone Secretion</td>
+<td>7.98e-08</td>
+<td>1.45e-05</td></tr>
+
+<tr><td>GO:0045047</td><td>Protein Targeting to ER</td>
+<td>1.18e-07</td>
+<td>1.61e-05</td></tr>
+
+<tr><td>GO:0035883</td><td>Enteroendocrine Cell Differentiation</td>
+<td>1.48e-07</td>
+<td>1.61e-05</td></tr>
+
+<tr><td>GO:0007423</td><td>Sensory Organ Development</td>
+<td>3.60e-07</td>
+<td>3.27e-05</td></tr>
+
+<tr><td>GO:0003309</td><td>Type B Pancreatic Cell Differentiation</td>
+<td>8.81e-07</td>
+<td>6.87e-05</td></tr>
+
+<tr><td>GO:0050708</td><td>Regulation of Protein Secretion</td>
+<td>1.54e-06</td>
+<td>1.05e-04</td></tr>
+
+<tr><td>GO:0045944</td><td>Positive Regulation of Transcription by RNA Polymerase II</td>
+<td>2.37e-06</td>
+<td>1.44e-04</td></tr>
+
+<tr><td>GO:0006357</td><td>Regulation of Transcription by RNA Polymerase II</td>
+<td>2.77e-06</td>
+<td>1.51e-04</td></tr>
+
+<tr><td>GO:0072599</td><td>Establishment of Protein Localization to Endoplasmic Reticulum</td>
+<td>4.08e-06</td>
+<td>2.02e-04</td></tr>
+
+<tr><td>GO:0045893</td><td>Positive Regulation of DNA-templated Transcription</td>
+<td>4.46e-06</td>
+<td>2.03e-04</td></tr>
+
+<tr><td>GO:0140448</td><td>Signaling Receptor Ligand Precursor Processing</td>
+<td>7.02e-06</td>
+<td>2.95e-04</td></tr>
+
+<tr><td>GO:0045892</td><td>Negative Regulation of DNA-templated Transcription</td>
+<td>2.11e-05</td>
+<td>8.24e-04</td></tr>
+
+<tr><td>GO:0016486</td><td>Peptide Hormone Processing</td>
+<td>2.90e-05</td>
+<td>1.05e-03</td></tr>
+
+<tr><td>GO:0050709</td><td>Negative Regulation of Protein Secretion</td>
+<td>6.96e-05</td>
+<td>2.37e-03</td></tr>
+
+<tr><td>GO:0000122</td><td>Negative Regulation of Transcription by RNA Polymerase II</td>
+<td>8.43e-05</td>
+<td>2.71e-03</td></tr>
+
+<tr><td>GO:1902680</td><td>Positive Regulation of RNA Biosynthetic Process</td>
+<td>1.03e-04</td>
+<td>3.11e-03</td></tr>
+
+<tr><td>GO:0043254</td><td>Regulation of Protein-Containing Complex Assembly</td>
+<td>1.15e-04</td>
+<td>3.19e-03</td></tr>
+
+<tr><td>GO:0042127</td><td>Regulation of Cell Population Proliferation</td>
+<td>1.19e-04</td>
+<td>3.19e-03</td></tr>
+
+<tr><td>GO:0051094</td><td>Positive Regulation of Developmental Process</td>
+<td>1.23e-04</td>
+<td>3.19e-03</td></tr>
+
+<tr><td>GO:0006355</td><td>Regulation of DNA-templated Transcription</td>
+<td>1.72e-04</td>
+<td>4.27e-03</td></tr>
+
+<tr><td>GO:0006614</td><td>SRP-dependent Cotranslational Protein Targeting to Membrane</td>
+<td>2.12e-04</td>
+<td>5.03e-03</td></tr>
+
+<tr><td>GO:0006465</td><td>Signal Peptide Processing</td>
+<td>2.54e-04</td>
+<td>5.69e-03</td></tr>
+
+<tr><td>GO:0007417</td><td>Central Nervous System Development</td>
+<td>2.60e-04</td>
+<td>5.69e-03</td></tr>
+
+</table>
+
+<h3>g:Profiler</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>REAC:R-HSA-186712</td><td>Regulation of beta-cell development</td>
+<td>6.77e-29</td>
+<td>6.77e-29</td></tr>
+
+<tr><td>KEGG:04950</td><td>Maturity onset diabetes of the young</td>
+<td>2.05e-27</td>
+<td>2.05e-27</td></tr>
+
+<tr><td>REAC:R-HSA-210745</td><td>Regulation of gene expression in beta cells</td>
+<td>5.56e-27</td>
+<td>5.56e-27</td></tr>
+
+<tr><td>GO:0042593</td><td>glucose homeostasis</td>
+<td>3.75e-11</td>
+<td>3.75e-11</td></tr>
+
+<tr><td>GO:0033500</td><td>carbohydrate homeostasis</td>
+<td>5.49e-11</td>
+<td>5.49e-11</td></tr>
+
+<tr><td>GO:0031016</td><td>pancreas development</td>
+<td>8.67e-11</td>
+<td>8.67e-11</td></tr>
+
+<tr><td>REAC:R-HSA-210746</td><td>Regulation of gene expression in endocrine-committed (NEUROG3+) progenitor cells</td>
+<td>1.09e-10</td>
+<td>1.09e-10</td></tr>
+
+<tr><td>REAC:R-HSA-400508</td><td>Incretin synthesis, secretion, and inactivation</td>
+<td>2.93e-10</td>
+<td>2.93e-10</td></tr>
+
+<tr><td>GO:0031018</td><td>endocrine pancreas development</td>
+<td>3.37e-10</td>
+<td>3.37e-10</td></tr>
+
+<tr><td>REAC:R-HSA-400511</td><td>Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)</td>
+<td>5.30e-10</td>
+<td>5.30e-10</td></tr>
+
+<tr><td>GO:0090276</td><td>regulation of peptide hormone secretion</td>
+<td>7.63e-10</td>
+<td>7.63e-10</td></tr>
+
+<tr><td>GO:0002791</td><td>regulation of peptide secretion</td>
+<td>8.24e-10</td>
+<td>8.24e-10</td></tr>
+
+<tr><td>GO:0090087</td><td>regulation of peptide transport</td>
+<td>9.57e-10</td>
+<td>9.57e-10</td></tr>
+
+<tr><td>GO:0010817</td><td>regulation of hormone levels</td>
+<td>2.31e-09</td>
+<td>2.31e-09</td></tr>
+
+<tr><td>REAC:R-HSA-2980736</td><td>Peptide hormone metabolism</td>
+<td>2.70e-09</td>
+<td>2.70e-09</td></tr>
+
+<tr><td>GO:0030072</td><td>peptide hormone secretion</td>
+<td>3.35e-09</td>
+<td>3.35e-09</td></tr>
+
+<tr><td>GO:0002790</td><td>peptide secretion</td>
+<td>3.58e-09</td>
+<td>3.58e-09</td></tr>
+
+<tr><td>GO:0050796</td><td>regulation of insulin secretion</td>
+<td>4.16e-09</td>
+<td>4.16e-09</td></tr>
+
+<tr><td>GO:0046883</td><td>regulation of hormone secretion</td>
+<td>9.58e-09</td>
+<td>9.58e-09</td></tr>
+
+<tr><td>GO:0023061</td><td>signal release</td>
+<td>1.00e-08</td>
+<td>1.00e-08</td></tr>
+
+<tr><td>GO:0015833</td><td>peptide transport</td>
+<td>1.21e-08</td>
+<td>1.21e-08</td></tr>
+
+<tr><td>GO:0035883</td><td>enteroendocrine cell differentiation</td>
+<td>1.40e-08</td>
+<td>1.40e-08</td></tr>
+
+<tr><td>GO:0030073</td><td>insulin secretion</td>
+<td>1.51e-08</td>
+<td>1.51e-08</td></tr>
+
+<tr><td>REAC:R-HSA-381771</td><td>Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)</td>
+<td>1.64e-08</td>
+<td>1.64e-08</td></tr>
+
+<tr><td>GO:0050708</td><td>regulation of protein secretion</td>
+<td>1.88e-08</td>
+<td>1.88e-08</td></tr>
+
+</table>
+
+
+<h2><span class="section-tag context">Context only</span> Per-gene annotations</h2>
+<p>The language model may read these for narrative but must not cite them as enrichment evidence.</p>
+
+
+<div class="gene-card">
+<h3>PAX6 — paired box 6</h3>
+<p><b>Summary:</b> This gene encodes paired box protein Pax-6, one of many human homologs of the Drosophila melanogaster gene prd. In addition to a conserved paired box domain, a hallmark feature of this gene family, the encoded protein also contains a homeobox domain. Both domains are known to bind DNA and function as regulators of gene transcription. Activity of this protein is key in the development of neural tissues, particularly the eye. This gene is regulated by multiple enhancers located up to hundreds of kilobases distant from this locus. Mutations in this gene or in the enhancer regions can cause ocular disorders such as aniridia and Peter's anomaly. Use of alternate promoters and alternative splicing results in multiple transcript variants encoding different isoforms. Interestingly, inclusion of a particular alternate coding exon has been shown to increase the length of the paired box domain and alter its DNA binding specificity. Consequently, isoforms that carry the shorter paired box domain regulate a different set of genes compared to the isoforms carrying the longer paired box domain. [provided by RefSeq, Mar 2019].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; blood vessel development; eye development; type B pancreatic cell differentiation; pancreatic A cell development; chromatin remodeling</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; RNA polymerase II core promoter sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; transcription coregulator binding; DNA-binding transcription repressor activity, RNA polymerase II-specific</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; cytoplasm</p>
+<p><b>Pathways:</b> Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Maturity onset diabetes of the young - Homo sapiens (human) (kegg); Developmental Biology (reactome); Regulation of beta-cell development (reactome); Regulation of gene expression in beta cells (reactome); Peptide hormone metabolism (reactome); Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1) (reactome); Metabolism of proteins (reactome)</p>
+<p><b>InterPro:</b> Homeodomain; Paired domain; Homedomain-like superfamily; Homeobox, conserved site; Winged helix-like DNA-binding domain superfamily; PAX family</p>
+</div>
+
+<div class="gene-card">
+<h3>NEUROD1 — neuronal differentiation 1</h3>
+<p><b>Summary:</b> This gene encodes a member of the NeuroD family of basic helix-loop-helix (bHLH) transcription factors. The protein forms heterodimers with other bHLH proteins and activates transcription of genes that contain a specific DNA sequence known as the E-box. It regulates expression of the insulin gene, and mutations in this gene result in type II diabetes mellitus. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> regulation of DNA-templated transcription; nervous system development; sensory organ development; response to glucose; dentate gyrus development; cerebellum development</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA binding; chromatin binding; DNA-binding transcription factor activity</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; cytoplasm; RNA polymerase II transcription regulator complex</p>
+<p><b>Pathways:</b> Maturity onset diabetes of the young - Homo sapiens (human) (kegg); Developmental Biology (reactome); Regulation of beta-cell development (reactome); Regulation of gene expression in beta cells (reactome); Regulation of gene expression in endocrine-committed (NEUROG3+) progenitor cells (reactome); Dopaminergic Neurogenesis (wikipathways); Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways (wikipathways)</p>
+<p><b>InterPro:</b> Myc-type, basic helix-loop-helix (bHLH) domain; Neurogenic differentiation factor NeuroD; Neurogenic differentiation factor, domain of unknown function; Helix-loop-helix DNA-binding domain superfamily; Basic helix-loop-helix transcription factors</p>
+</div>
+
+<div class="gene-card">
+<h3>ISL1 — ISL LIM homeobox 1</h3>
+<p><b>Summary:</b> This gene encodes a member of the LIM/homeodomain family of transcription factors. The encoded protein binds to the enhancer region of the insulin gene, among others, and may play an important role in regulating insulin gene expression. The encoded protein is central to the development of pancreatic cell lineages and may also be required for motor neuron generation. Mutations in this gene have been associated with maturity-onset diabetes of the young. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; secondary heart field specification; outflow tract septum morphogenesis; outflow tract morphogenesis; endocardial cushion morphogenesis; cardiac right ventricle morphogenesis</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; cis-regulatory region sequence-specific DNA binding; core promoter sequence-specific DNA binding; DNA-binding transcription activator activity, RNA polymerase II-specific</p>
+<p><b>GO:CC:</b> chromatin; nucleus; transcription regulator complex; cytoplasm</p>
+<p><b>Pathways:</b> Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Developmental Biology (reactome); Peptide hormone metabolism (reactome); Signaling by ROBO receptors (reactome); Metabolism of proteins (reactome); Incretin synthesis, secretion, and inactivation (reactome); Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP) (reactome); Axon guidance (reactome)</p>
+<p><b>InterPro:</b> Homeodomain; Zinc finger, LIM-type; Homedomain-like superfamily; Homeobox, conserved site; Insulin gene enhancer protein ISL-1/2-like; Insulin gene enhancer protein ISL-1/2-like, LIM domain1</p>
+</div>
+
+<div class="gene-card">
+<h3>NKX2-2 — NK2 homeobox 2</h3>
+<p><b>Summary:</b> The protein encoded by this gene contains a homeobox domain and may be involved in the morphogenesis of the central nervous system. This gene is found on chromosome 20 near NKX2-4, and these two genes appear to be duplicated on chromosome 14 in the form of TITF1 and NKX2-8. The encoded protein is likely to be a nuclear transcription factor. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; brain development; response to glucose; optic nerve development; cell differentiation</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; cis-regulatory region sequence-specific DNA binding; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA binding; DNA-binding transcription factor activity</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm</p>
+<p><b>Pathways:</b> Maturity onset diabetes of the young - Homo sapiens (human) (kegg); Developmental Biology (reactome); Regulation of beta-cell development (reactome); Regulation of gene expression in beta cells (reactome); Regulation of gene expression in endocrine-committed (NEUROG3+) progenitor cells (reactome); Dopaminergic Neurogenesis (wikipathways); Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways (wikipathways)</p>
+<p><b>InterPro:</b> Homeodomain; Homedomain-like superfamily; Homeobox, conserved site; Homeodomain, metazoa; Homeobox NK-like transcription regulators</p>
+</div>
+
+<div class="gene-card">
+<h3>PCSK1 — proprotein convertase subtilisin/kexin type 1</h3>
+<p><b>Summary:</b> This gene encodes a member of the subtilisin-like proprotein convertase family, which includes proteases that process protein and peptide precursors trafficking through regulated or constitutive branches of the secretory pathway. The encoded protein undergoes an initial autocatalytic processing event in the ER to generate a heterodimer which exits the ER and sorts to subcellular compartments where a second autocatalytic even takes place and the catalytic activity is acquired. The protease is packaged into and activated in dense core secretory granules and expressed in the neuroendocrine system and brain. This gene encodes one of the seven basic amino acid-specific members which cleave their substrates at single or paired basic residues. It functions in the proteolytic activation of polypeptide hormones and neuropeptides precursors. Mutations in this gene have been associated with susceptibility to obesity and proprotein convertase 1/3 deficiency. Alternatively spliced transcript variants encoding multiple isoforms have been observed for this gene [provided by RefSeq, Jan 2014].</p>
+<p><b>GO:BP:</b> proteolysis; cell-cell signaling; protein processing; peptide hormone processing; insulin processing; hormone biosynthetic process</p>
+<p><b>GO:MF:</b> endopeptidase activity; serine-type endopeptidase activity; serine-type peptidase activity; identical protein binding</p>
+<p><b>GO:CC:</b> extracellular region; membrane; transport vesicle; secretory granule; secretory granule lumen; neuron projection</p>
+<p><b>Pathways:</b> Peptide hormone biosynthesis (reactome); Insulin processing (reactome); Peptide hormone metabolism (reactome); Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1) (reactome); Metabolism of proteins (reactome); Incretin synthesis, secretion, and inactivation (reactome); Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP) (reactome); Synthesis, secretion, and deacylation of Ghrelin (reactome)</p>
+<p><b>InterPro:</b> Peptidase S8/S53 domain; P domain; Galactose-binding-like domain superfamily; Peptidase S8, subtilisin-related; Prohormone convertase enzyme; Peptidase S8, subtilisin, His-active site</p>
+</div>
+
+<div class="gene-card">
+<h3>NKX6-1 — NK6 homeobox 1</h3>
+<p><b>Summary:</b> In the pancreas, NKX6.1 is required for the development of beta cells and is a potent bifunctional transcription regulator that binds to AT-rich sequences within the promoter region of target genes Iype et al. (2004) [PubMed 15056733].[supplied by OMIM, Mar 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; type B pancreatic cell development; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; transcription by RNA polymerase II; response to xenobiotic stimulus</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA binding; chromatin binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; extracellular exosome</p>
+<p><b>Pathways:</b> Maturity onset diabetes of the young - Homo sapiens (human) (kegg); Developmental Biology (reactome); Regulation of beta-cell development (reactome); Regulation of gene expression in beta cells (reactome); Regulation of gene expression in early pancreatic precursor cells (reactome); Developmental Cell Lineages (reactome); Developmental Cell Lineages of the Exocrine Pancreas (reactome); Developmental Lineage of Pancreatic Acinar Cells (reactome)</p>
+<p><b>InterPro:</b> Helix-turn-helix motif; Homeodomain; Homedomain-like superfamily; Homeobox, conserved site; Homeodomain, metazoa; Homeobox NK-like transcription regulators</p>
+</div>
+
+<div class="gene-card">
+<h3>SLC2A2 — solute carrier family 2 member 2</h3>
+<p><b>Summary:</b> This gene encodes an integral plasma membrane glycoprotein of the liver, islet beta cells, intestine, and kidney epithelium. The encoded protein mediates facilitated bidirectional glucose transport. Because of its low affinity for glucose, it has been suggested as a glucose sensor. Mutations in this gene are associated with susceptibility to diseases, including Fanconi-Bickel syndrome and noninsulin-dependent diabetes mellitus (NIDDM). Alternative splicing results in multiple transcript variants of this gene. [provided by RefSeq, Jul 2013].</p>
+<p><b>GO:BP:</b> carbohydrate metabolic process; fructose transmembrane transport; galactose transmembrane transport; positive regulation of insulin secretion involved in cellular response to glucose stimulus; transmembrane transport; dehydroascorbic acid transport</p>
+<p><b>GO:MF:</b> fructose transmembrane transporter activity; galactose transmembrane transporter activity; hexose transmembrane transporter activity; transmembrane transporter activity; dehydroascorbic acid transmembrane transporter activity; D-glucose transmembrane transporter activity</p>
+<p><b>GO:CC:</b> cytoplasm; plasma membrane; brush border; cell-cell junction; membrane; apical plasma membrane</p>
+<p><b>Pathways:</b> Insulin secretion - Homo sapiens (human) (kegg); Prolactin signaling pathway - Homo sapiens (human) (kegg); Glucagon signaling pathway - Homo sapiens (human) (kegg); Type II diabetes mellitus - Homo sapiens (human) (kegg); Insulin resistance - Homo sapiens (human) (kegg); Maturity onset diabetes of the young - Homo sapiens (human) (kegg); Carbohydrate digestion and absorption - Homo sapiens (human) (kegg); Central carbon metabolism in cancer - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Glucose transporter, type 2 (GLUT2); Sugar/inositol transporter; Major facilitator, sugar transporter-like; Sugar transporter, conserved site; Major facilitator superfamily domain; MFS transporter superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>SEC11A — SEC11 homolog A, signal peptidase complex subunit</h3>
+<p><b>Summary:</b> This gene encodes a member of the peptidase S26B family. The encoded protein is an 18kDa subunit of the signal peptidase complex and has been linked to cell migration and invasion, gastric cancer and lymph node metastasis. Alternative splicing results in multiple transcript variants. A related pseudogene has been identified on chromosome 8. [provided by RefSeq, Dec 2012].</p>
+<p><b>GO:BP:</b> response to virus; protein processing; protein maturation</p>
+<p><b>GO:MF:</b> serine-type endopeptidase activity; protein binding; peptidase activity; signal peptidase activity</p>
+<p><b>GO:CC:</b> signal peptidase complex; endoplasmic reticulum membrane; membrane</p>
+<p><b>Pathways:</b> Protein export - Homo sapiens (human) (kegg); Cell-Cell communication (reactome); Disease (reactome); SRP-dependent cotranslational protein targeting to membrane (reactome); Peptide hormone metabolism (reactome); Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1) (reactome); Metabolism of proteins (reactome); Incretin synthesis, secretion, and inactivation (reactome)</p>
+<p><b>InterPro:</b> Peptidase S26B; Peptidase S24/S26A/S26B/S26C; Peptidase S26; Peptidase S26A, signal peptidase I, serine active site; Peptidase S26A, signal peptidase I, conserved site; LexA/Signal peptidase-like superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>DCX — doublecortin</h3>
+<p><b>Summary:</b> This gene encodes a member of the doublecortin family. The protein encoded by this gene is a cytoplasmic protein and contains two doublecortin domains, which bind microtubules. In the developing cortex, cortical neurons must migrate over long distances to reach the site of their final differentiation. The encoded protein appears to direct neuronal migration by regulating the organization and stability of microtubules. In addition, the encoded protein interacts with LIS1, the regulatory gamma subunit of platelet activating factor acetylhydrolase, and this interaction is important to proper microtubule function in the developing cortex. Mutations in this gene cause abnormal migration of neurons during development and disrupt the layering of the cortex, leading to epilepsy, cognitive disability, subcortical band heterotopia ('double cortex' syndrome) in females and lissencephaly ('smooth brain' syndrome) in males. Multiple transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Sep 2010].</p>
+<p><b>GO:BP:</b> neuron migration; nervous system development; central nervous system development; axoneme assembly; intracellular signal transduction; retina development in camera-type eye</p>
+<p><b>GO:MF:</b> protein binding; microtubule binding; protein kinase binding</p>
+<p><b>GO:CC:</b> cytoplasm; cytosol; cytoskeleton; microtubule associated complex; neuron projection</p>
+<p><b>Pathways:</b> Developmental Biology (reactome); L1CAM interactions (reactome); Axon guidance (reactome); Neurofascin interactions (reactome); Nervous system development (reactome)</p>
+<p><b>InterPro:</b> Doublecortin domain; Neuronal migration protein doublecortin, chordates; Doublecortin domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>SPCS1 — signal peptidase complex subunit 1</h3>
+<p><b>Summary:</b> Predicted to enable peptidase activity and ribosome binding activity. Involved in viral protein processing and virion assembly. Is integral component of endoplasmic reticulum membrane. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> proteolysis; protein processing; virion assembly; viral protein processing; protein targeting to ER; protein maturation</p>
+<p><b>GO:MF:</b> protein binding</p>
+<p><b>GO:CC:</b> signal peptidase complex; endoplasmic reticulum membrane; membrane</p>
+<p><b>Pathways:</b> Protein export - Homo sapiens (human) (kegg); Cell-Cell communication (reactome); Disease (reactome); SRP-dependent cotranslational protein targeting to membrane (reactome); Peptide hormone metabolism (reactome); Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1) (reactome); Metabolism of proteins (reactome); Incretin synthesis, secretion, and inactivation (reactome)</p>
+<p><b>InterPro:</b> Signal peptidase complex subunit 1</p>
+</div>
+
+<div class="gene-card">
+<h3>FOXA2 — forkhead box A2</h3>
+<p><b>Summary:</b> This gene encodes a member of the forkhead class of DNA-binding proteins. These hepatocyte nuclear factors are transcriptional activators for liver-specific genes such as albumin and transthyretin, and they also interact with chromatin. Similar family members in mice have roles in the regulation of metabolism and in the differentiation of the pancreas and liver. This gene has been linked to sporadic cases of maturity-onset diabetes of the young. Transcript variants encoding different isoforms have been identified for this gene. [provided by RefSeq, Oct 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; cell fate specification; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; adult locomotory behavior; anatomical structure morphogenesis</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; nucleic acid binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; cytoplasm</p>
+<p><b>Pathways:</b> Longevity regulating pathway - multiple species - Homo sapiens (human) (kegg); Maturity onset diabetes of the young - Homo sapiens (human) (kegg); Developmental Biology (reactome); Cell-Cell communication (reactome); Regulation of beta-cell development (reactome); Regulation of gene expression in beta cells (reactome); Adherens junctions interactions (reactome); Cell-cell junction organization (reactome)</p>
+<p><b>InterPro:</b> Fork head domain; Fork-head N-terminal; Fork head domain conserved site1; Forkhead box protein, C-terminal; Fork head domain conserved site 2; Winged helix-like DNA-binding domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>GCK — glucokinase</h3>
+<p><b>Summary:</b> This gene encodes a member of the hexokinase family of proteins. Hexokinases phosphorylate glucose to produce glucose-6-phosphate, the first step in most glucose metabolism pathways. In contrast to other forms of hexokinase, this enzyme is not inhibited by its product glucose-6-phosphate but remains active while glucose is abundant. The use of multiple promoters and alternative splicing of this gene result in distinct protein isoforms that exhibit tissue-specific expression in the pancreas and liver. In the pancreas, this enzyme plays a role in glucose-stimulated insulin secretion, while in the liver, this enzyme is important in glucose uptake and conversion to glycogen. Mutations in this gene that alter enzyme activity have been associated with multiple types of diabetes and hyperinsulinemic hypoglycemia. [provided by RefSeq, Aug 2017].</p>
+<p><b>GO:BP:</b> intracellular glucose homeostasis; carbohydrate metabolic process; glucose metabolic process; glucose catabolic process; glycolytic process; regulation of glycolytic process</p>
+<p><b>GO:MF:</b> glucokinase activity; hexokinase activity; protein binding; ATP binding; D-glucose binding; fructokinase activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm; mitochondrion; cytosol; cytoplasmic side of mitochondrial outer membrane</p>
+<p><b>Pathways:</b> Glycolysis / Gluconeogenesis - Homo sapiens (human) (kegg); Galactose metabolism - Homo sapiens (human) (kegg); Starch and sucrose metabolism - Homo sapiens (human) (kegg); Amino sugar and nucleotide sugar metabolism - Homo sapiens (human) (kegg); Neomycin, kanamycin and gentamicin biosynthesis - Homo sapiens (human) (kegg); Insulin signaling pathway - Homo sapiens (human) (kegg); Insulin secretion - Homo sapiens (human) (kegg); Prolactin signaling pathway - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Hexokinase; Hexokinase, binding site; Hexokinase, N-terminal; Hexokinase, C-terminal; ATPase, nucleotide binding domain</p>
+</div>
+
+<div class="gene-card">
+<h3>MAFB — MAF bZIP transcription factor B</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a basic leucine zipper (bZIP) transcription factor that plays an important role in the regulation of lineage-specific hematopoiesis. The encoded nuclear protein represses ETS1-mediated transcription of erythroid-specific genes in myeloid cells. This gene contains no introns. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; sensory organ development; gene expression; protein processing</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA binding; DNA-binding transcription factor activity; protein binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; transcription regulator complex; RNA polymerase II transcription regulator complex</p>
+<p><b>Pathways:</b> Parathyroid hormone synthesis, secretion and action - Homo sapiens (human) (kegg); Developmental Biology (reactome); Activation of anterior HOX genes in hindbrain development during early embryogenesis (reactome); Activation of HOX genes during differentiation (reactome); Ectoderm Differentiation (wikipathways)</p>
+<p><b>InterPro:</b> Basic leucine zipper domain, Maf-type; Basic-leucine zipper domain; Transcription factor, Skn-1-like, DNA-binding domain superfamily; Maf transcription factor, N-terminal; Transcription factor Maf family; Basic-leucine zipper domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>INS — insulin</h3>
+<p><b>Summary:</b> This gene encodes insulin, a peptide hormone that plays a vital role in the regulation of carbohydrate and lipid metabolism. After removal of the precursor signal peptide, proinsulin is post-translationally cleaved into three peptides: the B chain and A chain peptides, which are covalently linked via two disulfide bonds to form insulin, and C-peptide. Binding of insulin to the insulin receptor (INSR) stimulates glucose uptake. A multitude of mutant alleles with phenotypic effects have been identified, including insulin-dependent diabetes mellitus, permanent neonatal diabetes diabetes mellitus, maturity-onset diabetes of the young type 10 and hyperproinsulinemia. There is a read-through gene, INS-IGF2, which overlaps with this gene at the 5' region and with the IGF2 gene at the 3' region. [provided by RefSeq, May 2020].</p>
+<p><b>GO:BP:</b> positive regulation of cytokine production; negative regulation of acute inflammatory response; regulation of DNA-templated transcription; acute-phase response; G protein-coupled receptor signaling pathway; cell-cell signaling</p>
+<p><b>GO:MF:</b> protease binding; insulin receptor binding; insulin-like growth factor receptor binding; hormone activity; protein binding; identical protein binding</p>
+<p><b>GO:CC:</b> Golgi membrane; extracellular region; endoplasmic reticulum lumen; Golgi lumen; insulin receptor complex; transport vesicle</p>
+<p><b>Pathways:</b> MAPK signaling pathway - Homo sapiens (human) (kegg); Ras signaling pathway - Homo sapiens (human) (kegg); Rap1 signaling pathway - Homo sapiens (human) (kegg); cGMP-PKG signaling pathway - Homo sapiens (human) (kegg); HIF-1 signaling pathway - Homo sapiens (human) (kegg); FoxO signaling pathway - Homo sapiens (human) (kegg); Phospholipase D signaling pathway - Homo sapiens (human) (kegg); Oocyte meiosis - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Insulin; Insulin-like; Insulin/IGF/relaxin; Insulin, conserved site; Insulin-like superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>PDX1 — pancreatic and duodenal homeobox 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a transcriptional activator of several genes, including insulin, somatostatin, glucokinase, islet amyloid polypeptide, and glucose transporter type 2. The encoded nuclear protein is involved in the early development of the pancreas and plays a major role in glucose-dependent regulation of insulin gene expression. Defects in this gene are a cause of pancreatic agenesis, which can lead to early-onset insulin-dependent diabetes mellitus (IDDM), as well as maturity onset diabetes of the young type 4 (MODY4). [provided by RefSeq, Aug 2017].</p>
+<p><b>GO:BP:</b> type B pancreatic cell differentiation; generation of precursor metabolites and energy; DNA-templated transcription; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; transcription by RNA polymerase II</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA binding; chromatin binding; DNA-binding transcription factor activity</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; cytosol; nuclear speck</p>
+<p><b>Pathways:</b> Insulin secretion - Homo sapiens (human) (kegg); Type II diabetes mellitus - Homo sapiens (human) (kegg); Maturity onset diabetes of the young - Homo sapiens (human) (kegg); Developmental Biology (reactome); Regulation of beta-cell development (reactome); Regulation of gene expression in beta cells (reactome); Regulation of gene expression in early pancreatic precursor cells (reactome); Developmental Cell Lineages (reactome)</p>
+<p><b>InterPro:</b> Homeodomain; Homedomain-like superfamily; Homeobox, conserved site; Homeobox protein, antennapedia type; Homeodomain, metazoa</p>
+</div>
+
+<div class="gene-card">
+<h3>ABCC8 — ATP binding cassette subfamily C member 8</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the superfamily of ATP-binding cassette (ABC) transporters. ABC proteins transport various molecules across extra- and intra-cellular membranes. ABC genes are divided into seven distinct subfamilies (ABC1, MDR/TAP, MRP, ALD, OABP, GCN20, White). This protein is a member of the MRP subfamily which is involved in multi-drug resistance. This protein functions as a modulator of ATP-sensitive potassium channels and insulin release. Mutations in the ABCC8 gene and deficiencies in the encoded protein have been observed in patients with hyperinsulinemic hypoglycemia of infancy, an autosomal recessive disorder of unregulated and high insulin secretion. Mutations have also been associated with non-insulin-dependent diabetes mellitus type II, an autosomal dominant disease of defective insulin secretion. Alternatively spliced transcript variants have been found for this gene. [provided by RefSeq, Jul 2020].</p>
+<p><b>GO:BP:</b> intracellular glucose homeostasis; potassium ion transport; female pregnancy; memory; visual learning; response to pH</p>
+<p><b>GO:MF:</b> potassium channel activity; protein binding; ATP binding; sulfonylurea receptor activity; ATP-activated inward rectifier potassium channel activity; ATP hydrolysis activity</p>
+<p><b>GO:CC:</b> plasma membrane; inward rectifying potassium channel; membrane; synaptic vesicle membrane; potassium ion-transporting ATPase complex; sarcolemma</p>
+<p><b>Pathways:</b> ABC transporters - Homo sapiens (human) (kegg); Insulin secretion - Homo sapiens (human) (kegg); Type II diabetes mellitus - Homo sapiens (human) (kegg); Neuronal System (reactome); ATP sensitive Potassium channels (reactome); Inwardly rectifying K+ channels (reactome); Potassium Channels (reactome); Metabolism (reactome)</p>
+<p><b>InterPro:</b> ATP-binding cassette sub-family C member 8/9; ATP-binding cassette subfamily C member 8; ABC transporter-like, ATP-binding domain; AAA+ ATPase domain; ABC transporter type 1, transmembrane domain; ABC transporter-like, conserved site</p>
+</div>
+
+<div class="gene-card">
+<h3>IAPP — islet amyloid polypeptide</h3>
+<p><b>Summary:</b> This gene encodes a member of the calcitonin family of peptide hormones. This hormone is released from pancreatic beta cells following food intake to regulate blood glucose levels and act as a satiation signal. Human patients with type 1 and advanced type 2 diabetes exhibit reduced levels of the encoded hormone in blood and pancreas. This protein also exhibits a bactericidal, antimicrobial activity. [provided by RefSeq, Jul 2016].</p>
+<p><b>GO:BP:</b> apoptotic process; signal transduction; adenylate cyclase-activating G protein-coupled receptor signaling pathway; cell-cell signaling; negative regulation of cell population proliferation; positive regulation of gene expression</p>
+<p><b>GO:MF:</b> amyloid-beta binding; signaling receptor binding; hormone activity; protein binding; lipid binding; identical protein binding</p>
+<p><b>GO:CC:</b> extracellular region; inclusion body; neuronal cell body</p>
+<p><b>Pathways:</b> Neuroactive ligand-receptor interaction - Homo sapiens (human) (kegg); Maturity onset diabetes of the young - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signal Transduction (reactome); Regulation of beta-cell development (reactome); Regulation of gene expression in beta cells (reactome); Signaling by GPCR (reactome); Class B/2 (Secretin family receptors) (reactome)</p>
+<p><b>InterPro:</b> Islet amyloid polypeptide; Calcitonin peptide-like; Calcitonin, conserved site; Calcitonin/adrenomedullin; Calcitonin-like</p>
+</div>
+
+<div class="gene-card">
+<h3>SRP9 — signal recognition particle 9</h3>
+<p><b>Summary:</b> Predicted to enable RNA binding activity and signal recognition particle binding activity. Predicted to be involved in SRP-dependent cotranslational protein targeting to membrane. Predicted to be located in cytosol. Predicted to be part of signal recognition particle, endoplasmic reticulum targeting. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> SRP-dependent cotranslational protein targeting to membrane; SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition; negative regulation of translational elongation</p>
+<p><b>GO:MF:</b> RNA binding; signal recognition particle binding; protein binding; 7S RNA binding</p>
+<p><b>GO:CC:</b> cytoplasm; signal recognition particle receptor complex; signal recognition particle, endoplasmic reticulum targeting; cytosol; signal recognition particle</p>
+<p><b>Pathways:</b> Protein export - Homo sapiens (human) (kegg); SRP-dependent cotranslational protein targeting to membrane (reactome); Metabolism of proteins (reactome); Translation (reactome)</p>
+<p><b>InterPro:</b> Signal recognition particle SRP9; Signal recognition particle, SRP9/SRP14 subunit; SRP9 domain; Signal recognition particle SRP9-like</p>
+</div>
+
+<div class="gene-card">
+<h3>NEUROG3 — neurogenin 3</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a basic helix-loop-helix (bHLH) transcription factor involved in neurogenesis. The encoded protein likely acts as a heterodimer with another bHLH protein. Defects in this gene are a cause of congenital malabsorptive diarrhea 4 (DIAR4).[provided by RefSeq, May 2010].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; regulation of DNA-templated transcription; nervous system development; central nervous system development; peripheral nervous system development; sensory organ development</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; double-stranded DNA binding; DNA-binding transcription factor activity</p>
+<p><b>GO:CC:</b> chromatin; nucleus</p>
+<p><b>Pathways:</b> Maturity onset diabetes of the young - Homo sapiens (human) (kegg); Developmental Biology (reactome); Regulation of beta-cell development (reactome); Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells (reactome); Regulation of gene expression in endocrine-committed (NEUROG3+) progenitor cells (reactome); Developmental Cell Lineages (reactome); Developmental Lineage of Pancreatic Endocrine Mid Progenitor Cells (reactome)</p>
+<p><b>InterPro:</b> Myc-type, basic helix-loop-helix (bHLH) domain; Neurogenin-3, basic helix-loop-helix domain; Helix-loop-helix DNA-binding domain superfamily; Basic helix-loop-helix transcription factors</p>
+</div>
+
+<div class="gene-card">
+<h3>FOXO1 — forkhead box O1</h3>
+<p><b>Summary:</b> This gene belongs to the forkhead family of transcription factors which are characterized by a distinct forkhead domain.  The specific function of this gene has not yet been determined; however, it may play a role in myogenic growth and differentiation. Translocation of this gene with PAX3 has been associated with alveolar rhabdomyosarcoma. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; temperature homeostasis; intracellular glucose homeostasis; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; protein acetylation</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; nucleic acid binding; DNA binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; cytoplasm; mitochondrion; cytosol</p>
+<p><b>Pathways:</b> FoxO signaling pathway - Homo sapiens (human) (kegg); AMPK signaling pathway - Homo sapiens (human) (kegg); Longevity regulating pathway - Homo sapiens (human) (kegg); Longevity regulating pathway - multiple species - Homo sapiens (human) (kegg); Cellular senescence - Homo sapiens (human) (kegg); Insulin signaling pathway - Homo sapiens (human) (kegg); Thyroid hormone signaling pathway - Homo sapiens (human) (kegg); Glucagon signaling pathway - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Fork head domain; Fork head domain conserved site 2; FOXO protein, transactivation domain; FOXO protein, KIX-binding domain; Winged helix-like DNA-binding domain superfamily; Winged helix DNA-binding domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>AKT3 — AKT serine/threonine kinase 3</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the AKT, also called PKB,  serine/threonine protein kinase family. AKT kinases are known to be regulators of cell signaling in response to insulin and growth factors. They are involved in a wide variety of biological processes including cell proliferation, differentiation, apoptosis, tumorigenesis, as well as glycogen synthesis and glucose uptake. This kinase has been shown to be stimulated by platelet-derived growth factor (PDGF), insulin, and insulin-like growth factor 1 (IGF1). Alternatively splice transcript variants encoding distinct isoforms have been described. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> positive regulation of endothelial cell proliferation; signal transduction; insulin receptor signaling pathway; regulation of mitochondrion organization; positive regulation of cell migration; intracellular signal transduction</p>
+<p><b>GO:MF:</b> protein kinase activity; protein serine/threonine kinase activity; protein binding; ATP binding; purine ribonucleotide binding; anion binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm; cytosol; membrane</p>
+<p><b>Pathways:</b> MAPK signaling pathway - Homo sapiens (human) (kegg); ErbB signaling pathway - Homo sapiens (human) (kegg); Ras signaling pathway - Homo sapiens (human) (kegg); Rap1 signaling pathway - Homo sapiens (human) (kegg); cGMP-PKG signaling pathway - Homo sapiens (human) (kegg); cAMP signaling pathway - Homo sapiens (human) (kegg); Chemokine signaling pathway - Homo sapiens (human) (kegg); HIF-1 signaling pathway - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Protein kinase domain; AGC-kinase, C-terminal; Pleckstrin homology domain; Serine/threonine-protein kinase, active site; Protein kinase-like domain superfamily; PH-like domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>GCG — glucagon</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a proglucagon precursor that is cleaved into four distinct mature peptides. One of these, glucagon, is a pancreatic hormone that counteracts the glucose-lowering action of insulin by stimulating glycogenolysis and gluconeogenesis in the liver. In addition, glucagon promotes lipolysis and ketone body formation during prolonged fasting or stress. Glucagon secretion is stimulated by low blood glucose and inhibited by high glucose or insulin. Glucagon is a ligand for a specific G-protein linked receptor called glucagon receptor, which activates the Gs protein-adenylate cyclase-cAMP-protein kinase A signaling pathway to regulate carbohydrate and lipid metabolism. Two of the other peptides, glucagon-like peptide-1 and glucagon-like peptide-2, are produced by the intestinal L-cells and secreted in response to nutrient ingestion, where they function as important regulators of glucose metabolism and intestinal physiology. Glucagon-like peptide-1 enhances glucose-dependent insulin secretion, suppresses glucagon release, slows gastric emptying, and promotes satiety, making it a key incretin hormone for maintaining postprandial glucose levels. Glucagon-like peptide-2 primarily acts on the gut, promoting intestinal growth, enhancing nutrient absorption, and supporting mucosal integrity. Both peptides exert their effects through specific G-protein-coupled receptors, glucagon-like peptide-1 receptor and glucagon-like peptide-2 receptor, respectively, and analogs of glucagon-like peptide-1 are used clinically for the treatment of type 2 diabetes and obesity. The fourth peptide is similar to glicentin, an active enteroglucagon produced in the intestinal L-cells. This peptide is thought to have multiple roles in gastrointestinal physiology, including stimulating intestinal growth, modulating gut motility, and influencing the secretion of other gut hormones. Although its precise functions are less well-characterized than those of glucagon, glucagon-like peptide-1, or glucagon-like peptide-2, glicentin-like peptides may contribute to postprandial digestive processes and the coordination of nutrient absorption. [provided by RefSeq, Mar 2026].</p>
+<p><b>GO:BP:</b> intracellular glucose homeostasis; signal transduction; G protein-coupled receptor signaling pathway; adenylate cyclase-modulating G protein-coupled receptor signaling pathway; adenylate cyclase-activating G protein-coupled receptor signaling pathway; feeding behavior</p>
+<p><b>GO:MF:</b> signaling receptor binding; hormone activity; protein binding; gastric inhibitory polypeptide receptor binding; glucagon receptor binding; identical protein binding</p>
+<p><b>GO:CC:</b> extracellular region; cytoplasm; endoplasmic reticulum lumen; plasma membrane; secretory granule lumen</p>
+<p><b>Pathways:</b> cAMP signaling pathway - Homo sapiens (human) (kegg); Neuroactive ligand-receptor interaction - Homo sapiens (human) (kegg); Thermogenesis - Homo sapiens (human) (kegg); Insulin secretion - Homo sapiens (human) (kegg); Glucagon signaling pathway - Homo sapiens (human) (kegg); Metabolism (reactome); Signal Transduction (reactome); Glucagon signaling in metabolic regulation (reactome)</p>
+<p><b>InterPro:</b> Glucagon/GIP/secretin/VIP; Glucagon</p>
+</div>
+
+<div class="gene-card">
+<h3>DPP4 — dipeptidyl peptidase 4</h3>
+<p><b>Summary:</b> The DPP4 gene encodes dipeptidyl peptidase 4, which is identical to adenosine deaminase complexing protein-2, and to the T-cell activation antigen CD26. It is an intrinsic type II transmembrane glycoprotein and a serine exopeptidase that cleaves X-proline dipeptides from the N-terminus of polypeptides. Dipeptidyl peptidase 4 is highly involved in glucose and insulin metabolism, as well as in immune regulation. This protein was shown to be a functional receptor for Middle East respiratory syndrome coronavirus (MERS-CoV), and protein modeling suggests that it may play a similar role with SARS-CoV-2, the virus responsible for COVID-19. [provided by RefSeq, Apr 2020].</p>
+<p><b>GO:BP:</b> response to hypoxia; proteolysis; positive regulation of cell population proliferation; negative regulation of extracellular matrix disassembly; peptide hormone processing; receptor-mediated endocytosis of virus by host cell</p>
+<p><b>GO:MF:</b> virus receptor activity; protease binding; serine-type endopeptidase activity; signaling receptor binding; protein binding; serine-type peptidase activity</p>
+<p><b>GO:CC:</b> extracellular region; lysosomal membrane; plasma membrane; focal adhesion; cell surface; membrane</p>
+<p><b>Pathways:</b> Protein digestion and absorption - Homo sapiens (human) (kegg); Peptide hormone metabolism (reactome); Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1) (reactome); Metabolism of proteins (reactome); Incretin synthesis, secretion, and inactivation (reactome); Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP) (reactome)</p>
+<p><b>InterPro:</b> Peptidase S9, prolyl oligopeptidase, catalytic domain; Dipeptidylpeptidase IV, N-terminal domain; Peptidase S9, serine active site; Alpha/Beta hydrolase fold; Serine protease S9B/DPPIV; Dipeptidyl peptidase 4, low complexity region</p>
+</div>
+
+<div class="gene-card">
+<h3>PAX4 — paired box 4</h3>
+<p><b>Summary:</b> This gene is a member of the paired box (PAX) family of transcription factors. Members of this gene family typically contain a paired box domain, an octapeptide, and a paired-type homeodomain. These genes play critical roles during fetal development and cancer growth. The paired box 4 gene is involved in pancreatic islet development and mouse studies have demonstrated a role for this gene in differentiation of insulin-producing beta cells. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; type B pancreatic cell differentiation; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; brain development; sensory organ development</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA binding; double-stranded DNA binding; sequence-specific double-stranded DNA binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; chromosome</p>
+<p><b>Pathways:</b> Maturity onset diabetes of the young - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Homeodomain; Paired domain; Homedomain-like superfamily; Homeobox, conserved site; Winged helix-like DNA-binding domain superfamily; Paired DNA-binding domain</p>
+</div>
+
+<div class="gene-card">
+<h3>SYT13 — synaptotagmin 13</h3>
+<p><b>Summary:</b> This gene encodes a member of the large synaptotagmin protein family. Family members have an extracellular N-terminal transmembrane domain and a cytoplasmic C terminus with two tandem C2 domains (C2A and C2B). Synaptotogmin family members can form homo- and heteromeric complexes with each other. They also have different biochemical properties and developmental profiles, and patterns of tissue distribution. Synaptotagmins function as membrane traffickers in multicellular organisms. Two alternatively spliced transcript variants that encode different protein isoforms have been described for this gene. [provided by RefSeq, Oct 2011].</p>
+<p><b>GO:BP:</b> vesicle-mediated transport; regulation of calcium ion-dependent exocytosis; calcium-dependent activation of synaptic vesicle fusion; regulation of synaptic vesicle exocytosis</p>
+<p><b>GO:MF:</b> SNARE binding; calcium-dependent phospholipid binding; calcium ion sensor activity</p>
+<p><b>GO:CC:</b> plasma membrane; membrane; transport vesicle; axon; synaptic vesicle membrane; dense core granule</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> C2 domain; Synaptotagmin-13, C2B domain; C2 domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>SCGN — secretagogin, EF-hand calcium binding protein</h3>
+<p><b>Summary:</b> The encoded protein is a secreted calcium-binding protein which is found in the cytoplasm. It is related to calbindin D-28K and calretinin. This protein is thought to be involved in KCL-stimulated calcium flux and cell proliferation. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> —</p>
+<p><b>GO:MF:</b> calcium ion binding; protein binding</p>
+<p><b>GO:CC:</b> extracellular region; nucleus; cytoplasm; cytosol; dendrite; transport vesicle membrane</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> EF-hand domain; EF-hand domain pair; EF-Hand 1, calcium-binding site; Secretagogin, EF-hand domain; Calbindin Calcium-Binding</p>
+</div>
+
+<div class="gene-card">
+<h3>HNF1A — HNF1 homeobox A</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a transcription factor required for the expression of several liver-specific genes. The encoded protein functions as a homodimer and binds to the inverted palindrome 5'-GTTAATNATTAAC-3'. Defects in this gene are a cause of maturity onset diabetes of the young type 3 (MODY3) and also can result in the appearance of hepatic adenomas. Alternative splicing results in multiple transcript variants encoding different isoforms. [provided by RefSeq, Apr 2015].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; liver development; regulation of transcription by RNA polymerase II; transcription by RNA polymerase II; positive regulation of gene expression; positive regulation of mitochondrial membrane potential</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; transcription coregulator binding; transcription coactivator binding; DNA-binding transcription activator activity, RNA polymerase II-specific</p>
+<p><b>GO:CC:</b> chromatin; photoreceptor outer segment; nucleus; transcription regulator complex; cytoplasm; protein-containing complex</p>
+<p><b>Pathways:</b> Maturity onset diabetes of the young - Homo sapiens (human) (kegg); Developmental Biology (reactome); Regulation of beta-cell development (reactome); Regulation of gene expression in beta cells (reactome); Adipogenesis (wikipathways); Vitamin D Receptor Pathway (wikipathways); Hepatitis C and Hepatocellular Carcinoma (wikipathways); Development and heterogeneity of the ILC family (wikipathways)</p>
+<p><b>InterPro:</b> Hepatocyte nuclear factor 1, beta isoform, C-terminal; Hepatocyte nuclear factor 1, alpha isoform C-terminal; Hepatocyte nuclear factor 1, N-terminal; Homedomain-like superfamily; Hepatocyte nuclear factor 1, N-terminal domain superfamily; Hepatocyte nuclear factor 1</p>
+</div>
+
+<div class="gene-card">
+<h3>STXBP1 — syntaxin binding protein 1</h3>
+<p><b>Summary:</b> This gene encodes a syntaxin-binding protein. The encoded protein appears to play a role in release of neurotransmitters via regulation of syntaxin, a transmembrane attachment protein receptor. Mutations in this gene have been associated with infantile epileptic encephalopathy-4. Alternatively spliced transcript variants have been described. [provided by RefSeq, Feb 2010].</p>
+<p><b>GO:BP:</b> platelet degranulation; developmental process involved in reproduction; intracellular protein transport; exocytosis; axon target recognition; regulation of synaptic vesicle priming</p>
+<p><b>GO:MF:</b> SNARE binding; RNA binding; protein binding; syntaxin-1 binding; protein kinase binding; protein domain specific binding</p>
+<p><b>GO:CC:</b> cytoplasm; mitochondrion; cytosol; plasma membrane; membrane; secretory granule</p>
+<p><b>Pathways:</b> Synaptic vesicle cycle - Homo sapiens (human) (kegg); Neurotransmitter release cycle (reactome); Transmission across Chemical Synapses (reactome); Neuronal System (reactome); Metabolism (reactome); Integration of energy metabolism (reactome); Serotonin Neurotransmitter Release Cycle (reactome); Norepinephrine Neurotransmitter Release Cycle (reactome)</p>
+<p><b>InterPro:</b> Sec1-like protein; Sec1-like, domain 2; Sec1-like superfamily; Sec1-like, domain 3a; Sec1-like, domain 1</p>
+</div>
+
+<div class="gene-card">
+<h3>CHGA — chromogranin A</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the chromogranin/secretogranin family of neuroendocrine secretory proteins. It is found in secretory vesicles of neurons and endocrine cells. This gene product is a precursor to three biologically active peptides; vasostatin, pancreastatin, and parastatin. These peptides act as autocrine or paracrine negative modulators of the neuroendocrine system. Two other peptides, catestatin and chromofungin, have antimicrobial activity and antifungal activity, respectively. Two transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Sep 2014].</p>
+<p><b>GO:BP:</b> regulation of the force of heart contraction; mast cell chemotaxis; regulation of blood pressure; negative regulation of catecholamine secretion; defense response to bacterium; mast cell degranulation</p>
+<p><b>GO:MF:</b> —</p>
+<p><b>GO:CC:</b> extracellular region; transport vesicle; secretory granule; chromaffin granule; perinuclear region of cytoplasm; neuronal dense core vesicle</p>
+<p><b>Pathways:</b> Innate Immune System (reactome); Immune System (reactome); Antimicrobial peptides (reactome); Gastrin signaling pathway (wikipathways)</p>
+<p><b>InterPro:</b> Chromogranin A/B; Chromogranin A/B/C; Chromogranin, conserved site</p>
+</div>
+
+<div class="gene-card">
+<h3>VDR — vitamin D receptor</h3>
+<p><b>Summary:</b> This gene encodes vitamin D3 receptor, which is a member of the nuclear hormone receptor superfamily of ligand-inducible transcription factors. This receptor also functions as a receptor for the secondary bile acid, lithocholic acid. Downstream targets of vitamin D3 receptor are principally involved in mineral metabolism, though this receptor regulates a variety of other metabolic pathways, such as those involved in immune response and cancer. Mutations in this gene are associated with type II vitamin D-resistant rickets. A single nucleotide polymorphism in the initiation codon results in an alternate translation start site three codons downstream. Alternatively spliced transcript variants encoding different isoforms have been described for this gene. A recent study provided evidence for translational readthrough in this gene, and expression of an additional C-terminally extended isoform via the use of an alternative in-frame translation termination codon. [provided by RefSeq, Jun 2018].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; cell morphogenesis; regulation of DNA-templated transcription; negative regulation of cell population proliferation; positive regulation of gene expression; negative regulation of keratinocyte proliferation</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA binding; DNA-binding transcription factor activity; nuclear steroid receptor activity; nuclear receptor activity</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; cytoplasm; signaling receptor complex; RNA polymerase II transcription regulator complex</p>
+<p><b>Pathways:</b> Parathyroid hormone synthesis, secretion and action - Homo sapiens (human) (kegg); Endocrine and other factor-regulated calcium reabsorption - Homo sapiens (human) (kegg); Mineral absorption - Homo sapiens (human) (kegg); Tuberculosis - Homo sapiens (human) (kegg); Metabolism (reactome); Vitamin D (calciferol) metabolism (reactome); Generic Transcription Pathway (reactome); SUMOylation (reactome)</p>
+<p><b>InterPro:</b> Vitamin D receptor; Nuclear hormone receptor, ligand-binding domain; Zinc finger, nuclear hormone receptor-type; Nuclear hormone receptor; Zinc finger, NHR/GATA-type; Nuclear hormone receptor-like domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>PCSK2 — proprotein convertase subtilisin/kexin type 2</h3>
+<p><b>Summary:</b> This gene encodes a member of the subtilisin-like proprotein convertase family, which includes proteases that process protein and peptide precursors trafficking through regulated or constitutive branches of the secretory pathway. The protein undergoes an initial autocatalytic processing event and interacts with a neuroendocrine secretory protein in the ER, exits the ER and sorts to secretory granules, where it is cleaved and catalytically activated during intracellular transport. The encoded protease is packaged into and activated in dense core secretory granules and expressed in the neuroendocrine system and brain. This gene encodes one of the seven basic amino acid-specific members which cleave their substrates at single or paired basic residues. It functions in the proteolytic activation of polypeptide hormones and neuropeptides precursors. Single nucleotide polymorphisms in this gene may increase susceptibility to myocardial infarction and type 2 diabetes. This gene may also play a role in tumor development and progression. Alternatively spliced transcript variants encoding multiple isoforms have been observed for this gene. [provided by RefSeq, Jan 2014].</p>
+<p><b>GO:BP:</b> proteolysis; nervous system development; protein processing; peptide hormone processing; protein autoprocessing; insulin processing</p>
+<p><b>GO:MF:</b> endopeptidase activity; serine-type endopeptidase activity; protein binding; serine-type peptidase activity</p>
+<p><b>GO:CC:</b> extracellular region; membrane; transport vesicle; secretory granule; neuron projection</p>
+<p><b>Pathways:</b> Insulin processing (reactome); Peptide hormone metabolism (reactome); Metabolism of proteins (reactome)</p>
+<p><b>InterPro:</b> Peptidase S8/S53 domain; P domain; Galactose-binding-like domain superfamily; Peptidase S8, subtilisin-related; Peptidase S8, subtilisin, His-active site; Peptidase S8, subtilisin, Asp-active site</p>
+</div>
+
+<div class="gene-card">
+<h3>INSM1 — INSM transcriptional repressor 1</h3>
+<p><b>Summary:</b> Insulinoma-associated 1 (INSM1) gene is intronless and encodes a protein containing both a zinc finger DNA-binding domain and a putative prohormone domain. This gene is a sensitive marker for neuroendocrine differentiation of human lung tumors. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; negative regulation of protein phosphorylation; type B pancreatic cell differentiation; pancreatic A cell differentiation; noradrenergic neuron development; negative regulation of cell population proliferation</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA-binding transcription factor activity; cyclin binding; chromatin DNA binding; histone deacetylase binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; transcription repressor complex</p>
+<p><b>Pathways:</b> Developmental Biology (reactome); Regulation of beta-cell development (reactome); Regulation of gene expression in endocrine-committed (NEUROG3+) progenitor cells (reactome)</p>
+<p><b>InterPro:</b> Zinc finger C2H2-type; Zinc finger C2H2 superfamily; Insulinoma-associated protein 1/2</p>
+</div>
+
+<div class="gene-card">
+<h3>SST — somatostatin</h3>
+<p><b>Summary:</b> The hormone somatostatin has active 14 aa and 28 aa forms that are produced by alternate cleavage of the single preproprotein encoded by this gene. Somatostatin is expressed throughout the body and inhibits the release of numerous secondary hormones by binding to high-affinity G-protein-coupled somatostatin receptors. This hormone is an important regulator of the endocrine system through its interactions with pituitary growth hormone, thyroid stimulating hormone, and most hormones of the gastrointestinal tract. Somatostatin also affects rates of neurotransmission in the central nervous system and proliferation of both normal and tumorigenic cells. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> hyperosmotic response; cell surface receptor signaling pathway; G protein-coupled receptor signaling pathway; cell-cell signaling; chemical synaptic transmission; response to nutrient</p>
+<p><b>GO:MF:</b> hormone activity; protein binding; identical protein binding; receptor ligand activity</p>
+<p><b>GO:CC:</b> extracellular region; cytosol; neuronal cell body; GABA-ergic synapse; neuronal dense core vesicle</p>
+<p><b>Pathways:</b> cAMP signaling pathway - Homo sapiens (human) (kegg); Neuroactive ligand-receptor interaction - Homo sapiens (human) (kegg); Growth hormone synthesis, secretion and action - Homo sapiens (human) (kegg); Gastric acid secretion - Homo sapiens (human) (kegg); Signal Transduction (reactome); Generic Transcription Pathway (reactome); Signaling by GPCR (reactome); Class A/1 (Rhodopsin-like receptors) (reactome)</p>
+<p><b>InterPro:</b> Somatostatin; Somatostatin/Cortistatin, C-terminal</p>
+</div>
+
+<div class="gene-card">
+<h3>ELP4 — elongator acetyltransferase complex subunit 4</h3>
+<p><b>Summary:</b> This gene encodes a component of the six subunit elongator complex, a histone acetyltransferase complex that associates directly with RNA polymerase II during transcriptional elongation. The human gene can partially complement sensitivity phenotypes of yeast ELP4 deletion mutants. This gene has also been associated with Rolandic epilepsy. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Dec 2013].</p>
+<p><b>GO:BP:</b> tRNA wobble uridine modification; regulation of transcription by RNA polymerase II; regulation of translation</p>
+<p><b>GO:MF:</b> protein binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm; transcription elongation factor complex; elongator holoenzyme complex</p>
+<p><b>Pathways:</b> HATs acetylate histones (reactome); Chromatin modifying enzymes (reactome); Chromatin organization (reactome); Mesodermal commitment pathway (wikipathways)</p>
+<p><b>InterPro:</b> Elongator complex protein 4; P-loop containing nucleoside triphosphate hydrolase</p>
+</div>
+
+<div class="gene-card">
+<h3>SRPRB — SRP receptor subunit beta</h3>
+<p><b>Summary:</b> The protein encoded by this gene has similarity to mouse protein which is a subunit of the signal recognition particle receptor (SR). This subunit is a transmembrane GTPase belonging to the GTPase superfamily. It anchors alpha subunit, a peripheral membrane GTPase, to the ER membrane. SR is required for the cotranslational targeting of both secretory and membrane proteins to the ER membrane. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition; protein targeting to ER</p>
+<p><b>GO:MF:</b> protein binding; GTP binding</p>
+<p><b>GO:CC:</b> cytoplasm; signal recognition particle receptor complex; endoplasmic reticulum membrane; cytoplasmic microtubule; membrane</p>
+<p><b>Pathways:</b> Protein export - Homo sapiens (human) (kegg); SRP-dependent cotranslational protein targeting to membrane (reactome); Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome); Metabolism of proteins (reactome); Translation (reactome)</p>
+<p><b>InterPro:</b> Signal recognition particle receptor, beta subunit; Small GTPase superfamily, ARF type; P-loop containing nucleoside triphosphate hydrolase</p>
+</div>
+
+<div class="gene-card">
+<h3>PAK3 — p21 (RAC1) activated kinase 3</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a serine-threonine kinase and forms an activated complex with GTP-bound RAS-like (P21), CDC2 and RAC1. This protein may be necessary for dendritic development and for the rapid cytoskeletal reorganization in dendritic spines associated with synaptic plasticity. Defects in this gene are the cause of a non-syndromic form of X-linked intellectual disability. Alternatively spliced transcript variants encoding different isoforms have been identified. [provided by RefSeq, Jul 2017].</p>
+<p><b>GO:BP:</b> MAPK cascade; stimulatory C-type lectin receptor signaling pathway; axonogenesis; cellular response to starvation; dendrite development; cell migration</p>
+<p><b>GO:MF:</b> protein kinase activity; protein serine/threonine kinase activity; MAP kinase kinase activity; protein binding; ATP binding; protein serine kinase activity</p>
+<p><b>GO:CC:</b> cytoplasm; cytosol; plasma membrane</p>
+<p><b>Pathways:</b> ErbB signaling pathway - Homo sapiens (human) (kegg); Ras signaling pathway - Homo sapiens (human) (kegg); Axon guidance - Homo sapiens (human) (kegg); Focal adhesion - Homo sapiens (human) (kegg); T cell receptor signaling pathway - Homo sapiens (human) (kegg); Regulation of actin cytoskeleton - Homo sapiens (human) (kegg); Pathogenic Escherichia coli infection - Homo sapiens (human) (kegg); Salmonella infection - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> CRIB domain; Protein kinase domain; Serine/threonine-protein kinase, active site; Protein kinase-like domain superfamily; Protein kinase, ATP binding site; p21 activated kinase binding domain</p>
+</div>
+
+<div class="gene-card">
+<h3>G6PC2 — glucose-6-phosphatase catalytic subunit 2</h3>
+<p><b>Summary:</b> This gene encodes an enzyme belonging to the glucose-6-phosphatase catalytic subunit family. These enzymes are part of a multicomponent integral membrane system that catalyzes the hydrolysis of glucose-6-phosphate, the terminal step in gluconeogenic and glycogenolytic pathways, allowing the release of glucose into the bloodstream. The family member encoded by this gene is found in pancreatic islets and does not exhibit phosphohydrolase activity, but it is a major target of cell-mediated autoimmunity in diabetes. Several alternatively spliced transcript variants of this gene have been described, but their biological validity has not been determined. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> gluconeogenesis; glucose homeostasis; regulation of insulin secretion</p>
+<p><b>GO:MF:</b> glucose-6-phosphatase activity</p>
+<p><b>GO:CC:</b> endoplasmic reticulum; endoplasmic reticulum membrane; membrane</p>
+<p><b>Pathways:</b> Glycolysis / Gluconeogenesis - Homo sapiens (human) (kegg); Galactose metabolism - Homo sapiens (human) (kegg); Starch and sucrose metabolism - Homo sapiens (human) (kegg); FoxO signaling pathway - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); AMPK signaling pathway - Homo sapiens (human) (kegg); Insulin signaling pathway - Homo sapiens (human) (kegg); Adipocytokine signaling pathway - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Phosphatidic acid phosphatase type 2/haloperoxidase; Glucose-6-phosphatase; Phosphatidic acid phosphatase type 2/haloperoxidase superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>PKLR — pyruvate kinase L/R</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a pyruvate kinase that catalyzes the transphosphorylation of phohsphoenolpyruvate into pyruvate and ATP, which is the rate-limiting step of glycolysis. Defects in this enzyme, due to gene mutations or genetic variations, are the common cause of chronic hereditary nonspherocytic hemolytic anemia (CNSHA or HNSHA). Multiple transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> response to hypoxia; glycolytic process; response to nutrient; response to glucose; response to metal ion; cellular response to insulin stimulus</p>
+<p><b>GO:MF:</b> magnesium ion binding; pyruvate kinase activity; protein binding; potassium ion binding; monosaccharide binding</p>
+<p><b>GO:CC:</b> cytoplasm; cytosol; extracellular exosome; pyruvate kinase complex</p>
+<p><b>Pathways:</b> Glycolysis / Gluconeogenesis - Homo sapiens (human) (kegg); Purine metabolism - Homo sapiens (human) (kegg); Pyruvate metabolism - Homo sapiens (human) (kegg); Insulin signaling pathway - Homo sapiens (human) (kegg); Type II diabetes mellitus - Homo sapiens (human) (kegg); Non-alcoholic fatty liver disease - Homo sapiens (human) (kegg); Maturity onset diabetes of the young - Homo sapiens (human) (kegg); Developmental Biology (reactome)</p>
+<p><b>InterPro:</b> Pyruvate kinase; Pyruvate kinase-like, insert domain superfamily; Pyruvate kinase, barrel; Pyruvate kinase, C-terminal; Pyruvate kinase, insert domain superfamily; Pyruvate/Phosphoenolpyruvate kinase-like domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>LMO2 — LIM domain only 2</h3>
+<p><b>Summary:</b> LMO2 encodes a cysteine-rich, two LIM-domain protein that is required for yolk sac erythropoiesis. The LMO2 protein has a central and crucial role in hematopoietic development and is highly conserved. The LMO2 transcription start site is located approximately 25 kb downstream from the 11p13 T-cell translocation cluster (11p13 ttc), where a number T-cell acute lymphoblastic leukemia-specific translocations occur. Alternative splicing results in multiple transcript variants encoding different isoforms.[provided by RefSeq, Nov 2008].</p>
+<p><b>GO:BP:</b> embryonic hemopoiesis; positive regulation of transcription by RNA polymerase II</p>
+<p><b>GO:MF:</b> transcription coregulator binding; transcription coactivator activity; protein binding; identical protein binding; bHLH transcription factor binding; RNA polymerase II-specific DNA-binding transcription factor binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; transcription regulator complex</p>
+<p><b>Pathways:</b> Transcriptional misregulation in cancer - Homo sapiens (human) (kegg); Generic Transcription Pathway (reactome); RNA Polymerase II Transcription (reactome); Gene expression (Transcription) (reactome); Transcriptional regulation by RUNX1 (reactome); RUNX1 regulates transcription of genes involved in differentiation of HSCs (reactome)</p>
+<p><b>InterPro:</b> Zinc finger, LIM-type; LMO/RBTN Transcription Factors</p>
+</div>
+
+<div class="gene-card">
+<h3>SRP14 — signal recognition particle 14</h3>
+<p><b>Summary:</b> Enables RNA binding activity. Involved in protein targeting to ER. Located in nucleus. Part of signal recognition particle, endoplasmic reticulum targeting. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> cotranslational protein targeting to membrane; SRP-dependent cotranslational protein targeting to membrane; SRP-dependent cotranslational protein targeting to membrane, translocation; SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition; protein targeting to ER</p>
+<p><b>GO:MF:</b> RNA binding; protein binding; 7S RNA binding; endoplasmic reticulum signal sequence receptor activity</p>
+<p><b>GO:CC:</b> extracellular region; nucleus; cytoplasm; signal recognition particle, endoplasmic reticulum targeting; cytosol; secretory granule lumen</p>
+<p><b>Pathways:</b> Protein export - Homo sapiens (human) (kegg); Innate Immune System (reactome); Immune System (reactome); SRP-dependent cotranslational protein targeting to membrane (reactome); Metabolism of proteins (reactome); Neutrophil degranulation (reactome); Translation (reactome)</p>
+<p><b>InterPro:</b> Signal recognition particle, SRP14 subunit; Signal recognition particle, SRP9/SRP14 subunit</p>
+</div>
+
+
+<h2>Provenance</h2>
+<ul>
+<li>PANTHER: pantherdb.org, REST (geneinfo + enrich/overrep)</li>
+<li>Enrichr: maayanlab.cloud/Enrichr, GO_Biological_Process_2025</li>
+<li>g:Profiler: biit.cs.ut.ee/gprofiler, GO/KEGG/REAC</li>
+<li>MyGene.info: mygene.info/v3/query</li>
+</ul>
+</body></html>

@@ -1,0 +1,342 @@
+[2026-09-25T09:38:10] data_dir   = /home/maano.malima/Method_API/data/snapshot_hallmarks
+[2026-09-25T09:38:10] genes_root = /home/maano.malima/Method_API/examples/lists
+[2026-09-25T09:38:10] provider   = local
+[2026-09-25T09:38:10] model      = /home/maano.malima/llm-models/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf
+[2026-09-25T09:38:10] tag        = test-hallmark
+[2026-09-25T09:38:13] client ready
+[2026-09-25T09:38:13] querying ADIPOGENESIS (200 genes) | allowed=13865 enriched=460
+[2026-09-25T09:39:45]   LLM 10 IDs | unsupported 3 | allowed_not_enriched 1 | valid_enriched 6
+[2026-09-25T09:39:45]     OBSOLETE         GO:0006630  obsolete lipid binding
+[2026-09-25T09:39:45]     WRONG_BIOLOGY    GO:0006632  regulation of fatty acid metabolic process
+[2026-09-25T09:39:45]     WRONG_BIOLOGY    GO:0006634  hexadecanal biosynthetic process
+[2026-09-25T09:39:45] querying ALLOGRAFT_REJECTION (200 genes) | allowed=13933 enriched=1679
+[2026-09-25T09:41:12]   LLM 10 IDs | unsupported 3 | allowed_not_enriched 2 | valid_enriched 5
+[2026-09-25T09:41:12]     WRONG_BIOLOGY    GO:0009604  detection of symbiotic bacterium
+[2026-09-25T09:41:12]     WRONG_BIOLOGY    GO:0009606  tropism
+[2026-09-25T09:41:12]     WRONG_BIOLOGY    GO:0009610  response to symbiotic fungus
+[2026-09-25T09:41:12] querying ANDROGEN_RESPONSE (100 genes) | allowed=13805 enriched=97
+[2026-09-25T09:42:28]   LLM 10 IDs | unsupported 4 | allowed_not_enriched 6 | valid_enriched 0
+[2026-09-25T09:42:28]     WRONG_BIOLOGY    GO:0006336  chromatin organization
+[2026-09-25T09:42:28]     WRONG_BIOLOGY    GO:0006350  DNA-templated transcription
+[2026-09-25T09:42:28]     WRONG_BIOLOGY    GO:0006464  protein modification process
+[2026-09-25T09:42:28]     WRONG_BRANCH     GO:0009897  external side of plasma membrane
+[2026-09-25T09:42:28] querying ANGIOGENESIS (36 genes) | allowed=13811 enriched=494
+[2026-09-25T09:43:32]   LLM 10 IDs | unsupported 5 | allowed_not_enriched 2 | valid_enriched 3
+[2026-09-25T09:43:32]     WRONG_BRANCH     GO:0008270  zinc ion binding
+[2026-09-25T09:43:32]     WRONG_BRANCH     GO:0008271  secondary active sulfate transmembrane transporter activity
+[2026-09-25T09:43:32]     OBSOLETE         GO:0008272  obsolete sulfate transport
+[2026-09-25T09:43:32]     WRONG_BRANCH     GO:0008273  calcium, potassium:sodium antiporter activity
+[2026-09-25T09:43:32]     OBSOLETE         GO:0009985  obsolete dihydroflavonol(thiole) lyase activity
+[2026-09-25T09:43:32] querying APICAL_JUNCTION (200 genes) | allowed=13887 enriched=826
+[2026-09-25T09:44:56]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 4 | valid_enriched 5
+[2026-09-25T09:44:56]     OBSOLETE         GO:0007170  obsolete transmembrane receptor protein tyrosine kinase ligand binding
+[2026-09-25T09:44:56] querying APICAL_SURFACE (44 genes) | allowed=13794 enriched=271
+[2026-09-25T09:45:51]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 8 | valid_enriched 1
+[2026-09-25T09:45:51]     WRONG_BIOLOGY    GO:0007615  anesthesia-resistant memory
+[2026-09-25T09:45:51] querying APOPTOSIS (161 genes) | allowed=13854 enriched=1293
+[2026-09-25T09:47:08]   LLM 10 IDs | unsupported 5 | allowed_not_enriched 2 | valid_enriched 3
+[2026-09-25T09:47:08]     WRONG_BIOLOGY    GO:0006917  apoptotic process
+[2026-09-25T09:47:08]     OBSOLETE         GO:0006928  obsolete movement of cell or subcellular component
+[2026-09-25T09:47:08]     WRONG_BIOLOGY    GO:0016057  regulation of membrane potential in photoreceptor cell
+[2026-09-25T09:47:08]     WRONG_BIOLOGY    GO:0016105  triterpenoid catabolic process
+[2026-09-25T09:47:08]     WRONG_BIOLOGY    GO:0016568  chromatin organization
+[2026-09-25T09:47:08] querying BILE_ACID_METABOLISM (112 genes) | allowed=13873 enriched=407
+[2026-09-25T09:48:30]   LLM 10 IDs | unsupported 4 | allowed_not_enriched 1 | valid_enriched 5
+[2026-09-25T09:48:30]     OBSOLETE         GO:0006628  obsolete mitochondrial translocation
+[2026-09-25T09:48:30]     OBSOLETE         GO:0006630  obsolete lipid binding
+[2026-09-25T09:48:31]     WRONG_BIOLOGY    GO:0006632  regulation of fatty acid metabolic process
+[2026-09-25T09:48:31]     WRONG_BIOLOGY    GO:0006634  hexadecanal biosynthetic process
+[2026-09-25T09:48:31] querying CHOLESTEROL_HOMEOSTASIS (74 genes) | allowed=13807 enriched=195
+[2026-09-25T09:49:57]   LLM 10 IDs | unsupported 4 | allowed_not_enriched 3 | valid_enriched 3
+[2026-09-25T09:49:57]     OBSOLETE         GO:0006628  obsolete mitochondrial translocation
+[2026-09-25T09:49:57]     OBSOLETE         GO:0006630  obsolete lipid binding
+[2026-09-25T09:49:57]     WRONG_BIOLOGY    GO:0006632  regulation of fatty acid metabolic process
+[2026-09-25T09:49:57]     WRONG_BIOLOGY    GO:0006634  hexadecanal biosynthetic process
+[2026-09-25T09:49:57] querying COAGULATION (138 genes) | allowed=13892 enriched=674
+[2026-09-25T08:56:12] data_dir   = /home/maano.malima/Method_API/data/snapshot_hallmarks
+[2026-09-25T08:56:12] genes_root = /home/maano.malima/Method_API/examples/lists
+[2026-09-25T08:56:12] provider   = local
+[2026-09-25T08:56:12] model      = /home/maano.malima/llm-models/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf
+[2026-09-25T08:56:12] tag        = test-hallmark
+[2026-09-25T08:56:15] client ready
+[2026-09-25T08:56:15] querying ADIPOGENESIS (200 genes) | allowed=13865 enriched=460
+[2026-09-25T08:56:37]   LLM 10 IDs | unsupported 3 | allowed_not_enriched 1 | valid_enriched 6
+[2026-09-25T08:56:37]     OBSOLETE         GO:0006630  obsolete lipid binding
+[2026-09-25T08:56:37]     WRONG_BIOLOGY    GO:0006632  regulation of fatty acid metabolic process
+[2026-09-25T08:56:37]     WRONG_BIOLOGY    GO:0006634  hexadecanal biosynthetic process
+[2026-09-25T08:56:38] querying ALLOGRAFT_REJECTION (200 genes) | allowed=13933 enriched=1679
+[2026-09-25T08:56:59]   LLM 10 IDs | unsupported 3 | allowed_not_enriched 2 | valid_enriched 5
+[2026-09-25T08:56:59]     WRONG_BIOLOGY    GO:0009604  detection of symbiotic bacterium
+[2026-09-25T08:56:59]     WRONG_BIOLOGY    GO:0009606  tropism
+[2026-09-25T08:56:59]     WRONG_BIOLOGY    GO:0009610  response to symbiotic fungus
+[2026-09-25T08:56:59] querying ANDROGEN_RESPONSE (100 genes) | allowed=13805 enriched=97
+[2026-09-25T08:57:18]   LLM 10 IDs | unsupported 4 | allowed_not_enriched 6 | valid_enriched 0
+[2026-09-25T08:57:18]     WRONG_BIOLOGY    GO:0006336  chromatin organization
+[2026-09-25T08:57:18]     WRONG_BIOLOGY    GO:0006350  DNA-templated transcription
+[2026-09-25T08:57:18]     WRONG_BIOLOGY    GO:0006464  protein modification process
+[2026-09-25T08:57:18]     WRONG_BRANCH     GO:0009897  external side of plasma membrane
+[2026-09-25T08:57:18] querying ANGIOGENESIS (36 genes) | allowed=13811 enriched=494
+[2026-09-25T08:57:35]   LLM 10 IDs | unsupported 5 | allowed_not_enriched 2 | valid_enriched 3
+[2026-09-25T08:57:35]     WRONG_BRANCH     GO:0008270  zinc ion binding
+[2026-09-25T08:57:35]     WRONG_BRANCH     GO:0008271  secondary active sulfate transmembrane transporter activity
+[2026-09-25T08:57:35]     OBSOLETE         GO:0008272  obsolete sulfate transport
+[2026-09-25T08:57:35]     WRONG_BRANCH     GO:0008273  calcium, potassium:sodium antiporter activity
+[2026-09-25T08:57:35]     OBSOLETE         GO:0009985  obsolete dihydroflavonol(thiole) lyase activity
+[2026-09-25T08:57:35] querying APICAL_JUNCTION (200 genes) | allowed=13887 enriched=826
+[2026-09-25T08:57:56]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 4 | valid_enriched 5
+[2026-09-25T08:57:56]     OBSOLETE         GO:0007170  obsolete transmembrane receptor protein tyrosine kinase ligand binding
+[2026-09-25T08:57:56] querying APICAL_SURFACE (44 genes) | allowed=13794 enriched=271
+[2026-09-25T08:58:09]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 8 | valid_enriched 1
+[2026-09-25T08:58:09]     WRONG_BIOLOGY    GO:0007615  anesthesia-resistant memory
+[2026-09-25T08:58:09] querying APOPTOSIS (161 genes) | allowed=13854 enriched=1293
+[2026-09-25T08:58:30]   LLM 10 IDs | unsupported 5 | allowed_not_enriched 2 | valid_enriched 3
+[2026-09-25T08:58:30]     WRONG_BIOLOGY    GO:0006917  apoptotic process
+[2026-09-25T08:58:30]     OBSOLETE         GO:0006928  obsolete movement of cell or subcellular component
+[2026-09-25T08:58:30]     WRONG_BIOLOGY    GO:0016057  regulation of membrane potential in photoreceptor cell
+[2026-09-25T08:58:30]     WRONG_BIOLOGY    GO:0016105  triterpenoid catabolic process
+[2026-09-25T08:58:30]     WRONG_BIOLOGY    GO:0016568  chromatin organization
+[2026-09-25T08:58:30] querying BILE_ACID_METABOLISM (112 genes) | allowed=13873 enriched=407
+[2026-09-25T08:58:52]   LLM 10 IDs | unsupported 4 | allowed_not_enriched 1 | valid_enriched 5
+[2026-09-25T08:58:52]     OBSOLETE         GO:0006628  obsolete mitochondrial translocation
+[2026-09-25T08:58:52]     OBSOLETE         GO:0006630  obsolete lipid binding
+[2026-09-25T08:58:52]     WRONG_BIOLOGY    GO:0006632  regulation of fatty acid metabolic process
+[2026-09-25T08:58:52]     WRONG_BIOLOGY    GO:0006634  hexadecanal biosynthetic process
+[2026-09-25T08:58:52] querying CHOLESTEROL_HOMEOSTASIS (74 genes) | allowed=13807 enriched=195
+[2026-09-25T08:59:13]   LLM 10 IDs | unsupported 4 | allowed_not_enriched 3 | valid_enriched 3
+[2026-09-25T08:59:13]     OBSOLETE         GO:0006628  obsolete mitochondrial translocation
+[2026-09-25T08:59:13]     OBSOLETE         GO:0006630  obsolete lipid binding
+[2026-09-25T08:59:13]     WRONG_BIOLOGY    GO:0006632  regulation of fatty acid metabolic process
+[2026-09-25T08:59:13]     WRONG_BIOLOGY    GO:0006634  hexadecanal biosynthetic process
+[2026-09-25T08:59:13] querying COAGULATION (138 genes) | allowed=13892 enriched=674
+[2026-09-25T08:59:31]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 9 | valid_enriched 1
+[2026-09-25T08:59:31] querying COMPLEMENT (200 genes) | allowed=13922 enriched=1078
+[2026-09-25T08:59:52]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 3 | valid_enriched 6
+[2026-09-25T08:59:52]     WRONG_BIOLOGY    GO:0002776  antimicrobial peptide secretion
+[2026-09-25T08:59:52] querying DNA_REPAIR (150 genes) | allowed=13872 enriched=462
+[2026-09-25T09:00:12]   LLM 10 IDs | unsupported 3 | allowed_not_enriched 6 | valid_enriched 1
+[2026-09-25T09:00:12]     WRONG_BIOLOGY    GO:0006381  mRNA modification
+[2026-09-25T09:00:12]     WRONG_BIOLOGY    GO:0006385  transcription elongation by RNA polymerase III
+[2026-09-25T09:00:12]     OBSOLETE         GO:0006389  obsolete tRNA-Y splicing
+[2026-09-25T09:00:12] querying E2F_TARGETS (200 genes) | allowed=13908 enriched=675
+[2026-09-25T09:00:35]   LLM 10 IDs | unsupported 5 | allowed_not_enriched 2 | valid_enriched 3
+[2026-09-25T09:00:35]     WRONG_BIOLOGY    GO:0007050  regulation of cell cycle
+[2026-09-25T09:00:35]     WRONG_BIOLOGY    GO:0007053  spindle assembly involved in male meiosis
+[2026-09-25T09:00:35]     WRONG_BIOLOGY    GO:0007054  spindle assembly involved in male meiosis I
+[2026-09-25T09:00:35]     WRONG_BIOLOGY    GO:0007055  spindle assembly involved in male meiosis II
+[2026-09-25T09:00:35]     WRONG_BIOLOGY    GO:0007058  spindle assembly involved in female meiosis II
+[2026-09-25T09:00:35] querying EPITHELIAL_MESENCHYMAL_TRANSITION (200 genes) | allowed=13902 enriched=1089
+[2026-09-25T09:00:57]   LLM 10 IDs | unsupported 5 | allowed_not_enriched 1 | valid_enriched 4
+[2026-09-25T09:00:57]     WRONG_BRANCH     GO:0005612  laminin-321 trimer
+[2026-09-25T09:00:57]     OBSOLETE         GO:0005617  obsolete larval serum protein-1
+[2026-09-25T09:00:57]     WRONG_BIOLOGY    GO:0007152  ascospore wall assembly
+[2026-09-25T09:00:57]     WRONG_BRANCH     GO:0009897  external side of plasma membrane
+[2026-09-25T09:00:57]     OBSOLETE         GO:0009985  obsolete dihydroflavonol(thiole) lyase activity
+[2026-09-25T09:00:57] querying ESTROGEN_RESPONSE_EARLY (200 genes) | allowed=13794 enriched=199
+[2026-09-25T09:01:23]   LLM 6 IDs | unsupported 1 | allowed_not_enriched 2 | valid_enriched 3
+[2026-09-25T09:01:23]     WRONG_BIOLOGY    GO:0007615  anesthesia-resistant memory
+[2026-09-25T09:01:23] querying ESTROGEN_RESPONSE_LATE (200 genes) | allowed=13800 enriched=294
+[2026-09-25T09:01:42]   LLM 10 IDs | unsupported 2 | allowed_not_enriched 5 | valid_enriched 3
+[2026-09-25T09:01:42]     OBSOLETE         GO:0007170  obsolete transmembrane receptor protein tyrosine kinase ligand binding
+[2026-09-25T09:01:42]     WRONG_BIOLOGY    GO:0007184  regulation of SMAD protein signal transduction
+[2026-09-25T09:01:42] querying FATTY_ACID_METABOLISM (158 genes) | allowed=13883 enriched=408
+[2026-09-25T09:02:04]   LLM 10 IDs | unsupported 5 | allowed_not_enriched 0 | valid_enriched 5
+[2026-09-25T09:02:04]     WRONG_BIOLOGY    GO:0006097  glyoxylate cycle
+[2026-09-25T09:02:04]     OBSOLETE         GO:0006130  obsolete 6-phosphofructokinase reduction
+[2026-09-25T09:02:04]     OBSOLETE         GO:0006630  obsolete lipid binding
+[2026-09-25T09:02:04]     WRONG_BIOLOGY    GO:0006632  regulation of fatty acid metabolic process
+[2026-09-25T09:02:04]     WRONG_BIOLOGY    GO:0006634  hexadecanal biosynthetic process
+[2026-09-25T09:02:04] querying G2_M_CHECKPOINT (200 genes) | allowed=13922 enriched=720
+[2026-09-25T09:02:28]   LLM 10 IDs | unsupported 5 | allowed_not_enriched 2 | valid_enriched 3
+[2026-09-25T09:02:28]     WRONG_BIOLOGY    GO:0007050  regulation of cell cycle
+[2026-09-25T09:02:28]     WRONG_BIOLOGY    GO:0007053  spindle assembly involved in male meiosis
+[2026-09-25T09:02:28]     WRONG_BIOLOGY    GO:0007054  spindle assembly involved in male meiosis I
+[2026-09-25T09:02:28]     WRONG_BIOLOGY    GO:0007055  spindle assembly involved in male meiosis II
+[2026-09-25T09:02:28]     WRONG_BIOLOGY    GO:0007058  spindle assembly involved in female meiosis II
+[2026-09-25T09:02:28] querying GLYCOLYSIS (200 genes) | allowed=13860 enriched=271
+[2026-09-25T09:02:49]   LLM 10 IDs | unsupported 4 | allowed_not_enriched 5 | valid_enriched 1
+[2026-09-25T09:02:49]     WRONG_BIOLOGY    GO:0006097  glyoxylate cycle
+[2026-09-25T09:02:49]     WRONG_BIOLOGY    GO:0006323  chromosome organization
+[2026-09-25T09:02:49]     WRONG_BIOLOGY    GO:0006347  silent mating-type cassette heterochromatin formation
+[2026-09-25T09:02:49]     WRONG_BIOLOGY    GO:0006350  DNA-templated transcription
+[2026-09-25T09:02:49] querying HEDGEHOG_SIGNALING (36 genes) | allowed=13784 enriched=583
+[2026-09-25T09:03:03]   LLM 10 IDs | unsupported 2 | allowed_not_enriched 3 | valid_enriched 5
+[2026-09-25T09:03:03]     WRONG_BIOLOGY    GO:0007414  axonal defasciculation
+[2026-09-25T09:03:03]     WRONG_BIOLOGY    GO:0007508  larval heart development
+[2026-09-25T09:03:03] querying HEME_METABOLISM (200 genes) | allowed=13809 enriched=143
+[2026-09-25T09:03:27]   LLM 10 IDs | unsupported 8 | allowed_not_enriched 2 | valid_enriched 0
+[2026-09-25T09:03:27]     WRONG_BIOLOGY    GO:0006097  glyoxylate cycle
+[2026-09-25T09:03:27]     WRONG_BIOLOGY    GO:0006115  ethanol biosynthetic process
+[2026-09-25T09:03:27]     OBSOLETE         GO:0006130  obsolete 6-phosphofructokinase reduction
+[2026-09-25T09:03:27]     OBSOLETE         GO:0006132  obsolete dihydrolipoylprotein reduction
+[2026-09-25T09:03:27]     OBSOLETE         GO:0006134  obsolete dihydrobiopterin reduction
+[2026-09-25T09:03:27]     WRONG_BIOLOGY    GO:0006136  aerobic electron transport chain
+[2026-09-25T09:03:27]     WRONG_BIOLOGY    GO:0006138  aerobic electron transport chain
+[2026-09-25T09:03:27]     OBSOLETE         GO:0006142  obsolete regulation of pyrimidine nucleobase metabolic process
+[2026-09-25T09:03:27] querying HYPOXIA (200 genes) | allowed=13859 enriched=574
+[2026-09-25T09:03:50]   LLM 10 IDs | unsupported 5 | allowed_not_enriched 4 | valid_enriched 1
+[2026-09-25T09:03:50]     WRONG_BIOLOGY    GO:0006097  glyoxylate cycle
+[2026-09-25T09:03:50]     WRONG_BRANCH     GO:0008233  peptidase activity
+[2026-09-25T09:03:50]     WRONG_BIOLOGY    GO:0015991  proton transmembrane transport
+[2026-09-25T09:03:50]     WRONG_BIOLOGY    GO:0016091  prenol biosynthetic process
+[2026-09-25T09:03:50]     OBSOLETE         GO:0016146  obsolete protein-synthesizing GTPase activity, initiation
+[2026-09-25T09:03:50] querying IL_2_STAT5_SIGNALING (199 genes) | allowed=13832 enriched=467
+[2026-09-25T09:04:13]   LLM 10 IDs | unsupported 3 | allowed_not_enriched 2 | valid_enriched 5
+[2026-09-25T09:04:13]     WRONG_BIOLOGY    GO:0009606  tropism
+[2026-09-25T09:04:13]     WRONG_BIOLOGY    GO:0009610  response to symbiotic fungus
+[2026-09-25T09:04:13]     WRONG_BIOLOGY    GO:0019223  termination of RNA polymerase I transcription
+[2026-09-25T09:04:13] querying IL_6_JAK_STAT3_SIGNALING (87 genes) | allowed=13848 enriched=1056
+[2026-09-25T09:04:30]   LLM 10 IDs | unsupported 2 | allowed_not_enriched 2 | valid_enriched 6
+[2026-09-25T09:04:30]     WRONG_BIOLOGY    GO:0006976  DNA damage response, signal transduction by p53 class mediator
+[2026-09-25T09:04:30]     WRONG_BIOLOGY    GO:0006980  response to redox state
+[2026-09-25T09:04:30] querying INFLAMMATORY_RESPONSE (200 genes) | allowed=13873 enriched=1239
+[2026-09-25T09:04:52]   LLM 10 IDs | unsupported 4 | allowed_not_enriched 4 | valid_enriched 2
+[2026-09-25T09:04:52]     WRONG_BIOLOGY    GO:0002770  T cell inhibitory signaling pathway
+[2026-09-25T09:04:52]     OBSOLETE         GO:0006928  obsolete movement of cell or subcellular component
+[2026-09-25T09:04:52]     WRONG_BRANCH     GO:0009981  1,3-beta-D-glucan synthase activity
+[2026-09-25T09:04:52]     WRONG_BRANCH     GO:0016021  membrane
+[2026-09-25T09:04:52] querying INTERFERON_ALPHA_RESPONSE (97 genes) | allowed=13784 enriched=283
+[2026-09-25T09:05:10]   LLM 10 IDs | unsupported 3 | allowed_not_enriched 7 | valid_enriched 0
+[2026-09-25T09:05:10]     WRONG_BIOLOGY    GO:0009610  response to symbiotic fungus
+[2026-09-25T09:05:10]     WRONG_BIOLOGY    GO:0016057  regulation of membrane potential in photoreceptor cell
+[2026-09-25T09:05:10]     WRONG_BIOLOGY    GO:0016059  negative regulation of opsin-mediated signaling pathway
+[2026-09-25T09:05:10] querying INTERFERON_GAMMA_RESPONSE (200 genes) | allowed=13861 enriched=955
+[2026-09-25T09:05:35]   LLM 10 IDs | unsupported 4 | allowed_not_enriched 5 | valid_enriched 1
+[2026-09-25T09:05:35]     WRONG_BIOLOGY    GO:0009610  response to symbiotic fungus
+[2026-09-25T09:05:35]     WRONG_BIOLOGY    GO:0009613  response to other organism
+[2026-09-25T09:05:35]     OBSOLETE         GO:0009614  obsolete disease resistance
+[2026-09-25T09:05:35]     WRONG_BIOLOGY    GO:0016057  regulation of membrane potential in photoreceptor cell
+[2026-09-25T09:05:35] querying KRAS_SIGNALING_DN (200 genes) | allowed=13819 enriched=204
+[2026-09-25T09:05:56]   LLM 10 IDs | unsupported 2 | allowed_not_enriched 8 | valid_enriched 0
+[2026-09-25T09:05:56]     WRONG_BIOLOGY    GO:0007615  anesthesia-resistant memory
+[2026-09-25T09:05:56]     WRONG_BIOLOGY    GO:0007619  courtship behavior
+[2026-09-25T09:05:56] querying KRAS_SIGNALING_UP (200 genes) | allowed=13828 enriched=580
+[2026-09-25T09:06:18]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 10 | valid_enriched 0
+[2026-09-25T09:06:18] querying MITOTIC_SPINDLE (199 genes) | allowed=13924 enriched=783
+[2026-09-25T09:06:41]   LLM 10 IDs | unsupported 5 | allowed_not_enriched 2 | valid_enriched 3
+[2026-09-25T09:06:41]     WRONG_BIOLOGY    GO:0007050  regulation of cell cycle
+[2026-09-25T09:06:41]     WRONG_BIOLOGY    GO:0007053  spindle assembly involved in male meiosis
+[2026-09-25T09:06:41]     WRONG_BIOLOGY    GO:0007054  spindle assembly involved in male meiosis I
+[2026-09-25T09:06:41]     WRONG_BIOLOGY    GO:0007055  spindle assembly involved in male meiosis II
+[2026-09-25T09:06:41]     WRONG_BIOLOGY    GO:0007058  spindle assembly involved in female meiosis II
+[2026-09-25T09:06:41] querying MTORC1_SIGNALING (200 genes) | allowed=13873 enriched=386
+[2026-09-25T09:07:02]   LLM 10 IDs | unsupported 4 | allowed_not_enriched 4 | valid_enriched 2
+[2026-09-25T09:07:02]     WRONG_BIOLOGY    GO:0006097  glyoxylate cycle
+[2026-09-25T09:07:02]     OBSOLETE         GO:0006134  obsolete dihydrobiopterin reduction
+[2026-09-25T09:07:02]     OBSOLETE         GO:0006142  obsolete regulation of pyrimidine nucleobase metabolic process
+[2026-09-25T09:07:02]     WRONG_BIOLOGY    GO:0006146  adenine catabolic process
+[2026-09-25T09:07:02] querying MYC_TARGETS_V1 (200 genes) | allowed=13925 enriched=620
+[2026-09-25T09:07:27]   LLM 10 IDs | unsupported 7 | allowed_not_enriched 1 | valid_enriched 2
+[2026-09-25T09:07:27]     WRONG_BIOLOGY    GO:0006315  homing of group II introns
+[2026-09-25T09:07:27]     WRONG_BIOLOGY    GO:0006316  movement of group I intron
+[2026-09-25T09:07:27]     WRONG_BIOLOGY    GO:0006317  DNA transposition
+[2026-09-25T09:07:27]     WRONG_BIOLOGY    GO:0006319  retrotransposition
+[2026-09-25T09:07:27]     WRONG_BIOLOGY    GO:0006320  retrotransposition
+[2026-09-25T09:07:27]     WRONG_BIOLOGY    GO:0006321  retrotransposition
+[2026-09-25T09:07:27]     WRONG_BIOLOGY    GO:0006322  retrotransposition
+[2026-09-25T09:07:27] querying MYC_TARGETS_V2 (58 genes) | allowed=13799 enriched=89
+[2026-09-25T09:07:42]   LLM 10 IDs | unsupported 3 | allowed_not_enriched 7 | valid_enriched 0
+[2026-09-25T09:07:42]     OBSOLETE         GO:0006928  obsolete movement of cell or subcellular component
+[2026-09-25T09:07:42]     OBSOLETE         GO:0006992  obsolete sterol regulatory element binding protein cleavage
+[2026-09-25T09:07:42]     WRONG_BIOLOGY    GO:0007184  regulation of SMAD protein signal transduction
+[2026-09-25T09:07:42] querying MYOGENESIS (200 genes) | allowed=13887 enriched=741
+[2026-09-25T09:08:00]   LLM 10 IDs | unsupported 2 | allowed_not_enriched 7 | valid_enriched 1
+[2026-09-25T09:08:00]     OBSOLETE         GO:0007568  obsolete aging
+[2026-09-25T09:08:00]     WRONG_BIOLOGY    GO:0007615  anesthesia-resistant memory
+[2026-09-25T09:08:00] querying NOTCH_SIGNALING (32 genes) | allowed=13793 enriched=674
+[2026-09-25T09:08:17]   LLM 10 IDs | unsupported 3 | allowed_not_enriched 5 | valid_enriched 2
+[2026-09-25T09:08:17]     WRONG_BIOLOGY    GO:0007262  regulation of receptor signaling pathway via JAK-STAT
+[2026-09-25T09:08:17]     OBSOLETE         GO:0007263  obsolete nitric oxide mediated signal transduction
+[2026-09-25T09:08:17]     WRONG_BIOLOGY    GO:0007582  biological_process
+[2026-09-25T09:08:17] querying OXIDATIVE_PHOSPHORYLATION (200 genes) | allowed=13915 enriched=447
+[2026-09-25T09:08:44]   LLM 10 IDs | unsupported 8 | allowed_not_enriched 1 | valid_enriched 1
+[2026-09-25T09:08:44]     WRONG_BIOLOGY    GO:0006097  glyoxylate cycle
+[2026-09-25T09:08:44]     OBSOLETE         GO:0006134  obsolete dihydrobiopterin reduction
+[2026-09-25T09:08:44]     OBSOLETE         GO:0006135  obsolete dihydropteridine reduction
+[2026-09-25T09:08:44]     WRONG_BIOLOGY    GO:0006136  aerobic electron transport chain
+[2026-09-25T09:08:44]     WRONG_BIOLOGY    GO:0006137  aerobic electron transport chain
+[2026-09-25T09:08:44]     WRONG_BIOLOGY    GO:0006138  aerobic electron transport chain
+[2026-09-25T09:08:44]     WRONG_BIOLOGY    GO:0006141  regulation of purine nucleobase metabolic process
+[2026-09-25T09:08:44]     OBSOLETE         GO:0006142  obsolete regulation of pyrimidine nucleobase metabolic process
+[2026-09-25T09:08:44] querying P53_PATHWAY (200 genes) | allowed=13830 enriched=535
+[2026-09-25T09:09:06]   LLM 10 IDs | unsupported 5 | allowed_not_enriched 2 | valid_enriched 3
+[2026-09-25T09:09:07]     OBSOLETE         GO:0006306  obsolete DNA methylation
+[2026-09-25T09:09:07]     WRONG_BIOLOGY    GO:0006315  homing of group II introns
+[2026-09-25T09:09:07]     WRONG_BIOLOGY    GO:0006317  DNA transposition
+[2026-09-25T09:09:07]     OBSOLETE         GO:0009484  obsolete ba3-type cytochrome c oxidase
+[2026-09-25T09:09:07]     OBSOLETE         GO:0018058  obsolete N-terminal protein amino acid deamination, from amino carbon
+[2026-09-25T09:09:07] querying PANCREAS_BETA_CELLS (40 genes) | allowed=13794 enriched=238
+[2026-09-25T09:09:19]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 9 | valid_enriched 1
+[2026-09-25T09:09:19] querying PI3K_AKT_MTOR_SIGNALING (105 genes) | allowed=13862 enriched=859
+[2026-09-25T09:09:40]   LLM 10 IDs | unsupported 8 | allowed_not_enriched 1 | valid_enriched 1
+[2026-09-25T09:09:40]     WRONG_BIOLOGY    GO:0007226  regulation of smoothened signaling pathway
+[2026-09-25T09:09:40]     OBSOLETE         GO:0007227  obsolete signal transduction downstream of smoothened
+[2026-09-25T09:09:40]     OBSOLETE         GO:0007228  obsolete positive regulation of hh target transcription factor activity
+[2026-09-25T09:09:40]     OBSOLETE         GO:0007233  obsolete osmosensory signaling MAPK cascade
+[2026-09-25T09:09:40]     WRONG_BIOLOGY    GO:0007234  osmosensory signaling via phosphorelay pathway
+[2026-09-25T09:09:40]     OBSOLETE         GO:0007235  obsolete activation of Ypd1 protein
+[2026-09-25T09:09:40]     OBSOLETE         GO:0007236  obsolete activation of Ssk1 protein
+[2026-09-25T09:09:40]     OBSOLETE         GO:0007237  obsolete activation of Ssk2/Ssk22 proteins
+[2026-09-25T09:09:40] querying PPEROXISOME (104 genes) | allowed=13865 enriched=319
+[2026-09-25T09:09:59]   LLM 10 IDs | unsupported 3 | allowed_not_enriched 3 | valid_enriched 4
+[2026-09-25T09:09:59]     WRONG_BRANCH     GO:0008201  heparin binding
+[2026-09-25T09:09:59]     WRONG_BIOLOGY    GO:0009061  anaerobic respiration
+[2026-09-25T09:09:59]     OBSOLETE         GO:0009064  obsolete glutamine family amino acid metabolic process
+[2026-09-25T09:09:59] querying PROTEIN_SECRETION (96 genes) | allowed=13888 enriched=324
+[2026-09-25T09:10:19]   LLM 10 IDs | unsupported 4 | allowed_not_enriched 4 | valid_enriched 2
+[2026-09-25T09:10:19]     OBSOLETE         GO:0006923  obsolete cleavage of cytoskeletal proteins involved in execution phase of apoptosis
+[2026-09-25T09:10:19]     OBSOLETE         GO:0006926  obsolete virus-infected cell apoptotic process
+[2026-09-25T09:10:19]     OBSOLETE         GO:0006927  obsolete transformed cell apoptotic process
+[2026-09-25T09:10:19]     OBSOLETE         GO:0006928  obsolete movement of cell or subcellular component
+[2026-09-25T09:10:19] querying REACTIVE_OXYGEN_SPECIES_PATHWAY (49 genes) | allowed=13800 enriched=131
+[2026-09-25T09:10:36]   LLM 10 IDs | unsupported 4 | allowed_not_enriched 4 | valid_enriched 2
+[2026-09-25T09:10:36]     WRONG_BIOLOGY    GO:0006315  homing of group II introns
+[2026-09-25T09:10:36]     WRONG_BIOLOGY    GO:0006317  DNA transposition
+[2026-09-25T09:10:36]     OBSOLETE         GO:0006339  obsolete positive regulation of transcription of homeotic gene (trithorax group)
+[2026-09-25T09:10:36]     OBSOLETE         GO:0009465  obsolete soluble cytochrome b562
+[2026-09-25T09:10:36] querying SPERMATOGENESIS (135 genes) | allowed=13792 enriched=79
+[2026-09-25T09:10:53]   LLM 5 IDs | unsupported 1 | allowed_not_enriched 4 | valid_enriched 0
+[2026-09-25T09:10:53]     OBSOLETE         GO:0006928  obsolete movement of cell or subcellular component
+[2026-09-25T09:10:53] querying TGF_BETA_SIGNALING (54 genes) | allowed=13835 enriched=850
+[2026-09-25T09:11:10]   LLM 10 IDs | unsupported 3 | allowed_not_enriched 6 | valid_enriched 1
+[2026-09-25T09:11:10]     OBSOLETE         GO:0009985  obsolete dihydroflavonol(thiole) lyase activity
+[2026-09-25T09:11:10]     WRONG_BRANCH     GO:0009986  cell surface
+[2026-09-25T09:11:10]     WRONG_BIOLOGY    GO:0010865  stipule development
+[2026-09-25T09:11:10] querying TNF_ALPHA_SIGNALING_VIA_NF_KB (200 genes) | allowed=13867 enriched=1282
+[2026-09-25T09:11:31]   LLM 10 IDs | unsupported 3 | allowed_not_enriched 1 | valid_enriched 6
+[2026-09-25T09:11:31]     OBSOLETE         GO:0006923  obsolete cleavage of cytoskeletal proteins involved in execution phase of apoptosis
+[2026-09-25T09:11:31]     OBSOLETE         GO:0006928  obsolete movement of cell or subcellular component
+[2026-09-25T09:11:31]     WRONG_BRANCH     GO:0016021  membrane
+[2026-09-25T09:11:31] querying UNFOLDED_PROTEIN_RESPONSE (113 genes) | allowed=13846 enriched=352
+[2026-09-25T09:11:50]   LLM 10 IDs | unsupported 2 | allowed_not_enriched 6 | valid_enriched 2
+[2026-09-25T09:11:50]     OBSOLETE         GO:0006912  obsolete phagosome formation
+[2026-09-25T09:11:50]     OBSOLETE         GO:0006928  obsolete movement of cell or subcellular component
+[2026-09-25T09:11:50] querying UV_RESPONSE_DN (144 genes) | allowed=13851 enriched=839
+[2026-09-25T09:12:07]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 6 | valid_enriched 3
+[2026-09-25T09:12:07]     OBSOLETE         GO:0007228  obsolete positive regulation of hh target transcription factor activity
+[2026-09-25T09:12:07] querying UV_RESPONSE_UP (158 genes) | allowed=13803 enriched=303
+[2026-09-25T09:12:29]   LLM 10 IDs | unsupported 5 | allowed_not_enriched 4 | valid_enriched 1
+[2026-09-25T09:12:29]     WRONG_BRANCH     GO:0016021  membrane
+[2026-09-25T09:12:29]     WRONG_BRANCH     GO:0016301  kinase activity
+[2026-09-25T09:12:29]     WRONG_BRANCH     GO:0016610  nitrogenase complex
+[2026-09-25T09:12:29]     WRONG_BRANCH     GO:0016612  molybdenum-iron nitrogenase complex
+[2026-09-25T09:12:29]     WRONG_BRANCH     GO:0016614  oxidoreductase activity, acting on CH-OH group of donors
+[2026-09-25T09:12:29] querying WNT_BETA_CATENIN_SIGNALING (42 genes) | allowed=13808 enriched=693
+[2026-09-25T09:12:44]   LLM 7 IDs | unsupported 2 | allowed_not_enriched 2 | valid_enriched 3
+[2026-09-25T09:12:44]     WRONG_BIOLOGY    GO:0007307  eggshell chorion gene amplification
+[2026-09-25T09:12:44]     WRONG_BIOLOGY    GO:0007326  peptide pheromone maturation
+[2026-09-25T09:12:44] querying XENOBIOTIC_METABOLISM (200 genes) | allowed=13891 enriched=543
+[2026-09-25T09:13:07]   LLM 10 IDs | unsupported 5 | allowed_not_enriched 1 | valid_enriched 4
+[2026-09-25T09:13:07]     OBSOLETE         GO:0006628  obsolete mitochondrial translocation
+[2026-09-25T09:13:07]     OBSOLETE         GO:0006630  obsolete lipid binding
+[2026-09-25T09:13:07]     WRONG_BIOLOGY    GO:0006632  regulation of fatty acid metabolic process
+[2026-09-25T09:13:07]     WRONG_BIOLOGY    GO:0006634  hexadecanal biosynthetic process
+[2026-09-25T09:13:07]     OBSOLETE         GO:0006928  obsolete movement of cell or subcellular component
+[2026-09-25T09:13:07] ==================================================
+[2026-09-25T09:13:07] provider=local model=/home/maano.malima/llm-models/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf
+[2026-09-25T09:13:07] TOTAL: 488 LLM IDs across 50 disease lists
+[2026-09-25T09:13:07]   Contract A unsupported (not in allowed):     172
+[2026-09-25T09:13:07]   Contract B allowed but not enriched:         191
+[2026-09-25T09:13:07]   Contract A+B violated (not in enriched):     363
+[2026-09-25T09:13:07]   Valid enriched hits:                         125
+[2026-09-25T09:13:07]   QuickGO breakdown: {'OBSOLETE': 57, 'WRONG_BIOLOGY': 98, 'WRONG_BRANCH': 17}
+[2026-09-25T09:13:07] wrote llm_baseline_test-hallmark.json

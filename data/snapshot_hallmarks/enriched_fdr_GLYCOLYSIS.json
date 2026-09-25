@@ -1,0 +1,4160 @@
+{
+  "PANTHER": [
+    {
+      "id": "GO:0005975",
+      "label": "carbohydrate metabolic process",
+      "fdr": 7.678276360478351e-50,
+      "p_value": 5.579737199679057e-54,
+      "fold": 16.276317224828187,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901135",
+      "label": "carbohydrate derivative metabolic process",
+      "fdr": 1.5366001569358188e-46,
+      "p_value": 2.2332681591974694e-50,
+      "fold": 8.732772082286644,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019318",
+      "label": "hexose metabolic process",
+      "fdr": 7.279101143668906e-30,
+      "p_value": 1.5868980038519525e-33,
+      "fold": 24.566289988858824,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016051",
+      "label": "carbohydrate biosynthetic process",
+      "fdr": 2.694204081701434e-29,
+      "p_value": 7.83141946574067e-33,
+      "fold": 27.424328954882924,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044281",
+      "label": "small molecule metabolic process",
+      "fdr": 1.150378828656242e-28,
+      "p_value": 4.179851859080888e-32,
+      "fold": 5.117681671079729,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0005996",
+      "label": "monosaccharide metabolic process",
+      "fdr": 2.6487898122961353e-28,
+      "p_value": 1.1549116251563704e-31,
+      "fold": 21.56177970245163,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055086",
+      "label": "nucleobase-containing small molecule metabolic process",
+      "fdr": 2.6602901358406924e-28,
+      "p_value": 1.3532469261597883e-31,
+      "fold": 8.513465597298438,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006753",
+      "label": "nucleoside phosphate metabolic process",
+      "fdr": 2.6057194268001785e-27,
+      "p_value": 1.5148430647773728e-30,
+      "fold": 8.631317818389492,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046496",
+      "label": "nicotinamide nucleotide metabolic process",
+      "fdr": 2.701132161741852e-26,
+      "p_value": 1.7666004981961103e-29,
+      "fold": 25.218210952964466,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901137",
+      "label": "carbohydrate derivative biosynthetic process",
+      "fdr": 1.8859576017355653e-25,
+      "p_value": 1.3705091212379663e-28,
+      "fold": 8.340688437775816,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072524",
+      "label": "pyridine-containing compound metabolic process",
+      "fdr": 6.626104056154021e-25,
+      "p_value": 5.296645928180672e-28,
+      "fold": 22.39203213927017,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006091",
+      "label": "generation of precursor metabolites and energy",
+      "fdr": 2.5228608975604465e-24,
+      "p_value": 2.200009502995811e-27,
+      "fold": 11.812844397795853,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006006",
+      "label": "glucose metabolic process",
+      "fdr": 6.227397751162929e-24,
+      "p_value": 5.8830150981119156e-27,
+      "fold": 27.032552826956028,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016052",
+      "label": "carbohydrate catabolic process",
+      "fdr": 1.2816536454520426e-22,
+      "p_value": 1.3039133083590287e-25,
+      "fold": 21.796999117387465,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019637",
+      "label": "organophosphate metabolic process",
+      "fdr": 3.5424559274019777e-22,
+      "p_value": 3.861408248748613e-25,
+      "fold": 5.683754328567483,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046364",
+      "label": "monosaccharide biosynthetic process",
+      "fdr": 5.568009450667385e-22,
+      "p_value": 6.473959102585434e-25,
+      "fold": 39.96116504854369,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006793",
+      "label": "phosphorus metabolic process",
+      "fdr": 1.8703462128000194e-21,
+      "p_value": 2.3105795812513868e-24,
+      "fold": 5.468369954011242,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006163",
+      "label": "purine nucleotide metabolic process",
+      "fdr": 4.6701247060024055e-21,
+      "p_value": 6.787478680331961e-24,
+      "fold": 9.78875800900926,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006094",
+      "label": "gluconeogenesis",
+      "fdr": 4.880734880641943e-21,
+      "p_value": 6.38421828730143e-24,
+      "fold": 41.42315889178309,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0015980",
+      "label": "energy derivation by oxidation of organic compounds",
+      "fdr": 4.8959259184512165e-21,
+      "p_value": 6.759871553707806e-24,
+      "fold": 12.133956998545655,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006029",
+      "label": "proteoglycan metabolic process",
+      "fdr": 1.0052763891435252e-20,
+      "p_value": 1.534103929366618e-23,
+      "fold": 21.761030471979236,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019319",
+      "label": "hexose biosynthetic process",
+      "fdr": 1.761423525765891e-20,
+      "p_value": 2.816024821368331e-23,
+      "fold": 38.59885260370697,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008152",
+      "label": "metabolic process",
+      "fdr": 4.3072548532982134e-20,
+      "p_value": 7.199103380994035e-23,
+      "fold": 1.9754813230212276,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046031",
+      "label": "ADP metabolic process",
+      "fdr": 6.282044010933147e-20,
+      "p_value": 1.0956257267814513e-22,
+      "fold": 36.13509605453419,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019320",
+      "label": "hexose catabolic process",
+      "fdr": 2.110513421395041e-19,
+      "p_value": 3.8342297460123557e-22,
+      "fold": 33.966990291262135,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030166",
+      "label": "proteoglycan biosynthetic process",
+      "fdr": 3.067987462526503e-19,
+      "p_value": 5.7966480652342905e-22,
+      "fold": 25.650747835213853,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009117",
+      "label": "nucleotide metabolic process",
+      "fdr": 3.812422558644535e-19,
+      "p_value": 7.480227387791763e-22,
+      "fold": 8.470571144953151,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046365",
+      "label": "monosaccharide catabolic process",
+      "fdr": 8.713782104818597e-19,
+      "p_value": 1.7730244817594704e-21,
+      "fold": 31.450916936353828,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072521",
+      "label": "purine-containing compound metabolic process",
+      "fdr": 1.3167714693920346e-18,
+      "p_value": 2.774970758837948e-21,
+      "fold": 7.477141069374079,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006090",
+      "label": "pyruvate metabolic process",
+      "fdr": 1.6609933461144247e-18,
+      "p_value": 3.621088611542238e-21,
+      "fold": 30.327669902912625,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009058",
+      "label": "biosynthetic process",
+      "fdr": 1.769343108208278e-18,
+      "p_value": 3.985875761533074e-21,
+      "fold": 2.599500602308717,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009135",
+      "label": "purine nucleoside diphosphate metabolic process",
+      "fdr": 2.1330494468030372e-18,
+      "p_value": 5.115226491134382e-21,
+      "fold": 29.795605518650998,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009179",
+      "label": "purine ribonucleoside diphosphate metabolic process",
+      "fdr": 2.199707242015632e-18,
+      "p_value": 5.115226491134382e-21,
+      "fold": 29.795605518650998,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009100",
+      "label": "glycoprotein metabolic process",
+      "fdr": 3.757603436986979e-18,
+      "p_value": 9.284101217757233e-21,
+      "fold": 9.484453729875876,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046032",
+      "label": "ADP catabolic process",
+      "fdr": 7.689788413315191e-18,
+      "p_value": 1.955836018211116e-20,
+      "fold": 37.46359223300971,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009137",
+      "label": "purine nucleoside diphosphate catabolic process",
+      "fdr": 1.753390237657384e-17,
+      "p_value": 4.714442176682161e-20,
+      "fold": 35.679611650485434,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009181",
+      "label": "purine ribonucleoside diphosphate catabolic process",
+      "fdr": 1.802095522036756e-17,
+      "p_value": 4.714442176682161e-20,
+      "fold": 35.679611650485434,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009101",
+      "label": "glycoprotein biosynthetic process",
+      "fdr": 3.5522925604849287e-17,
+      "p_value": 9.809397376529851e-20,
+      "fold": 10.33478406427854,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006007",
+      "label": "glucose catabolic process",
+      "fdr": 8.001862710026154e-17,
+      "p_value": 2.2678049973913236e-19,
+      "fold": 46.38349514563107,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009185",
+      "label": "ribonucleoside diphosphate metabolic process",
+      "fdr": 8.862821825072404e-17,
+      "p_value": 2.576214468446306e-19,
+      "fold": 24.262135922330096,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006096",
+      "label": "glycolytic process",
+      "fdr": 1.0862286302601869e-16,
+      "p_value": 3.2363472015600364e-19,
+      "fold": 37.80110207294673,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009191",
+      "label": "ribonucleoside diphosphate catabolic process",
+      "fdr": 1.1262513029715775e-16,
+      "p_value": 3.4374358494881365e-19,
+      "fold": 31.883908283412516,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901136",
+      "label": "carbohydrate derivative catabolic process",
+      "fdr": 1.1726987941953266e-16,
+      "p_value": 3.6644174224546934e-19,
+      "fold": 11.988349514563106,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009134",
+      "label": "nucleoside diphosphate catabolic process",
+      "fdr": 1.5501005949316105e-16,
+      "p_value": 4.956356818326492e-19,
+      "fold": 31.219660194174757,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009132",
+      "label": "nucleoside diphosphate metabolic process",
+      "fdr": 2.2160768301583956e-16,
+      "p_value": 7.246817626417252e-19,
+      "fold": 22.95066911571766,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019364",
+      "label": "pyridine nucleotide catabolic process",
+      "fdr": 8.021131061887424e-16,
+      "p_value": 2.6812879067423986e-18,
+      "fold": 33.300970873786405,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061621",
+      "label": "canonical glycolysis",
+      "fdr": 9.743539449392343e-16,
+      "p_value": 3.3986621144599405e-18,
+      "fold": 47.953398058252425,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061718",
+      "label": "glucose catabolic process to pyruvate",
+      "fdr": 9.950848799379414e-16,
+      "p_value": 3.3986621144599405e-18,
+      "fold": 47.953398058252425,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044238",
+      "label": "primary metabolic process",
+      "fdr": 1.6145221090506182e-15,
+      "p_value": 5.748970521290625e-18,
+      "fold": 1.9453456603405375,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061615",
+      "label": "glycolytic process through fructose-6-phosphate",
+      "fdr": 1.6882459633128996e-15,
+      "p_value": 6.256852273014888e-18,
+      "fold": 46.10903659447349,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061620",
+      "label": "glycolytic process through glucose-6-phosphate",
+      "fdr": 1.7220108825791576e-15,
+      "p_value": 6.256852273014888e-18,
+      "fold": 46.10903659447349,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072526",
+      "label": "pyridine-containing compound catabolic process",
+      "fdr": 2.1819188820096338e-15,
+      "p_value": 8.245024479652712e-18,
+      "fold": 31.080906148867314,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044282",
+      "label": "small molecule catabolic process",
+      "fdr": 3.590652114601885e-15,
+      "p_value": 1.3829268372494725e-17,
+      "fold": 8.08462876704641,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0180064",
+      "label": "protein O-linked glycosylation via xylose",
+      "fdr": 2.0949591492584852e-14,
+      "p_value": 8.220899212263514e-17,
+      "fold": 26.89693801344287,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030201",
+      "label": "heparan sulfate proteoglycan metabolic process",
+      "fdr": 3.421205096437002e-14,
+      "p_value": 1.367388128072343e-16,
+      "fold": 30.922330097087375,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009154",
+      "label": "purine ribonucleotide catabolic process",
+      "fdr": 1.30182634393472e-13,
+      "p_value": 5.297745458930624e-16,
+      "fold": 20.527995744114907,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009205",
+      "label": "purine ribonucleoside triphosphate metabolic process",
+      "fdr": 1.7159764232742082e-13,
+      "p_value": 7.107816010946143e-16,
+      "fold": 11.616617746669677,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046034",
+      "label": "ATP metabolic process",
+      "fdr": 1.8382836989541546e-13,
+      "p_value": 7.748016462418499e-16,
+      "fold": 12.654368932038837,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045333",
+      "label": "cellular respiration",
+      "fdr": 2.0062356064782312e-13,
+      "p_value": 8.60169324774476e-16,
+      "fold": 10.59576345984113,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044283",
+      "label": "small molecule biosynthetic process",
+      "fdr": 2.550556993830073e-13,
+      "p_value": 1.1120806600523535e-15,
+      "fold": 6.822637935117215,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009144",
+      "label": "purine nucleoside triphosphate metabolic process",
+      "fdr": 2.816718694148819e-13,
+      "p_value": 1.2485999588916355e-15,
+      "fold": 11.288464702978445,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009060",
+      "label": "aerobic respiration",
+      "fdr": 4.781847018604471e-13,
+      "p_value": 2.154454728242695e-15,
+      "fold": 10.97834204630321,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009261",
+      "label": "ribonucleotide catabolic process",
+      "fdr": 7.215853493207072e-13,
+      "p_value": 3.355967034119996e-15,
+      "fold": 18.274923040492542,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006195",
+      "label": "purine nucleotide catabolic process",
+      "fdr": 7.330390850242105e-13,
+      "p_value": 3.355967034119996e-15,
+      "fold": 18.274923040492542,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019693",
+      "label": "ribose phosphate metabolic process",
+      "fdr": 1.0494645024485437e-12,
+      "p_value": 4.957139209298404e-15,
+      "fold": 7.939304314280203,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009225",
+      "label": "nucleotide-sugar metabolic process",
+      "fdr": 1.298719429484752e-12,
+      "p_value": 6.228870165394494e-15,
+      "fold": 28.543689320388346,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009141",
+      "label": "nucleoside triphosphate metabolic process",
+      "fdr": 2.0620073782981982e-12,
+      "p_value": 1.0039567934450933e-14,
+      "fold": 10.142427677295354,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043436",
+      "label": "oxoacid metabolic process",
+      "fdr": 7.26857321604665e-12,
+      "p_value": 3.5917664318812024e-14,
+      "fold": 4.7506280127639355,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009150",
+      "label": "purine ribonucleotide metabolic process",
+      "fdr": 1.1701851395651823e-11,
+      "p_value": 5.867507785044516e-14,
+      "fold": 8.021401743320814,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072523",
+      "label": "purine-containing compound catabolic process",
+      "fdr": 1.6676265807112713e-11,
+      "p_value": 8.482948960816002e-14,
+      "fold": 14.837066230894933,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006022",
+      "label": "aminoglycan metabolic process",
+      "fdr": 3.16929125856024e-11,
+      "p_value": 1.635198600085583e-13,
+      "fold": 18.82228788518362,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0015012",
+      "label": "heparan sulfate proteoglycan biosynthetic process",
+      "fdr": 3.857969940755324e-11,
+      "p_value": 2.0465940387699926e-13,
+      "fold": 33.30097087378641,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009166",
+      "label": "nucleotide catabolic process",
+      "fdr": 3.8989052796536364e-11,
+      "p_value": 2.039976601519234e-13,
+      "fold": 14.005081208601762,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009259",
+      "label": "ribonucleotide metabolic process",
+      "fdr": 4.9192199259369224e-11,
+      "p_value": 2.6453184690017604e-13,
+      "fold": 7.450386703965774,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009987",
+      "label": "cellular process",
+      "fdr": 7.778437082271127e-11,
+      "p_value": 4.2393923491776364e-13,
+      "fold": 1.277462429582889,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019752",
+      "label": "carboxylic acid metabolic process",
+      "fdr": 9.839828470558237e-11,
+      "p_value": 5.505899224133306e-13,
+      "fold": 4.593237361901573,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030203",
+      "label": "glycosaminoglycan metabolic process",
+      "fdr": 9.841065775627368e-11,
+      "p_value": 5.43507738498423e-13,
+      "fold": 20.319236465361197,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006493",
+      "label": "protein O-linked glycosylation",
+      "fdr": 1.6018866490101276e-10,
+      "p_value": 9.079802239865558e-13,
+      "fold": 11.336500722991119,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0005976",
+      "label": "polysaccharide metabolic process",
+      "fdr": 2.81372390901717e-10,
+      "p_value": 1.6153200262506828e-12,
+      "fold": 22.427184466019416,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901292",
+      "label": "nucleoside phosphate catabolic process",
+      "fdr": 5.117565649914639e-10,
+      "p_value": 2.9751126516472e-12,
+      "fold": 11.707372572815535,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009226",
+      "label": "nucleotide-sugar biosynthetic process",
+      "fdr": 8.426419639506647e-10,
+      "p_value": 4.9599592384277196e-12,
+      "fold": 32.1116504854369,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046434",
+      "label": "organophosphate catabolic process",
+      "fdr": 8.44726246810819e-10,
+      "p_value": 5.033613272181321e-12,
+      "fold": 9.230160405234276,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050654",
+      "label": "chondroitin sulfate proteoglycan metabolic process",
+      "fdr": 3.2259492756969296e-09,
+      "p_value": 1.945743695100975e-11,
+      "fold": 28.097694174757283,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050650",
+      "label": "chondroitin sulfate proteoglycan biosynthetic process",
+      "fdr": 9.235641087611793e-09,
+      "p_value": 5.637626999196211e-11,
+      "fold": 33.300970873786405,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006040",
+      "label": "amino sugar metabolic process",
+      "fdr": 2.2401643848492994e-08,
+      "p_value": 1.3837219149203579e-10,
+      "fold": 23.05451829723674,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006044",
+      "label": "N-acetylglucosamine metabolic process",
+      "fdr": 4.216674640810089e-08,
+      "p_value": 2.6352301366882323e-10,
+      "fold": 38.85113268608414,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006023",
+      "label": "aminoglycan biosynthetic process",
+      "fdr": 6.740199205898267e-08,
+      "p_value": 4.261298822128837e-10,
+      "fold": 26.64077669902913,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001666",
+      "label": "response to hypoxia",
+      "fdr": 9.355055504669449e-08,
+      "p_value": 5.982449563337777e-10,
+      "fold": 6.820680781377939,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901293",
+      "label": "nucleoside phosphate biosynthetic process",
+      "fdr": 9.436060208695764e-08,
+      "p_value": 6.102822168257562e-10,
+      "fold": 6.331874743607274,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006739",
+      "label": "NADP+ metabolic process",
+      "fdr": 1.150986360417344e-07,
+      "p_value": 7.527706739158561e-10,
+      "fold": 24.975728155339805,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006112",
+      "label": "energy reserve metabolic process",
+      "fdr": 1.2555987005132212e-07,
+      "p_value": 8.303137980285091e-10,
+      "fold": 19.13034497004751,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0036293",
+      "label": "response to decreased oxygen levels",
+      "fdr": 1.3696588872277742e-07,
+      "p_value": 9.156937549956778e-10,
+      "fold": 6.634177791262136,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000271",
+      "label": "polysaccharide biosynthetic process",
+      "fdr": 1.3889100309889235e-07,
+      "p_value": 9.386573132909664e-10,
+      "fold": 33.300970873786405,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008150",
+      "label": "biological_process",
+      "fdr": 2.769055393062877e-07,
+      "p_value": 1.91163623530974e-09,
+      "fold": 1.1489663807800654,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006024",
+      "label": "glycosaminoglycan biosynthetic process",
+      "fdr": 3.904171327287695e-07,
+      "p_value": 2.7236425217616358e-09,
+      "fold": 29.138349514563107,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090407",
+      "label": "organophosphate biosynthetic process",
+      "fdr": 4.6759474865010307e-07,
+      "p_value": 3.296031583392195e-09,
+      "fold": 4.376699029126214,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070482",
+      "label": "response to oxygen levels",
+      "fdr": 5.290365317400045e-07,
+      "p_value": 3.76757358553306e-09,
+      "fold": 6.043948450402516,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0005977",
+      "label": "glycogen metabolic process",
+      "fdr": 5.763697476901707e-07,
+      "p_value": 4.1465449474113e-09,
+      "fold": 20.492905153099326,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030202",
+      "label": "heparin proteoglycan metabolic process",
+      "fdr": 5.97456363426858e-07,
+      "p_value": 4.341663857472989e-09,
+      "fold": 39.96116504854369,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009056",
+      "label": "catabolic process",
+      "fdr": 6.614663850254399e-07,
+      "p_value": 4.85488735466677e-09,
+      "fold": 2.4453543119965544,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044042",
+      "label": "glucan metabolic process",
+      "fdr": 6.933020048239368e-07,
+      "p_value": 5.138929183347253e-09,
+      "fold": 19.980582524271846,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006139",
+      "label": "nucleobase-containing compound metabolic process",
+      "fdr": 9.282193237246924e-07,
+      "p_value": 6.9476484516854384e-09,
+      "fold": 2.199985492251717,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050655",
+      "label": "dermatan sulfate proteoglycan metabolic process",
+      "fdr": 1.3969816350513104e-06,
+      "p_value": 1.055781484233241e-08,
+      "fold": 35.259851513420905,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043490",
+      "label": "malate-aspartate shuttle",
+      "fdr": 1.5300938342102324e-06,
+      "p_value": 1.1675012905462859e-08,
+      "fold": 55.50161812297735,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032787",
+      "label": "monocarboxylic acid metabolic process",
+      "fdr": 2.7193392526134298e-06,
+      "p_value": 2.0946876010248062e-08,
+      "fold": 4.530744336569579,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019673",
+      "label": "GDP-mannose metabolic process",
+      "fdr": 2.97855965950811e-06,
+      "p_value": 2.3160081648671446e-08,
+      "fold": 49.95145631067962,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006081",
+      "label": "aldehyde metabolic process",
+      "fdr": 3.1914434837143668e-06,
+      "p_value": 2.5047300068392678e-08,
+      "fold": 13.22244431753284,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019682",
+      "label": "glyceraldehyde-3-phosphate metabolic process",
+      "fdr": 8.877675538768365e-06,
+      "p_value": 7.160976562773699e-08,
+      "fold": 41.62621359223301,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030210",
+      "label": "heparin proteoglycan biosynthetic process",
+      "fdr": 8.958381680029897e-06,
+      "p_value": 7.160976562773699e-08,
+      "fold": 41.62621359223301,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006002",
+      "label": "fructose 6-phosphate metabolic process",
+      "fdr": 9.040568667920079e-06,
+      "p_value": 7.160976562773699e-08,
+      "fold": 41.62621359223301,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050651",
+      "label": "dermatan sulfate proteoglycan biosynthetic process",
+      "fdr": 1.4181180901878662e-05,
+      "p_value": 1.1541982857426133e-07,
+      "fold": 38.42419716206124,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009298",
+      "label": "GDP-mannose biosynthetic process",
+      "fdr": 1.7535072738390005e-05,
+      "p_value": 1.439912229807478e-07,
+      "fold": 66.60194174757281,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019674",
+      "label": "NAD+ metabolic process",
+      "fdr": 1.848921367453301e-05,
+      "p_value": 1.5316985385486253e-07,
+      "fold": 17.05659483779304,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009250",
+      "label": "glucan biosynthetic process",
+      "fdr": 2.1125814528089744e-05,
+      "p_value": 1.780825874034162e-07,
+      "fold": 35.67961165048544,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0005978",
+      "label": "glycogen biosynthetic process",
+      "fdr": 2.1309517263116612e-05,
+      "p_value": 1.780825874034162e-07,
+      "fold": 35.67961165048544,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034655",
+      "label": "nucleobase-containing compound catabolic process",
+      "fdr": 2.1968127039089454e-05,
+      "p_value": 1.867793665848024e-07,
+      "fold": 4.6276553530329885,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006790",
+      "label": "sulfur compound metabolic process",
+      "fdr": 3.26564632426043e-05,
+      "p_value": 2.800278077630483e-07,
+      "fold": 5.528224413830155,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0018146",
+      "label": "keratan sulfate proteoglycan biosynthetic process",
+      "fdr": 4.42034493580533e-05,
+      "p_value": 3.822549577507698e-07,
+      "fold": 31.219660194174757,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071456",
+      "label": "cellular response to hypoxia",
+      "fdr": 5.2268478015298244e-05,
+      "p_value": 4.5579662537866357e-07,
+      "fold": 8.122188017996686,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042339",
+      "label": "keratan sulfate proteoglycan metabolic process",
+      "fdr": 8.389392344445008e-05,
+      "p_value": 7.376763852029982e-07,
+      "fold": 27.750809061488674,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0036294",
+      "label": "cellular response to decreased oxygen levels",
+      "fdr": 8.592342817206985e-05,
+      "p_value": 7.617657319230087e-07,
+      "fold": 7.684839432412248,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006740",
+      "label": "NADPH regeneration",
+      "fdr": 0.00011109521433319828,
+      "p_value": 9.930027878049116e-07,
+      "fold": 26.290240163515584,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043069",
+      "label": "negative regulation of programmed cell death",
+      "fdr": 0.0001448402152662935,
+      "p_value": 1.3051512748361597e-06,
+      "fold": 3.042728303188606,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071453",
+      "label": "cellular response to oxygen levels",
+      "fdr": 0.0002278750998188432,
+      "p_value": 2.069935867840666e-06,
+      "fold": 6.88985604285236,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043648",
+      "label": "dicarboxylic acid metabolic process",
+      "fdr": 0.00033886599973784485,
+      "p_value": 3.1027625875276834e-06,
+      "fold": 8.98003708956038,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051156",
+      "label": "glucose 6-phosphate metabolic process",
+      "fdr": 0.00037759590766899746,
+      "p_value": 3.4848252506331427e-06,
+      "fold": 20.813106796116504,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0120532",
+      "label": "glycosaminoglycan-protein linkage region biosynthetic process",
+      "fdr": 0.0004219423882942075,
+      "p_value": 3.924760242835445e-06,
+      "fold": 74.92718446601941,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006012",
+      "label": "galactose metabolic process",
+      "fdr": 0.0004834941700333909,
+      "p_value": 4.53242845246039e-06,
+      "fold": 33.300970873786405,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008406",
+      "label": "gonad development",
+      "fdr": 0.0005033373197618037,
+      "p_value": 4.755021551415921e-06,
+      "fold": 7.193009708737864,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045137",
+      "label": "development of primary sexual characteristics",
+      "fdr": 0.0006068635478806876,
+      "p_value": 5.777132822641528e-06,
+      "fold": 7.024423543689321,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046349",
+      "label": "amino sugar biosynthetic process",
+      "fdr": 0.0006720689675027513,
+      "p_value": 6.4955433964004e-06,
+      "fold": 30.739357729648994,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006047",
+      "label": "UDP-N-acetylglucosamine metabolic process",
+      "fdr": 0.0006771603990747418,
+      "p_value": 6.4955433964004e-06,
+      "fold": 30.739357729648994,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006000",
+      "label": "fructose metabolic process",
+      "fdr": 0.0009196963255977949,
+      "p_value": 9.02252772005685e-06,
+      "fold": 28.543689320388353,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006098",
+      "label": "pentose-phosphate shunt",
+      "fdr": 0.0009265597310127038,
+      "p_value": 9.02252772005685e-06,
+      "fold": 28.543689320388353,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006099",
+      "label": "tricarboxylic acid cycle",
+      "fdr": 0.0009458839220579109,
+      "p_value": 9.348173344951375e-06,
+      "fold": 17.224640107130902,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006103",
+      "label": "2-oxoglutarate metabolic process",
+      "fdr": 0.001226145310950636,
+      "p_value": 1.220710032702835e-05,
+      "fold": 26.64077669902913,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0062012",
+      "label": "regulation of small molecule metabolic process",
+      "fdr": 0.001358714190889498,
+      "p_value": 1.362564917831195e-05,
+      "fold": 4.244241385874738,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030388",
+      "label": "fructose 1,6-bisphosphate metabolic process",
+      "fdr": 0.001914133247555624,
+      "p_value": 1.9334679268238626e-05,
+      "fold": 49.95145631067961,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006487",
+      "label": "protein N-linked glycosylation",
+      "fdr": 0.0019494421748776373,
+      "p_value": 1.9832999381067453e-05,
+      "fold": 8.425546847584513,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009059",
+      "label": "macromolecule biosynthetic process",
+      "fdr": 0.0021401423046394355,
+      "p_value": 2.1928643627218983e-05,
+      "fold": 1.843782568153146,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043066",
+      "label": "negative regulation of apoptotic process",
+      "fdr": 0.0021433196797781212,
+      "p_value": 2.2116953312149784e-05,
+      "fold": 2.797281553398058,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043067",
+      "label": "regulation of programmed cell death",
+      "fdr": 0.00233013548557612,
+      "p_value": 2.4214037819735857e-05,
+      "fold": 2.2619527385968126,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009628",
+      "label": "response to abiotic stimulus",
+      "fdr": 0.0024553776389151416,
+      "p_value": 2.5693945207745104e-05,
+      "fold": 2.548002022223827,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048608",
+      "label": "reproductive structure development",
+      "fdr": 0.0026949727113306475,
+      "p_value": 2.8396994632871437e-05,
+      "fold": 5.763629574309185,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007548",
+      "label": "sex differentiation",
+      "fdr": 0.002795848192962907,
+      "p_value": 2.9866265850268684e-05,
+      "fold": 5.726918557912312,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061458",
+      "label": "reproductive system development",
+      "fdr": 0.002814997838120187,
+      "p_value": 2.9866265850268684e-05,
+      "fold": 5.726918557912312,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046686",
+      "label": "response to cadmium ion",
+      "fdr": 0.00440423317723055,
+      "p_value": 4.7367670244177124e-05,
+      "fold": 12.487864077669904,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042867",
+      "label": "pyruvate catabolic process",
+      "fdr": 0.004926273536280501,
+      "p_value": 5.3340219235941766e-05,
+      "fold": 37.463592233009706,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019538",
+      "label": "protein metabolic process",
+      "fdr": 0.0055287544263460005,
+      "p_value": 6.02654722732287e-05,
+      "fold": 1.6969982011806852,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010038",
+      "label": "response to metal ion",
+      "fdr": 0.006174541344875912,
+      "p_value": 6.775348761545402e-05,
+      "fold": 3.892321270962048,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0005980",
+      "label": "glycogen catabolic process",
+      "fdr": 0.006732825074020558,
+      "p_value": 7.43688257576575e-05,
+      "fold": 17.374419586323345,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006108",
+      "label": "malate metabolic process",
+      "fdr": 0.007050931403829851,
+      "p_value": 7.941969098129693e-05,
+      "fold": 33.30097087378641,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902031",
+      "label": "regulation of NADP metabolic process",
+      "fdr": 0.007096716672685889,
+      "p_value": 7.941969098129693e-05,
+      "fold": 33.30097087378641,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0005984",
+      "label": "disaccharide metabolic process",
+      "fdr": 0.007143100441788411,
+      "p_value": 7.941969098129693e-05,
+      "fold": 33.30097087378641,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009251",
+      "label": "glucan catabolic process",
+      "fdr": 0.007760995906440912,
+      "p_value": 8.854562584922776e-05,
+      "fold": 16.650485436893202,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000272",
+      "label": "polysaccharide catabolic process",
+      "fdr": 0.007810745880200149,
+      "p_value": 8.854562584922776e-05,
+      "fold": 16.650485436893202,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061729",
+      "label": "GDP-D-mannose biosynthetic process from fructose-6-phosphate",
+      "fdr": 0.008470058778109864,
+      "p_value": 9.971292217526329e-05,
+      "fold": 99.90291262135922,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046395",
+      "label": "carboxylic acid catabolic process",
+      "fdr": 0.008501227232441781,
+      "p_value": 9.760874229531295e-05,
+      "fold": 4.420482859352178,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042981",
+      "label": "regulation of apoptotic process",
+      "fdr": 0.008515321677723358,
+      "p_value": 9.838937190306039e-05,
+      "fold": 2.2025839003134315,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901073",
+      "label": "glucosamine-containing compound biosynthetic process",
+      "fdr": 0.008522667838843466,
+      "p_value": 9.971292217526329e-05,
+      "fold": 99.90291262135922,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006045",
+      "label": "N-acetylglucosamine biosynthetic process",
+      "fdr": 0.008575934512836237,
+      "p_value": 9.971292217526329e-05,
+      "fold": 99.90291262135922,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051174",
+      "label": "regulation of phosphorus metabolic process",
+      "fdr": 0.009163249359258453,
+      "p_value": 0.00010853932458099905,
+      "fold": 5.511884834281887,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006089",
+      "label": "lactate metabolic process",
+      "fdr": 0.009392470484405687,
+      "p_value": 0.00011261955017273006,
+      "fold": 29.97087378640777,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046184",
+      "label": "aldehyde biosynthetic process",
+      "fdr": 0.009449741645895966,
+      "p_value": 0.00011261955017273006,
+      "fold": 29.97087378640777,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006027",
+      "label": "glycosaminoglycan catabolic process",
+      "fdr": 0.011841517965003176,
+      "p_value": 0.00014284514077396462,
+      "fold": 14.800431499460624,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030200",
+      "label": "heparan sulfate proteoglycan catabolic process",
+      "fdr": 0.016663557058518106,
+      "p_value": 0.000203435621381516,
+      "fold": 24.975728155339805,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008585",
+      "label": "female gonad development",
+      "fdr": 0.01674688133563665,
+      "p_value": 0.00020323589732223823,
+      "fold": 9.25026968716289,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1900542",
+      "label": "regulation of purine nucleotide metabolic process",
+      "fdr": 0.017158632570782834,
+      "p_value": 0.00021197351479057352,
+      "fold": 7.051970302684181,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006140",
+      "label": "regulation of nucleotide metabolic process",
+      "fdr": 0.017260162941024153,
+      "p_value": 0.00021197351479057352,
+      "fold": 7.051970302684181,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006026",
+      "label": "aminoglycan catabolic process",
+      "fdr": 0.01753365575816452,
+      "p_value": 0.00021788061439184165,
+      "fold": 13.320388349514564,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046390",
+      "label": "ribose phosphate biosynthetic process",
+      "fdr": 0.01863218758577777,
+      "p_value": 0.00023288542000972145,
+      "fold": 4.933477166486876,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046545",
+      "label": "development of primary female sexual characteristics",
+      "fdr": 0.01921262190845901,
+      "p_value": 0.00024153648645908063,
+      "fold": 8.91990291262136,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006054",
+      "label": "N-acetylneuraminate metabolic process",
+      "fdr": 0.020642887484725533,
+      "p_value": 0.0002625176447806822,
+      "fold": 23.054518297236744,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032964",
+      "label": "collagen biosynthetic process",
+      "fdr": 0.020761524769120507,
+      "p_value": 0.0002625176447806822,
+      "fold": 23.054518297236744,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046380",
+      "label": "N-acetylneuraminate biosynthetic process",
+      "fdr": 0.02284493272569622,
+      "p_value": 0.0002971617584404929,
+      "fold": 66.60194174757281,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0005988",
+      "label": "lactose metabolic process",
+      "fdr": 0.022973275044379907,
+      "p_value": 0.0002971617584404929,
+      "fold": 66.60194174757281,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006066",
+      "label": "alcohol metabolic process",
+      "fdr": 0.023034766824275087,
+      "p_value": 0.0002946093278884104,
+      "fold": 3.8572553135659935,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006477",
+      "label": "protein sulfation",
+      "fdr": 0.023103067558754933,
+      "p_value": 0.0002971617584404929,
+      "fold": 66.60194174757281,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001541",
+      "label": "ovarian follicle development",
+      "fdr": 0.024294713245732166,
+      "p_value": 0.00031778565396641163,
+      "fold": 12.109443954104147,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007530",
+      "label": "sex determination",
+      "fdr": 0.03128643717252263,
+      "p_value": 0.0004115140707962064,
+      "fold": 19.980582524271846,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046660",
+      "label": "female sex differentiation",
+      "fdr": 0.03672013810571052,
+      "p_value": 0.00048565257868173214,
+      "fold": 7.684839432412248,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072522",
+      "label": "purine-containing compound biosynthetic process",
+      "fdr": 0.04131251864579584,
+      "p_value": 0.000552394697393099,
+      "fold": 3.892321270962048,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048513",
+      "label": "animal organ development",
+      "fdr": 0.041511180413151445,
+      "p_value": 0.0005520344463052624,
+      "fold": 1.7866392719170054,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009051",
+      "label": "pentose-phosphate shunt, oxidative branch",
+      "fdr": 0.043215304732878095,
+      "p_value": 0.0005903987566151502,
+      "fold": 49.95145631067961,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006055",
+      "label": "CMP-N-acetylneuraminate biosynthetic process",
+      "fdr": 0.04344640261915017,
+      "p_value": 0.0005903987566151502,
+      "fold": 49.95145631067961,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042221",
+      "label": "response to chemical",
+      "fdr": 0.04364220245946691,
+      "p_value": 0.00058671662342863,
+      "fold": 1.5749120669042351,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046166",
+      "label": "glyceraldehyde-3-phosphate biosynthetic process",
+      "fdr": 0.04367998542893055,
+      "p_value": 0.0005903987566151502,
+      "fold": 49.95145631067961,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030214",
+      "label": "hyaluronan catabolic process",
+      "fdr": 0.044122212910823425,
+      "p_value": 0.0006059950759498313,
+      "fold": 17.629925756710453,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009142",
+      "label": "nucleoside triphosphate biosynthetic process",
+      "fdr": 0.04789231119793005,
+      "p_value": 0.0006612556592985037,
+      "fold": 5.70873786407767,
+      "source": "PANTHER"
+    }
+  ],
+  "Enrichr": [
+    {
+      "id": "GO:0030166",
+      "label": "Proteoglycan Biosynthetic Process",
+      "fdr": 9.197795672568488e-16,
+      "p_value": 6.869152854793494e-19,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046034",
+      "label": "ATP Metabolic Process",
+      "fdr": 8.071625326262569e-13,
+      "p_value": 1.205619914303595e-15,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046496",
+      "label": "Nicotinamide Nucleotide Metabolic Process",
+      "fdr": 2.3961334457260097e-11,
+      "p_value": 8.0936347249764e-14,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046032",
+      "label": "ADP Catabolic Process",
+      "fdr": 2.3961334457260097e-11,
+      "p_value": 8.947473658424233e-14,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006096",
+      "label": "Glycolytic Process",
+      "fdr": 2.3961334457260097e-11,
+      "p_value": 8.947473658424233e-14,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019364",
+      "label": "Pyridine Nucleotide Catabolic Process",
+      "fdr": 9.481704836311199e-11,
+      "p_value": 4.2487101581678263e-13,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006090",
+      "label": "Pyruvate Metabolic Process",
+      "fdr": 2.373112300139315e-10,
+      "p_value": 1.2406113592961319e-12,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006094",
+      "label": "Gluconeogenesis",
+      "fdr": 5.602929003839488e-10,
+      "p_value": 3.347530398111718e-12,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016052",
+      "label": "Carbohydrate Catabolic Process",
+      "fdr": 7.749496761152779e-10,
+      "p_value": 5.208773028407394e-12,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006006",
+      "label": "Glucose Metabolic Process",
+      "fdr": 1.2121488330495241e-09,
+      "p_value": 9.368240567186115e-12,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019319",
+      "label": "Hexose Biosynthetic Process",
+      "fdr": 1.2121488330495241e-09,
+      "p_value": 9.957906768890788e-12,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030201",
+      "label": "Heparan Sulfate Proteoglycan Metabolic Process",
+      "fdr": 2.7494081967984357e-09,
+      "p_value": 2.4639953966826908e-11,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0015012",
+      "label": "Heparan Sulfate Proteoglycan Biosynthetic Process",
+      "fdr": 1.6562847823137183e-08,
+      "p_value": 1.6080434779744837e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0044272",
+      "label": "Sulfur Compound Biosynthetic Process",
+      "fdr": 1.821799266440838e-08,
+      "p_value": 1.9047938558754096e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030203",
+      "label": "Glycosaminoglycan Metabolic Process",
+      "fdr": 2.030915613219373e-08,
+      "p_value": 2.2751108437857053e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009225",
+      "label": "Nucleotide-Sugar Metabolic Process",
+      "fdr": 2.1806328740875554e-07,
+      "p_value": 2.6056852864377064e-09,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006024",
+      "label": "Glycosaminoglycan Biosynthetic Process",
+      "fdr": 2.925640778050209e-07,
+      "p_value": 3.7144057675021323e-09,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006486",
+      "label": "Protein Glycosylation",
+      "fdr": 1.889285417626406e-06,
+      "p_value": 2.5397414127912853e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009226",
+      "label": "Nucleotide-Sugar Biosynthetic Process",
+      "fdr": 5.726923189035529e-06,
+      "p_value": 8.12632864762323e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006023",
+      "label": "Aminoglycan Biosynthetic Process",
+      "fdr": 7.193939452945805e-06,
+      "p_value": 1.0745241901338021e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006734",
+      "label": "NADH Metabolic Process",
+      "fdr": 1.1525891972508332e-05,
+      "p_value": 1.8076454923276698e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006044",
+      "label": "N-acetylglucosamine Metabolic Process",
+      "fdr": 1.532812591270035e-05,
+      "p_value": 2.632911844601255e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0018146",
+      "label": "Keratan Sulfate Proteoglycan Biosynthetic Process",
+      "fdr": 1.532812591270035e-05,
+      "p_value": 2.632911844601255e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0015014",
+      "label": "Heparan Sulfate Proteoglycan Biosynthetic Process, Chain Elongation",
+      "fdr": 1.8508101770754794e-05,
+      "p_value": 3.317359540687939e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0061620",
+      "label": "Glycolytic Process Through Glucose-6-Phosphate",
+      "fdr": 2.0345546285854337e-05,
+      "p_value": 3.798645684438823e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019318",
+      "label": "Hexose Metabolic Process",
+      "fdr": 2.41216637826423e-05,
+      "p_value": 4.6838182102218057e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042339",
+      "label": "Keratan Sulfate Proteoglycan Metabolic Process",
+      "fdr": 2.6471523167749666e-05,
+      "p_value": 5.33779780081584e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043490",
+      "label": "Malate-Aspartate Shuttle",
+      "fdr": 3.147988696987436e-05,
+      "p_value": 6.582799366366558e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0005977",
+      "label": "Glycogen Metabolic Process",
+      "fdr": 6.026127685746327e-05,
+      "p_value": 1.3051359438883009e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046349",
+      "label": "Amino Sugar Biosynthetic Process",
+      "fdr": 0.00013092173560809068,
+      "p_value": 3.031048397200008e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000271",
+      "label": "Polysaccharide Biosynthetic Process",
+      "fdr": 0.00013092173560809068,
+      "p_value": 3.031048397200008e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006116",
+      "label": "NADH Oxidation",
+      "fdr": 0.00018875772679869667,
+      "p_value": 4.5110136352190394e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901071",
+      "label": "Glucosamine-Containing Compound Metabolic Process",
+      "fdr": 0.0003643778638806366,
+      "p_value": 8.98018633910456e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071456",
+      "label": "Cellular Response to Hypoxia",
+      "fdr": 0.00045191255413766474,
+      "p_value": 1.1978100984879504e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0061621",
+      "label": "Canonical Glycolysis",
+      "fdr": 0.00045191255413766474,
+      "p_value": 1.2150001455530943e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0061718",
+      "label": "Glucose Catabolic Process to Pyruvate",
+      "fdr": 0.00045191255413766474,
+      "p_value": 1.2150001455530943e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0005975",
+      "label": "Carbohydrate Metabolic Process",
+      "fdr": 0.0008317553737179654,
+      "p_value": 2.298353161132541e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042981",
+      "label": "Regulation of Apoptotic Process",
+      "fdr": 0.0009792872938002564,
+      "p_value": 2.779157368514544e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019673",
+      "label": "GDP-mannose Metabolic Process",
+      "fdr": 0.0011205098063602776,
+      "p_value": 3.3473033797170354e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019682",
+      "label": "Glyceraldehyde-3-Phosphate Metabolic Process",
+      "fdr": 0.0011205098063602776,
+      "p_value": 3.3473033797170354e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006487",
+      "label": "Protein N-linked Glycosylation",
+      "fdr": 0.0014021493974484146,
+      "p_value": 4.293362606078043e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050650",
+      "label": "Chondroitin Sulfate Proteoglycan Biosynthetic Process",
+      "fdr": 0.001655443039306284,
+      "p_value": 5.3162099096467675e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050654",
+      "label": "Chondroitin Sulfate Proteoglycan Metabolic Process",
+      "fdr": 0.001655443039306284,
+      "p_value": 5.3162099096467675e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006022",
+      "label": "Aminoglycan Metabolic Process",
+      "fdr": 0.0023041159933427967,
+      "p_value": 7.91555905106562e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009250",
+      "label": "Glucan Biosynthetic Process",
+      "fdr": 0.0023041159933427967,
+      "p_value": 7.91555905106562e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0005978",
+      "label": "Glycogen Biosynthetic Process",
+      "fdr": 0.0023041159933427967,
+      "p_value": 7.91555905106562e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043066",
+      "label": "Negative Regulation of Apoptotic Process",
+      "fdr": 0.002608347674285974,
+      "p_value": 9.15551461474539e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006054",
+      "label": "N-acetylneuraminate Metabolic Process",
+      "fdr": 0.0029761419973337,
+      "p_value": 0.00011224655254723089,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006047",
+      "label": "UDP-N-acetylglucosamine Metabolic Process",
+      "fdr": 0.0029761419973337,
+      "p_value": 0.00011224655254723089,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006012",
+      "label": "Galactose Metabolic Process",
+      "fdr": 0.0029761419973337,
+      "p_value": 0.00011224655254723089,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009101",
+      "label": "Glycoprotein Biosynthetic Process",
+      "fdr": 0.0029761419973337,
+      "p_value": 0.00011335566980135825,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006029",
+      "label": "Proteoglycan Metabolic Process",
+      "fdr": 0.003143689700420767,
+      "p_value": 0.00012208503690954434,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043069",
+      "label": "Negative Regulation of Programmed Cell Death",
+      "fdr": 0.0032482092757802035,
+      "p_value": 0.0001302256843412802,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0036294",
+      "label": "Cellular Response to Decreased Oxygen Levels",
+      "fdr": 0.0032482092757802035,
+      "p_value": 0.0001309957437581262,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006796",
+      "label": "Phosphate-Containing Compound Metabolic Process",
+      "fdr": 0.0033122899599593043,
+      "p_value": 0.00013605373248525896,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046033",
+      "label": "AMP Metabolic Process",
+      "fdr": 0.003598920023204424,
+      "p_value": 0.00015320271943439296,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006098",
+      "label": "Pentose-Phosphate Shunt",
+      "fdr": 0.003598920023204424,
+      "p_value": 0.00015320271943439296,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016051",
+      "label": "Carbohydrate Biosynthetic Process",
+      "fdr": 0.003800199075103266,
+      "p_value": 0.00016460907121433117,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043648",
+      "label": "Dicarboxylic Acid Metabolic Process",
+      "fdr": 0.0050042883892746194,
+      "p_value": 0.00022050262506885927,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009150",
+      "label": "Purine Ribonucleotide Metabolic Process",
+      "fdr": 0.00632650372095742,
+      "p_value": 0.00028348784410563496,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051156",
+      "label": "Glucose 6-Phosphate Metabolic Process",
+      "fdr": 0.013259160399291436,
+      "p_value": 0.0006040394207294829,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0038134",
+      "label": "ERBB2-EGFR Signaling Pathway",
+      "fdr": 0.020404922057969562,
+      "p_value": 0.0009754681839454337,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050655",
+      "label": "Dermatan Sulfate Proteoglycan Metabolic Process",
+      "fdr": 0.020404922057969562,
+      "p_value": 0.0009754681839454337,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1900038",
+      "label": "Negative Regulation of Cellular Response to Hypoxia",
+      "fdr": 0.020404922057969562,
+      "p_value": 0.0009754681839454337,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006112",
+      "label": "Energy Reserve Metabolic Process",
+      "fdr": 0.020404922057969562,
+      "p_value": 0.0009905301969888136,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030199",
+      "label": "Collagen Fibril Organization",
+      "fdr": 0.02128518390954274,
+      "p_value": 0.0010491576833680514,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902175",
+      "label": "Regulation of Oxidative Stress-Induced Intrinsic Apoptotic Signaling Pathway",
+      "fdr": 0.022925848590625266,
+      "p_value": 0.0011471485105092553,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0036211",
+      "label": "Protein Modification Process",
+      "fdr": 0.023940928001229093,
+      "p_value": 0.0012158200926688412,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009251",
+      "label": "Glucan Catabolic Process",
+      "fdr": 0.027316517979530493,
+      "p_value": 0.0014535707837741265,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030200",
+      "label": "Heparan Sulfate Proteoglycan Catabolic Process",
+      "fdr": 0.027316517979530493,
+      "p_value": 0.0014535707837741265,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010510",
+      "label": "Regulation of acetyl-CoA Biosynthetic Process From Pyruvate",
+      "fdr": 0.027316517979530493,
+      "p_value": 0.0014535707837741265,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019637",
+      "label": "Organophosphate Metabolic Process",
+      "fdr": 0.027316517979530493,
+      "p_value": 0.0014688493611099294,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006099",
+      "label": "Tricarboxylic Acid Cycle",
+      "fdr": 0.03132280463043603,
+      "p_value": 0.0017076659731305678,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0015949",
+      "label": "Nucleobase-Containing Small Molecule Interconversion",
+      "fdr": 0.03470436284800916,
+      "p_value": 0.0020216133697869413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0017185",
+      "label": "Peptidyl-Lysine Hydroxylation",
+      "fdr": 0.03470436284800916,
+      "p_value": 0.0020216133697869413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0005976",
+      "label": "Polysaccharide Metabolic Process",
+      "fdr": 0.03470436284800916,
+      "p_value": 0.0020216133697869413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006108",
+      "label": "Malate Metabolic Process",
+      "fdr": 0.03470436284800916,
+      "p_value": 0.0020216133697869413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030167",
+      "label": "Proteoglycan Catabolic Process",
+      "fdr": 0.03470436284800916,
+      "p_value": 0.0020216133697869413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006493",
+      "label": "Protein O-linked Glycosylation",
+      "fdr": 0.03739795888771527,
+      "p_value": 0.002206451644607548,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006048",
+      "label": "UDP-N-acetylglucosamine Biosynthetic Process",
+      "fdr": 0.0442658103611526,
+      "p_value": 0.0026777674677022855,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006040",
+      "label": "Amino Sugar Metabolic Process",
+      "fdr": 0.0442658103611526,
+      "p_value": 0.0026777674677022855,
+      "fold": null,
+      "source": "Enrichr"
+    }
+  ],
+  "g:Profiler": [
+    {
+      "id": "REAC:R-HSA-71387",
+      "label": "Metabolism of carbohydrates and carbohydrate derivatives",
+      "fdr": 2.9912309715239654e-58,
+      "p_value": 2.9912309715239654e-58,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:1901135",
+      "label": "carbohydrate derivative metabolic process",
+      "fdr": 1.1018462446860268e-38,
+      "p_value": 1.1018462446860268e-38,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005975",
+      "label": "carbohydrate metabolic process",
+      "fdr": 4.376382464510551e-34,
+      "p_value": 4.376382464510551e-34,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-1630316",
+      "label": "Glycosaminoglycan metabolism",
+      "fdr": 2.697665958849353e-30,
+      "p_value": 2.697665958849353e-30,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0055086",
+      "label": "nucleobase-containing small molecule metabolic process",
+      "fdr": 2.3242487637856985e-26,
+      "p_value": 2.3242487637856985e-26,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-1430728",
+      "label": "Metabolism",
+      "fdr": 4.7759545993630745e-26,
+      "p_value": 4.7759545993630745e-26,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006753",
+      "label": "nucleoside phosphate metabolic process",
+      "fdr": 1.8668877322257382e-25,
+      "p_value": 1.8668877322257382e-25,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0044281",
+      "label": "small molecule metabolic process",
+      "fdr": 3.1032805897269244e-25,
+      "p_value": 3.1032805897269244e-25,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003824",
+      "label": "catalytic activity",
+      "fdr": 8.63955708270996e-24,
+      "p_value": 8.63955708270996e-24,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0046496",
+      "label": "nicotinamide nucleotide metabolic process",
+      "fdr": 8.74223707559927e-23,
+      "p_value": 8.74223707559927e-23,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-1638091",
+      "label": "Heparan sulfate/heparin (HS-GAG) metabolism",
+      "fdr": 9.563524508353878e-23,
+      "p_value": 9.563524508353878e-23,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:01100",
+      "label": "Metabolic pathways",
+      "fdr": 1.0798916955138652e-22,
+      "p_value": 1.0798916955138652e-22,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0072524",
+      "label": "pyridine-containing compound metabolic process",
+      "fdr": 3.705578065319786e-22,
+      "p_value": 3.705578065319786e-22,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:01200",
+      "label": "Carbon metabolism",
+      "fdr": 6.943042507427096e-22,
+      "p_value": 6.943042507427096e-22,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0006091",
+      "label": "generation of precursor metabolites and energy",
+      "fdr": 2.393586563877357e-20,
+      "p_value": 2.393586563877357e-20,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019318",
+      "label": "hexose metabolic process",
+      "fdr": 3.123774146302801e-20,
+      "p_value": 3.123774146302801e-20,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5668914",
+      "label": "Diseases of metabolism",
+      "fdr": 7.263443255355087e-20,
+      "p_value": 7.263443255355087e-20,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006163",
+      "label": "purine nucleotide metabolic process",
+      "fdr": 7.936432710503194e-20,
+      "p_value": 7.936432710503194e-20,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019637",
+      "label": "organophosphate metabolic process",
+      "fdr": 8.394927281509652e-20,
+      "p_value": 8.394927281509652e-20,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005996",
+      "label": "monosaccharide metabolic process",
+      "fdr": 2.9487547769494706e-19,
+      "p_value": 2.9487547769494706e-19,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0072521",
+      "label": "purine-containing compound metabolic process",
+      "fdr": 2.093202067148324e-18,
+      "p_value": 2.093202067148324e-18,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009117",
+      "label": "nucleotide metabolic process",
+      "fdr": 2.524956906828177e-18,
+      "p_value": 2.524956906828177e-18,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-1793185",
+      "label": "Chondroitin sulfate/dermatan sulfate metabolism",
+      "fdr": 7.811776082268774e-18,
+      "p_value": 7.811776082268774e-18,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:1901137",
+      "label": "carbohydrate derivative biosynthetic process",
+      "fdr": 2.552952611164419e-17,
+      "p_value": 2.552952611164419e-17,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:00010",
+      "label": "Glycolysis / Gluconeogenesis",
+      "fdr": 2.6190387879500106e-17,
+      "p_value": 2.6190387879500106e-17,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0016052",
+      "label": "carbohydrate catabolic process",
+      "fdr": 3.1501382921326226e-17,
+      "p_value": 3.1501382921326226e-17,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-1971475",
+      "label": "Glycosaminoglycan-protein linkage region biosynthesis",
+      "fdr": 1.8071791343757705e-16,
+      "p_value": 1.8071791343757705e-16,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0015980",
+      "label": "energy derivation by oxidation of organic compounds",
+      "fdr": 2.4674319774027373e-16,
+      "p_value": 2.4674319774027373e-16,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006090",
+      "label": "pyruvate metabolic process",
+      "fdr": 3.4341624552073133e-16,
+      "p_value": 3.4341624552073133e-16,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-3560782",
+      "label": "Diseases associated with glycosaminoglycan metabolism",
+      "fdr": 3.531543558991918e-16,
+      "p_value": 3.531543558991918e-16,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-3781865",
+      "label": "Diseases of glycosylation",
+      "fdr": 1.1658969474753477e-15,
+      "p_value": 1.1658969474753477e-15,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006029",
+      "label": "proteoglycan metabolic process",
+      "fdr": 2.018921404579702e-15,
+      "p_value": 2.018921404579702e-15,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:01230",
+      "label": "Biosynthesis of amino acids",
+      "fdr": 5.090037076010053e-15,
+      "p_value": 5.090037076010053e-15,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0006793",
+      "label": "phosphorus metabolic process",
+      "fdr": 1.0838263041602225e-14,
+      "p_value": 1.0838263041602225e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006796",
+      "label": "phosphate-containing compound metabolic process",
+      "fdr": 1.0838263041602225e-14,
+      "p_value": 1.0838263041602225e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016051",
+      "label": "carbohydrate biosynthetic process",
+      "fdr": 1.7348908428018914e-14,
+      "p_value": 1.7348908428018914e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030166",
+      "label": "proteoglycan biosynthetic process",
+      "fdr": 2.6815970850983158e-14,
+      "p_value": 2.6815970850983158e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1901136",
+      "label": "carbohydrate derivative catabolic process",
+      "fdr": 1.0934404421357369e-13,
+      "p_value": 1.0934404421357369e-13,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:01250",
+      "label": "Biosynthesis of nucleotide sugars",
+      "fdr": 1.6910663661884535e-13,
+      "p_value": 1.6910663661884535e-13,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-2022928",
+      "label": "HS-GAG biosynthesis",
+      "fdr": 2.37497237018966e-13,
+      "p_value": 2.37497237018966e-13,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0009100",
+      "label": "glycoprotein metabolic process",
+      "fdr": 1.7696116322023659e-12,
+      "p_value": 1.7696116322023659e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009101",
+      "label": "glycoprotein biosynthetic process",
+      "fdr": 1.7727262370239593e-12,
+      "p_value": 1.7727262370239593e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0070062",
+      "label": "extracellular exosome",
+      "fdr": 5.8498474747497895e-12,
+      "p_value": 5.8498474747497895e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "KEGG:00520",
+      "label": "Amino sugar and nucleotide sugar metabolism",
+      "fdr": 8.36157409842412e-12,
+      "p_value": 8.36157409842412e-12,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:1903561",
+      "label": "extracellular vesicle",
+      "fdr": 1.0051582837337927e-11,
+      "p_value": 1.0051582837337927e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043230",
+      "label": "extracellular organelle",
+      "fdr": 1.027889857552442e-11,
+      "p_value": 1.027889857552442e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0065010",
+      "label": "extracellular membrane-bounded organelle",
+      "fdr": 1.027889857552442e-11,
+      "p_value": 1.027889857552442e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-70263",
+      "label": "Gluconeogenesis",
+      "fdr": 1.3565458991085367e-11,
+      "p_value": 1.3565458991085367e-11,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006006",
+      "label": "glucose metabolic process",
+      "fdr": 2.77442664693746e-11,
+      "p_value": 2.77442664693746e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-70326",
+      "label": "Glucose metabolism",
+      "fdr": 2.836845125957082e-11,
+      "p_value": 2.836845125957082e-11,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0019320",
+      "label": "hexose catabolic process",
+      "fdr": 2.885527184781055e-11,
+      "p_value": 2.885527184781055e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005615",
+      "label": "extracellular space",
+      "fdr": 2.895490197201588e-11,
+      "p_value": 2.895490197201588e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043436",
+      "label": "oxoacid metabolic process",
+      "fdr": 3.52104143993732e-11,
+      "p_value": 3.52104143993732e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006082",
+      "label": "organic acid metabolic process",
+      "fdr": 4.7368145479123266e-11,
+      "p_value": 4.7368145479123266e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-3656237",
+      "label": "Defective EXT2 causes exostoses 2",
+      "fdr": 5.23083846056728e-11,
+      "p_value": 5.23083846056728e-11,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-3656253",
+      "label": "Defective EXT1 causes exostoses 1, TRPS2 and CHDS",
+      "fdr": 5.23083846056728e-11,
+      "p_value": 5.23083846056728e-11,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0019693",
+      "label": "ribose phosphate metabolic process",
+      "fdr": 6.151245783290934e-11,
+      "p_value": 6.151245783290934e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045333",
+      "label": "cellular respiration",
+      "fdr": 6.596489750478058e-11,
+      "p_value": 6.596489750478058e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-3560801",
+      "label": "Defective B3GAT3 causes JDSSDHD",
+      "fdr": 6.886411288825707e-11,
+      "p_value": 6.886411288825707e-11,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-3560783",
+      "label": "Defective B4GALT7 causes EDS, progeroid type",
+      "fdr": 6.886411288825707e-11,
+      "p_value": 6.886411288825707e-11,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-4420332",
+      "label": "Defective B3GALT6 causes EDSP2 and SEMDJL1",
+      "fdr": 6.886411288825707e-11,
+      "p_value": 6.886411288825707e-11,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0046365",
+      "label": "monosaccharide catabolic process",
+      "fdr": 7.685806308228689e-11,
+      "p_value": 7.685806308228689e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009060",
+      "label": "aerobic respiration",
+      "fdr": 9.975118873147591e-11,
+      "p_value": 9.975118873147591e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016758",
+      "label": "hexosyltransferase activity",
+      "fdr": 1.3537901704822096e-10,
+      "p_value": 1.3537901704822096e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005737",
+      "label": "cytoplasm",
+      "fdr": 1.6596942986376125e-10,
+      "p_value": 1.6596942986376125e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0009185",
+      "label": "ribonucleoside diphosphate metabolic process",
+      "fdr": 1.8673730337067935e-10,
+      "p_value": 1.8673730337067935e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046032",
+      "label": "ADP catabolic process",
+      "fdr": 2.4448539994539464e-10,
+      "p_value": 2.4448539994539464e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006096",
+      "label": "glycolytic process",
+      "fdr": 2.4448539994539464e-10,
+      "p_value": 2.4448539994539464e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009205",
+      "label": "purine ribonucleoside triphosphate metabolic process",
+      "fdr": 3.0821961318956886e-10,
+      "p_value": 3.0821961318956886e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009154",
+      "label": "purine ribonucleotide catabolic process",
+      "fdr": 3.0902210160158233e-10,
+      "p_value": 3.0902210160158233e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009181",
+      "label": "purine ribonucleoside diphosphate catabolic process",
+      "fdr": 3.589627383943643e-10,
+      "p_value": 3.589627383943643e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009137",
+      "label": "purine nucleoside diphosphate catabolic process",
+      "fdr": 3.589627383943643e-10,
+      "p_value": 3.589627383943643e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009144",
+      "label": "purine nucleoside triphosphate metabolic process",
+      "fdr": 4.089380664174462e-10,
+      "p_value": 4.089380664174462e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009261",
+      "label": "ribonucleotide catabolic process",
+      "fdr": 4.2791128894604144e-10,
+      "p_value": 4.2791128894604144e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046031",
+      "label": "ADP metabolic process",
+      "fdr": 4.330879703884345e-10,
+      "p_value": 4.330879703884345e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:00030",
+      "label": "Pentose phosphate pathway",
+      "fdr": 4.620765556984527e-10,
+      "p_value": 4.620765556984527e-10,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0019752",
+      "label": "carboxylic acid metabolic process",
+      "fdr": 4.6491816954590767e-10,
+      "p_value": 4.6491816954590767e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019364",
+      "label": "pyridine nucleotide catabolic process",
+      "fdr": 5.210770421957741e-10,
+      "p_value": 5.210770421957741e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009132",
+      "label": "nucleoside diphosphate metabolic process",
+      "fdr": 5.879324199233166e-10,
+      "p_value": 5.879324199233166e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009179",
+      "label": "purine ribonucleoside diphosphate metabolic process",
+      "fdr": 6.252591217836842e-10,
+      "p_value": 6.252591217836842e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009191",
+      "label": "ribonucleoside diphosphate catabolic process",
+      "fdr": 6.252591217836842e-10,
+      "p_value": 6.252591217836842e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:00534",
+      "label": "Glycosaminoglycan biosynthesis - heparan sulfate / heparin",
+      "fdr": 6.673061441414394e-10,
+      "p_value": 6.673061441414394e-10,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0009135",
+      "label": "purine nucleoside diphosphate metabolic process",
+      "fdr": 7.483112252057336e-10,
+      "p_value": 7.483112252057336e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046034",
+      "label": "ATP metabolic process",
+      "fdr": 8.676000966558573e-10,
+      "p_value": 8.676000966558573e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0072526",
+      "label": "pyridine-containing compound catabolic process",
+      "fdr": 8.933037754433152e-10,
+      "p_value": 8.933037754433152e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009150",
+      "label": "purine ribonucleotide metabolic process",
+      "fdr": 1.2053647594022005e-09,
+      "p_value": 1.2053647594022005e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006195",
+      "label": "purine nucleotide catabolic process",
+      "fdr": 1.2600536754324779e-09,
+      "p_value": 1.2600536754324779e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009134",
+      "label": "nucleoside diphosphate catabolic process",
+      "fdr": 1.2636687472840975e-09,
+      "p_value": 1.2636687472840975e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-70171",
+      "label": "Glycolysis",
+      "fdr": 1.2825418587748884e-09,
+      "p_value": 1.2825418587748884e-09,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0009141",
+      "label": "nucleoside triphosphate metabolic process",
+      "fdr": 1.4388313559343613e-09,
+      "p_value": 1.4388313559343613e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:00051",
+      "label": "Fructose and mannose metabolism",
+      "fdr": 2.133705850426378e-09,
+      "p_value": 2.133705850426378e-09,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0009259",
+      "label": "ribonucleotide metabolic process",
+      "fdr": 2.6937987428073887e-09,
+      "p_value": 2.6937987428073887e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000139",
+      "label": "Golgi membrane",
+      "fdr": 2.8465114648060614e-09,
+      "p_value": 2.8465114648060614e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "KEGG:00533",
+      "label": "Glycosaminoglycan biosynthesis - keratan sulfate",
+      "fdr": 3.6509539045501217e-09,
+      "p_value": 3.6509539045501217e-09,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "KEGG:00620",
+      "label": "Pyruvate metabolism",
+      "fdr": 3.926536426945178e-09,
+      "p_value": 3.926536426945178e-09,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0016757",
+      "label": "glycosyltransferase activity",
+      "fdr": 3.988997383366542e-09,
+      "p_value": 3.988997383366542e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005576",
+      "label": "extracellular region",
+      "fdr": 5.99654572340183e-09,
+      "p_value": 5.99654572340183e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0016740",
+      "label": "transferase activity",
+      "fdr": 6.305950051183772e-09,
+      "p_value": 6.305950051183772e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0006739",
+      "label": "NADP+ metabolic process",
+      "fdr": 8.119348547247099e-09,
+      "p_value": 8.119348547247099e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009225",
+      "label": "nucleotide-sugar metabolic process",
+      "fdr": 8.119348547247099e-09,
+      "p_value": 8.119348547247099e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046364",
+      "label": "monosaccharide biosynthetic process",
+      "fdr": 8.93445311947004e-09,
+      "p_value": 8.93445311947004e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0072523",
+      "label": "purine-containing compound catabolic process",
+      "fdr": 1.2593243212522312e-08,
+      "p_value": 1.2593243212522312e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009166",
+      "label": "nucleotide catabolic process",
+      "fdr": 1.4247639282131867e-08,
+      "p_value": 1.4247639282131867e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030201",
+      "label": "heparan sulfate proteoglycan metabolic process",
+      "fdr": 2.010873577946069e-08,
+      "p_value": 2.010873577946069e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005794",
+      "label": "Golgi apparatus",
+      "fdr": 2.2169173827799486e-08,
+      "p_value": 2.2169173827799486e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0044282",
+      "label": "small molecule catabolic process",
+      "fdr": 2.6457294441739786e-08,
+      "p_value": 2.6457294441739786e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-2024096",
+      "label": "HS-GAG degradation",
+      "fdr": 2.974226431643499e-08,
+      "p_value": 2.974226431643499e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006007",
+      "label": "glucose catabolic process",
+      "fdr": 3.1273052943479634e-08,
+      "p_value": 3.1273052943479634e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0001666",
+      "label": "response to hypoxia",
+      "fdr": 3.6557577366028245e-08,
+      "p_value": 3.6557577366028245e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0036293",
+      "label": "response to decreased oxygen levels",
+      "fdr": 4.940193575747056e-08,
+      "p_value": 4.940193575747056e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016491",
+      "label": "oxidoreductase activity",
+      "fdr": 5.834424374127458e-08,
+      "p_value": 5.834424374127458e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0008146",
+      "label": "sulfotransferase activity",
+      "fdr": 8.654467062464521e-08,
+      "p_value": 8.654467062464521e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0006094",
+      "label": "gluconeogenesis",
+      "fdr": 8.874256512618405e-08,
+      "p_value": 8.874256512618405e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006022",
+      "label": "aminoglycan metabolic process",
+      "fdr": 8.874256512618405e-08,
+      "p_value": 8.874256512618405e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030203",
+      "label": "glycosaminoglycan metabolic process",
+      "fdr": 1.0025147062918802e-07,
+      "p_value": 1.0025147062918802e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046434",
+      "label": "organophosphate catabolic process",
+      "fdr": 1.278910594042722e-07,
+      "p_value": 1.278910594042722e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1901292",
+      "label": "nucleoside phosphate catabolic process",
+      "fdr": 1.3456251803852323e-07,
+      "p_value": 1.3456251803852323e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019319",
+      "label": "hexose biosynthetic process",
+      "fdr": 1.5809866794476718e-07,
+      "p_value": 1.5809866794476718e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0180064",
+      "label": "protein O-linked glycosylation via xylose",
+      "fdr": 1.9497050769198912e-07,
+      "p_value": 1.9497050769198912e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0070482",
+      "label": "response to oxygen levels",
+      "fdr": 2.0227844919685514e-07,
+      "p_value": 2.0227844919685514e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0008194",
+      "label": "UDP-glycosyltransferase activity",
+      "fdr": 2.1792915036059744e-07,
+      "p_value": 2.1792915036059744e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0008152",
+      "label": "metabolic process",
+      "fdr": 2.507461161910654e-07,
+      "p_value": 2.507461161910654e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1901293",
+      "label": "nucleoside phosphate biosynthetic process",
+      "fdr": 4.0998072115661045e-07,
+      "p_value": 4.0998072115661045e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0061718",
+      "label": "glucose catabolic process to pyruvate",
+      "fdr": 4.318415917212153e-07,
+      "p_value": 4.318415917212153e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0061621",
+      "label": "canonical glycolysis",
+      "fdr": 4.318415917212153e-07,
+      "p_value": 4.318415917212153e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:00052",
+      "label": "Galactose metabolism",
+      "fdr": 4.640567283047043e-07,
+      "p_value": 4.640567283047043e-07,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "KEGG:05230",
+      "label": "Central carbon metabolism in cancer",
+      "fdr": 6.513281607684584e-07,
+      "p_value": 6.513281607684584e-07,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-5609975",
+      "label": "Diseases associated with glycosylation precursor biosynthesis",
+      "fdr": 6.78533781809531e-07,
+      "p_value": 6.78533781809531e-07,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0042802",
+      "label": "identical protein binding",
+      "fdr": 7.143645419083485e-07,
+      "p_value": 7.143645419083485e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-9820960",
+      "label": "Respiratory syncytial virus (RSV) attachment and entry",
+      "fdr": 7.258727390976337e-07,
+      "p_value": 7.258727390976337e-07,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0061615",
+      "label": "glycolytic process through fructose-6-phosphate",
+      "fdr": 7.269483751125094e-07,
+      "p_value": 7.269483751125094e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0015012",
+      "label": "heparan sulfate proteoglycan biosynthetic process",
+      "fdr": 7.269483751125094e-07,
+      "p_value": 7.269483751125094e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0061620",
+      "label": "glycolytic process through glucose-6-phosphate",
+      "fdr": 7.269483751125094e-07,
+      "p_value": 7.269483751125094e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032787",
+      "label": "monocarboxylic acid metabolic process",
+      "fdr": 7.72721549249351e-07,
+      "p_value": 7.72721549249351e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016782",
+      "label": "transferase activity, transferring sulphur-containing groups",
+      "fdr": 1.2349517712586414e-06,
+      "p_value": 1.2349517712586414e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0043202",
+      "label": "lysosomal lumen",
+      "fdr": 1.6536734450424493e-06,
+      "p_value": 1.6536734450424493e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0044238",
+      "label": "primary metabolic process",
+      "fdr": 2.9100800240587594e-06,
+      "p_value": 2.9100800240587594e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9694614",
+      "label": "Attachment and Entry",
+      "fdr": 5.0314862360401e-06,
+      "p_value": 5.0314862360401e-06,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:00532",
+      "label": "Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate",
+      "fdr": 6.913044802151355e-06,
+      "p_value": 6.913044802151355e-06,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "KEGG:04922",
+      "label": "Glucagon signaling pathway",
+      "fdr": 9.109837127934222e-06,
+      "p_value": 9.109837127934222e-06,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0031982",
+      "label": "vesicle",
+      "fdr": 1.6388728506501736e-05,
+      "p_value": 1.6388728506501736e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0009226",
+      "label": "nucleotide-sugar biosynthetic process",
+      "fdr": 1.6609651484570226e-05,
+      "p_value": 1.6609651484570226e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006040",
+      "label": "amino sugar metabolic process",
+      "fdr": 1.675579968464158e-05,
+      "p_value": 1.675579968464158e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006790",
+      "label": "sulfur compound metabolic process",
+      "fdr": 1.9633639527221256e-05,
+      "p_value": 1.9633639527221256e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:00500",
+      "label": "Starch and sucrose metabolism",
+      "fdr": 2.585958511921895e-05,
+      "p_value": 2.585958511921895e-05,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0005976",
+      "label": "polysaccharide metabolic process",
+      "fdr": 2.7967111587980913e-05,
+      "p_value": 2.7967111587980913e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-71336",
+      "label": "Pentose phosphate pathway",
+      "fdr": 3.3508262927738363e-05,
+      "p_value": 3.3508262927738363e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0019200",
+      "label": "carbohydrate kinase activity",
+      "fdr": 3.4875093572271283e-05,
+      "p_value": 3.4875093572271283e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0043490",
+      "label": "malate-aspartate shuttle",
+      "fdr": 3.930122306050421e-05,
+      "p_value": 3.930122306050421e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-8982491",
+      "label": "Glycogen metabolism",
+      "fdr": 4.423729141657278e-05,
+      "p_value": 4.423729141657278e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0044283",
+      "label": "small molecule biosynthetic process",
+      "fdr": 5.688086976153751e-05,
+      "p_value": 5.688086976153751e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9856872",
+      "label": "Malate-aspartate shuttle",
+      "fdr": 5.769383320891027e-05,
+      "p_value": 5.769383320891027e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0005796",
+      "label": "Golgi lumen",
+      "fdr": 8.225767739799491e-05,
+      "p_value": 8.225767739799491e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0016615",
+      "label": "malate dehydrogenase activity",
+      "fdr": 9.041805447218241e-05,
+      "p_value": 9.041805447218241e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "KEGG:04066",
+      "label": "HIF-1 signaling pathway",
+      "fdr": 9.494516739483392e-05,
+      "p_value": 9.494516739483392e-05,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-2022854",
+      "label": "Keratan sulfate biosynthesis",
+      "fdr": 0.00010460808584747733,
+      "p_value": 0.00010460808584747733,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0005829",
+      "label": "cytosol",
+      "fdr": 0.00011317394823013011,
+      "p_value": 0.00011317394823013011,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0006002",
+      "label": "fructose 6-phosphate metabolic process",
+      "fdr": 0.00014140268820191708,
+      "p_value": 0.00014140268820191708,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0090407",
+      "label": "organophosphate biosynthetic process",
+      "fdr": 0.00015035910791827181,
+      "p_value": 0.00015035910791827181,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016616",
+      "label": "oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",
+      "fdr": 0.0001643149359752871,
+      "p_value": 0.0001643149359752871,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005775",
+      "label": "vacuolar lumen",
+      "fdr": 0.00017819371029454765,
+      "p_value": 0.00017819371029454765,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0001517",
+      "label": "N-acetylglucosamine 6-O-sulfotransferase activity",
+      "fdr": 0.00020911861630604174,
+      "p_value": 0.00020911861630604174,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0006023",
+      "label": "aminoglycan biosynthetic process",
+      "fdr": 0.00021062576467075004,
+      "p_value": 0.00021062576467075004,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050698",
+      "label": "proteoglycan sulfotransferase activity",
+      "fdr": 0.00022677759114491527,
+      "p_value": 0.00022677759114491527,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0043648",
+      "label": "dicarboxylic acid metabolic process",
+      "fdr": 0.00023292660291083416,
+      "p_value": 0.00023292660291083416,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0008378",
+      "label": "galactosyltransferase activity",
+      "fdr": 0.00028327563263127076,
+      "p_value": 0.00028327563263127076,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0012505",
+      "label": "endomembrane system",
+      "fdr": 0.0003390137742198048,
+      "p_value": 0.0003390137742198048,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0016614",
+      "label": "oxidoreductase activity, acting on CH-OH group of donors",
+      "fdr": 0.00034417366174492597,
+      "p_value": 0.00034417366174492597,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-5663084",
+      "label": "Diseases of carbohydrate metabolism",
+      "fdr": 0.0003526363218730683,
+      "p_value": 0.0003526363218730683,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:00270",
+      "label": "Cysteine and methionine metabolism",
+      "fdr": 0.0004281156741354059,
+      "p_value": 0.0004281156741354059,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-446205",
+      "label": "Synthesis of GDP-mannose",
+      "fdr": 0.0004482663545215699,
+      "p_value": 0.0004482663545215699,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:1904813",
+      "label": "ficolin-1-rich granule lumen",
+      "fdr": 0.000611796913360501,
+      "p_value": 0.000611796913360501,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0015020",
+      "label": "glucuronosyltransferase activity",
+      "fdr": 0.0006362528614691162,
+      "p_value": 0.0006362528614691162,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-1638074",
+      "label": "Keratan sulfate/keratin metabolism",
+      "fdr": 0.0006615502656944874,
+      "p_value": 0.0006615502656944874,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0016868",
+      "label": "intramolecular phosphotransferase activity",
+      "fdr": 0.00073964011271011,
+      "p_value": 0.00073964011271011,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-9772572",
+      "label": "Early SARS-CoV-2 Infection Events",
+      "fdr": 0.0008049097808355053,
+      "p_value": 0.0008049097808355053,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0051156",
+      "label": "glucose 6-phosphate metabolic process",
+      "fdr": 0.0008854045951283433,
+      "p_value": 0.0008854045951283433,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006493",
+      "label": "protein O-linked glycosylation",
+      "fdr": 0.0010630680971736195,
+      "p_value": 0.0010630680971736195,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006024",
+      "label": "glycosaminoglycan biosynthetic process",
+      "fdr": 0.0011160446567478701,
+      "p_value": 0.0011160446567478701,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006044",
+      "label": "N-acetylglucosamine metabolic process",
+      "fdr": 0.001275160480454958,
+      "p_value": 0.001275160480454958,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0018146",
+      "label": "keratan sulfate proteoglycan biosynthetic process",
+      "fdr": 0.001275160480454958,
+      "p_value": 0.001275160480454958,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071456",
+      "label": "cellular response to hypoxia",
+      "fdr": 0.0014681808967441298,
+      "p_value": 0.0014681808967441298,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:00020",
+      "label": "Citrate cycle (TCA cycle)",
+      "fdr": 0.001670443597975603,
+      "p_value": 0.001670443597975603,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0005622",
+      "label": "intracellular anatomical structure",
+      "fdr": 0.0017795672018435932,
+      "p_value": 0.0017795672018435932,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0016857",
+      "label": "racemase and epimerase activity, acting on carbohydrates and derivatives",
+      "fdr": 0.0019032425257697856,
+      "p_value": 0.0019032425257697856,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0019673",
+      "label": "GDP-mannose metabolic process",
+      "fdr": 0.001922050956325132,
+      "p_value": 0.001922050956325132,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006108",
+      "label": "malate metabolic process",
+      "fdr": 0.001922050956325132,
+      "p_value": 0.001922050956325132,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0036294",
+      "label": "cellular response to decreased oxygen levels",
+      "fdr": 0.0019475372696786553,
+      "p_value": 0.0019475372696786553,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009056",
+      "label": "catabolic process",
+      "fdr": 0.0020301812068361617,
+      "p_value": 0.0020301812068361617,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:00541",
+      "label": "Biosynthesis of various nucleotide sugars",
+      "fdr": 0.002105205718980058,
+      "p_value": 0.002105205718980058,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0016853",
+      "label": "isomerase activity",
+      "fdr": 0.002155562573871279,
+      "p_value": 0.002155562573871279,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-446193",
+      "label": "Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",
+      "fdr": 0.002188679078329669,
+      "p_value": 0.002188679078329669,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0004470",
+      "label": "malic enzyme activity",
+      "fdr": 0.0021994295258211953,
+      "p_value": 0.0021994295258211953,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0042339",
+      "label": "keratan sulfate proteoglycan metabolic process",
+      "fdr": 0.002454453306593874,
+      "p_value": 0.002454453306593874,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006098",
+      "label": "pentose-phosphate shunt",
+      "fdr": 0.002454453306593874,
+      "p_value": 0.002454453306593874,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006112",
+      "label": "energy reserve metabolic process",
+      "fdr": 0.0026286071835813327,
+      "p_value": 0.0026286071835813327,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-975634",
+      "label": "Retinoid metabolism and transport",
+      "fdr": 0.0027244965960883864,
+      "p_value": 0.0027244965960883864,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-70268",
+      "label": "Pyruvate metabolism",
+      "fdr": 0.0031829264274124253,
+      "p_value": 0.0031829264274124253,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0050650",
+      "label": "chondroitin sulfate proteoglycan biosynthetic process",
+      "fdr": 0.0034282507429368495,
+      "p_value": 0.0034282507429368495,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030388",
+      "label": "fructose 1,6-bisphosphate metabolic process",
+      "fdr": 0.0034282507429368495,
+      "p_value": 0.0034282507429368495,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050654",
+      "label": "chondroitin sulfate proteoglycan metabolic process",
+      "fdr": 0.0034282507429368495,
+      "p_value": 0.0034282507429368495,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-446219",
+      "label": "Synthesis of substrates in N-glycan biosythesis",
+      "fdr": 0.0037330024426010513,
+      "p_value": 0.0037330024426010513,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-446203",
+      "label": "Asparagine N-linked glycosylation",
+      "fdr": 0.004275021897093393,
+      "p_value": 0.004275021897093393,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0035250",
+      "label": "UDP-galactosyltransferase activity",
+      "fdr": 0.004458799496451278,
+      "p_value": 0.004458799496451278,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0016772",
+      "label": "transferase activity, transferring phosphorus-containing groups",
+      "fdr": 0.004628325048258913,
+      "p_value": 0.004628325048258913,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-2022870",
+      "label": "CS-GAG biosynthesis",
+      "fdr": 0.004670719019192547,
+      "p_value": 0.004670719019192547,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-6806667",
+      "label": "Metabolism of fat-soluble vitamins",
+      "fdr": 0.004958554345809031,
+      "p_value": 0.004958554345809031,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0071453",
+      "label": "cellular response to oxygen levels",
+      "fdr": 0.00546502174981822,
+      "p_value": 0.00546502174981822,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006740",
+      "label": "NADPH regeneration",
+      "fdr": 0.005666502155290885,
+      "p_value": 0.005666502155290885,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006487",
+      "label": "protein N-linked glycosylation",
+      "fdr": 0.006551940236512744,
+      "p_value": 0.006551940236512744,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031983",
+      "label": "vesicle lumen",
+      "fdr": 0.008575879825461511,
+      "p_value": 0.008575879825461511,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-1643685",
+      "label": "Disease",
+      "fdr": 0.00958582948924026,
+      "p_value": 0.00958582948924026,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0005977",
+      "label": "glycogen metabolic process",
+      "fdr": 0.010592001350708638,
+      "p_value": 0.010592001350708638,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0044042",
+      "label": "glucan metabolic process",
+      "fdr": 0.011823848117777879,
+      "p_value": 0.011823848117777879,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016667",
+      "label": "oxidoreductase activity, acting on a sulfur group of donors",
+      "fdr": 0.012197120543883088,
+      "p_value": 0.012197120543883088,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0009628",
+      "label": "response to abiotic stimulus",
+      "fdr": 0.012621221764275041,
+      "p_value": 0.012621221764275041,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006012",
+      "label": "galactose metabolic process",
+      "fdr": 0.013104509900374034,
+      "p_value": 0.013104509900374034,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046349",
+      "label": "amino sugar biosynthetic process",
+      "fdr": 0.013104509900374034,
+      "p_value": 0.013104509900374034,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:01240",
+      "label": "Biosynthesis of cofactors",
+      "fdr": 0.014922705370676694,
+      "p_value": 0.014922705370676694,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0016854",
+      "label": "racemase and epimerase activity",
+      "fdr": 0.01659195343278023,
+      "p_value": 0.01659195343278023,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0036094",
+      "label": "small molecule binding",
+      "fdr": 0.017572020244424832,
+      "p_value": 0.017572020244424832,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0101002",
+      "label": "ficolin-1-rich granule",
+      "fdr": 0.01983751361073942,
+      "p_value": 0.01983751361073942,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0009298",
+      "label": "GDP-mannose biosynthetic process",
+      "fdr": 0.024478548138196242,
+      "p_value": 0.024478548138196242,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:00053",
+      "label": "Ascorbate and aldarate metabolism",
+      "fdr": 0.025626763020166133,
+      "p_value": 0.025626763020166133,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "KEGG:00330",
+      "label": "Arginine and proline metabolism",
+      "fdr": 0.026097448431678712,
+      "p_value": 0.026097448431678712,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-70221",
+      "label": "Glycogen breakdown (glycogenolysis)",
+      "fdr": 0.027036709738790222,
+      "p_value": 0.027036709738790222,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-1428517",
+      "label": "Aerobic respiration and respiratory electron transport",
+      "fdr": 0.027425737642892828,
+      "p_value": 0.027425737642892828,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0031545",
+      "label": "peptidyl-proline 4-dioxygenase activity",
+      "fdr": 0.029783746732180198,
+      "p_value": 0.029783746732180198,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0034774",
+      "label": "secretory granule lumen",
+      "fdr": 0.03071396764181163,
+      "p_value": 0.03071396764181163,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0015036",
+      "label": "disulfide oxidoreductase activity",
+      "fdr": 0.03228302154215374,
+      "p_value": 0.03228302154215374,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0000271",
+      "label": "polysaccharide biosynthetic process",
+      "fdr": 0.03383109667821003,
+      "p_value": 0.03383109667821003,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0060205",
+      "label": "cytoplasmic vesicle lumen",
+      "fdr": 0.03481648241898654,
+      "p_value": 0.03481648241898654,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0048029",
+      "label": "monosaccharide binding",
+      "fdr": 0.03643385021032935,
+      "p_value": 0.03643385021032935,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0034655",
+      "label": "nucleobase-containing compound catabolic process",
+      "fdr": 0.03697222442096383,
+      "p_value": 0.03697222442096383,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0043167",
+      "label": "ion binding",
+      "fdr": 0.03889072605169342,
+      "p_value": 0.03889072605169342,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0046983",
+      "label": "protein dimerization activity",
+      "fdr": 0.04435501651410758,
+      "p_value": 0.04435501651410758,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0006103",
+      "label": "2-oxoglutarate metabolic process",
+      "fdr": 0.04645764773961822,
+      "p_value": 0.04645764773961822,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050655",
+      "label": "dermatan sulfate proteoglycan metabolic process",
+      "fdr": 0.04853763511618466,
+      "p_value": 0.04853763511618466,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003945",
+      "label": "N-acetyllactosamine synthase activity",
+      "fdr": 0.049849595728918374,
+      "p_value": 0.049849595728918374,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0045130",
+      "label": "keratan sulfotransferase activity",
+      "fdr": 0.049849595728918374,
+      "p_value": 0.049849595728918374,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0046899",
+      "label": "nucleoside triphosphate adenylate kinase activity",
+      "fdr": 0.049849595728918374,
+      "p_value": 0.049849595728918374,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0042328",
+      "label": "heparan sulfate N-acetylglucosaminyltransferase activity",
+      "fdr": 0.049849595728918374,
+      "p_value": 0.049849595728918374,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0003831",
+      "label": "beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase activity",
+      "fdr": 0.049849595728918374,
+      "p_value": 0.049849595728918374,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0033840",
+      "label": "alpha-1,4-glucan glucosyltransferase (NDP-glucose donor) activity",
+      "fdr": 0.049849595728918374,
+      "p_value": 0.049849595728918374,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0061547",
+      "label": "glycogen synthase activity, transferring glucose-1-phosphate",
+      "fdr": 0.049849595728918374,
+      "p_value": 0.049849595728918374,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0004373",
+      "label": "alpha-1,4-glucan glucosyltransferase (UDP-glucose donor) activity",
+      "fdr": 0.049849595728918374,
+      "p_value": 0.049849595728918374,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0004335",
+      "label": "galactokinase activity",
+      "fdr": 0.049849595728918374,
+      "p_value": 0.049849595728918374,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0050509",
+      "label": "N-acetylglucosaminyl-proteoglycan 4-beta-glucuronosyltransferase activity",
+      "fdr": 0.049849595728918374,
+      "p_value": 0.049849595728918374,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0120508",
+      "label": "GDP-mannose pyrophosphorylase complex",
+      "fdr": 0.04995878196574432,
+      "p_value": 0.04995878196574432,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    }
+  ]
+}

@@ -1,0 +1,4304 @@
+{
+  "PANTHER": [
+    {
+      "id": "GO:0002376",
+      "label": "immune system process",
+      "fdr": 6.302621925695855e-16,
+      "p_value": 4.5800609880792496e-20,
+      "fold": 9.771416943634266,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046649",
+      "label": "lymphocyte activation",
+      "fdr": 2.608984790061683e-13,
+      "p_value": 3.791853484574788e-17,
+      "fold": 29.44854155200881,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045321",
+      "label": "leukocyte activation",
+      "fdr": 3.89953305102827e-12,
+      "p_value": 8.501271094458839e-16,
+      "fold": 23.171661181361507,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001775",
+      "label": "cell activation",
+      "fdr": 3.3373083194730614e-11,
+      "p_value": 1.2125965843590805e-14,
+      "fold": 18.85279402438165,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030098",
+      "label": "lymphocyte differentiation",
+      "fdr": 3.8078744951214405e-11,
+      "p_value": 1.106859819815839e-14,
+      "fold": 42.206726825266614,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006955",
+      "label": "immune response",
+      "fdr": 5.095213110153245e-11,
+      "p_value": 2.2215884500341162e-14,
+      "fold": 10.427182621362297,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042110",
+      "label": "T cell activation",
+      "fdr": 1.8314250593855916e-10,
+      "p_value": 9.316165551703466e-14,
+      "fold": 34.15200796548291,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002682",
+      "label": "regulation of immune system process",
+      "fdr": 2.003899789275889e-10,
+      "p_value": 1.1649733532597276e-13,
+      "fold": 9.375587255488169,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903131",
+      "label": "mononuclear cell differentiation",
+      "fdr": 2.313620749545837e-10,
+      "p_value": 1.5131594176231766e-13,
+      "fold": 32.537549407114625,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002521",
+      "label": "leukocyte differentiation",
+      "fdr": 9.452781520926132e-10,
+      "p_value": 6.869254793202626e-13,
+      "fold": 27.961956521739133,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030097",
+      "label": "hemopoiesis",
+      "fdr": 1.4583756469806364e-09,
+      "p_value": 1.1657679032618997e-12,
+      "fold": 20.29403854773644,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030217",
+      "label": "T cell differentiation",
+      "fdr": 1.5277619832480302e-09,
+      "p_value": 1.332253746019647e-12,
+      "fold": 52.634271099744254,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903706",
+      "label": "regulation of hemopoiesis",
+      "fdr": 2.6874233902106335e-09,
+      "p_value": 2.5388056153432335e-12,
+      "fold": 24.514592019058966,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033151",
+      "label": "V(D)J recombination",
+      "fdr": 3.206618235969053e-09,
+      "p_value": 3.2623105372841175e-12,
+      "fold": 298.2608695652174,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045619",
+      "label": "regulation of lymphocyte differentiation",
+      "fdr": 1.897216275162837e-08,
+      "p_value": 2.0680360531532995e-11,
+      "fold": 37.4778055998179,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060284",
+      "label": "regulation of cell development",
+      "fdr": 4.017562669835873e-08,
+      "p_value": 4.671245019793181e-11,
+      "fold": 14.410847284995864,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0098760",
+      "label": "response to interleukin-7",
+      "fdr": 5.419882858524433e-08,
+      "p_value": 8.271022456871819e-11,
+      "fold": 447.3913043478261,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0098761",
+      "label": "cellular response to interleukin-7",
+      "fdr": 5.690877001450655e-08,
+      "p_value": 8.271022456871819e-11,
+      "fold": 447.3913043478261,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071355",
+      "label": "cellular response to interleukin-9",
+      "fdr": 5.990396843632268e-08,
+      "p_value": 8.271022456871819e-11,
+      "fold": 447.3913043478261,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0038111",
+      "label": "interleukin-7-mediated signaling pathway",
+      "fdr": 6.323196668278506e-08,
+      "p_value": 8.271022456871819e-11,
+      "fold": 447.3913043478261,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0038113",
+      "label": "interleukin-9-mediated signaling pathway",
+      "fdr": 6.695149413471358e-08,
+      "p_value": 8.271022456871819e-11,
+      "fold": 447.3913043478261,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016444",
+      "label": "somatic cell DNA recombination",
+      "fdr": 8.779892284466777e-08,
+      "p_value": 1.5312652774304384e-10,
+      "fold": 149.1304347826087,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002562",
+      "label": "somatic diversification of immune receptors via germline recombination within a single locus",
+      "fdr": 9.161626731617507e-08,
+      "p_value": 1.5312652774304384e-10,
+      "fold": 149.1304347826087,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071104",
+      "label": "response to interleukin-9",
+      "fdr": 9.305464658912991e-08,
+      "p_value": 1.4876841980676245e-10,
+      "fold": 397.6811594202899,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033077",
+      "label": "T cell differentiation in thymus",
+      "fdr": 2.220025273575599e-07,
+      "p_value": 4.0331830418857625e-10,
+      "fold": 124.27536231884058,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902105",
+      "label": "regulation of leukocyte differentiation",
+      "fdr": 2.967553624277372e-07,
+      "p_value": 5.606888615014292e-10,
+      "fold": 24.76906875282082,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051249",
+      "label": "regulation of lymphocyte activation",
+      "fdr": 3.0962902529177316e-07,
+      "p_value": 6.07512803057763e-10,
+      "fold": 18.056151296549032,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002250",
+      "label": "adaptive immune response",
+      "fdr": 4.795667225506961e-07,
+      "p_value": 9.757916017309417e-10,
+      "fold": 23.09116409537167,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002200",
+      "label": "somatic diversification of immune receptors",
+      "fdr": 5.48106733249147e-07,
+      "p_value": 1.1550828620176776e-09,
+      "fold": 101.6798418972332,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000026",
+      "label": "regulation of multicellular organismal development",
+      "fdr": 6.484462800279659e-07,
+      "p_value": 1.4136609549334335e-09,
+      "fold": 8.743803993768587,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002694",
+      "label": "regulation of leukocyte activation",
+      "fdr": 8.902727494203546e-07,
+      "p_value": 2.0055559357627346e-09,
+      "fold": 15.759380583680763,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045621",
+      "label": "positive regulation of lymphocyte differentiation",
+      "fdr": 1.0169529155704235e-06,
+      "p_value": 2.3648349173936163e-09,
+      "fold": 47.09382151029748,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050896",
+      "label": "response to stimulus",
+      "fdr": 1.232422857257667e-06,
+      "p_value": 2.9554504970207844e-09,
+      "fold": 2.639476721816083,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050865",
+      "label": "regulation of cell activation",
+      "fdr": 2.012400473676061e-06,
+      "p_value": 4.972139823049638e-09,
+      "fold": 14.202898550724637,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045730",
+      "label": "respiratory burst",
+      "fdr": 3.363285916486621e-06,
+      "p_value": 8.554248025363835e-09,
+      "fold": 162.68774703557312,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051239",
+      "label": "regulation of multicellular organismal process",
+      "fdr": 3.5200006277954504e-06,
+      "p_value": 9.464430145224304e-09,
+      "fold": 4.983935807810911,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001776",
+      "label": "leukocyte homeostasis",
+      "fdr": 3.575531304980348e-06,
+      "p_value": 9.353907926698097e-09,
+      "fold": 67.78656126482213,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042554",
+      "label": "superoxide anion generation",
+      "fdr": 3.7471534066650357e-06,
+      "p_value": 1.0347491421646054e-08,
+      "fold": 155.61436672967866,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043368",
+      "label": "positive T cell selection",
+      "fdr": 4.268598655963194e-06,
+      "p_value": 1.2407815292386292e-08,
+      "fold": 149.1304347826087,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042113",
+      "label": "B cell activation",
+      "fdr": 4.36018247082884e-06,
+      "p_value": 1.2357177266355987e-08,
+      "fold": 35.791304347826085,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051251",
+      "label": "positive regulation of lymphocyte activation",
+      "fdr": 6.176560928997706e-06,
+      "p_value": 1.8402659551551916e-08,
+      "fold": 21.97711670480549,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0022407",
+      "label": "regulation of cell-cell adhesion",
+      "fdr": 6.556226475860836e-06,
+      "p_value": 2.0010283553968103e-08,
+      "fold": 15.697940503432493,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903708",
+      "label": "positive regulation of hemopoiesis",
+      "fdr": 7.283185470245279e-06,
+      "p_value": 2.4346089065568116e-08,
+      "fold": 31.95652173913043,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045580",
+      "label": "regulation of T cell differentiation",
+      "fdr": 7.347529230600824e-06,
+      "p_value": 2.3493298898803594e-08,
+      "fold": 32.147878156730016,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902107",
+      "label": "positive regulation of leukocyte differentiation",
+      "fdr": 7.4450340362507295e-06,
+      "p_value": 2.4346089065568116e-08,
+      "fold": 31.95652173913043,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007259",
+      "label": "cell surface receptor signaling pathway via JAK-STAT",
+      "fdr": 7.477719286826837e-06,
+      "p_value": 2.336617464817629e-08,
+      "fold": 56.63181067694001,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002684",
+      "label": "positive regulation of immune system process",
+      "fdr": 8.523630204924886e-06,
+      "p_value": 2.9112028168844535e-08,
+      "fold": 9.369451399954473,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050776",
+      "label": "regulation of immune response",
+      "fdr": 1.0557343267756673e-05,
+      "p_value": 3.682526537695809e-08,
+      "fold": 9.13976106941422,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002696",
+      "label": "positive regulation of leukocyte activation",
+      "fdr": 1.1201295541516585e-05,
+      "p_value": 3.988543576297599e-08,
+      "fold": 19.634728090500204,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0097696",
+      "label": "cell surface receptor signaling pathway via STAT",
+      "fdr": 1.2440088538560307e-05,
+      "p_value": 4.520052517462505e-08,
+      "fold": 49.71014492753623,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006950",
+      "label": "response to stress",
+      "fdr": 1.3107863562931538e-05,
+      "p_value": 4.953193120212485e-08,
+      "fold": 4.422319318100422,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045597",
+      "label": "positive regulation of cell differentiation",
+      "fdr": 1.3112870104042272e-05,
+      "p_value": 4.859794893584448e-08,
+      "fold": 10.911983032873808,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045595",
+      "label": "regulation of cell differentiation",
+      "fdr": 1.4282330628619102e-05,
+      "p_value": 5.500788629582243e-08,
+      "fold": 7.356209787482939,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050867",
+      "label": "positive regulation of cell activation",
+      "fdr": 1.4795031498210373e-05,
+      "p_value": 5.8057677560014545e-08,
+      "fold": 18.585988904657462,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050863",
+      "label": "regulation of T cell activation",
+      "fdr": 1.5745071061969212e-05,
+      "p_value": 6.292994029564034e-08,
+      "fold": 18.36797143950019,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903037",
+      "label": "regulation of leukocyte cell-cell adhesion",
+      "fdr": 1.616780230210483e-05,
+      "p_value": 6.814421433922537e-08,
+      "fold": 18.15500945179584,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002520",
+      "label": "immune system development",
+      "fdr": 1.6195358925582208e-05,
+      "p_value": 6.943726303388927e-08,
+      "fold": 45.65217391304347,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071352",
+      "label": "cellular response to interleukin-2",
+      "fdr": 1.6423915215877017e-05,
+      "p_value": 6.80301698499375e-08,
+      "fold": 335.54347826086956,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0038110",
+      "label": "interleukin-2-mediated signaling pathway",
+      "fdr": 1.6717199416160535e-05,
+      "p_value": 6.80301698499375e-08,
+      "fold": 335.54347826086956,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046631",
+      "label": "alpha-beta T cell activation",
+      "fdr": 1.6760282651348357e-05,
+      "p_value": 7.307731698865645e-08,
+      "fold": 45.19104084321476,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010720",
+      "label": "positive regulation of cell development",
+      "fdr": 1.904164082450978e-05,
+      "p_value": 8.440811643740255e-08,
+      "fold": 17.594040058622376,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050852",
+      "label": "T cell receptor signaling pathway",
+      "fdr": 2.0778699528744378e-05,
+      "p_value": 9.3618150627291e-08,
+      "fold": 43.01839464882943,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070669",
+      "label": "response to interleukin-2",
+      "fdr": 2.2273351584620357e-05,
+      "p_value": 1.0197087056399117e-07,
+      "fold": 298.2608695652174,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006801",
+      "label": "superoxide metabolic process",
+      "fdr": 2.510838909342778e-05,
+      "p_value": 1.167747185509322e-07,
+      "fold": 87.29586426299046,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035723",
+      "label": "interleukin-15-mediated signaling pathway",
+      "fdr": 2.9457947581287612e-05,
+      "p_value": 1.455664875755801e-07,
+      "fold": 268.4347826086957,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051094",
+      "label": "positive regulation of developmental process",
+      "fdr": 2.977204243796242e-05,
+      "p_value": 1.4928209637522035e-07,
+      "fold": 7.876607470912431,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070672",
+      "label": "response to interleukin-15",
+      "fdr": 2.9897618440709815e-05,
+      "p_value": 1.455664875755801e-07,
+      "fold": 268.4347826086957,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071350",
+      "label": "cellular response to interleukin-15",
+      "fdr": 3.035061265950845e-05,
+      "p_value": 1.455664875755801e-07,
+      "fold": 268.4347826086957,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033152",
+      "label": "immunoglobulin V(D)J recombination",
+      "fdr": 3.081754516196243e-05,
+      "p_value": 1.455664875755801e-07,
+      "fold": 268.4347826086957,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048583",
+      "label": "regulation of response to stimulus",
+      "fdr": 3.1228244736417655e-05,
+      "p_value": 1.5885307256371165e-07,
+      "fold": 3.6860251645546946,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045058",
+      "label": "T cell selection",
+      "fdr": 4.326238010634367e-05,
+      "p_value": 2.232126289913815e-07,
+      "fold": 74.56521739130434,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051240",
+      "label": "positive regulation of multicellular organismal process",
+      "fdr": 4.367657089271262e-05,
+      "p_value": 2.2852358871268868e-07,
+      "fold": 6.399615536834964,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006303",
+      "label": "double-strand break repair via nonhomologous end joining",
+      "fdr": 4.578343637478081e-05,
+      "p_value": 2.428741265430564e-07,
+      "fold": 73.04347826086956,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032653",
+      "label": "regulation of interleukin-10 production",
+      "fdr": 7.237951301766365e-05,
+      "p_value": 3.892220015483693e-07,
+      "fold": 65.07509881422925,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042981",
+      "label": "regulation of apoptotic process",
+      "fdr": 7.737229748598774e-05,
+      "p_value": 4.2169335887283486e-07,
+      "fold": 7.045532351934269,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050793",
+      "label": "regulation of developmental process",
+      "fdr": 9.635382399324528e-05,
+      "p_value": 5.321481450102929e-07,
+      "fold": 5.1448928147330255,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048468",
+      "label": "cell development",
+      "fdr": 9.67363747250503e-05,
+      "p_value": 5.483204148356895e-07,
+      "fold": 5.86917632418138,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050851",
+      "label": "antigen receptor-mediated signaling pathway",
+      "fdr": 9.736857224460308e-05,
+      "p_value": 5.448281420561323e-07,
+      "fold": 30.229142185663925,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043067",
+      "label": "regulation of programmed cell death",
+      "fdr": 0.00010872393262866536,
+      "p_value": 6.24169077658932e-07,
+      "fold": 6.753076292042659,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030155",
+      "label": "regulation of cell adhesion",
+      "fdr": 0.00010950702611764633,
+      "p_value": 6.366224903285886e-07,
+      "fold": 9.997571046878795,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032693",
+      "label": "negative regulation of interleukin-10 production",
+      "fdr": 0.0001671867791318795,
+      "p_value": 9.840948411948435e-07,
+      "fold": 149.1304347826087,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048872",
+      "label": "homeostasis of number of cells",
+      "fdr": 0.00018151506531721584,
+      "p_value": 1.0816245444380277e-06,
+      "fold": 26.317135549872123,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072593",
+      "label": "reactive oxygen species metabolic process",
+      "fdr": 0.0002390118179966135,
+      "p_value": 1.4416089596482029e-06,
+      "fold": 47.09382151029749,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051716",
+      "label": "cellular response to stimulus",
+      "fdr": 0.0002457139225601958,
+      "p_value": 1.4998887795259392e-06,
+      "fold": 2.6879317350670457,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032501",
+      "label": "multicellular organismal process",
+      "fdr": 0.0002467349524577325,
+      "p_value": 1.5240513740939802e-06,
+      "fold": 2.902920677066047,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002253",
+      "label": "activation of immune response",
+      "fdr": 0.00041078442638190263,
+      "p_value": 2.567216093949831e-06,
+      "fold": 14.470877768662838,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006952",
+      "label": "defense response",
+      "fdr": 0.0004153062206043027,
+      "p_value": 2.6256551989371657e-06,
+      "fold": 6.801556991774383,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016447",
+      "label": "somatic recombination of immunoglobulin gene segments",
+      "fdr": 0.0004315443453963549,
+      "p_value": 2.7596760696809267e-06,
+      "fold": 107.37391304347827,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030183",
+      "label": "B cell differentiation",
+      "fdr": 0.00043935539089193676,
+      "p_value": 2.8415543775439553e-06,
+      "fold": 39.768115942028984,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048856",
+      "label": "anatomical structure development",
+      "fdr": 0.00048499582220130357,
+      "p_value": 3.1719805245343596e-06,
+      "fold": 3.2490290802311264,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006310",
+      "label": "DNA recombination",
+      "fdr": 0.0005068241344978655,
+      "p_value": 3.3515730135386796e-06,
+      "fold": 20.906135717188135,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050870",
+      "label": "positive regulation of T cell activation",
+      "fdr": 0.0006131035067913163,
+      "p_value": 4.098940674718487e-06,
+      "fold": 20.062390329498925,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045582",
+      "label": "positive regulation of T cell differentiation",
+      "fdr": 0.0006664043959294703,
+      "p_value": 4.503714033968515e-06,
+      "fold": 35.43693499784761,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045648",
+      "label": "positive regulation of erythrocyte differentiation",
+      "fdr": 0.0007105510900451368,
+      "p_value": 4.853702671625817e-06,
+      "fold": 89.47826086956522,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002429",
+      "label": "immune response-activating cell surface receptor signaling pathway",
+      "fdr": 0.0008667725150837696,
+      "p_value": 5.983823045778513e-06,
+      "fold": 18.563954537254197,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903039",
+      "label": "positive regulation of leukocyte cell-cell adhesion",
+      "fdr": 0.0009478232275776693,
+      "p_value": 6.61223965172998e-06,
+      "fold": 18.18663838812301,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002331",
+      "label": "pre-B cell allelic exclusion",
+      "fdr": 0.0010155919953440608,
+      "p_value": 7.15881284415187e-06,
+      "fold": 447.3913043478261,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030154",
+      "label": "cell differentiation",
+      "fdr": 0.0010223553902093895,
+      "p_value": 7.280781065367355e-06,
+      "fold": 4.032065829646198,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048869",
+      "label": "cellular developmental process",
+      "fdr": 0.001032247078960627,
+      "p_value": 7.426237978134006e-06,
+      "fold": 4.024509484388241,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042127",
+      "label": "regulation of cell population proliferation",
+      "fdr": 0.00124256661486093,
+      "p_value": 9.119920652638175e-06,
+      "fold": 5.844008329652301,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048871",
+      "label": "multicellular organismal-level homeostasis",
+      "fdr": 0.0012442156829342767,
+      "p_value": 9.041608043995906e-06,
+      "fold": 11.620553359683795,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0080134",
+      "label": "regulation of response to stress",
+      "fdr": 0.0012671753388387688,
+      "p_value": 9.392622960653617e-06,
+      "fold": 5.822880316891446,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007166",
+      "label": "cell surface receptor signaling pathway",
+      "fdr": 0.0013739014016205745,
+      "p_value": 1.028354366448072e-05,
+      "fold": 4.9599922876699125,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016445",
+      "label": "somatic diversification of immunoglobulins",
+      "fdr": 0.00143619372597077,
+      "p_value": 1.085416375997094e-05,
+      "fold": 68.82943143812709,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032502",
+      "label": "developmental process",
+      "fdr": 0.001520649526579157,
+      "p_value": 1.1602950388112164e-05,
+      "fold": 2.9420734612965327,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002377",
+      "label": "immunoglobulin production",
+      "fdr": 0.0015222366635304755,
+      "p_value": 1.17256802800836e-05,
+      "fold": 67.10869565217392,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902045",
+      "label": "negative regulation of Fas signaling pathway",
+      "fdr": 0.0015334175748780497,
+      "p_value": 1.1923238173966378e-05,
+      "fold": 357.9130434782609,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043066",
+      "label": "negative regulation of apoptotic process",
+      "fdr": 0.0015557204248681457,
+      "p_value": 1.220970902447204e-05,
+      "fold": 8.351304347826087,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045646",
+      "label": "regulation of erythrocyte differentiation",
+      "fdr": 0.0017175655525003579,
+      "p_value": 1.3604726780215027e-05,
+      "fold": 63.91304347826086,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002440",
+      "label": "production of molecular mediator of immune response",
+      "fdr": 0.0018282644707256865,
+      "p_value": 1.4614424226424354e-05,
+      "fold": 62.426693629929225,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0022409",
+      "label": "positive regulation of cell-cell adhesion",
+      "fdr": 0.0018796612666362525,
+      "p_value": 1.5161863280039535e-05,
+      "fold": 15.321620011911852,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008284",
+      "label": "positive regulation of cell population proliferation",
+      "fdr": 0.0020493232144870675,
+      "p_value": 1.6828248182329673e-05,
+      "fold": 7.948576473184728,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043069",
+      "label": "negative regulation of programmed cell death",
+      "fdr": 0.002067620743187845,
+      "p_value": 1.6828248182329673e-05,
+      "fold": 7.948576473184728,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042532",
+      "label": "negative regulation of tyrosine phosphorylation of STAT protein",
+      "fdr": 0.0021021034596715167,
+      "p_value": 1.7872691285630946e-05,
+      "fold": 298.2608695652174,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045059",
+      "label": "positive thymic T cell selection",
+      "fdr": 0.002120225041220409,
+      "p_value": 1.7872691285630946e-05,
+      "fold": 298.2608695652174,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002329",
+      "label": "pre-B cell differentiation",
+      "fdr": 0.002138661780709282,
+      "p_value": 1.7872691285630946e-05,
+      "fold": 298.2608695652174,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051250",
+      "label": "negative regulation of lymphocyte activation",
+      "fdr": 0.0021558107873878873,
+      "p_value": 1.7859343780409792e-05,
+      "fold": 25.02888415931894,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051707",
+      "label": "response to other organism",
+      "fdr": 0.002297656602604086,
+      "p_value": 1.9702309360314084e-05,
+      "fold": 6.295743948606171,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002768",
+      "label": "immune response-regulating cell surface receptor signaling pathway",
+      "fdr": 0.0023187430814264314,
+      "p_value": 2.022012715436173e-05,
+      "fold": 14.431977559607294,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043207",
+      "label": "response to external biotic stimulus",
+      "fdr": 0.002322331937633687,
+      "p_value": 2.0082661185844687e-05,
+      "fold": 6.279176201372997,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901698",
+      "label": "response to nitrogen compound",
+      "fdr": 0.0024368159554472627,
+      "p_value": 2.142683893678648e-05,
+      "fold": 7.657063888593601,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002757",
+      "label": "immune response-activating signaling pathway",
+      "fdr": 0.002538886793574537,
+      "p_value": 2.250884302129885e-05,
+      "fold": 14.113290357975586,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031347",
+      "label": "regulation of defense response",
+      "fdr": 0.002592646436151203,
+      "p_value": 2.317386175761921e-05,
+      "fold": 7.5645872715816,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902044",
+      "label": "regulation of Fas signaling pathway",
+      "fdr": 0.002774922057937833,
+      "p_value": 2.500474785148545e-05,
+      "fold": 255.6521739130435,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009607",
+      "label": "response to biotic stimulus",
+      "fdr": 0.0028034017830337334,
+      "p_value": 2.5465098675911393e-05,
+      "fold": 6.076622130360966,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045087",
+      "label": "innate immune response",
+      "fdr": 0.003319963388038349,
+      "p_value": 3.088113608523426e-05,
+      "fold": 9.353128313891835,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048585",
+      "label": "negative regulation of response to stimulus",
+      "fdr": 0.003320309157258862,
+      "p_value": 3.0401784304528498e-05,
+      "fold": 5.033152173913043,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045581",
+      "label": "negative regulation of T cell differentiation",
+      "fdr": 0.0033370292296031998,
+      "p_value": 3.079737752776734e-05,
+      "fold": 48.80632411067194,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002697",
+      "label": "regulation of immune effector process",
+      "fdr": 0.0034057367128459,
+      "p_value": 3.1926461445906624e-05,
+      "fold": 13.119979599642996,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035771",
+      "label": "interleukin-4-mediated signaling pathway",
+      "fdr": 0.00352673122444327,
+      "p_value": 3.3316987077801403e-05,
+      "fold": 223.69565217391306,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002695",
+      "label": "negative regulation of leukocyte activation",
+      "fdr": 0.003530659821448828,
+      "p_value": 3.36106704897752e-05,
+      "fold": 21.304347826086953,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002366",
+      "label": "leukocyte activation involved in immune response",
+      "fdr": 0.004019081509061151,
+      "p_value": 3.855234061449546e-05,
+      "fold": 20.569715142428784,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045620",
+      "label": "negative regulation of lymphocyte differentiation",
+      "fdr": 0.0041412207461890465,
+      "p_value": 4.0024878950886075e-05,
+      "fold": 44.73913043478261,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002822",
+      "label": "regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains",
+      "fdr": 0.004326475714913161,
+      "p_value": 4.212976860681372e-05,
+      "fold": 20.107474352711286,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002263",
+      "label": "cell activation involved in immune response",
+      "fdr": 0.004389336106810188,
+      "p_value": 4.306085127675135e-05,
+      "fold": 19.99514209375759,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043434",
+      "label": "response to peptide hormone",
+      "fdr": 0.004526881881981274,
+      "p_value": 4.4739185811311195e-05,
+      "fold": 12.223806129722025,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044419",
+      "label": "biological process involved in interspecies interaction between organisms",
+      "fdr": 0.0047524880173748845,
+      "p_value": 4.731421105881543e-05,
+      "fold": 5.574969524583503,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050866",
+      "label": "negative regulation of cell activation",
+      "fdr": 0.005307062007422765,
+      "p_value": 5.322102732536455e-05,
+      "fold": 18.93719806763285,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002819",
+      "label": "regulation of adaptive immune response",
+      "fdr": 0.005378208451625288,
+      "p_value": 5.432533789520493e-05,
+      "fold": 18.837528604118994,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048584",
+      "label": "positive regulation of response to stimulus",
+      "fdr": 0.005527428834706687,
+      "p_value": 5.6234287977540595e-05,
+      "fold": 4.087631835064651,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002764",
+      "label": "immune response-regulating signaling pathway",
+      "fdr": 0.005651287395354799,
+      "p_value": 5.831573360514363e-05,
+      "fold": 11.560498820357262,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050778",
+      "label": "positive regulation of immune response",
+      "fdr": 0.005682837746244823,
+      "p_value": 5.822833531142505e-05,
+      "fold": 8.349448914733925,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019221",
+      "label": "cytokine-mediated signaling pathway",
+      "fdr": 0.005892067497856043,
+      "p_value": 6.122851916237294e-05,
+      "fold": 11.442232847770487,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060397",
+      "label": "growth hormone receptor signaling pathway via JAK-STAT",
+      "fdr": 0.00624124858817332,
+      "p_value": 6.531064578860244e-05,
+      "fold": 162.68774703557312,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050766",
+      "label": "positive regulation of phagocytosis",
+      "fdr": 0.006562535118596984,
+      "p_value": 6.914959611921828e-05,
+      "fold": 37.28260869565217,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006259",
+      "label": "DNA metabolic process",
+      "fdr": 0.0068955779971150094,
+      "p_value": 7.315997293647201e-05,
+      "fold": 8.012978585334197,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033632",
+      "label": "regulation of cell-cell adhesion mediated by integrin",
+      "fdr": 0.007331662187773525,
+      "p_value": 7.831947835206077e-05,
+      "fold": 149.1304347826087,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002252",
+      "label": "immune effector process",
+      "fdr": 0.007375328216608757,
+      "p_value": 7.932189347126634e-05,
+      "fold": 10.832719233603537,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006302",
+      "label": "double-strand break repair",
+      "fdr": 0.007399809459236092,
+      "p_value": 8.012292779784737e-05,
+      "fold": 17.043478260869566,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0140546",
+      "label": "defense response to symbiont",
+      "fdr": 0.007464848681761415,
+      "p_value": 8.136961719818416e-05,
+      "fold": 7.860462155452289,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0098542",
+      "label": "defense response to other organism",
+      "fdr": 0.00784529613242574,
+      "p_value": 8.608674631177143e-05,
+      "fold": 7.780718336483932,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901700",
+      "label": "response to oxygen-containing compound",
+      "fdr": 0.007922264978663364,
+      "p_value": 8.750703268344098e-05,
+      "fold": 5.113043478260869,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046425",
+      "label": "regulation of receptor signaling pathway via JAK-STAT",
+      "fdr": 0.008204582124220011,
+      "p_value": 9.122164559302826e-05,
+      "fold": 33.97908640616401,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002703",
+      "label": "regulation of leukocyte mediated immunity",
+      "fdr": 0.008220760298108512,
+      "p_value": 9.259631176562892e-05,
+      "fold": 16.418029517351417,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002327",
+      "label": "immature B cell differentiation",
+      "fdr": 0.008265217829133755,
+      "p_value": 9.249644253227224e-05,
+      "fold": 137.65886287625418,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070663",
+      "label": "regulation of leukocyte proliferation",
+      "fdr": 0.008313869266238352,
+      "p_value": 9.424922647577814e-05,
+      "fold": 16.34306134603931,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045785",
+      "label": "positive regulation of cell adhesion",
+      "fdr": 0.008316966578300517,
+      "p_value": 9.488872558630776e-05,
+      "fold": 10.428701733049559,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000320",
+      "label": "negative regulation of T-helper 17 cell differentiation",
+      "fdr": 0.009392242956938262,
+      "p_value": 0.00010783913866697517,
+      "fold": 127.82608695652175,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050795",
+      "label": "regulation of behavior",
+      "fdr": 0.010520671046676805,
+      "p_value": 0.00012155996631215843,
+      "fold": 30.854572713643176,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046629",
+      "label": "gamma-delta T cell activation",
+      "fdr": 0.010562431438232475,
+      "p_value": 0.00012434517062667402,
+      "fold": 119.30434782608695,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048523",
+      "label": "negative regulation of cellular process",
+      "fdr": 0.010580240285933781,
+      "p_value": 0.00012301710963951785,
+      "fold": 2.6168699648504554,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000317",
+      "label": "negative regulation of T-helper 17 type immune response",
+      "fdr": 0.0106280366024451,
+      "p_value": 0.00012434517062667402,
+      "fold": 119.30434782608695,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1904892",
+      "label": "regulation of receptor signaling pathway via STAT",
+      "fdr": 0.011280439105340765,
+      "p_value": 0.0001344373238337247,
+      "fold": 29.82608695652174,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010628",
+      "label": "positive regulation of gene expression",
+      "fdr": 0.011286190183099013,
+      "p_value": 0.0001336857059694164,
+      "fold": 5.7410433188538645,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001817",
+      "label": "regulation of cytokine production",
+      "fdr": 0.012478528205939858,
+      "p_value": 0.0001496226403589911,
+      "fold": 7.036298364579179,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045639",
+      "label": "positive regulation of myeloid cell differentiation",
+      "fdr": 0.013082746791056438,
+      "p_value": 0.00015781817944301784,
+      "fold": 28.256292906178494,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002718",
+      "label": "regulation of cytokine production involved in immune response",
+      "fdr": 0.013100346986897465,
+      "p_value": 0.00016279044653437009,
+      "fold": 27.96195652173913,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043373",
+      "label": "CD4-positive, alpha-beta T cell lineage commitment",
+      "fdr": 0.013174328833621603,
+      "p_value": 0.0001608376748817985,
+      "fold": 105.26854219948851,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050764",
+      "label": "regulation of phagocytosis",
+      "fdr": 0.013177407851526273,
+      "p_value": 0.00016279044653437009,
+      "fold": 27.96195652173913,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045623",
+      "label": "negative regulation of T-helper cell differentiation",
+      "fdr": 0.013253217030230115,
+      "p_value": 0.0001608376748817985,
+      "fold": 105.26854219948851,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000723",
+      "label": "telomere maintenance",
+      "fdr": 0.013255380679050098,
+      "p_value": 0.00016279044653437009,
+      "fold": 27.96195652173913,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002683",
+      "label": "negative regulation of immune system process",
+      "fdr": 0.013884356115264259,
+      "p_value": 0.00017354183938852208,
+      "fold": 9.167854597291518,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043369",
+      "label": "CD4-positive or CD8-positive, alpha-beta T cell lineage commitment",
+      "fdr": 0.014300318295521695,
+      "p_value": 0.00018081937238723745,
+      "fold": 99.42028985507247,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002363",
+      "label": "alpha-beta T cell lineage commitment",
+      "fdr": 0.014382979094917774,
+      "p_value": 0.00018081937238723745,
+      "fold": 99.42028985507247,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032200",
+      "label": "telomere organization",
+      "fdr": 0.014444877966724739,
+      "p_value": 0.0001836969438396068,
+      "fold": 26.843478260869567,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902106",
+      "label": "negative regulation of leukocyte differentiation",
+      "fdr": 0.016128100398328737,
+      "p_value": 0.00020627466536631478,
+      "fold": 25.811036789297656,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009605",
+      "label": "response to external stimulus",
+      "fdr": 0.016722916451021922,
+      "p_value": 0.000215097464706844,
+      "fold": 4.496395018571117,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001933",
+      "label": "negative regulation of protein phosphorylation",
+      "fdr": 0.016869449880860407,
+      "p_value": 0.00021820813013539368,
+      "fold": 25.32403609515997,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903707",
+      "label": "negative regulation of hemopoiesis",
+      "fdr": 0.017150725481244408,
+      "p_value": 0.00022433911682464885,
+      "fold": 25.08736286062576,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048519",
+      "label": "negative regulation of biological process",
+      "fdr": 0.01719413416957307,
+      "p_value": 0.00022365743887461521,
+      "fold": 2.484028657889972,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001818",
+      "label": "negative regulation of cytokine production",
+      "fdr": 0.017915365330923035,
+      "p_value": 0.00023564284026575608,
+      "fold": 12.874569909289958,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043371",
+      "label": "negative regulation of CD4-positive, alpha-beta T cell differentiation",
+      "fdr": 0.018523328418957333,
+      "p_value": 0.0002476776708878824,
+      "fold": 85.21739130434781,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032760",
+      "label": "positive regulation of tumor necrosis factor production",
+      "fdr": 0.01859435364086895,
+      "p_value": 0.00024997859338425665,
+      "fold": 24.183313748531138,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071353",
+      "label": "cellular response to interleukin-4",
+      "fdr": 0.018624548792831416,
+      "p_value": 0.0002476776708878824,
+      "fold": 85.21739130434781,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002360",
+      "label": "T cell lineage commitment",
+      "fdr": 0.018726881478506315,
+      "p_value": 0.0002476776708878824,
+      "fold": 85.21739130434781,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903557",
+      "label": "positive regulation of tumor necrosis factor superfamily cytokine production",
+      "fdr": 0.02052643344842157,
+      "p_value": 0.00027744470760892464,
+      "fold": 23.342155009451794,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048518",
+      "label": "positive regulation of biological process",
+      "fdr": 0.020894263558709877,
+      "p_value": 0.00028393483652923093,
+      "fold": 2.2810569562261698,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050732",
+      "label": "negative regulation of peptidyl-tyrosine phosphorylation",
+      "fdr": 0.021582110093624426,
+      "p_value": 0.00029798713158844857,
+      "fold": 77.80718336483933,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070670",
+      "label": "response to interleukin-4",
+      "fdr": 0.02169630115232085,
+      "p_value": 0.00029798713158844857,
+      "fold": 77.80718336483933,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060396",
+      "label": "growth hormone receptor signaling pathway",
+      "fdr": 0.021811707009514045,
+      "p_value": 0.00029798713158844857,
+      "fold": 77.80718336483933,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042326",
+      "label": "negative regulation of phosphorylation",
+      "fdr": 0.02210352183437611,
+      "p_value": 0.0003067925783275806,
+      "fold": 22.55754475703325,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042592",
+      "label": "homeostatic process",
+      "fdr": 0.022469207155817895,
+      "p_value": 0.0003135010372732386,
+      "fold": 5.002778163633838,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007165",
+      "label": "signal transduction",
+      "fdr": 0.02266619475710024,
+      "p_value": 0.0003178966345556534,
+      "fold": 2.579768000231421,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045061",
+      "label": "thymic T cell selection",
+      "fdr": 0.022807870058990612,
+      "p_value": 0.0003248559357286651,
+      "fold": 74.56521739130434,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050868",
+      "label": "negative regulation of T cell activation",
+      "fdr": 0.02285384291077213,
+      "p_value": 0.00032218919589345203,
+      "fold": 22.184692777578153,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071378",
+      "label": "cellular response to growth hormone stimulus",
+      "fdr": 0.022924833495190564,
+      "p_value": 0.0003248559357286651,
+      "fold": 74.56521739130434,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002285",
+      "label": "lymphocyte activation involved in immune response",
+      "fdr": 0.023056389726083724,
+      "p_value": 0.0003300711268104421,
+      "fold": 22.002851033499642,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019222",
+      "label": "regulation of metabolic process",
+      "fdr": 0.023761188823499597,
+      "p_value": 0.00034188760897121723,
+      "fold": 2.2463161724577043,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009968",
+      "label": "negative regulation of signal transduction",
+      "fdr": 0.02422435240403622,
+      "p_value": 0.0003538329215326851,
+      "fold": 4.904838105614381,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002719",
+      "label": "negative regulation of cytokine production involved in immune response",
+      "fdr": 0.02427882858287919,
+      "p_value": 0.0003528643061242525,
+      "fold": 71.58260869565217,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046426",
+      "label": "negative regulation of receptor signaling pathway via JAK-STAT",
+      "fdr": 0.024400832746612255,
+      "p_value": 0.0003528643061242525,
+      "fold": 71.58260869565217,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002831",
+      "label": "regulation of response to biotic stimulus",
+      "fdr": 0.0244638985940545,
+      "p_value": 0.0003591096225564282,
+      "fold": 7.83522424427016,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045936",
+      "label": "negative regulation of phosphate metabolic process",
+      "fdr": 0.024596431291504812,
+      "p_value": 0.00036284249343619484,
+      "fold": 21.304347826086957,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043122",
+      "label": "regulation of canonical NF-kappaB signal transduction",
+      "fdr": 0.025558922046184488,
+      "p_value": 0.0003788983429562994,
+      "fold": 11.36231884057971,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046639",
+      "label": "negative regulation of alpha-beta T cell differentiation",
+      "fdr": 0.025643112326284922,
+      "p_value": 0.00038200988495664626,
+      "fold": 68.82943143812709,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000319",
+      "label": "regulation of T-helper 17 cell differentiation",
+      "fdr": 0.027541393511611945,
+      "p_value": 0.0004122903178106286,
+      "fold": 66.28019323671498,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903038",
+      "label": "negative regulation of leukocyte cell-cell adhesion",
+      "fdr": 0.027643081471750645,
+      "p_value": 0.0004158213694246336,
+      "fold": 20.335968379446637,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042221",
+      "label": "response to chemical",
+      "fdr": 0.028433968674550694,
+      "p_value": 0.0004297845712016964,
+      "fold": 2.927605203941753,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070665",
+      "label": "positive regulation of leukocyte proliferation",
+      "fdr": 0.029099822876989978,
+      "p_value": 0.0004440783957683232,
+      "fold": 19.884057971014492,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1904893",
+      "label": "negative regulation of receptor signaling pathway via STAT",
+      "fdr": 0.029214356338304933,
+      "p_value": 0.0004437032537392436,
+      "fold": 63.913043478260875,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009628",
+      "label": "response to abiotic stimulus",
+      "fdr": 0.03029432430744227,
+      "p_value": 0.0004645085697892827,
+      "fold": 5.7053088758490045,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071345",
+      "label": "cellular response to cytokine stimulus",
+      "fdr": 0.03178726218661097,
+      "p_value": 0.0004897100198794802,
+      "fold": 7.322279940226286,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000515",
+      "label": "negative regulation of CD4-positive, alpha-beta T cell activation",
+      "fdr": 0.032943527012744764,
+      "p_value": 0.0005099172482897052,
+      "fold": 59.65217391304348,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0023057",
+      "label": "negative regulation of signaling",
+      "fdr": 0.033213226171627724,
+      "p_value": 0.0005189189467989216,
+      "fold": 4.6054987212276215,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010648",
+      "label": "negative regulation of cell communication",
+      "fdr": 0.03336842816308393,
+      "p_value": 0.0005189189467989216,
+      "fold": 4.6054987212276215,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002700",
+      "label": "regulation of production of molecular mediator of immune response",
+      "fdr": 0.036275136685195136,
+      "p_value": 0.0005693939048035862,
+      "fold": 18.26086956521739,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060255",
+      "label": "regulation of macromolecule metabolic process",
+      "fdr": 0.036992622186365044,
+      "p_value": 0.0005833441620842391,
+      "fold": 2.280946198423002,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901701",
+      "label": "cellular response to oxygen-containing compound",
+      "fdr": 0.03738452882445872,
+      "p_value": 0.0005922409188090982,
+      "fold": 5.450452438755241,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051241",
+      "label": "negative regulation of multicellular organismal process",
+      "fdr": 0.03849120171659758,
+      "p_value": 0.0006181640563453285,
+      "fold": 5.406541442269801,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002701",
+      "label": "negative regulation of production of molecular mediator of immune response",
+      "fdr": 0.03863547351931967,
+      "p_value": 0.0006176734375590674,
+      "fold": 54.2292490118577,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0023052",
+      "label": "signaling",
+      "fdr": 0.03878679258317035,
+      "p_value": 0.0006172740044847254,
+      "fold": 2.420344135048581,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045807",
+      "label": "positive regulation of endocytosis",
+      "fdr": 0.040412338946119786,
+      "p_value": 0.000651954018315427,
+      "fold": 17.43083003952569,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043029",
+      "label": "T cell homeostasis",
+      "fdr": 0.040470435467059446,
+      "p_value": 0.000655832214893849,
+      "fold": 52.634271099744254,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007154",
+      "label": "cell communication",
+      "fdr": 0.04119856624145179,
+      "p_value": 0.0006736194611094144,
+      "fold": 2.399870830006907,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009966",
+      "label": "regulation of signal transduction",
+      "fdr": 0.0412035267021411,
+      "p_value": 0.0006707063426553017,
+      "fold": 3.0424434161701877,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042509",
+      "label": "regulation of tyrosine phosphorylation of STAT protein",
+      "fdr": 0.04213819068142431,
+      "p_value": 0.0006951071349962444,
+      "fold": 51.130434782608695,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000316",
+      "label": "regulation of T-helper 17 type immune response",
+      "fdr": 0.04232464285258106,
+      "p_value": 0.0006951071349962444,
+      "fold": 51.130434782608695,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060416",
+      "label": "response to growth hormone",
+      "fdr": 0.04689580485724113,
+      "p_value": 0.0007769961127426044,
+      "fold": 48.36662749706228,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010557",
+      "label": "positive regulation of macromolecule biosynthetic process",
+      "fdr": 0.047397900785847706,
+      "p_value": 0.0007887594854995367,
+      "fold": 3.297724602072428,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010604",
+      "label": "positive regulation of macromolecule metabolic process",
+      "fdr": 0.04892555947588775,
+      "p_value": 0.0008177369870978985,
+      "fold": 2.968754507948415,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051276",
+      "label": "chromosome organization",
+      "fdr": 0.049875047427021695,
+      "p_value": 0.0008372310119643929,
+      "fold": 9.200849446741923,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032101",
+      "label": "regulation of response to external stimulus",
+      "fdr": 0.04995199529714299,
+      "p_value": 0.0008421526712402567,
+      "fold": 5.098476402824229,
+      "source": "PANTHER"
+    }
+  ],
+  "Enrichr": [
+    {
+      "id": "GO:0033151",
+      "label": "V(D)J Recombination",
+      "fdr": 5.235708199391349e-10,
+      "p_value": 1.2555655154415705e-12,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030217",
+      "label": "T Cell Differentiation",
+      "fdr": 4.4111269985404284e-07,
+      "p_value": 2.115648440546968e-09,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042554",
+      "label": "Superoxide Anion Generation",
+      "fdr": 8.485954616638433e-07,
+      "p_value": 6.105003321322614e-09,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033152",
+      "label": "Immunoglobulin V(D)J Recombination",
+      "fdr": 1.5800157943520125e-06,
+      "p_value": 1.515602680433585e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030098",
+      "label": "Lymphocyte Differentiation",
+      "fdr": 2.0078043587676084e-06,
+      "p_value": 2.7845293970598567e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0038110",
+      "label": "Interleukin-2-Mediated Signaling Pathway",
+      "fdr": 2.0078043587676084e-06,
+      "p_value": 5.296366414015275e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0038111",
+      "label": "Interleukin-7-Mediated Signaling Pathway",
+      "fdr": 2.0078043587676084e-06,
+      "p_value": 5.296366414015275e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0038113",
+      "label": "Interleukin-9-Mediated Signaling Pathway",
+      "fdr": 2.0078043587676084e-06,
+      "p_value": 5.296366414015275e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071352",
+      "label": "Cellular Response to Interleukin-2",
+      "fdr": 2.0078043587676084e-06,
+      "p_value": 5.296366414015275e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0098761",
+      "label": "Cellular Response to Interleukin-7",
+      "fdr": 2.0078043587676084e-06,
+      "p_value": 5.296366414015275e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071355",
+      "label": "Cellular Response to Interleukin-9",
+      "fdr": 2.0078043587676084e-06,
+      "p_value": 5.296366414015275e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050852",
+      "label": "T Cell Receptor Signaling Pathway",
+      "fdr": 2.0324209712619544e-06,
+      "p_value": 5.8486934424804445e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016447",
+      "label": "Somatic Recombination of Immunoglobulin Gene Segments",
+      "fdr": 2.7008946274617464e-06,
+      "p_value": 8.467574531021557e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042113",
+      "label": "B Cell Activation",
+      "fdr": 2.7008946274617464e-06,
+      "p_value": 9.067751746873969e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006801",
+      "label": "Superoxide Metabolic Process",
+      "fdr": 2.8506796024696616e-06,
+      "p_value": 1.02542431743513e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035723",
+      "label": "Interleukin-15-Mediated Signaling Pathway",
+      "fdr": 3.11313485185986e-06,
+      "p_value": 1.2691437045951467e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071350",
+      "label": "Cellular Response to Interleukin-15",
+      "fdr": 3.11313485185986e-06,
+      "p_value": 1.2691437045951467e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042110",
+      "label": "T Cell Activation",
+      "fdr": 4.712009532296034e-06,
+      "p_value": 2.146958779703229e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050851",
+      "label": "Antigen Receptor-Mediated Signaling Pathway",
+      "fdr": 4.712009532296034e-06,
+      "p_value": 2.146958779703229e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006303",
+      "label": "Double-Strand Break Repair via Nonhomologous End Joining",
+      "fdr": 5.728068180587698e-06,
+      "p_value": 2.7472749067566894e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030183",
+      "label": "B Cell Differentiation",
+      "fdr": 8.913202101528673e-06,
+      "p_value": 4.488662928827389e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033077",
+      "label": "T Cell Differentiation in Thymus",
+      "fdr": 1.0383520070389164e-05,
+      "p_value": 5.478116104282054e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046631",
+      "label": "Alpha-Beta T Cell Activation",
+      "fdr": 2.633642053756214e-05,
+      "p_value": 1.4526083270118207e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045648",
+      "label": "Positive Regulation of Erythrocyte Differentiation",
+      "fdr": 7.570845512833262e-05,
+      "p_value": 4.357321158465187e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019221",
+      "label": "Cytokine-Mediated Signaling Pathway",
+      "fdr": 0.00018418804979435162,
+      "p_value": 1.1293176465677632e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045639",
+      "label": "Positive Regulation of Myeloid Cell Differentiation",
+      "fdr": 0.00018418804979435162,
+      "p_value": 1.148414698957588e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045646",
+      "label": "Regulation of Erythrocyte Differentiation",
+      "fdr": 0.00019241765580598554,
+      "p_value": 1.245869713851705e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043933",
+      "label": "Protein-Containing Complex Organization",
+      "fdr": 0.00019596292293175605,
+      "p_value": 1.3158181875513597e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070228",
+      "label": "Regulation of Lymphocyte Apoptotic Process",
+      "fdr": 0.0002870052544179931,
+      "p_value": 2.063922922489771e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071345",
+      "label": "Cellular Response to Cytokine Stimulus",
+      "fdr": 0.0002870052544179931,
+      "p_value": 2.0647860030071445e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032653",
+      "label": "Regulation of Interleukin-10 Production",
+      "fdr": 0.00029967368918351167,
+      "p_value": 2.2277900155129167e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007259",
+      "label": "Cell Surface Receptor Signaling Pathway via JAK-STAT",
+      "fdr": 0.00030985876976085487,
+      "p_value": 2.3778131012823394e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006259",
+      "label": "DNA Metabolic Process",
+      "fdr": 0.0003222547585350279,
+      "p_value": 2.5502175135865514e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0097696",
+      "label": "Cell Surface Receptor Signaling Pathway via STAT",
+      "fdr": 0.00046888368671520967,
+      "p_value": 3.8230324576300066e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045623",
+      "label": "Negative Regulation of T-helper Cell Differentiation",
+      "fdr": 0.0005888718664977849,
+      "p_value": 4.942569622883086e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032200",
+      "label": "Telomere Organization",
+      "fdr": 0.0006046330519712779,
+      "p_value": 5.219853686082974e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006302",
+      "label": "Double-Strand Break Repair",
+      "fdr": 0.0006047909243356907,
+      "p_value": 5.3662504077747136e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060397",
+      "label": "Growth Hormone Receptor Signaling Pathway via JAK-STAT",
+      "fdr": 0.0006601104998766624,
+      "p_value": 6.173695322587491e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000320",
+      "label": "Negative Regulation of T-helper 17 Cell Differentiation",
+      "fdr": 0.0006601104998766624,
+      "p_value": 6.173695322587491e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000723",
+      "label": "Telomere Maintenance",
+      "fdr": 0.0008939867822124429,
+      "p_value": 8.575412779016238e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002719",
+      "label": "Negative Regulation of Cytokine Production Involved in Immune Response",
+      "fdr": 0.001589551143838979,
+      "p_value": 0.00016391054960449903,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032693",
+      "label": "Negative Regulation of Interleukin-10 Production",
+      "fdr": 0.001589551143838979,
+      "p_value": 0.00016391054960449903,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043029",
+      "label": "T Cell Homeostasis",
+      "fdr": 0.001589551143838979,
+      "p_value": 0.00016391054960449903,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904892",
+      "label": "Regulation of Receptor Signaling Pathway via STAT",
+      "fdr": 0.002208773902046004,
+      "p_value": 0.00023306007599526184,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060396",
+      "label": "Growth Hormone Receptor Signaling Pathway",
+      "fdr": 0.0026483698837508132,
+      "p_value": 0.0002857953111961309,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0022607",
+      "label": "Cellular Component Assembly",
+      "fdr": 0.0027874888985708326,
+      "p_value": 0.00030749278017807745,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0014074",
+      "label": "Response to Purine-Containing Compound",
+      "fdr": 0.003611796758884492,
+      "p_value": 0.0004070850063970531,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2001032",
+      "label": "Regulation of Double-Strand Break Repair via Nonhomologous End Joining",
+      "fdr": 0.004131709975429933,
+      "p_value": 0.0004755925151574023,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0065003",
+      "label": "Protein-Containing Complex Assembly",
+      "fdr": 0.004677285718285113,
+      "p_value": 0.0005496091131797855,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045944",
+      "label": "Positive Regulation of Transcription by RNA Polymerase II",
+      "fdr": 0.00726403748147523,
+      "p_value": 0.0008709877076109389,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045621",
+      "label": "Positive Regulation of Lymphocyte Differentiation",
+      "fdr": 0.008137611578590465,
+      "p_value": 0.0009952474592520714,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006968",
+      "label": "Cellular Defense Response",
+      "fdr": 0.011575210268058488,
+      "p_value": 0.0014434314962566937,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001818",
+      "label": "Negative Regulation of Cytokine Production",
+      "fdr": 0.011776999299623829,
+      "p_value": 0.0014968368414389997,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043067",
+      "label": "Regulation of Programmed Cell Death",
+      "fdr": 0.012265822738176984,
+      "p_value": 0.0015883799229293935,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050868",
+      "label": "Negative Regulation of T Cell Activation",
+      "fdr": 0.012870137354862171,
+      "p_value": 0.0016975001307372168,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048660",
+      "label": "Regulation of Smooth Muscle Cell Proliferation",
+      "fdr": 0.014027709588921642,
+      "p_value": 0.001901018240228249,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042127",
+      "label": "Regulation of Cell Population Proliferation",
+      "fdr": 0.014027709588921642,
+      "p_value": 0.001917456706399361,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046425",
+      "label": "Regulation of Receptor Signaling Pathway via JAK-STAT",
+      "fdr": 0.014173057054612812,
+      "p_value": 0.0019713124920084967,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043434",
+      "label": "Response to Peptide Hormone",
+      "fdr": 0.014438303619711578,
+      "p_value": 0.002042829528928017,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0018108",
+      "label": "Peptidyl-Tyrosine Phosphorylation",
+      "fdr": 0.015217169651458086,
+      "p_value": 0.002189520813159437,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043124",
+      "label": "Negative Regulation of Canonical NF-kappaB Signal Transduction",
+      "fdr": 0.016534112183402595,
+      "p_value": 0.0024186590963730416,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050764",
+      "label": "Regulation of Phagocytosis",
+      "fdr": 0.01679739539715808,
+      "p_value": 0.0024974544715199065,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050766",
+      "label": "Positive Regulation of Phagocytosis",
+      "fdr": 0.017597747982929984,
+      "p_value": 0.002658652572960645,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010212",
+      "label": "Response to Ionizing Radiation",
+      "fdr": 0.02108818213927226,
+      "p_value": 0.003260434667143527,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045893",
+      "label": "Positive Regulation of DNA-templated Transcription",
+      "fdr": 0.02108818213927226,
+      "p_value": 0.0032871267123565874,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006954",
+      "label": "Inflammatory Response",
+      "fdr": 0.022938074633653167,
+      "p_value": 0.00363048663266453,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043122",
+      "label": "Regulation of Canonical NF-kappaB Signal Transduction",
+      "fdr": 0.024848243225573923,
+      "p_value": 0.003992403587802045,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042129",
+      "label": "Regulation of T Cell Proliferation",
+      "fdr": 0.02714132496145812,
+      "p_value": 0.004425923494914033,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045807",
+      "label": "Positive Regulation of Endocytosis",
+      "fdr": 0.0280196590131529,
+      "p_value": 0.0046363464554137895,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007417",
+      "label": "Central Nervous System Development",
+      "fdr": 0.02847922570502892,
+      "p_value": 0.00478068537014874,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016310",
+      "label": "Phosphorylation",
+      "fdr": 0.029025813463110915,
+      "p_value": 0.005256628528556877,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006281",
+      "label": "DNA Repair",
+      "fdr": 0.029025813463110915,
+      "p_value": 0.005454751481760873,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000781",
+      "label": "Positive Regulation of Double-Strand Break Repair",
+      "fdr": 0.029025813463110915,
+      "p_value": 0.005639427655241041,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007260",
+      "label": "Tyrosine Phosphorylation of STAT Protein",
+      "fdr": 0.029025813463110915,
+      "p_value": 0.0059861389875960165,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903799",
+      "label": "Negative Regulation of miRNA Processing",
+      "fdr": 0.029025813463110915,
+      "p_value": 0.0059861389875960165,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0038155",
+      "label": "Interleukin-23-Mediated Signaling Pathway",
+      "fdr": 0.029025813463110915,
+      "p_value": 0.0059861389875960165,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035771",
+      "label": "Interleukin-4-Mediated Signaling Pathway",
+      "fdr": 0.029025813463110915,
+      "p_value": 0.0059861389875960165,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048708",
+      "label": "Astrocyte Differentiation",
+      "fdr": 0.029025813463110915,
+      "p_value": 0.0059861389875960165,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045059",
+      "label": "Positive Thymic T Cell Selection",
+      "fdr": 0.029025813463110915,
+      "p_value": 0.0059861389875960165,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072161",
+      "label": "Mesenchymal Cell Differentiation Involved in Kidney Development",
+      "fdr": 0.029025813463110915,
+      "p_value": 0.0059861389875960165,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060019",
+      "label": "Radial Glial Cell Differentiation",
+      "fdr": 0.029025813463110915,
+      "p_value": 0.0059861389875960165,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002577",
+      "label": "Regulation of Antigen Processing and Presentation",
+      "fdr": 0.029025813463110915,
+      "p_value": 0.0059861389875960165,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000329",
+      "label": "Negative Regulation of T-helper 17 Cell Lineage Commitment",
+      "fdr": 0.029025813463110915,
+      "p_value": 0.0059861389875960165,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033634",
+      "label": "Positive Regulation of Cell-Cell Adhesion Mediated by Integrin",
+      "fdr": 0.029025813463110915,
+      "p_value": 0.0059861389875960165,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042755",
+      "label": "Eating Behavior",
+      "fdr": 0.029025813463110915,
+      "p_value": 0.0059861389875960165,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010454",
+      "label": "Negative Regulation of Cell Fate Commitment",
+      "fdr": 0.029025813463110915,
+      "p_value": 0.0059861389875960165,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051092",
+      "label": "Positive Regulation of NF-kappaB Transcription Factor Activity",
+      "fdr": 0.032190807661606806,
+      "p_value": 0.006988134319033998,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046085",
+      "label": "Adenosine Metabolic Process",
+      "fdr": 0.032190807661606806,
+      "p_value": 0.007179244874171303,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070106",
+      "label": "Interleukin-27-Mediated Signaling Pathway",
+      "fdr": 0.032190807661606806,
+      "p_value": 0.007179244874171303,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002320",
+      "label": "Lymphoid Progenitor Cell Differentiation",
+      "fdr": 0.032190807661606806,
+      "p_value": 0.007179244874171303,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046128",
+      "label": "Purine Ribonucleoside Metabolic Process",
+      "fdr": 0.032190807661606806,
+      "p_value": 0.007179244874171303,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002664",
+      "label": "Regulation of T Cell Tolerance Induction",
+      "fdr": 0.032190807661606806,
+      "p_value": 0.007179244874171303,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045625",
+      "label": "Regulation of T-helper 1 Cell Differentiation",
+      "fdr": 0.032190807661606806,
+      "p_value": 0.007179244874171303,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902107",
+      "label": "Positive Regulation of Leukocyte Differentiation",
+      "fdr": 0.03522346920625336,
+      "p_value": 0.00837097899164431,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0106015",
+      "label": "Negative Regulation of Inflammatory Response to Wounding",
+      "fdr": 0.03522346920625336,
+      "p_value": 0.00837097899164431,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070243",
+      "label": "Regulation of Thymocyte Apoptotic Process",
+      "fdr": 0.03522346920625336,
+      "p_value": 0.00837097899164431,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046530",
+      "label": "Photoreceptor Cell Differentiation",
+      "fdr": 0.03522346920625336,
+      "p_value": 0.00837097899164431,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0044320",
+      "label": "Cellular Response to Leptin Stimulus",
+      "fdr": 0.03522346920625336,
+      "p_value": 0.00837097899164431,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0097681",
+      "label": "Double-Strand Break Repair via Alternative Nonhomologous End Joining",
+      "fdr": 0.03522346920625336,
+      "p_value": 0.00837097899164431,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0141124",
+      "label": "Intracellular Signaling Cassette",
+      "fdr": 0.03522346920625336,
+      "p_value": 0.008446875109413277,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010629",
+      "label": "Negative Regulation of Gene Expression",
+      "fdr": 0.03528389303835331,
+      "p_value": 0.009113583280900782,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007167",
+      "label": "Enzyme-Linked Receptor Protein Signaling Pathway",
+      "fdr": 0.03528389303835331,
+      "p_value": 0.00918415171553109,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042981",
+      "label": "Regulation of Apoptotic Process",
+      "fdr": 0.03528389303835331,
+      "p_value": 0.009227795693949103,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034097",
+      "label": "Response to Cytokine",
+      "fdr": 0.03528389303835331,
+      "p_value": 0.009477732027101848,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010561",
+      "label": "Negative Regulation of Glycoprotein Biosynthetic Process",
+      "fdr": 0.03528389303835331,
+      "p_value": 0.009561342717827156,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051650",
+      "label": "Establishment of Vesicle Localization",
+      "fdr": 0.03528389303835331,
+      "p_value": 0.009561342717827156,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043276",
+      "label": "Anoikis",
+      "fdr": 0.03528389303835331,
+      "p_value": 0.009561342717827156,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033210",
+      "label": "Leptin-Mediated Signaling Pathway",
+      "fdr": 0.03528389303835331,
+      "p_value": 0.009561342717827156,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072202",
+      "label": "Cell Differentiation Involved in Metanephros Development",
+      "fdr": 0.03528389303835331,
+      "p_value": 0.009561342717827156,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0044321",
+      "label": "Response to Leptin",
+      "fdr": 0.03528389303835331,
+      "p_value": 0.009561342717827156,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070233",
+      "label": "Negative Regulation of T Cell Apoptotic Process",
+      "fdr": 0.03528389303835331,
+      "p_value": 0.009561342717827156,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0097680",
+      "label": "Double-Strand Break Repair via Classical Nonhomologous End Joining",
+      "fdr": 0.03528389303835331,
+      "p_value": 0.009561342717827156,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010950",
+      "label": "Positive Regulation of Endopeptidase Activity",
+      "fdr": 0.03528389303835331,
+      "p_value": 0.009561342717827156,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010468",
+      "label": "Regulation of Gene Expression",
+      "fdr": 0.03569080641853117,
+      "p_value": 0.00975719887700852,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002053",
+      "label": "Positive Regulation of Mesenchymal Cell Proliferation",
+      "fdr": 0.036745005924794905,
+      "p_value": 0.010750337464808102,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046629",
+      "label": "Gamma-Delta T Cell Activation",
+      "fdr": 0.036745005924794905,
+      "p_value": 0.010750337464808102,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0106014",
+      "label": "Regulation of Inflammatory Response to Wounding",
+      "fdr": 0.036745005924794905,
+      "p_value": 0.010750337464808102,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072540",
+      "label": "T-helper 17 Cell Lineage Commitment",
+      "fdr": 0.036745005924794905,
+      "p_value": 0.010750337464808102,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002902",
+      "label": "Regulation of B Cell Apoptotic Process",
+      "fdr": 0.036745005924794905,
+      "p_value": 0.010750337464808102,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070670",
+      "label": "Response to Interleukin-4",
+      "fdr": 0.036745005924794905,
+      "p_value": 0.010750337464808102,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030832",
+      "label": "Regulation of Actin Filament Length",
+      "fdr": 0.036745005924794905,
+      "p_value": 0.010750337464808102,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033632",
+      "label": "Regulation of Cell-Cell Adhesion Mediated by Integrin",
+      "fdr": 0.036745005924794905,
+      "p_value": 0.010750337464808102,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032700",
+      "label": "Negative Regulation of Interleukin-17 Production",
+      "fdr": 0.03771311565673752,
+      "p_value": 0.011937964668319789,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060333",
+      "label": "Type II Interferon-Mediated Signaling Pathway",
+      "fdr": 0.03771311565673752,
+      "p_value": 0.011937964668319789,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072539",
+      "label": "T-helper 17 Cell Differentiation",
+      "fdr": 0.03771311565673752,
+      "p_value": 0.011937964668319789,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072075",
+      "label": "Metanephric Mesenchyme Development",
+      "fdr": 0.03771311565673752,
+      "p_value": 0.011937964668319789,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010165",
+      "label": "Response to X-ray",
+      "fdr": 0.03771311565673752,
+      "p_value": 0.011937964668319789,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000319",
+      "label": "Regulation of T-helper 17 Cell Differentiation",
+      "fdr": 0.03771311565673752,
+      "p_value": 0.011937964668319789,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010770",
+      "label": "Positive Regulation of Cell Morphogenesis",
+      "fdr": 0.03771311565673752,
+      "p_value": 0.011937964668319789,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000012",
+      "label": "Single Strand Break Repair",
+      "fdr": 0.03771311565673752,
+      "p_value": 0.011937964668319789,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046007",
+      "label": "Negative Regulation of Activated T Cell Proliferation",
+      "fdr": 0.03771311565673752,
+      "p_value": 0.011937964668319789,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002204",
+      "label": "Somatic Recombination of Immunoglobulin Genes Involved in Immune Response",
+      "fdr": 0.03771311565673752,
+      "p_value": 0.011937964668319789,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010464",
+      "label": "Regulation of Mesenchymal Cell Proliferation",
+      "fdr": 0.040539275191206134,
+      "p_value": 0.013124225781325726,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0140105",
+      "label": "Interleukin-10-Mediated Signaling Pathway",
+      "fdr": 0.040539275191206134,
+      "p_value": 0.013124225781325726,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002709",
+      "label": "Regulation of T Cell Mediated Immunity",
+      "fdr": 0.040539275191206134,
+      "p_value": 0.013124225781325726,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0040013",
+      "label": "Negative Regulation of Locomotion",
+      "fdr": 0.042318467950994317,
+      "p_value": 0.014309122256811026,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902743",
+      "label": "Regulation of Lamellipodium Organization",
+      "fdr": 0.042318467950994317,
+      "p_value": 0.014309122256811026,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002295",
+      "label": "T-helper Cell Lineage Commitment",
+      "fdr": 0.042318467950994317,
+      "p_value": 0.014309122256811026,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070102",
+      "label": "Interleukin-6-Mediated Signaling Pathway",
+      "fdr": 0.042318467950994317,
+      "p_value": 0.014309122256811026,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045190",
+      "label": "Isotype Switching",
+      "fdr": 0.042318467950994317,
+      "p_value": 0.014309122256811026,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070232",
+      "label": "Regulation of T Cell Apoptotic Process",
+      "fdr": 0.042318467950994317,
+      "p_value": 0.014309122256811026,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010628",
+      "label": "Positive Regulation of Gene Expression",
+      "fdr": 0.043358640074438515,
+      "p_value": 0.014823702034042124,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032695",
+      "label": "Negative Regulation of Interleukin-12 Production",
+      "fdr": 0.043358640074438515,
+      "p_value": 0.01549265556616628,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902036",
+      "label": "Regulation of Hematopoietic Stem Cell Differentiation",
+      "fdr": 0.043358640074438515,
+      "p_value": 0.01549265556616628,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071378",
+      "label": "Cellular Response to Growth Hormone Stimulus",
+      "fdr": 0.043358640074438515,
+      "p_value": 0.01549265556616628,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071353",
+      "label": "Cellular Response to Interleukin-4",
+      "fdr": 0.043358640074438515,
+      "p_value": 0.01549265556616628,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0031571",
+      "label": "Mitotic G1 DNA Damage Checkpoint Signaling",
+      "fdr": 0.043358640074438515,
+      "p_value": 0.01549265556616628,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000328",
+      "label": "Regulation of T-helper 17 Cell Lineage Commitment",
+      "fdr": 0.043358640074438515,
+      "p_value": 0.01549265556616628,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0110020",
+      "label": "Regulation of Actomyosin Structure Organization",
+      "fdr": 0.043358640074438515,
+      "p_value": 0.01549265556616628,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016233",
+      "label": "Telomere Capping",
+      "fdr": 0.044289190657440844,
+      "p_value": 0.016674827177981324,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060259",
+      "label": "Regulation of Feeding Behavior",
+      "fdr": 0.044289190657440844,
+      "p_value": 0.016674827177981324,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001754",
+      "label": "Eye Photoreceptor Cell Differentiation",
+      "fdr": 0.044289190657440844,
+      "p_value": 0.016674827177981324,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0044819",
+      "label": "Mitotic G1/S Transition Checkpoint Signaling",
+      "fdr": 0.044289190657440844,
+      "p_value": 0.016674827177981324,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050862",
+      "label": "Positive Regulation of T Cell Receptor Signaling Pathway",
+      "fdr": 0.044289190657440844,
+      "p_value": 0.016674827177981324,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0110053",
+      "label": "Regulation of Actin Filament Organization",
+      "fdr": 0.044289190657440844,
+      "p_value": 0.016674827177981324,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0160049",
+      "label": "Negative Regulation of cGAS/STING Signaling Pathway",
+      "fdr": 0.044289190657440844,
+      "p_value": 0.016674827177981324,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2001034",
+      "label": "Positive Regulation of Double-Strand Break Repair via Nonhomologous End Joining",
+      "fdr": 0.044289190657440844,
+      "p_value": 0.016674827177981324,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051091",
+      "label": "Positive Regulation of DNA-binding Transcription Factor Activity",
+      "fdr": 0.04835019023601992,
+      "p_value": 0.018319736348420018,
+      "fold": null,
+      "source": "Enrichr"
+    }
+  ],
+  "g:Profiler": [
+    {
+      "id": "KEGG:05340",
+      "label": "Primary immunodeficiency",
+      "fdr": 9.543966708344708e-20,
+      "p_value": 9.543966708344708e-20,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0002376",
+      "label": "immune system process",
+      "fdr": 2.266500986565883e-13,
+      "p_value": 2.266500986565883e-13,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030098",
+      "label": "lymphocyte differentiation",
+      "fdr": 1.6068100175676407e-12,
+      "p_value": 1.6068100175676407e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046649",
+      "label": "lymphocyte activation",
+      "fdr": 6.7177808959974966e-12,
+      "p_value": 6.7177808959974966e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030097",
+      "label": "hemopoiesis",
+      "fdr": 1.7505749154787837e-11,
+      "p_value": 1.7505749154787837e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1903131",
+      "label": "mononuclear cell differentiation",
+      "fdr": 1.7795446182123222e-11,
+      "p_value": 1.7795446182123222e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006955",
+      "label": "immune response",
+      "fdr": 3.2070365130536774e-11,
+      "p_value": 3.2070365130536774e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045321",
+      "label": "leukocyte activation",
+      "fdr": 1.1058088812163148e-10,
+      "p_value": 1.1058088812163148e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002521",
+      "label": "leukocyte differentiation",
+      "fdr": 1.813800904223485e-10,
+      "p_value": 1.813800904223485e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04659",
+      "label": "Th17 cell differentiation",
+      "fdr": 1.9474711030311814e-10,
+      "p_value": 1.9474711030311814e-10,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0001775",
+      "label": "cell activation",
+      "fdr": 9.2142648943955e-10,
+      "p_value": 9.2142648943955e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0033151",
+      "label": "V(D)J recombination",
+      "fdr": 2.3914176994707153e-09,
+      "p_value": 2.3914176994707153e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042110",
+      "label": "T cell activation",
+      "fdr": 5.9642041551447104e-09,
+      "p_value": 5.9642041551447104e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030217",
+      "label": "T cell differentiation",
+      "fdr": 1.0406918985853743e-08,
+      "p_value": 1.0406918985853743e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-1266695",
+      "label": "Interleukin-7 signaling",
+      "fdr": 2.1816788065592843e-08,
+      "p_value": 2.1816788065592843e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0002250",
+      "label": "adaptive immune response",
+      "fdr": 2.5131138103906702e-08,
+      "p_value": 2.5131138103906702e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0070419",
+      "label": "nonhomologous end joining complex",
+      "fdr": 5.8111128053900185e-08,
+      "p_value": 5.8111128053900185e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "KEGG:04658",
+      "label": "Th1 and Th2 cell differentiation",
+      "fdr": 1.410123297313724e-07,
+      "p_value": 1.410123297313724e-07,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-1236973",
+      "label": "Cross-presentation of particulate exogenous antigens (phagosomes)",
+      "fdr": 2.710786354093371e-07,
+      "p_value": 2.710786354093371e-07,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0038111",
+      "label": "interleukin-7-mediated signaling pathway",
+      "fdr": 3.0903924757844546e-07,
+      "p_value": 3.0903924757844546e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0098761",
+      "label": "cellular response to interleukin-7",
+      "fdr": 3.0903924757844546e-07,
+      "p_value": 3.0903924757844546e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0098760",
+      "label": "response to interleukin-7",
+      "fdr": 3.0903924757844546e-07,
+      "p_value": 3.0903924757844546e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071355",
+      "label": "cellular response to interleukin-9",
+      "fdr": 5.557479125934038e-07,
+      "p_value": 5.557479125934038e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0038113",
+      "label": "interleukin-9-mediated signaling pathway",
+      "fdr": 5.557479125934038e-07,
+      "p_value": 5.557479125934038e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9020958",
+      "label": "Interleukin-21 signaling",
+      "fdr": 8.111179054768254e-07,
+      "p_value": 8.111179054768254e-07,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-8985947",
+      "label": "Interleukin-9 signaling",
+      "fdr": 8.111179054768254e-07,
+      "p_value": 8.111179054768254e-07,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0043020",
+      "label": "NADPH oxidase complex",
+      "fdr": 8.341887065807984e-07,
+      "p_value": 8.341887065807984e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0071104",
+      "label": "response to interleukin-9",
+      "fdr": 9.253761072617892e-07,
+      "p_value": 9.253761072617892e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-168256",
+      "label": "Immune System",
+      "fdr": 1.5211092476115596e-06,
+      "p_value": 1.5211092476115596e-06,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:05169",
+      "label": "Epstein-Barr virus infection",
+      "fdr": 1.6884317683187767e-06,
+      "p_value": 1.6884317683187767e-06,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "KEGG:03450",
+      "label": "Non-homologous end-joining",
+      "fdr": 1.7267917195763844e-06,
+      "p_value": 1.7267917195763844e-06,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0002440",
+      "label": "production of molecular mediator of immune response",
+      "fdr": 1.9018594778231464e-06,
+      "p_value": 1.9018594778231464e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0043368",
+      "label": "positive T cell selection",
+      "fdr": 2.2025002678661394e-06,
+      "p_value": 2.2025002678661394e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0033077",
+      "label": "T cell differentiation in thymus",
+      "fdr": 2.5338584711284668e-06,
+      "p_value": 2.5338584711284668e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:05162",
+      "label": "Measles",
+      "fdr": 2.5564880717484515e-06,
+      "p_value": 2.5564880717484515e-06,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:1990391",
+      "label": "DNA repair complex",
+      "fdr": 2.7310606050821187e-06,
+      "p_value": 2.7310606050821187e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0045058",
+      "label": "T cell selection",
+      "fdr": 4.836790182678846e-06,
+      "p_value": 4.836790182678846e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016444",
+      "label": "somatic cell DNA recombination",
+      "fdr": 5.4518259358900205e-06,
+      "p_value": 5.4518259358900205e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002562",
+      "label": "somatic diversification of immune receptors via germline recombination within a single locus",
+      "fdr": 5.4518259358900205e-06,
+      "p_value": 5.4518259358900205e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:05235",
+      "label": "PD-L1 expression and PD-1 checkpoint pathway in cancer",
+      "fdr": 5.978224771396176e-06,
+      "p_value": 5.978224771396176e-06,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0002520",
+      "label": "immune system development",
+      "fdr": 7.587751840588119e-06,
+      "p_value": 7.587751840588119e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042105",
+      "label": "alpha-beta T cell receptor complex",
+      "fdr": 7.924351099265113e-06,
+      "p_value": 7.924351099265113e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0032010",
+      "label": "phagolysosome",
+      "fdr": 7.924351099265113e-06,
+      "p_value": 7.924351099265113e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0002200",
+      "label": "somatic diversification of immune receptors",
+      "fdr": 1.2950349248713918e-05,
+      "p_value": 1.2950349248713918e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005958",
+      "label": "DNA-dependent protein kinase-DNA ligase 4 complex",
+      "fdr": 1.3855486449373333e-05,
+      "p_value": 1.3855486449373333e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-1236975",
+      "label": "Antigen processing-Cross presentation",
+      "fdr": 1.3875736106656185e-05,
+      "p_value": 1.3875736106656185e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0016176",
+      "label": "superoxide-generating NADPH oxidase activator activity",
+      "fdr": 3.35458982711814e-05,
+      "p_value": 3.35458982711814e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0048468",
+      "label": "cell development",
+      "fdr": 3.691014911133443e-05,
+      "p_value": 3.691014911133443e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5668599",
+      "label": "RHO GTPases Activate NADPH Oxidases",
+      "fdr": 4.0300022357113364e-05,
+      "p_value": 4.0300022357113364e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0046631",
+      "label": "alpha-beta T cell activation",
+      "fdr": 4.4173980427252844e-05,
+      "p_value": 4.4173980427252844e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04380",
+      "label": "Osteoclast differentiation",
+      "fdr": 6.123203030557145e-05,
+      "p_value": 6.123203030557145e-05,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0002682",
+      "label": "regulation of immune system process",
+      "fdr": 6.726096919741604e-05,
+      "p_value": 6.726096919741604e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:05140",
+      "label": "Leishmaniasis",
+      "fdr": 7.146536072688218e-05,
+      "p_value": 7.146536072688218e-05,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0033152",
+      "label": "immunoglobulin V(D)J recombination",
+      "fdr": 7.148881688638143e-05,
+      "p_value": 7.148881688638143e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006310",
+      "label": "DNA recombination",
+      "fdr": 0.000151392186421368,
+      "p_value": 0.000151392186421368,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045730",
+      "label": "respiratory burst",
+      "fdr": 0.0001552153410463481,
+      "p_value": 0.0001552153410463481,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042101",
+      "label": "T cell receptor complex",
+      "fdr": 0.00017886503495878568,
+      "p_value": 0.00017886503495878568,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-3299685",
+      "label": "Detoxification of Reactive Oxygen Species",
+      "fdr": 0.00019575073891033343,
+      "p_value": 0.00019575073891033343,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-1222556",
+      "label": "ROS and RNS production in phagocytes",
+      "fdr": 0.0002199324665259812,
+      "p_value": 0.0002199324665259812,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0042554",
+      "label": "superoxide anion generation",
+      "fdr": 0.00022536647876577668,
+      "p_value": 0.00022536647876577668,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030183",
+      "label": "B cell differentiation",
+      "fdr": 0.000263044972354007,
+      "p_value": 0.000263044972354007,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005767",
+      "label": "secondary lysosome",
+      "fdr": 0.0002668474723750034,
+      "p_value": 0.0002668474723750034,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0071352",
+      "label": "cellular response to interleukin-2",
+      "fdr": 0.0002994186247117161,
+      "p_value": 0.0002994186247117161,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0038110",
+      "label": "interleukin-2-mediated signaling pathway",
+      "fdr": 0.0002994186247117161,
+      "p_value": 0.0002994186247117161,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0097519",
+      "label": "DNA recombinase complex",
+      "fdr": 0.00032446596938347596,
+      "p_value": 0.00032446596938347596,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0042113",
+      "label": "B cell activation",
+      "fdr": 0.00042472105642505514,
+      "p_value": 0.00042472105642505514,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0035723",
+      "label": "interleukin-15-mediated signaling pathway",
+      "fdr": 0.00042734430268505326,
+      "p_value": 0.00042734430268505326,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0070669",
+      "label": "response to interleukin-2",
+      "fdr": 0.00042734430268505326,
+      "p_value": 0.00042734430268505326,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0070672",
+      "label": "response to interleukin-15",
+      "fdr": 0.00042734430268505326,
+      "p_value": 0.00042734430268505326,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071350",
+      "label": "cellular response to interleukin-15",
+      "fdr": 0.00042734430268505326,
+      "p_value": 0.00042734430268505326,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030139",
+      "label": "endocytic vesicle",
+      "fdr": 0.00043563837580765184,
+      "p_value": 0.00043563837580765184,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0004917",
+      "label": "interleukin-7 receptor activity",
+      "fdr": 0.0004971181923011103,
+      "p_value": 0.0004971181923011103,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "KEGG:04062",
+      "label": "Chemokine signaling pathway",
+      "fdr": 0.0005043121976686943,
+      "p_value": 0.0005043121976686943,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0032991",
+      "label": "protein-containing complex",
+      "fdr": 0.0006065085679152272,
+      "p_value": 0.0006065085679152272,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-451927",
+      "label": "Interleukin-2 family signaling",
+      "fdr": 0.000656468064695323,
+      "p_value": 0.000656468064695323,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-449147",
+      "label": "Signaling by Interleukins",
+      "fdr": 0.000691209727203753,
+      "p_value": 0.000691209727203753,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-8983432",
+      "label": "Interleukin-15 signaling",
+      "fdr": 0.0008126950354878044,
+      "p_value": 0.0008126950354878044,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0050852",
+      "label": "T cell receptor signaling pathway",
+      "fdr": 0.0008551025812423897,
+      "p_value": 0.0008551025812423897,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0098552",
+      "label": "side of membrane",
+      "fdr": 0.0009566495673658308,
+      "p_value": 0.0009566495673658308,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0042106",
+      "label": "gamma-delta T cell receptor complex",
+      "fdr": 0.0009726033902683076,
+      "p_value": 0.0009726033902683076,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0032807",
+      "label": "DNA ligase IV complex",
+      "fdr": 0.0009726033902683076,
+      "p_value": 0.0009726033902683076,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "KEGG:05417",
+      "label": "Lipid and atherosclerosis",
+      "fdr": 0.0009938809342372498,
+      "p_value": 0.0009938809342372498,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0098797",
+      "label": "plasma membrane protein complex",
+      "fdr": 0.001197394306395438,
+      "p_value": 0.001197394306395438,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-9006934",
+      "label": "Signaling by Receptor Tyrosine Kinases",
+      "fdr": 0.001263923278302746,
+      "p_value": 0.001263923278302746,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:05321",
+      "label": "Inflammatory bowel disease",
+      "fdr": 0.001318223094437674,
+      "p_value": 0.001318223094437674,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0050776",
+      "label": "regulation of immune response",
+      "fdr": 0.0014635419958069,
+      "p_value": 0.0014635419958069,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006801",
+      "label": "superoxide metabolic process",
+      "fdr": 0.0016653712384839309,
+      "p_value": 0.0016653712384839309,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045335",
+      "label": "phagocytic vesicle",
+      "fdr": 0.0018759331074164136,
+      "p_value": 0.0018759331074164136,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:1990204",
+      "label": "oxidoreductase complex",
+      "fdr": 0.0021021697152884622,
+      "p_value": 0.0021021697152884622,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0048872",
+      "label": "homeostasis of number of cells",
+      "fdr": 0.0023552667951114437,
+      "p_value": 0.0023552667951114437,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006303",
+      "label": "double-strand break repair via nonhomologous end joining",
+      "fdr": 0.002661177741491155,
+      "p_value": 0.002661177741491155,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5693571",
+      "label": "Nonhomologous End-Joining (NHEJ)",
+      "fdr": 0.0029162863381715196,
+      "p_value": 0.0029162863381715196,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0002460",
+      "label": "adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains",
+      "fdr": 0.0035122685720434155,
+      "p_value": 0.0035122685720434155,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04630",
+      "label": "JAK-STAT signaling pathway",
+      "fdr": 0.003669063269921386,
+      "p_value": 0.003669063269921386,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-1280218",
+      "label": "Adaptive Immune System",
+      "fdr": 0.0040112636455541745,
+      "p_value": 0.0040112636455541745,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0050851",
+      "label": "antigen receptor-mediated signaling pathway",
+      "fdr": 0.004300343192960507,
+      "p_value": 0.004300343192960507,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002377",
+      "label": "immunoglobulin production",
+      "fdr": 0.005038318162021562,
+      "p_value": 0.005038318162021562,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-8854691",
+      "label": "Interleukin-20 family signaling",
+      "fdr": 0.005062819586596089,
+      "p_value": 0.005062819586596089,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:1902494",
+      "label": "catalytic complex",
+      "fdr": 0.005867072480356266,
+      "p_value": 0.005867072480356266,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:1903706",
+      "label": "regulation of hemopoiesis",
+      "fdr": 0.0061996301192123555,
+      "p_value": 0.0061996301192123555,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-201556",
+      "label": "Signaling by ALK",
+      "fdr": 0.007183370078845008,
+      "p_value": 0.007183370078845008,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0050896",
+      "label": "response to stimulus",
+      "fdr": 0.007764167737867763,
+      "p_value": 0.007764167737867763,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9013404",
+      "label": "RAC2 GTPase cycle",
+      "fdr": 0.008135180783970533,
+      "p_value": 0.008135180783970533,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9013149",
+      "label": "RAC1 GTPase cycle",
+      "fdr": 0.008377755068769505,
+      "p_value": 0.008377755068769505,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:05142",
+      "label": "Chagas disease",
+      "fdr": 0.008784293428370973,
+      "p_value": 0.008784293428370973,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-195258",
+      "label": "RHO GTPase Effectors",
+      "fdr": 0.00903877120947177,
+      "p_value": 0.00903877120947177,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0002252",
+      "label": "immune effector process",
+      "fdr": 0.010115387153869507,
+      "p_value": 0.010115387153869507,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045648",
+      "label": "positive regulation of erythrocyte differentiation",
+      "fdr": 0.010253563538913166,
+      "p_value": 0.010253563538913166,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-4420097",
+      "label": "VEGFA-VEGFR2 Pathway",
+      "fdr": 0.01055564345591704,
+      "p_value": 0.01055564345591704,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9013423",
+      "label": "RAC3 GTPase cycle",
+      "fdr": 0.01055564345591704,
+      "p_value": 0.01055564345591704,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0060284",
+      "label": "regulation of cell development",
+      "fdr": 0.01167311677207865,
+      "p_value": 0.01167311677207865,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0017124",
+      "label": "SH3 domain binding",
+      "fdr": 0.012019602721983446,
+      "p_value": 0.012019602721983446,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0009897",
+      "label": "external side of plasma membrane",
+      "fdr": 0.012028879048765737,
+      "p_value": 0.012028879048765737,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0048869",
+      "label": "cellular developmental process",
+      "fdr": 0.01264673457503577,
+      "p_value": 0.01264673457503577,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030154",
+      "label": "cell differentiation",
+      "fdr": 0.01264673457503577,
+      "p_value": 0.01264673457503577,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019899",
+      "label": "enzyme binding",
+      "fdr": 0.012775226800800508,
+      "p_value": 0.012775226800800508,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0043373",
+      "label": "CD4-positive, alpha-beta T cell lineage commitment",
+      "fdr": 0.012785331246702397,
+      "p_value": 0.012785331246702397,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002363",
+      "label": "alpha-beta T cell lineage commitment",
+      "fdr": 0.012785331246702397,
+      "p_value": 0.012785331246702397,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04670",
+      "label": "Leukocyte transendothelial migration",
+      "fdr": 0.013969127571708628,
+      "p_value": 0.013969127571708628,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0043369",
+      "label": "CD4-positive or CD8-positive, alpha-beta T cell lineage commitment",
+      "fdr": 0.014192755629645473,
+      "p_value": 0.014192755629645473,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002360",
+      "label": "T cell lineage commitment",
+      "fdr": 0.014192755629645473,
+      "p_value": 0.014192755629645473,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-202433",
+      "label": "Generation of second messenger molecules",
+      "fdr": 0.014222425478492017,
+      "p_value": 0.014222425478492017,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9711123",
+      "label": "Cellular response to chemical stress",
+      "fdr": 0.014407435228511732,
+      "p_value": 0.014407435228511732,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:05166",
+      "label": "Human T-cell leukemia virus 1 infection",
+      "fdr": 0.015125547776654674,
+      "p_value": 0.015125547776654674,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-194138",
+      "label": "Signaling by VEGF",
+      "fdr": 0.015709556488896406,
+      "p_value": 0.015709556488896406,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:04660",
+      "label": "T cell receptor signaling pathway",
+      "fdr": 0.016453776970060674,
+      "p_value": 0.016453776970060674,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0002331",
+      "label": "pre-B cell allelic exclusion",
+      "fdr": 0.016539469654712577,
+      "p_value": 0.016539469654712577,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046983",
+      "label": "protein dimerization activity",
+      "fdr": 0.017267419844109178,
+      "p_value": 0.017267419844109178,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0006259",
+      "label": "DNA metabolic process",
+      "fdr": 0.01874619513250334,
+      "p_value": 0.01874619513250334,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-6785807",
+      "label": "Interleukin-4 and Interleukin-13 signaling",
+      "fdr": 0.020275244235302026,
+      "p_value": 0.020275244235302026,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0072539",
+      "label": "T-helper 17 cell differentiation",
+      "fdr": 0.02084113323809058,
+      "p_value": 0.02084113323809058,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016175",
+      "label": "superoxide-generating NAD(P)H oxidase activity",
+      "fdr": 0.02222636360604555,
+      "p_value": 0.02222636360604555,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "KEGG:04068",
+      "label": "FoxO signaling pathway",
+      "fdr": 0.024390834775012936,
+      "p_value": 0.024390834775012936,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-983169",
+      "label": "Class I MHC mediated antigen processing & presentation",
+      "fdr": 0.024523725850570784,
+      "p_value": 0.024523725850570784,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-1280215",
+      "label": "Cytokine Signaling in Immune system",
+      "fdr": 0.0257290541029433,
+      "p_value": 0.0257290541029433,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0007259",
+      "label": "cell surface receptor signaling pathway via JAK-STAT",
+      "fdr": 0.02666377933866551,
+      "p_value": 0.02666377933866551,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042802",
+      "label": "identical protein binding",
+      "fdr": 0.027208003227793393,
+      "p_value": 0.027208003227793393,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-202403",
+      "label": "TCR signaling",
+      "fdr": 0.027484580704382054,
+      "p_value": 0.027484580704382054,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0002329",
+      "label": "pre-B cell differentiation",
+      "fdr": 0.027541931036449013,
+      "p_value": 0.027541931036449013,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045646",
+      "label": "regulation of erythrocyte differentiation",
+      "fdr": 0.029272206117936874,
+      "p_value": 0.029272206117936874,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016447",
+      "label": "somatic recombination of immunoglobulin gene segments",
+      "fdr": 0.03168216552723905,
+      "p_value": 0.03168216552723905,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002684",
+      "label": "positive regulation of immune system process",
+      "fdr": 0.037308889907781334,
+      "p_value": 0.037308889907781334,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04145",
+      "label": "Phagosome",
+      "fdr": 0.037543769442288814,
+      "p_value": 0.037543769442288814,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0002700",
+      "label": "regulation of production of molecular mediator of immune response",
+      "fdr": 0.039545659612534936,
+      "p_value": 0.039545659612534936,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0072538",
+      "label": "T-helper 17 type immune response",
+      "fdr": 0.03968715753248574,
+      "p_value": 0.03968715753248574,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050664",
+      "label": "oxidoreductase activity, acting on NAD(P)H, oxygen as acceptor",
+      "fdr": 0.04480184538694796,
+      "p_value": 0.04480184538694796,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0002757",
+      "label": "immune response-activating signaling pathway",
+      "fdr": 0.045929321025589796,
+      "p_value": 0.045929321025589796,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    }
+  ]
+}

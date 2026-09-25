@@ -1,0 +1,24 @@
+[2026-09-25T10:36:36] data_dir = /home/maano.malima/Method_API/data/snapshot_20260924
+[2026-09-25T10:36:36] genes_root = /home/maano.malima/Method_API/examples/lists
+[2026-09-25T10:36:36] tag = groq-gpt-oss-120b-bounded
+[2026-09-25T10:36:36] provider = groq
+[2026-09-25T10:36:36] model = openai/gpt-oss-120b
+[2026-09-25T10:36:40] client ready
+[2026-09-25T10:36:40] querying alzheimers_disease (15 genes, shortlist=50)
+[2026-09-25T10:36:44]   picked 10 | in_list 10 | out_of_list 0
+[2026-09-25T10:36:44] querying hereditary_cancer (28 genes, shortlist=50)
+[2026-09-25T10:36:45]   picked 10 | in_list 10 | out_of_list 0
+[2026-09-25T10:36:45] querying hypertrophic_cardiomyopathy (20 genes, shortlist=50)
+[2026-09-25T10:36:46]   picked 10 | in_list 10 | out_of_list 0
+[2026-09-25T10:36:46] querying parkinsons_disease (16 genes, shortlist=50)
+[2026-09-25T10:36:47]   picked 10 | in_list 10 | out_of_list 0
+[2026-09-25T10:36:47] querying primary_immunodeficiency (24 genes, shortlist=50)
+[2026-09-25T10:36:48]   picked 10 | in_list 10 | out_of_list 0
+[2026-09-25T10:36:48] querying type2_diabetes (18 genes, shortlist=50)
+[2026-09-25T10:36:49]   picked 10 | in_list 10 | out_of_list 0
+[2026-09-25T10:36:49] ==================================================
+[2026-09-25T10:36:49] TOTAL picked across 6 diseases: 60
+[2026-09-25T10:36:49]   in_list:      60
+[2026-09-25T10:36:49]   out_of_list:  0
+[2026-09-25T10:36:49]   in_list rate: 1.000
+[2026-09-25T10:36:49] wrote stats/bounded_prompt_groq-gpt-oss-120b-bounded.json

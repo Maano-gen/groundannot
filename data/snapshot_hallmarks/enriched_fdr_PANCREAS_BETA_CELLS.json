@@ -1,0 +1,2896 @@
+{
+  "PANTHER": [
+    {
+      "id": "GO:0090087",
+      "label": "regulation of peptide transport",
+      "fdr": 5.2384299782040455e-15,
+      "p_value": 1.1420165638116516e-18,
+      "fold": 35.360824742268036,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002791",
+      "label": "regulation of peptide secretion",
+      "fdr": 6.779087301459698e-15,
+      "p_value": 9.852608533478232e-19,
+      "fold": 35.72916666666667,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050796",
+      "label": "regulation of insulin secretion",
+      "fdr": 9.198705382319364e-15,
+      "p_value": 2.6738479419575217e-18,
+      "fold": 41.63398692810457,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090276",
+      "label": "regulation of peptide hormone secretion",
+      "fdr": 1.004198561343495e-14,
+      "p_value": 7.297424324856442e-19,
+      "fold": 36.48936170212765,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050708",
+      "label": "regulation of protein secretion",
+      "fdr": 5.3612583227555095e-14,
+      "p_value": 1.9479900889308586e-17,
+      "fold": 28.945147679324894,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046883",
+      "label": "regulation of hormone secretion",
+      "fdr": 5.655813058187604e-14,
+      "p_value": 2.466018337993287e-17,
+      "fold": 28.46473029045643,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010817",
+      "label": "regulation of hormone levels",
+      "fdr": 7.316508879861339e-14,
+      "p_value": 3.7217907244407654e-17,
+      "fold": 16.72690763052209,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031016",
+      "label": "pancreas development",
+      "fdr": 3.541740660872216e-13,
+      "p_value": 2.0590019102519968e-16,
+      "fold": 98,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903530",
+      "label": "regulation of secretion by cell",
+      "fdr": 2.7891357780274313e-12,
+      "p_value": 1.8241568201618256e-15,
+      "fold": 15.16441005802708,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035883",
+      "label": "enteroendocrine cell differentiation",
+      "fdr": 3.750235493459021e-12,
+      "p_value": 2.7252637842155517e-15,
+      "fold": 190.55555555555557,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051046",
+      "label": "regulation of secretion",
+      "fdr": 8.60372274405447e-12,
+      "p_value": 6.877476214272158e-15,
+      "fold": 13.925399644760214,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090277",
+      "label": "positive regulation of peptide hormone secretion",
+      "fdr": 1.856446221039911e-11,
+      "p_value": 1.7537824920804333e-14,
+      "fold": 44.14414414414414,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002793",
+      "label": "positive regulation of peptide secretion",
+      "fdr": 1.8901613489485825e-11,
+      "p_value": 1.9229895273076197e-14,
+      "fold": 43.75,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051223",
+      "label": "regulation of protein transport",
+      "fdr": 1.9858764257464558e-11,
+      "p_value": 1.7317431225170747e-14,
+      "fold": 17.7720207253886,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031018",
+      "label": "endocrine pancreas development",
+      "fdr": 2.6948604019119947e-11,
+      "p_value": 2.937497713006316e-14,
+      "fold": 142.91666666666669,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042593",
+      "label": "glucose homeostasis",
+      "fdr": 3.8201435494849676e-11,
+      "p_value": 4.4417045848237396e-14,
+      "fold": 30.625000000000004,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033500",
+      "label": "carbohydrate homeostasis",
+      "fdr": 5.2111102069002416e-11,
+      "p_value": 6.437677023276223e-14,
+      "fold": 29.615384615384613,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070201",
+      "label": "regulation of establishment of protein localization",
+      "fdr": 5.332539485692499e-11,
+      "p_value": 7.3627098487143e-14,
+      "fold": 15.990675990675989,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032024",
+      "label": "positive regulation of insulin secretion",
+      "fdr": 5.5262329497871266e-11,
+      "p_value": 7.228558469309519e-14,
+      "fold": 53.132530120481924,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050714",
+      "label": "positive regulation of protein secretion",
+      "fdr": 1.034613980973327e-10,
+      "p_value": 1.5036901111450143e-13,
+      "fold": 35.76642335766423,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046887",
+      "label": "positive regulation of hormone secretion",
+      "fdr": 1.521637345991382e-10,
+      "p_value": 2.322097541299253e-13,
+      "fold": 34.26573426573427,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903532",
+      "label": "positive regulation of secretion by cell",
+      "fdr": 4.477778644535504e-09,
+      "p_value": 7.158718856171868e-12,
+      "fold": 19.25,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051047",
+      "label": "positive regulation of secretion",
+      "fdr": 8.0916767690697e-09,
+      "p_value": 1.3524348934568935e-11,
+      "fold": 18.148148148148145,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051222",
+      "label": "positive regulation of protein transport",
+      "fdr": 1.6795973560896696e-08,
+      "p_value": 2.9293173858115015e-11,
+      "fold": 21.120689655172416,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003309",
+      "label": "type B pancreatic cell differentiation",
+      "fdr": 3.007722703218998e-08,
+      "p_value": 5.464215360836781e-11,
+      "fold": 175,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035270",
+      "label": "endocrine system development",
+      "fdr": 4.07832833035743e-08,
+      "p_value": 7.705583648666025e-11,
+      "fold": 50.44117647058824,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1904951",
+      "label": "positive regulation of establishment of protein localization",
+      "fdr": 5.3195125157570956e-08,
+      "p_value": 1.043723842202177e-10,
+      "fold": 18.56060606060606,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009725",
+      "label": "response to hormone",
+      "fdr": 6.17752149901508e-08,
+      "p_value": 1.2569624443893775e-10,
+      "fold": 9.183400267737616,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032880",
+      "label": "regulation of protein localization",
+      "fdr": 2.15385261464885e-07,
+      "p_value": 4.539039737287744e-10,
+      "fold": 8.325242718446603,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001678",
+      "label": "intracellular glucose homeostasis",
+      "fdr": 4.823196249123582e-07,
+      "p_value": 1.0514925330550648e-09,
+      "fold": 35,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009749",
+      "label": "response to glucose",
+      "fdr": 1.0545821035112473e-06,
+      "p_value": 2.3757027257356783e-09,
+      "fold": 31.181818181818183,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009746",
+      "label": "response to hexose",
+      "fdr": 1.5756686140727568e-06,
+      "p_value": 3.664079329287713e-09,
+      "fold": 29.316239316239315,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032870",
+      "label": "cellular response to hormone stimulus",
+      "fdr": 1.8048651000168016e-06,
+      "p_value": 4.32821366910504e-09,
+      "fold": 10.527343749999998,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034284",
+      "label": "response to monosaccharide",
+      "fdr": 2.2274788168203625e-06,
+      "p_value": 5.50354478394683e-09,
+      "fold": 27.661290322580648,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0065008",
+      "label": "regulation of biological quality",
+      "fdr": 3.844625936244027e-06,
+      "p_value": 9.778497766771379e-09,
+      "fold": 3.801256002955301,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051049",
+      "label": "regulation of transport",
+      "fdr": 4.455254791694654e-06,
+      "p_value": 1.1655342816728983e-08,
+      "fold": 5.340599455040872,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009743",
+      "label": "response to carbohydrate",
+      "fdr": 5.524240209002249e-06,
+      "p_value": 1.4853345522351805e-08,
+      "fold": 23.986013986013987,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009719",
+      "label": "response to endogenous stimulus",
+      "fdr": 6.936262573951415e-06,
+      "p_value": 1.9153984289670358e-08,
+      "fold": 6.219401631912964,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903829",
+      "label": "positive regulation of protein localization",
+      "fdr": 7.264200357086602e-06,
+      "p_value": 2.058744378507212e-08,
+      "fold": 10.722100656455142,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051050",
+      "label": "positive regulation of transport",
+      "fdr": 1.4838603825871729e-05,
+      "p_value": 4.313234162014891e-08,
+      "fold": 7.322540473225404,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032879",
+      "label": "regulation of localization",
+      "fdr": 7.667707113670759e-05,
+      "p_value": 2.2845432138689131e-07,
+      "fold": 4.317180616740088,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060290",
+      "label": "transdifferentiation",
+      "fdr": 9.011937204325015e-05,
+      "p_value": 2.750536753009597e-07,
+      "fold": 210,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045944",
+      "label": "positive regulation of transcription by RNA polymerase II",
+      "fdr": 9.65070213161649e-05,
+      "p_value": 3.015625257317848e-07,
+      "fold": 5.486649440137811,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901700",
+      "label": "response to oxygen-containing compound",
+      "fdr": 0.00011548409019028674,
+      "p_value": 3.6925368566038926e-07,
+      "fold": 4.8999999999999995,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006617",
+      "label": "SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition",
+      "fdr": 0.00013438700353340287,
+      "p_value": 4.3946044320929656e-07,
+      "fold": 183.74999999999997,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0023051",
+      "label": "regulation of signaling",
+      "fdr": 0.0001367492165234244,
+      "p_value": 4.5712258993369106e-07,
+      "fold": 3.0579494799405644,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010646",
+      "label": "regulation of cell communication",
+      "fdr": 0.00014013598390119844,
+      "p_value": 4.786273703478182e-07,
+      "fold": 3.0497925311203318,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048878",
+      "label": "chemical homeostasis",
+      "fdr": 0.00017278992546597156,
+      "p_value": 6.278247419009213e-07,
+      "fold": 6.447368421052632,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032501",
+      "label": "multicellular organismal process",
+      "fdr": 0.00017310687690888372,
+      "p_value": 6.541354261508577e-07,
+      "fold": 2.431297709923664,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043434",
+      "label": "response to peptide hormone",
+      "fdr": 0.0001741431292386576,
+      "p_value": 6.453963804353998e-07,
+      "fold": 10.710382513661203,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010647",
+      "label": "positive regulation of cell communication",
+      "fdr": 0.00017594983980050868,
+      "p_value": 6.137339081770524e-07,
+      "fold": 4.326074161271336,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0023056",
+      "label": "positive regulation of signaling",
+      "fdr": 0.0001763006437322267,
+      "p_value": 6.277691696009816e-07,
+      "fold": 4.318448883666275,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071495",
+      "label": "cellular response to endogenous stimulus",
+      "fdr": 0.0001965321387569659,
+      "p_value": 7.569365129074335e-07,
+      "fold": 6.326291079812207,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009891",
+      "label": "positive regulation of biosynthetic process",
+      "fdr": 0.00022169002716381333,
+      "p_value": 8.699412445931197e-07,
+      "fold": 3.4453125000000004,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071375",
+      "label": "cellular response to peptide hormone stimulus",
+      "fdr": 0.00022498374589518662,
+      "p_value": 8.99215611091873e-07,
+      "fold": 13.141762452107281,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045047",
+      "label": "protein targeting to ER",
+      "fdr": 0.0002583955630299063,
+      "p_value": 1.0515334299596507e-06,
+      "fold": 51.578947368421055,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010907",
+      "label": "positive regulation of glucose metabolic process",
+      "fdr": 0.0002824575165509933,
+      "p_value": 1.1699788128338506e-06,
+      "fold": 50.256410256410255,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072599",
+      "label": "establishment of protein localization to endoplasmic reticulum",
+      "fdr": 0.0003407660851780816,
+      "p_value": 1.4362642933165274e-06,
+      "fold": 47.80487804878049,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045595",
+      "label": "regulation of cell differentiation",
+      "fdr": 0.00035201268378168624,
+      "p_value": 1.5092470273322786e-06,
+      "fold": 4.76083707025411,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901699",
+      "label": "cellular response to nitrogen compound",
+      "fdr": 0.0003788047423832961,
+      "p_value": 1.6516448327154834e-06,
+      "fold": 7.805309734513274,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006111",
+      "label": "regulation of gluconeogenesis",
+      "fdr": 0.0003936777467510514,
+      "p_value": 1.745101558884829e-06,
+      "fold": 45.58139534883721,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048522",
+      "label": "positive regulation of cellular process",
+      "fdr": 0.00041162000294002536,
+      "p_value": 1.854548374557196e-06,
+      "fold": 2.312159709618875,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000122",
+      "label": "negative regulation of transcription by RNA polymerase II",
+      "fdr": 0.00046973805545986194,
+      "p_value": 2.1505339360490736e-06,
+      "fold": 5.685654008438818,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010557",
+      "label": "positive regulation of macromolecule biosynthetic process",
+      "fdr": 0.0004908473725615272,
+      "p_value": 2.3541840410624804e-06,
+      "fold": 3.411138411138411,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048523",
+      "label": "negative regulation of cellular process",
+      "fdr": 0.000496635129064827,
+      "p_value": 2.345853018618833e-06,
+      "fold": 2.4566534363902233,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032868",
+      "label": "response to insulin",
+      "fdr": 0.0004968418456947665,
+      "p_value": 2.419039580084976e-06,
+      "fold": 15.3125,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048518",
+      "label": "positive regulation of biological process",
+      "fdr": 0.0005004663780730063,
+      "p_value": 2.32758144006049e-06,
+      "fold": 2.2484704282800814,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030855",
+      "label": "epithelial cell differentiation",
+      "fdr": 0.0005085969742404364,
+      "p_value": 2.5132326319562297e-06,
+      "fold": 8.929384965831435,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016485",
+      "label": "protein processing",
+      "fdr": 0.0005277363876907039,
+      "p_value": 2.6461602173285782e-06,
+      "fold": 15.076923076923077,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901698",
+      "label": "response to nitrogen compound",
+      "fdr": 0.0008476892929492277,
+      "p_value": 4.312059480157397e-06,
+      "fold": 5.990220048899755,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048513",
+      "label": "animal organ development",
+      "fdr": 0.0010071773281597226,
+      "p_value": 5.196540244120363e-06,
+      "fold": 3.6512667660208646,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061178",
+      "label": "regulation of insulin secretion involved in cellular response to glucose stimulus",
+      "fdr": 0.0010457193822672785,
+      "p_value": 5.4713898352768005e-06,
+      "fold": 34.3859649122807,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007399",
+      "label": "nervous system development",
+      "fdr": 0.0010461100194700118,
+      "p_value": 5.549453631372056e-06,
+      "fold": 3.9043824701195216,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050709",
+      "label": "negative regulation of protein secretion",
+      "fdr": 0.0010912111431087832,
+      "p_value": 5.868005565732866e-06,
+      "fold": 33.793103448275865,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006614",
+      "label": "SRP-dependent cotranslational protein targeting to membrane",
+      "fdr": 0.0011430988367760703,
+      "p_value": 6.313168490297314e-06,
+      "fold": 81.66666666666667,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048519",
+      "label": "negative regulation of biological process",
+      "fdr": 0.0011441806349609116,
+      "p_value": 6.235996484417439e-06,
+      "fold": 2.331945270672219,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030154",
+      "label": "cell differentiation",
+      "fdr": 0.0013881780295813652,
+      "p_value": 7.767582899336177e-06,
+      "fold": 3.1280510702215545,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0023061",
+      "label": "signal release",
+      "fdr": 0.001389957513435503,
+      "p_value": 8.181568097396682e-06,
+      "fold": 18.014705882352942,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050793",
+      "label": "regulation of developmental process",
+      "fdr": 0.0013938208618255207,
+      "p_value": 8.103020779452195e-06,
+      "fold": 3.5218016291327263,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045892",
+      "label": "negative regulation of DNA-templated transcription",
+      "fdr": 0.0013986155848980616,
+      "p_value": 8.029258862506131e-06,
+      "fold": 4.474885844748859,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048869",
+      "label": "cellular developmental process",
+      "fdr": 0.0014058232322491874,
+      "p_value": 7.968477008606687e-06,
+      "fold": 3.122188905547226,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902679",
+      "label": "negative regulation of RNA biosynthetic process",
+      "fdr": 0.0014444809373520449,
+      "p_value": 8.6074730661193e-06,
+      "fold": 4.444444444444445,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070887",
+      "label": "cellular response to chemical stimulus",
+      "fdr": 0.001611178510013739,
+      "p_value": 9.717885061488288e-06,
+      "fold": 3.720173535791757,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042221",
+      "label": "response to chemical",
+      "fdr": 0.0016955851396310915,
+      "p_value": 1.0350203599230556e-05,
+      "fold": 2.76918500892326,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032869",
+      "label": "cellular response to insulin stimulus",
+      "fdr": 0.0017490001247519992,
+      "p_value": 1.0803358084726396e-05,
+      "fold": 17.01388888888889,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045893",
+      "label": "positive regulation of DNA-templated transcription",
+      "fdr": 0.0018425559483485497,
+      "p_value": 1.1515137821232126e-05,
+      "fold": 3.9589807333747675,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902680",
+      "label": "positive regulation of RNA biosynthetic process",
+      "fdr": 0.0018584100883635563,
+      "p_value": 1.174926805374823e-05,
+      "fold": 3.951612903225806,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048545",
+      "label": "response to steroid hormone",
+      "fdr": 0.001990491631292191,
+      "p_value": 1.2873610579536733e-05,
+      "fold": 11.439688715953306,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007267",
+      "label": "cell-cell signaling",
+      "fdr": 0.001996095256992991,
+      "p_value": 1.2764797806509934e-05,
+      "fold": 6.066024759284732,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006613",
+      "label": "cotranslational protein targeting to membrane",
+      "fdr": 0.002080162724815959,
+      "p_value": 1.3604726781006927e-05,
+      "fold": 63.91304347826087,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009890",
+      "label": "negative regulation of biosynthetic process",
+      "fdr": 0.002119039476039238,
+      "p_value": 1.401297814981256e-05,
+      "fold": 3.3669262482821805,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0062013",
+      "label": "positive regulation of small molecule metabolic process",
+      "fdr": 0.0023082855546383914,
+      "p_value": 1.5432183055499748e-05,
+      "fold": 15.806451612903224,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045913",
+      "label": "positive regulation of carbohydrate metabolic process",
+      "fdr": 0.002425778798889641,
+      "p_value": 1.6393970517893803e-05,
+      "fold": 26.133333333333333,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006357",
+      "label": "regulation of transcription by RNA polymerase II",
+      "fdr": 0.0028272412139720817,
+      "p_value": 1.9312598947269505e-05,
+      "fold": 3.0878298542733362,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010906",
+      "label": "regulation of glucose metabolic process",
+      "fdr": 0.0029182591777356377,
+      "p_value": 2.0146400834596726e-05,
+      "fold": 24.810126582278482,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051253",
+      "label": "negative regulation of RNA metabolic process",
+      "fdr": 0.0030043589726569536,
+      "p_value": 2.095912080336222e-05,
+      "fold": 4.069204152249135,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901701",
+      "label": "cellular response to oxygen-containing compound",
+      "fdr": 0.0031038839600462114,
+      "p_value": 2.1878987291946988e-05,
+      "fold": 4.974619289340102,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003310",
+      "label": "pancreatic A cell differentiation",
+      "fdr": 0.0034167439247923836,
+      "p_value": 2.433259971147835e-05,
+      "fold": 244.99999999999997,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051254",
+      "label": "positive regulation of RNA metabolic process",
+      "fdr": 0.0036120343539448744,
+      "p_value": 2.5985858661473917e-05,
+      "fold": 3.6693548387096775,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033993",
+      "label": "response to lipid",
+      "fdr": 0.0036393426250324865,
+      "p_value": 2.644678893272645e-05,
+      "fold": 5.533249686323714,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043255",
+      "label": "regulation of carbohydrate biosynthetic process",
+      "fdr": 0.0038396160598560642,
+      "p_value": 2.818118029543365e-05,
+      "fold": 22.790697674418606,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042592",
+      "label": "homeostatic process",
+      "fdr": 0.004055640867448629,
+      "p_value": 3.006143219822398e-05,
+      "fold": 4.305111821086262,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030073",
+      "label": "insulin secretion",
+      "fdr": 0.0041256388077850915,
+      "p_value": 3.088008118609581e-05,
+      "fold": 49,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009893",
+      "label": "positive regulation of metabolic process",
+      "fdr": 0.004215146635060171,
+      "p_value": 3.185635128597179e-05,
+      "fold": 2.6824817518248176,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007275",
+      "label": "multicellular organism development",
+      "fdr": 0.004428601345399095,
+      "p_value": 3.379137717221895e-05,
+      "fold": 2.8028263795423958,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046676",
+      "label": "negative regulation of insulin secretion",
+      "fdr": 0.004432098323018575,
+      "p_value": 3.414013678075496e-05,
+      "fold": 47.41935483870968,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009892",
+      "label": "negative regulation of metabolic process",
+      "fdr": 0.0046562660127265135,
+      "p_value": 3.654361815089481e-05,
+      "fold": 2.935230250842381,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009987",
+      "label": "cellular process",
+      "fdr": 0.004678482500820648,
+      "p_value": 3.637799778997234e-05,
+      "fold": 1.3449822588203788,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060041",
+      "label": "retina development in camera-type eye",
+      "fdr": 0.004841459501694888,
+      "p_value": 3.834889075537699e-05,
+      "fold": 21.0752688172043,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0022008",
+      "label": "neurogenesis",
+      "fdr": 0.004964356681441187,
+      "p_value": 3.9683106965956735e-05,
+      "fold": 4.640151515151515,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010604",
+      "label": "positive regulation of macromolecule metabolic process",
+      "fdr": 0.004991620934795953,
+      "p_value": 4.0626520216346685e-05,
+      "fold": 2.763769077637691,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901079",
+      "label": "positive regulation of relaxation of muscle",
+      "fdr": 0.005021127618340524,
+      "p_value": 4.05017924304773e-05,
+      "fold": 196.00000000000003,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051224",
+      "label": "negative regulation of protein transport",
+      "fdr": 0.005289965647764052,
+      "p_value": 4.3439148186711574e-05,
+      "fold": 20.416666666666668,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010558",
+      "label": "negative regulation of macromolecule biosynthetic process",
+      "fdr": 0.005401139216516568,
+      "p_value": 4.4744558584615124e-05,
+      "fold": 3.2511848341232223,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045934",
+      "label": "negative regulation of nucleobase-containing compound metabolic process",
+      "fdr": 0.005527002091181364,
+      "p_value": 4.618888456404744e-05,
+      "fold": 3.757188498402556,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048731",
+      "label": "system development",
+      "fdr": 0.005611982833085555,
+      "p_value": 4.730688239502394e-05,
+      "fold": 2.8749541620828754,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090278",
+      "label": "negative regulation of peptide hormone secretion",
+      "fdr": 0.00581356245172904,
+      "p_value": 4.942858853661054e-05,
+      "fold": 42,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032940",
+      "label": "secretion by cell",
+      "fdr": 0.0062116977159662,
+      "p_value": 5.326504836014908e-05,
+      "fold": 8.882175226586103,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002792",
+      "label": "negative regulation of peptide secretion",
+      "fdr": 0.006766425776906068,
+      "p_value": 5.851352862813909e-05,
+      "fold": 39.729729729729726,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1904950",
+      "label": "negative regulation of establishment of protein localization",
+      "fdr": 0.006814133074796035,
+      "p_value": 5.942126073508642e-05,
+      "fold": 18.846153846153843,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010605",
+      "label": "negative regulation of macromolecule metabolic process",
+      "fdr": 0.007110403734827107,
+      "p_value": 6.355494945016598e-05,
+      "fold": 2.964905203711174,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016486",
+      "label": "peptide hormone processing",
+      "fdr": 0.00715558943912763,
+      "p_value": 6.343884249499098e-05,
+      "fold": 38.68421052631579,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035774",
+      "label": "positive regulation of insulin secretion involved in cellular response to glucose stimulus",
+      "fdr": 0.007214726541930338,
+      "p_value": 6.343884249499098e-05,
+      "fold": 38.68421052631579,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0021545",
+      "label": "cranial nerve development",
+      "fdr": 0.008221874791645071,
+      "p_value": 7.408709208371404e-05,
+      "fold": 36.75,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048699",
+      "label": "generation of neurons",
+      "fdr": 0.008379476862881933,
+      "p_value": 7.611616945427234e-05,
+      "fold": 4.830230010952902,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009889",
+      "label": "regulation of biosynthetic process",
+      "fdr": 0.00883220072155164,
+      "p_value": 8.087037939942639e-05,
+      "fold": 2.170761175996778,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030070",
+      "label": "insulin processing",
+      "fdr": 0.008911409787046723,
+      "p_value": 8.483356457402229e-05,
+      "fold": 140,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0140448",
+      "label": "signaling receptor ligand precursor processing",
+      "fdr": 0.008948919967368334,
+      "p_value": 8.584095891960033e-05,
+      "fold": 35,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009757",
+      "label": "hexose mediated signaling",
+      "fdr": 0.008979959093100929,
+      "p_value": 8.483356457402229e-05,
+      "fold": 140,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060429",
+      "label": "epithelium development",
+      "fdr": 0.008985000242491653,
+      "p_value": 8.292239159918902e-05,
+      "fold": 5.497896213183731,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006355",
+      "label": "regulation of DNA-templated transcription",
+      "fdr": 0.00902299570165918,
+      "p_value": 8.720721083647051e-05,
+      "fold": 2.6055677197372535,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010182",
+      "label": "sugar mediated signaling pathway",
+      "fdr": 0.00904957117909396,
+      "p_value": 8.483356457402229e-05,
+      "fold": 140,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010255",
+      "label": "glucose mediated signaling pathway",
+      "fdr": 0.00912027095393063,
+      "p_value": 8.483356457402229e-05,
+      "fold": 140,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2001141",
+      "label": "regulation of RNA biosynthetic process",
+      "fdr": 0.009433484732806086,
+      "p_value": 9.186010858193556e-05,
+      "fold": 2.5950155763239877,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007423",
+      "label": "sensory organ development",
+      "fdr": 0.010337881000010837,
+      "p_value": 0.00010141806082417433,
+      "fold": 7.903225806451613,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055082",
+      "label": "intracellular chemical homeostasis",
+      "fdr": 0.01073172046200704,
+      "p_value": 0.00010606162218101573,
+      "fold": 6.293577981651376,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002790",
+      "label": "peptide secretion",
+      "fdr": 0.011254596183073362,
+      "p_value": 0.00011286492793140935,
+      "fold": 31.956521739130434,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030072",
+      "label": "peptide hormone secretion",
+      "fdr": 0.011336746520176088,
+      "p_value": 0.00011286492793140935,
+      "fold": 31.956521739130434,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009888",
+      "label": "tissue development",
+      "fdr": 0.013072844876837034,
+      "p_value": 0.00013204893814986902,
+      "fold": 4.0196882690730105,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903531",
+      "label": "negative regulation of secretion by cell",
+      "fdr": 0.013079592829282423,
+      "p_value": 0.000133067582014355,
+      "fold": 15.312499999999998,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009756",
+      "label": "carbohydrate mediated signaling",
+      "fdr": 0.014056818386354983,
+      "p_value": 0.00014505255510954203,
+      "fold": 108.8888888888889,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000674",
+      "label": "regulation of type B pancreatic cell apoptotic process",
+      "fdr": 0.014156512133775941,
+      "p_value": 0.00014505255510954203,
+      "fold": 108.8888888888889,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0140352",
+      "label": "export from cell",
+      "fdr": 0.014502961953694703,
+      "p_value": 0.0001507102361295213,
+      "fold": 7.35,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010556",
+      "label": "regulation of macromolecule biosynthetic process",
+      "fdr": 0.014728829284113065,
+      "p_value": 0.00015412770997109813,
+      "fold": 2.151819322459222,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043069",
+      "label": "negative regulation of programmed cell death",
+      "fdr": 0.015717003369721143,
+      "p_value": 0.00016561045626114132,
+      "fold": 4.974619289340102,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0021510",
+      "label": "spinal cord development",
+      "fdr": 0.0170691726282726,
+      "p_value": 0.00018233910154466043,
+      "fold": 27.22222222222222,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046903",
+      "label": "secretion",
+      "fdr": 0.01711907742295549,
+      "p_value": 0.00018162817409719508,
+      "fold": 7.101449275362318,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048880",
+      "label": "sensory system development",
+      "fdr": 0.01732371765361357,
+      "p_value": 0.0001863171435749443,
+      "fold": 9.351145038167939,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006090",
+      "label": "pyruvate metabolic process",
+      "fdr": 0.01876649264539664,
+      "p_value": 0.00020319798010058133,
+      "fold": 26.25,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009653",
+      "label": "anatomical structure morphogenesis",
+      "fdr": 0.01901871819750381,
+      "p_value": 0.00020731107692940713,
+      "fold": 3.475177304964539,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046879",
+      "label": "hormone secretion",
+      "fdr": 0.01939058804222894,
+      "p_value": 0.00021418279067064887,
+      "fold": 25.789473684210524,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046888",
+      "label": "negative regulation of hormone secretion",
+      "fdr": 0.01951900253257483,
+      "p_value": 0.00021418279067064887,
+      "fold": 25.789473684210524,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007584",
+      "label": "response to nutrient",
+      "fdr": 0.019844181159184696,
+      "p_value": 0.00022063510772147796,
+      "fold": 13.424657534246574,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051048",
+      "label": "negative regulation of secretion",
+      "fdr": 0.020236956098807827,
+      "p_value": 0.00022647273012254963,
+      "fold": 13.333333333333334,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019219",
+      "label": "regulation of nucleobase-containing compound metabolic process",
+      "fdr": 0.020372715294574222,
+      "p_value": 0.00022947248533238898,
+      "fold": 2.3161764705882355,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0021675",
+      "label": "nerve development",
+      "fdr": 0.020931846801979986,
+      "p_value": 0.0002372914832576759,
+      "fold": 24.915254237288135,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006109",
+      "label": "regulation of carbohydrate metabolic process",
+      "fdr": 0.022556093022623822,
+      "p_value": 0.0002573436962831146,
+      "fold": 12.894736842105264,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008286",
+      "label": "insulin receptor signaling pathway",
+      "fdr": 0.02364192215216346,
+      "p_value": 0.00027488609434969506,
+      "fold": 23.70967741935484,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019725",
+      "label": "cellular homeostasis",
+      "fdr": 0.023724141240119255,
+      "p_value": 0.0002741180479019665,
+      "fold": 5.3930817610062896,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051252",
+      "label": "regulation of RNA metabolic process",
+      "fdr": 0.02383295216657246,
+      "p_value": 0.00027364337201645584,
+      "fold": 2.3793201942302202,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030182",
+      "label": "neuron differentiation",
+      "fdr": 0.02505643628493842,
+      "p_value": 0.00029315356746421667,
+      "fold": 4.574095682613769,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031667",
+      "label": "response to nutrient levels",
+      "fdr": 0.02687254750704917,
+      "p_value": 0.00031635438530208307,
+      "fold": 6.405228758169934,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0015833",
+      "label": "peptide transport",
+      "fdr": 0.029009493074946133,
+      "p_value": 0.00034572755354197847,
+      "fold": 21.940298507462686,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010468",
+      "label": "regulation of gene expression",
+      "fdr": 0.0290521820175059,
+      "p_value": 0.0003441251121904993,
+      "fold": 2.1003000428632665,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042127",
+      "label": "regulation of cell population proliferation",
+      "fdr": 0.029822055532512305,
+      "p_value": 0.00035757860350734175,
+      "fold": 3.555878084179971,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901142",
+      "label": "insulin metabolic process",
+      "fdr": 0.0301990708158403,
+      "p_value": 0.0003642937108807129,
+      "fold": 70,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071333",
+      "label": "cellular response to glucose stimulus",
+      "fdr": 0.03106971315173994,
+      "p_value": 0.000377054145508362,
+      "fold": 21.304347826086957,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0062012",
+      "label": "regulation of small molecule metabolic process",
+      "fdr": 0.0312231816994433,
+      "p_value": 0.00038118556249592866,
+      "fold": 8.006535947712418,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0080090",
+      "label": "regulation of primary metabolic process",
+      "fdr": 0.031422185497200245,
+      "p_value": 0.00038589850657850747,
+      "fold": 2.062951082598236,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051094",
+      "label": "positive regulation of developmental process",
+      "fdr": 0.03186867167865533,
+      "p_value": 0.000393697709859124,
+      "fold": 3.8820422535211265,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006605",
+      "label": "protein targeting",
+      "fdr": 0.03240074963407155,
+      "p_value": 0.0004026254042167165,
+      "fold": 11.461988304093568,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009914",
+      "label": "hormone transport",
+      "fdr": 0.033995191184097655,
+      "p_value": 0.00042737941100566047,
+      "fold": 20.416666666666668,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071331",
+      "label": "cellular response to hexose stimulus",
+      "fdr": 0.034192837644470314,
+      "p_value": 0.00042737941100566047,
+      "fold": 20.416666666666668,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071326",
+      "label": "cellular response to monosaccharide stimulus",
+      "fdr": 0.0366337953378151,
+      "p_value": 0.00046321345750888936,
+      "fold": 19.864864864864863,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043201",
+      "label": "response to L-leucine",
+      "fdr": 0.03746315185961601,
+      "p_value": 0.0004791450277808603,
+      "fold": 61.24999999999999,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045725",
+      "label": "positive regulation of glycogen biosynthetic process",
+      "fdr": 0.03767722701309953,
+      "p_value": 0.0004791450277808603,
+      "fold": 61.24999999999999,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061564",
+      "label": "axon development",
+      "fdr": 0.03878423992571802,
+      "p_value": 0.0005016782724204497,
+      "fold": 7.538461538461539,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903578",
+      "label": "regulation of ATP metabolic process",
+      "fdr": 0.038944570924392054,
+      "p_value": 0.0005009221025810183,
+      "fold": 19.342105263157894,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0021517",
+      "label": "ventral spinal cord development",
+      "fdr": 0.041461019222190316,
+      "p_value": 0.0005423285705976497,
+      "fold": 57.64705882352941,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045722",
+      "label": "positive regulation of gluconeogenesis",
+      "fdr": 0.041692645027900876,
+      "p_value": 0.0005423285705976497,
+      "fold": 57.64705882352941,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903828",
+      "label": "negative regulation of protein localization",
+      "fdr": 0.04375674769825136,
+      "p_value": 0.0005755374851670297,
+      "fold": 10.425531914893616,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901077",
+      "label": "regulation of relaxation of muscle",
+      "fdr": 0.04532430785765555,
+      "p_value": 0.0006093304958699424,
+      "fold": 54.44444444444445,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045721",
+      "label": "negative regulation of gluconeogenesis",
+      "fdr": 0.04557063561775151,
+      "p_value": 0.0006093304958699424,
+      "fold": 54.44444444444445,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071322",
+      "label": "cellular response to carbohydrate stimulus",
+      "fdr": 0.045642432766248235,
+      "p_value": 0.00060365691181289,
+      "fold": 18.14814814814815,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007417",
+      "label": "central nervous system development",
+      "fdr": 0.045649289195074334,
+      "p_value": 0.00061701677133085,
+      "fold": 4.711538461538462,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051239",
+      "label": "regulation of multicellular organismal process",
+      "fdr": 0.04575003012354513,
+      "p_value": 0.0006084045863388386,
+      "fold": 2.547344968436688,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044057",
+      "label": "regulation of system process",
+      "fdr": 0.04645002476016138,
+      "p_value": 0.0006312153644466374,
+      "fold": 5.621414913957936,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045597",
+      "label": "positive regulation of cell differentiation",
+      "fdr": 0.04896533728112565,
+      "p_value": 0.0006689545388308714,
+      "fold": 4.64769647696477,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1900542",
+      "label": "regulation of purine nucleotide metabolic process",
+      "fdr": 0.049289326173688607,
+      "p_value": 0.0006948716864832199,
+      "fold": 17.294117647058822,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070875",
+      "label": "positive regulation of glycogen metabolic process",
+      "fdr": 0.049520356619967267,
+      "p_value": 0.0006801357024325132,
+      "fold": 51.578947368421055,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006006",
+      "label": "glucose metabolic process",
+      "fdr": 0.04954471128339684,
+      "p_value": 0.0006948716864832199,
+      "fold": 17.294117647058822,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043010",
+      "label": "camera-type eye development",
+      "fdr": 0.04966969111905041,
+      "p_value": 0.0006857961857873394,
+      "fold": 9.949238578680204,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006140",
+      "label": "regulation of nucleotide metabolic process",
+      "fdr": 0.04980275665466453,
+      "p_value": 0.0006948716864832199,
+      "fold": 17.294117647058822,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000026",
+      "label": "regulation of multicellular organismal development",
+      "fdr": 0.049959586661409934,
+      "p_value": 0.0006934293330665865,
+      "fold": 3.5912052117263844,
+      "source": "PANTHER"
+    }
+  ],
+  "Enrichr": [
+    {
+      "id": "GO:0050796",
+      "label": "Regulation of Insulin Secretion",
+      "fdr": 5.973188393292737e-09,
+      "p_value": 1.093990548222113e-11,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042593",
+      "label": "Glucose Homeostasis",
+      "fdr": 1.5538317018922742e-07,
+      "p_value": 5.691691215722616e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090276",
+      "label": "Regulation of Peptide Hormone Secretion",
+      "fdr": 1.452849726551534e-05,
+      "p_value": 7.982690805228209e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045047",
+      "label": "Protein Targeting to ER",
+      "fdr": 1.6116676660456192e-05,
+      "p_value": 1.181311815265952e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035883",
+      "label": "Enteroendocrine Cell Differentiation",
+      "fdr": 1.6116676660456192e-05,
+      "p_value": 1.4758861410674168e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007423",
+      "label": "Sensory Organ Development",
+      "fdr": 3.2718406591915946e-05,
+      "p_value": 3.595429295814939e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003309",
+      "label": "Type B Pancreatic Cell Differentiation",
+      "fdr": 6.869068046395582e-05,
+      "p_value": 8.806497495378952e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050708",
+      "label": "Regulation of Protein Secretion",
+      "fdr": 0.00010505010721577735,
+      "p_value": 1.5391957101212798e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045944",
+      "label": "Positive Regulation of Transcription by RNA Polymerase II",
+      "fdr": 0.00014407975637150447,
+      "p_value": 2.374941039090733e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006357",
+      "label": "Regulation of Transcription by RNA Polymerase II",
+      "fdr": 0.0001514267237520422,
+      "p_value": 2.773383218901872e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072599",
+      "label": "Establishment of Protein Localization to Endoplasmic Reticulum",
+      "fdr": 0.00020230261844093064,
+      "p_value": 4.075693778113988e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045893",
+      "label": "Positive Regulation of DNA-templated Transcription",
+      "fdr": 0.0002027779058817381,
+      "p_value": 4.456657272126112e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0140448",
+      "label": "Signaling Receptor Ligand Precursor Processing",
+      "fdr": 0.0002949723825834212,
+      "p_value": 7.023151966271934e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045892",
+      "label": "Negative Regulation of DNA-templated Transcription",
+      "fdr": 0.0008238935194899153,
+      "p_value": 2.1125474858715776e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016486",
+      "label": "Peptide Hormone Processing",
+      "fdr": 0.001054910341387317,
+      "p_value": 2.89810533348164e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050709",
+      "label": "Negative Regulation of Protein Secretion",
+      "fdr": 0.002373561643826535,
+      "p_value": 6.955491996561275e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000122",
+      "label": "Negative Regulation of Transcription by RNA Polymerase II",
+      "fdr": 0.0027074872002629917,
+      "p_value": 8.42990520228404e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902680",
+      "label": "Positive Regulation of RNA Biosynthetic Process",
+      "fdr": 0.003114363830600535,
+      "p_value": 0.00010267133507474292,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043254",
+      "label": "Regulation of Protein-Containing Complex Assembly",
+      "fdr": 0.003192291152598154,
+      "p_value": 0.00011513884011471694,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042127",
+      "label": "Regulation of Cell Population Proliferation",
+      "fdr": 0.003192291152598154,
+      "p_value": 0.00011875245051107326,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051094",
+      "label": "Positive Regulation of Developmental Process",
+      "fdr": 0.003192291152598154,
+      "p_value": 0.00012278042894608285,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006355",
+      "label": "Regulation of DNA-templated Transcription",
+      "fdr": 0.004271396580999391,
+      "p_value": 0.00017210755454576303,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006614",
+      "label": "SRP-dependent Cotranslational Protein Targeting to Membrane",
+      "fdr": 0.005034387716546655,
+      "p_value": 0.000212071277436947,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006465",
+      "label": "Signal Peptide Processing",
+      "fdr": 0.005687772464821445,
+      "p_value": 0.00025416386531107297,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007417",
+      "label": "Central Nervous System Development",
+      "fdr": 0.005687772464821445,
+      "p_value": 0.0002604291421621541,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006613",
+      "label": "Cotranslational Protein Targeting to Membrane",
+      "fdr": 0.007340607339908618,
+      "p_value": 0.00034955273047183893,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046323",
+      "label": "D-glucose Import",
+      "fdr": 0.008656627290121326,
+      "p_value": 0.0004597842333580924,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048663",
+      "label": "Neuron Fate Commitment",
+      "fdr": 0.008656627290121326,
+      "p_value": 0.0004597842333580924,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0031016",
+      "label": "Pancreas Development",
+      "fdr": 0.008656627290121326,
+      "p_value": 0.0004597842333580924,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046676",
+      "label": "Negative Regulation of Insulin Secretion",
+      "fdr": 0.010642344291689474,
+      "p_value": 0.0005847441918510701,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048523",
+      "label": "Negative Regulation of Cellular Process",
+      "fdr": 0.010685993709107002,
+      "p_value": 0.0006067139285390422,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090278",
+      "label": "Negative Regulation of Peptide Hormone Secretion",
+      "fdr": 0.01079941396735086,
+      "p_value": 0.0006527118331915355,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030073",
+      "label": "Insulin Secretion",
+      "fdr": 0.01079941396735086,
+      "p_value": 0.0006527118331915355,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045595",
+      "label": "Regulation of Cell Differentiation",
+      "fdr": 0.010946778023745187,
+      "p_value": 0.0006816674959841325,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032770",
+      "label": "Positive Regulation of Monooxygenase Activity",
+      "fdr": 0.011299377286208261,
+      "p_value": 0.0007243190568082219,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071375",
+      "label": "Cellular Response to Peptide Hormone Stimulus",
+      "fdr": 0.012962274775582313,
+      "p_value": 0.0008757331296734359,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904659",
+      "label": "D-glucose Transmembrane Transport",
+      "fdr": 0.012962274775582313,
+      "p_value": 0.000878395909700633,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008285",
+      "label": "Negative Regulation of Cell Population Proliferation",
+      "fdr": 0.013041785963972043,
+      "p_value": 0.0009076700854046477,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009746",
+      "label": "Response to Hexose",
+      "fdr": 0.015910397351056302,
+      "p_value": 0.0011364569536468786,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0061564",
+      "label": "Axon Development",
+      "fdr": 0.017241885391795345,
+      "p_value": 0.0012736632161265413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032869",
+      "label": "Cellular Response to Insulin Stimulus",
+      "fdr": 0.017241885391795345,
+      "p_value": 0.0013082462226310636,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030072",
+      "label": "Peptide Hormone Secretion",
+      "fdr": 0.017241885391795345,
+      "p_value": 0.0013262988762919497,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048522",
+      "label": "Positive Regulation of Cellular Process",
+      "fdr": 0.017487450569116568,
+      "p_value": 0.0013772168030622939,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0061178",
+      "label": "Regulation of Insulin Secretion Involved in Cellular Response to Glucose Stimulus",
+      "fdr": 0.017701799279724165,
+      "p_value": 0.0014265186232744749,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0017158",
+      "label": "Regulation of Calcium Ion-Dependent Exocytosis",
+      "fdr": 0.018567063710989005,
+      "p_value": 0.00153025250365294,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006111",
+      "label": "Regulation of Gluconeogenesis",
+      "fdr": 0.024939786631419488,
+      "p_value": 0.0021011541850646455,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006605",
+      "label": "Protein Targeting",
+      "fdr": 0.02936798124778591,
+      "p_value": 0.002528013037813073,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045597",
+      "label": "Positive Regulation of Cell Differentiation",
+      "fdr": 0.03230709200165757,
+      "p_value": 0.0028594397295652317,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046889",
+      "label": "Positive Regulation of Lipid Biosynthetic Process",
+      "fdr": 0.03230709200165757,
+      "p_value": 0.0028993544104051667,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032024",
+      "label": "Positive Regulation of Insulin Secretion",
+      "fdr": 0.03259081226171473,
+      "p_value": 0.003044196749720607,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903531",
+      "label": "Negative Regulation of Secretion by Cell",
+      "fdr": 0.03259081226171473,
+      "p_value": 0.003044196749720607,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006508",
+      "label": "Proteolysis",
+      "fdr": 0.03933487457834626,
+      "p_value": 0.0037758829436975185,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0021953",
+      "label": "Central Nervous System Neuron Differentiation",
+      "fdr": 0.03933487457834626,
+      "p_value": 0.003818220426103208,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090277",
+      "label": "Positive Regulation of Peptide Hormone Secretion",
+      "fdr": 0.041969500243469106,
+      "p_value": 0.004150829694409033,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008286",
+      "label": "Insulin Receptor Signaling Pathway",
+      "fdr": 0.04533488172873013,
+      "p_value": 0.004674059598481964,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009749",
+      "label": "Response to Glucose",
+      "fdr": 0.04533488172873013,
+      "p_value": 0.004674059598481964,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007420",
+      "label": "Brain Development",
+      "fdr": 0.04533488172873013,
+      "p_value": 0.004732762378274025,
+      "fold": null,
+      "source": "Enrichr"
+    }
+  ],
+  "g:Profiler": [
+    {
+      "id": "REAC:R-HSA-186712",
+      "label": "Regulation of beta-cell development",
+      "fdr": 6.771958116315704e-29,
+      "p_value": 6.771958116315704e-29,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:04950",
+      "label": "Maturity onset diabetes of the young",
+      "fdr": 2.0454532799719714e-27,
+      "p_value": 2.0454532799719714e-27,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-210745",
+      "label": "Regulation of gene expression in beta cells",
+      "fdr": 5.561038729681387e-27,
+      "p_value": 5.561038729681387e-27,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0042593",
+      "label": "glucose homeostasis",
+      "fdr": 3.7529846469737685e-11,
+      "p_value": 3.7529846469737685e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0033500",
+      "label": "carbohydrate homeostasis",
+      "fdr": 5.4930639872857356e-11,
+      "p_value": 5.4930639872857356e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031016",
+      "label": "pancreas development",
+      "fdr": 8.665137051793395e-11,
+      "p_value": 8.665137051793395e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-210746",
+      "label": "Regulation of gene expression in endocrine-committed (NEUROG3+) progenitor cells",
+      "fdr": 1.08538793869102e-10,
+      "p_value": 1.08538793869102e-10,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-400508",
+      "label": "Incretin synthesis, secretion, and inactivation",
+      "fdr": 2.9307054371018363e-10,
+      "p_value": 2.9307054371018363e-10,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0031018",
+      "label": "endocrine pancreas development",
+      "fdr": 3.372807228982865e-10,
+      "p_value": 3.372807228982865e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-400511",
+      "label": "Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)",
+      "fdr": 5.303113707838297e-10,
+      "p_value": 5.303113707838297e-10,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0090276",
+      "label": "regulation of peptide hormone secretion",
+      "fdr": 7.633957285427531e-10,
+      "p_value": 7.633957285427531e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002791",
+      "label": "regulation of peptide secretion",
+      "fdr": 8.236077660403286e-10,
+      "p_value": 8.236077660403286e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0090087",
+      "label": "regulation of peptide transport",
+      "fdr": 9.56946479249066e-10,
+      "p_value": 9.56946479249066e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0010817",
+      "label": "regulation of hormone levels",
+      "fdr": 2.3069342429022296e-09,
+      "p_value": 2.3069342429022296e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-2980736",
+      "label": "Peptide hormone metabolism",
+      "fdr": 2.696209617061035e-09,
+      "p_value": 2.696209617061035e-09,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0030072",
+      "label": "peptide hormone secretion",
+      "fdr": 3.353104344390896e-09,
+      "p_value": 3.353104344390896e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002790",
+      "label": "peptide secretion",
+      "fdr": 3.5784727886826807e-09,
+      "p_value": 3.5784727886826807e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050796",
+      "label": "regulation of insulin secretion",
+      "fdr": 4.163256242487013e-09,
+      "p_value": 4.163256242487013e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046883",
+      "label": "regulation of hormone secretion",
+      "fdr": 9.576504732738232e-09,
+      "p_value": 9.576504732738232e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0023061",
+      "label": "signal release",
+      "fdr": 1.0025600704253409e-08,
+      "p_value": 1.0025600704253409e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0015833",
+      "label": "peptide transport",
+      "fdr": 1.2063797287226448e-08,
+      "p_value": 1.2063797287226448e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0035883",
+      "label": "enteroendocrine cell differentiation",
+      "fdr": 1.3982091210131239e-08,
+      "p_value": 1.3982091210131239e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030073",
+      "label": "insulin secretion",
+      "fdr": 1.5053148892798425e-08,
+      "p_value": 1.5053148892798425e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-381771",
+      "label": "Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)",
+      "fdr": 1.644970988339626e-08,
+      "p_value": 1.644970988339626e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0050708",
+      "label": "regulation of protein secretion",
+      "fdr": 1.883502078484925e-08,
+      "p_value": 1.883502078484925e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046879",
+      "label": "hormone secretion",
+      "fdr": 2.8820878320697147e-08,
+      "p_value": 2.8820878320697147e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009914",
+      "label": "hormone transport",
+      "fdr": 4.5499244498788984e-08,
+      "p_value": 4.5499244498788984e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0035270",
+      "label": "endocrine system development",
+      "fdr": 9.532453992231387e-08,
+      "p_value": 9.532453992231387e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1903530",
+      "label": "regulation of secretion by cell",
+      "fdr": 1.5617296052950715e-07,
+      "p_value": 1.5617296052950715e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009306",
+      "label": "protein secretion",
+      "fdr": 2.973658276243483e-07,
+      "p_value": 2.973658276243483e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071692",
+      "label": "protein localization to extracellular region",
+      "fdr": 3.096176370892627e-07,
+      "p_value": 3.096176370892627e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0035592",
+      "label": "establishment of protein localization to extracellular region",
+      "fdr": 3.3547978193824763e-07,
+      "p_value": 3.3547978193824763e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0051046",
+      "label": "regulation of secretion",
+      "fdr": 4.3887594697405346e-07,
+      "p_value": 4.3887594697405346e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-1266738",
+      "label": "Developmental Biology",
+      "fdr": 5.854826672221313e-07,
+      "p_value": 5.854826672221313e-07,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-422085",
+      "label": "Synthesis, secretion, and deacylation of Ghrelin",
+      "fdr": 9.012050527985039e-07,
+      "p_value": 9.012050527985039e-07,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:04930",
+      "label": "Type II diabetes mellitus",
+      "fdr": 1.0982699409604694e-06,
+      "p_value": 1.0982699409604694e-06,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0003309",
+      "label": "type B pancreatic cell differentiation",
+      "fdr": 1.384553719090073e-06,
+      "p_value": 1.384553719090073e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0007267",
+      "label": "cell-cell signaling",
+      "fdr": 2.728783322767237e-06,
+      "p_value": 2.728783322767237e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0051223",
+      "label": "regulation of protein transport",
+      "fdr": 4.088144045942228e-06,
+      "p_value": 4.088144045942228e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:03060",
+      "label": "Protein export",
+      "fdr": 5.823401209170614e-06,
+      "p_value": 5.823401209170614e-06,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0000978",
+      "label": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+      "fdr": 8.7247206777443e-06,
+      "p_value": 8.7247206777443e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0000987",
+      "label": "cis-regulatory region sequence-specific DNA binding",
+      "fdr": 1.1045108249656426e-05,
+      "p_value": 1.1045108249656426e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0070201",
+      "label": "regulation of establishment of protein localization",
+      "fdr": 1.2424919969911938e-05,
+      "p_value": 1.2424919969911938e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032940",
+      "label": "secretion by cell",
+      "fdr": 1.3673002767271509e-05,
+      "p_value": 1.3673002767271509e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045184",
+      "label": "establishment of protein localization",
+      "fdr": 1.6028571423288342e-05,
+      "p_value": 1.6028571423288342e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04911",
+      "label": "Insulin secretion",
+      "fdr": 4.0573283190667645e-05,
+      "p_value": 4.0573283190667645e-05,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0046903",
+      "label": "secretion",
+      "fdr": 4.436692750768394e-05,
+      "p_value": 4.436692750768394e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0140352",
+      "label": "export from cell",
+      "fdr": 4.739805164365027e-05,
+      "p_value": 4.739805164365027e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000977",
+      "label": "RNA polymerase II transcription regulatory region sequence-specific DNA binding",
+      "fdr": 7.85125334936294e-05,
+      "p_value": 7.85125334936294e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0001678",
+      "label": "intracellular glucose homeostasis",
+      "fdr": 9.683651936453337e-05,
+      "p_value": 9.683651936453337e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000981",
+      "label": "DNA-binding transcription factor activity, RNA polymerase II-specific",
+      "fdr": 9.896217331862464e-05,
+      "p_value": 9.896217331862464e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0009749",
+      "label": "response to glucose",
+      "fdr": 0.00013449829399880074,
+      "p_value": 0.00013449829399880074,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009746",
+      "label": "response to hexose",
+      "fdr": 0.0001526006826863678,
+      "p_value": 0.0001526006826863678,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0034284",
+      "label": "response to monosaccharide",
+      "fdr": 0.0001526006826863678,
+      "p_value": 0.0001526006826863678,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04922",
+      "label": "Glucagon signaling pathway",
+      "fdr": 0.00015843358580334212,
+      "p_value": 0.00015843358580334212,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0000976",
+      "label": "transcription cis-regulatory region binding",
+      "fdr": 0.0001977605721853055,
+      "p_value": 0.0001977605721853055,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0001067",
+      "label": "transcription regulatory region nucleic acid binding",
+      "fdr": 0.0001995342254329244,
+      "p_value": 0.0001995342254329244,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0003700",
+      "label": "DNA-binding transcription factor activity",
+      "fdr": 0.00020132224512934532,
+      "p_value": 0.00020132224512934532,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0009743",
+      "label": "response to carbohydrate",
+      "fdr": 0.00024629633337986724,
+      "p_value": 0.00024629633337986724,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1990837",
+      "label": "sequence-specific double-stranded DNA binding",
+      "fdr": 0.00037532951924607277,
+      "p_value": 0.00037532951924607277,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0002793",
+      "label": "positive regulation of peptide secretion",
+      "fdr": 0.0005368534223909431,
+      "p_value": 0.0005368534223909431,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0090277",
+      "label": "positive regulation of peptide hormone secretion",
+      "fdr": 0.0005368534223909431,
+      "p_value": 0.0005368534223909431,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04910",
+      "label": "Insulin signaling pathway",
+      "fdr": 0.0006954323978653589,
+      "p_value": 0.0006954323978653589,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0003690",
+      "label": "double-stranded DNA binding",
+      "fdr": 0.0007717402194212967,
+      "p_value": 0.0007717402194212967,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0043565",
+      "label": "sequence-specific DNA binding",
+      "fdr": 0.0007777932819911254,
+      "p_value": 0.0007777932819911254,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0048878",
+      "label": "chemical homeostasis",
+      "fdr": 0.0008720772643390841,
+      "p_value": 0.0008720772643390841,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071705",
+      "label": "nitrogen compound transport",
+      "fdr": 0.0009482866488698175,
+      "p_value": 0.0009482866488698175,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045047",
+      "label": "protein targeting to ER",
+      "fdr": 0.0009637562937569506,
+      "p_value": 0.0009637562937569506,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0140110",
+      "label": "transcription regulator activity",
+      "fdr": 0.001252780168518209,
+      "p_value": 0.001252780168518209,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0000785",
+      "label": "chromatin",
+      "fdr": 0.0013239783212034098,
+      "p_value": 0.0013239783212034098,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0072599",
+      "label": "establishment of protein localization to endoplasmic reticulum",
+      "fdr": 0.0016489711616516217,
+      "p_value": 0.0016489711616516217,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-422356",
+      "label": "Regulation of insulin secretion",
+      "fdr": 0.0019207947297266346,
+      "p_value": 0.0019207947297266346,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0046887",
+      "label": "positive regulation of hormone secretion",
+      "fdr": 0.0023216955815600036,
+      "p_value": 0.0023216955815600036,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04931",
+      "label": "Insulin resistance",
+      "fdr": 0.0032716501134121313,
+      "p_value": 0.0032716501134121313,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0005785",
+      "label": "signal recognition particle receptor complex",
+      "fdr": 0.0033647781742190343,
+      "p_value": 0.0033647781742190343,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0032880",
+      "label": "regulation of protein localization",
+      "fdr": 0.00341470978792334,
+      "p_value": 0.00341470978792334,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050714",
+      "label": "positive regulation of protein secretion",
+      "fdr": 0.0036668648517958285,
+      "p_value": 0.0036668648517958285,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0015031",
+      "label": "protein transport",
+      "fdr": 0.004120292541454735,
+      "p_value": 0.004120292541454735,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032024",
+      "label": "positive regulation of insulin secretion",
+      "fdr": 0.00444075843577233,
+      "p_value": 0.00444075843577233,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04213",
+      "label": "Longevity regulating pathway - multiple species",
+      "fdr": 0.005480461765838638,
+      "p_value": 0.005480461765838638,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-163685",
+      "label": "Integration of energy metabolism",
+      "fdr": 0.009017663568434527,
+      "p_value": 0.009017663568434527,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:04917",
+      "label": "Prolactin signaling pathway",
+      "fdr": 0.009327241427323352,
+      "p_value": 0.009327241427323352,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0005787",
+      "label": "signal peptidase complex",
+      "fdr": 0.011182827097442364,
+      "p_value": 0.011182827097442364,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-1799339",
+      "label": "SRP-dependent cotranslational protein targeting to membrane",
+      "fdr": 0.01173502134312996,
+      "p_value": 0.01173502134312996,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0003677",
+      "label": "DNA binding",
+      "fdr": 0.014257065517134855,
+      "p_value": 0.014257065517134855,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0006094",
+      "label": "gluconeogenesis",
+      "fdr": 0.01637293317730673,
+      "p_value": 0.01637293317730673,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0048500",
+      "label": "signal recognition particle",
+      "fdr": 0.01674947576112913,
+      "p_value": 0.01674947576112913,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0005786",
+      "label": "signal recognition particle, endoplasmic reticulum targeting",
+      "fdr": 0.01674947576112913,
+      "p_value": 0.01674947576112913,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0032870",
+      "label": "cellular response to hormone stimulus",
+      "fdr": 0.017002442450836378,
+      "p_value": 0.017002442450836378,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006613",
+      "label": "cotranslational protein targeting to membrane",
+      "fdr": 0.017964199014951027,
+      "p_value": 0.017964199014951027,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005179",
+      "label": "hormone activity",
+      "fdr": 0.019084612008441942,
+      "p_value": 0.019084612008441942,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0019319",
+      "label": "hexose biosynthetic process",
+      "fdr": 0.020034547475906692,
+      "p_value": 0.020034547475906692,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046364",
+      "label": "monosaccharide biosynthetic process",
+      "fdr": 0.02137921603132155,
+      "p_value": 0.02137921603132155,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-211163",
+      "label": "AKT-mediated inactivation of FOXO1A",
+      "fdr": 0.022298755665322845,
+      "p_value": 0.022298755665322845,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0045944",
+      "label": "positive regulation of transcription by RNA polymerase II",
+      "fdr": 0.022499823259801068,
+      "p_value": 0.022499823259801068,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9614085",
+      "label": "FOXO-mediated transcription",
+      "fdr": 0.022590908475549742,
+      "p_value": 0.022590908475549742,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0060290",
+      "label": "transdifferentiation",
+      "fdr": 0.024938347793576163,
+      "p_value": 0.024938347793576163,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003310",
+      "label": "pancreatic A cell differentiation",
+      "fdr": 0.024938347793576163,
+      "p_value": 0.024938347793576163,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0001228",
+      "label": "DNA-binding transcription activator activity, RNA polymerase II-specific",
+      "fdr": 0.025067324867182977,
+      "p_value": 0.025067324867182977,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-264876",
+      "label": "Insulin processing",
+      "fdr": 0.025834015381548305,
+      "p_value": 0.025834015381548305,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0140534",
+      "label": "endoplasmic reticulum protein-containing complex",
+      "fdr": 0.02686616886721166,
+      "p_value": 0.02686616886721166,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0001216",
+      "label": "DNA-binding transcription activator activity",
+      "fdr": 0.027761762174227628,
+      "p_value": 0.027761762174227628,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0042592",
+      "label": "homeostatic process",
+      "fdr": 0.028029974711868248,
+      "p_value": 0.028029974711868248,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005694",
+      "label": "chromosome",
+      "fdr": 0.03314995830955608,
+      "p_value": 0.03314995830955608,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0071333",
+      "label": "cellular response to glucose stimulus",
+      "fdr": 0.03465666779769197,
+      "p_value": 0.03465666779769197,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0051234",
+      "label": "establishment of localization",
+      "fdr": 0.034725123576182015,
+      "p_value": 0.034725123576182015,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0051049",
+      "label": "regulation of transport",
+      "fdr": 0.03838011715814053,
+      "p_value": 0.03838011715814053,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071326",
+      "label": "cellular response to monosaccharide stimulus",
+      "fdr": 0.03875175279401034,
+      "p_value": 0.03875175279401034,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071331",
+      "label": "cellular response to hexose stimulus",
+      "fdr": 0.03875175279401034,
+      "p_value": 0.03875175279401034,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9615017",
+      "label": "FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes",
+      "fdr": 0.04508007483407138,
+      "p_value": 0.04508007483407138,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    }
+  ]
+}

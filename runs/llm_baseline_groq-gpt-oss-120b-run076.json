@@ -1,0 +1,156 @@
+[
+  {
+    "disease": "alzheimers_disease",
+    "n_genes": 15,
+    "provider": "groq",
+    "model_id": "openai/gpt-oss-120b",
+    "llm_ids": 10,
+    "allowed_ids": 13824,
+    "enriched_ids": 794,
+    "unsupported": 1,
+    "allowed_not_enriched": 5,
+    "not_enriched": 6,
+    "valid_enriched": 4,
+    "unsupported_categorised": [
+      {
+        "id": "GO:1902008",
+        "name": "obsolete negative regulation of toxin transport",
+        "category": "OBSOLETE"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 1
+    },
+    "llm_text": "GO:0050435 amyloid-beta metabolic process\nGO:1902008 regulation of amyloid-beta formation\nGO:0001774 microglial cell activation\nGO:0006955 immune response\nGO:0006909 phagocytosis\nGO:0006869 lipid transport\nGO:0033344 cholesterol efflux\nGO:0099536 synaptic signaling\nGO:0007411 axon guidance\nGO:0034599 cellular response to oxidative stress"
+  },
+  {
+    "disease": "hereditary_cancer",
+    "n_genes": 28,
+    "provider": "groq",
+    "model_id": "openai/gpt-oss-120b",
+    "llm_ids": 10,
+    "allowed_ids": 13806,
+    "enriched_ids": 557,
+    "unsupported": 0,
+    "allowed_not_enriched": 5,
+    "not_enriched": 5,
+    "valid_enriched": 5,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0006281 DNA repair  \nGO:0006298 Mismatch repair  \nGO:0006974 Cellular response to DNA damage stimulus  \nGO:0006260 DNA replication  \nGO:0006265 DNA recombination  \nGO:0008283 Cell proliferation  \nGO:0006915 Apoptotic process  \nGO:0007165 Signal transduction  \nGO:0007169 Transmembrane receptor protein serine/threonine signaling pathway  \nGO:0007167 Regulation of MAPK cascade"
+  },
+  {
+    "disease": "hypertrophic_cardiomyopathy",
+    "n_genes": 20,
+    "provider": "groq",
+    "model_id": "openai/gpt-oss-120b",
+    "llm_ids": 10,
+    "allowed_ids": 13809,
+    "enriched_ids": 230,
+    "unsupported": 6,
+    "allowed_not_enriched": 1,
+    "not_enriched": 7,
+    "valid_enriched": 3,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0003261",
+        "name": "cardiac muscle progenitor cell migration to the midline involved in heart field formation",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0003265",
+        "name": "regulation of primary heart field cardioblast proliferation",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0003267",
+        "name": "obsolete canonical Wnt signaling pathway involved in positive regulation of secondary heart field cardioblast proliferation",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0003268",
+        "name": "obsolete fibroblast growth factor receptor signaling pathway involved in regulation of secondary heart field cardioblast proliferation",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0003269",
+        "name": "obsolete BMP signaling pathway involved in regulation of secondary heart field cardioblast proliferation",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0006949",
+        "name": "obsolete syncytium formation",
+        "category": "OBSOLETE"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 2,
+      "OBSOLETE": 4
+    },
+    "llm_text": "GO:0003013 cardiac muscle contraction\nGO:0007507 heart development\nGO:0006949 regulation of heart rate\nGO:0008015 blood circulation\nGO:0003261 cardiac muscle cell action potential\nGO:0003265 regulation of cardiac muscle cell contraction\nGO:0003266 regulation of cardiac muscle cell action potential\nGO:0003267 regulation of heart contraction\nGO:0003268 regulation of cardiac muscle cell differentiation\nGO:0003269 regulation of cardiac muscle cell proliferation"
+  },
+  {
+    "disease": "parkinsons_disease",
+    "n_genes": 16,
+    "provider": "groq",
+    "model_id": "openai/gpt-oss-120b",
+    "llm_ids": 10,
+    "allowed_ids": 13807,
+    "enriched_ids": 684,
+    "unsupported": 1,
+    "allowed_not_enriched": 6,
+    "not_enriched": 7,
+    "valid_enriched": 3,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0008289",
+        "name": "lipid binding",
+        "category": "WRONG_BRANCH"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BRANCH": 1
+    },
+    "llm_text": "GO:0007610 regulation of neuron death\nGO:0007268 chemical synaptic transmission\nGO:0007611 learning or memory\nGO:0007269 neurotransmitter transport\nGO:0008289 lipid metabolic process\nGO:0006915 apoptotic process\nGO:0003008 system development\nGO:0043066 negative regulation of apoptotic process\nGO:0043065 positive regulation of apoptotic process\nGO:0007267 synaptic transmission, glutamatergic\n\n"
+  },
+  {
+    "disease": "primary_immunodeficiency",
+    "n_genes": 24,
+    "provider": "groq",
+    "model_id": "openai/gpt-oss-120b",
+    "llm_ids": 10,
+    "allowed_ids": 13793,
+    "enriched_ids": 354,
+    "unsupported": 1,
+    "allowed_not_enriched": 3,
+    "not_enriched": 4,
+    "valid_enriched": 6,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0016570",
+        "name": "obsolete histone modification",
+        "category": "OBSOLETE"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 1
+    },
+    "llm_text": "GO:0002218 V(D)J recombination  \nGO:0006289 DNA double-strand break repair via non-homologous end joining  \nGO:0002250 Adaptive immune response  \nGO:0045087 Innate immune response  \nGO:0007259 JAK-STAT cascade  \nGO:0007165 Signal transduction  \nGO:0006954 Inflammatory response  \nGO:0007166 Cell surface receptor signaling pathway  \nGO:0045088 Positive regulation of cytokine production  \nGO:0016570 Histone H3-K9 demethylation"
+  },
+  {
+    "disease": "type2_diabetes",
+    "n_genes": 18,
+    "provider": "groq",
+    "model_id": "openai/gpt-oss-120b",
+    "llm_ids": 10,
+    "allowed_ids": 13776,
+    "enriched_ids": 303,
+    "unsupported": 0,
+    "allowed_not_enriched": 10,
+    "not_enriched": 10,
+    "valid_enriched": 0,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0008152 cellular metabolic process\nGO:0006096 glycolytic process\nGO:0006099 tricarboxylic acid cycle\nGO:0007165 signal transduction\nGO:0008283 cell proliferation\nGO:0007166 cell surface receptor signaling pathway\nGO:0007167 regulation of signaling receptor activity\nGO:0006954 inflammatory response\nGO:0007169 transmembrane receptor protein tyrosine kinase signaling pathway\nGO:0007163 regulation of insulin secretion"
+  }
+]

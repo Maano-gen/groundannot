@@ -1,0 +1,4 @@
+excluded_model,n_models_kept,valid_rate_of_remaining
+groq-gpt-oss-120b,2,0.1876
+groq-qwen3.8-27b,2,0.2926
+qwen2.5-7b,2,0.2738

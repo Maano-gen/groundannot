@@ -1,0 +1,35 @@
+[2026-09-24T14:07:06] data_dir = /home/maano.malima/Method_API
+[2026-09-24T14:07:06] provider = groq
+[2026-09-24T14:07:06] model    = openai/gpt-oss-120b
+[2026-09-24T14:07:06] tag      = groq-gpt-oss-120b-run043
+[2026-09-24T14:07:10] client ready
+[2026-09-24T14:07:10] querying alzheimers_disease (15 genes) | allowed=13824 enriched=794
+[2026-09-24T14:07:13]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 5 | valid_enriched 4
+[2026-09-24T14:07:13]     OBSOLETE         GO:1902008  obsolete negative regulation of toxin transport
+[2026-09-24T14:07:13] querying hereditary_cancer (28 genes) | allowed=13806 enriched=557
+[2026-09-24T14:07:13]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 5 | valid_enriched 5
+[2026-09-24T14:07:14] querying hypertrophic_cardiomyopathy (20 genes) | allowed=13809 enriched=230
+[2026-09-24T14:07:18]   LLM 10 IDs | unsupported 6 | allowed_not_enriched 1 | valid_enriched 3
+[2026-09-24T14:07:18]     WRONG_BIOLOGY    GO:0003261  cardiac muscle progenitor cell migration to the midline involved in heart field formation
+[2026-09-24T14:07:18]     WRONG_BIOLOGY    GO:0003265  regulation of primary heart field cardioblast proliferation
+[2026-09-24T14:07:18]     OBSOLETE         GO:0003267  obsolete canonical Wnt signaling pathway involved in positive regulation of secondary heart field cardioblast proliferation
+[2026-09-24T14:07:18]     OBSOLETE         GO:0003268  obsolete fibroblast growth factor receptor signaling pathway involved in regulation of secondary heart field cardioblast proliferation
+[2026-09-24T14:07:18]     OBSOLETE         GO:0003269  obsolete BMP signaling pathway involved in regulation of secondary heart field cardioblast proliferation
+[2026-09-24T14:07:18]     OBSOLETE         GO:0006949  obsolete syncytium formation
+[2026-09-24T14:07:18] querying parkinsons_disease (16 genes) | allowed=13807 enriched=684
+[2026-09-24T14:07:19]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 6 | valid_enriched 3
+[2026-09-24T14:07:19]     WRONG_BRANCH     GO:0008289  lipid binding
+[2026-09-24T14:07:19] querying primary_immunodeficiency (24 genes) | allowed=13793 enriched=354
+[2026-09-24T14:07:21]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 3 | valid_enriched 6
+[2026-09-24T14:07:21]     OBSOLETE         GO:0016570  obsolete histone modification
+[2026-09-24T14:07:21] querying type2_diabetes (18 genes) | allowed=13776 enriched=303
+[2026-09-24T14:07:23]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 10 | valid_enriched 0
+[2026-09-24T14:07:23] ==================================================
+[2026-09-24T14:07:23] provider=groq model=openai/gpt-oss-120b
+[2026-09-24T14:07:23] TOTAL: 60 LLM IDs across 6 disease lists
+[2026-09-24T14:07:23]   Contract A unsupported (not in allowed):     9
+[2026-09-24T14:07:23]   Contract B allowed but not enriched:         30
+[2026-09-24T14:07:23]   Contract A+B violated (not in enriched):     39
+[2026-09-24T14:07:23]   Valid enriched hits:                         21
+[2026-09-24T14:07:23]   QuickGO breakdown: {'OBSOLETE': 6, 'WRONG_BIOLOGY': 2, 'WRONG_BRANCH': 1}
+[2026-09-24T14:07:23] wrote llm_baseline_groq-gpt-oss-120b-run043.json

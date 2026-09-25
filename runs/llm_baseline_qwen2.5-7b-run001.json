@@ -1,0 +1,209 @@
+[
+  {
+    "disease": "alzheimers_disease",
+    "n_genes": 15,
+    "provider": "local",
+    "model_id": "/home/maano.malima/llm-models/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf",
+    "llm_ids": 10,
+    "allowed_ids": 13824,
+    "enriched_ids": 794,
+    "unsupported": 2,
+    "allowed_not_enriched": 6,
+    "not_enriched": 8,
+    "valid_enriched": 2,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0007615",
+        "name": "anesthesia-resistant memory",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0007619",
+        "name": "courtship behavior",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 2
+    },
+    "llm_text": "GO:0007601 synaptic transmission\nGO:0007612 postsynaptic membrane\nGO:0007615 presynaptic membrane\nGO:0007617 neurotransmitter secretion\nGO:0007619 neurotransmitter transport\nGO:0007622 neurotransmitter binding\nGO:0007624 neurotransmitter receptor activity\nGO:0007626 synaptic vesicle exocytosis\nGO:0007628 synaptic vesicle endocytosis\nGO:0007632 neurotransmitter release into synaptic cleft"
+  },
+  {
+    "disease": "hereditary_cancer",
+    "n_genes": 28,
+    "provider": "local",
+    "model_id": "/home/maano.malima/llm-models/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf",
+    "llm_ids": 10,
+    "allowed_ids": 13806,
+    "enriched_ids": 557,
+    "unsupported": 2,
+    "allowed_not_enriched": 7,
+    "not_enriched": 9,
+    "valid_enriched": 1,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0007261",
+        "name": "obsolete JAK-induced STAT protein dimerization",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0007568",
+        "name": "obsolete aging",
+        "category": "OBSOLETE"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 2
+    },
+    "llm_text": "GO:0007584 DNA repair\nGO:0007568 cell cycle checkpoint\nGO:0007049 DNA damage response\nGO:0007597 mismatch repair\nGO:0007258 negative regulation of cell proliferation\nGO:0007599 positive regulation of cell proliferation\nGO:0007260 positive regulation of DNA replication\nGO:0007261 negative regulation of DNA replication\nGO:0007268 positive regulation of DNA repair\nGO:0007269 negative regulation of DNA repair"
+  },
+  {
+    "disease": "hypertrophic_cardiomyopathy",
+    "n_genes": 20,
+    "provider": "local",
+    "model_id": "/home/maano.malima/llm-models/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf",
+    "llm_ids": 10,
+    "allowed_ids": 13809,
+    "enriched_ids": 230,
+    "unsupported": 2,
+    "allowed_not_enriched": 8,
+    "not_enriched": 10,
+    "valid_enriched": 0,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0007184",
+        "name": "regulation of SMAD protein signal transduction",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0007615",
+        "name": "anesthesia-resistant memory",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 2
+    },
+    "llm_text": "GO:0007184 muscle contraction\nGO:0007192 actin filament-based process\nGO:0007584 cardiac muscle contraction\nGO:0007602 muscle fiber development\nGO:0007612 muscle contraction during movement\nGO:0007614 skeletal muscle contraction\nGO:0007615 cardiac muscle contraction\nGO:0007616 smooth muscle contraction\nGO:0007617 striated muscle contraction\nGO:0007618 muscle contraction in response to stimulus"
+  },
+  {
+    "disease": "parkinsons_disease",
+    "n_genes": 16,
+    "provider": "local",
+    "model_id": "/home/maano.malima/llm-models/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf",
+    "llm_ids": 9,
+    "allowed_ids": 13807,
+    "enriched_ids": 684,
+    "unsupported": 3,
+    "allowed_not_enriched": 4,
+    "not_enriched": 7,
+    "valid_enriched": 2,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0007048",
+        "name": "obsolete oncogenesis",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0009885",
+        "name": "transmembrane histidine kinase cytokinin receptor activity",
+        "category": "WRONG_BRANCH"
+      },
+      {
+        "id": "GO:0016021",
+        "name": "membrane",
+        "category": "WRONG_BRANCH"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 1,
+      "WRONG_BRANCH": 2
+    },
+    "llm_text": "GO:0006979 Response to oxidative stress\nGO:0007048 Positive regulation of protein localization\nGO:0007165 Regulation of protein modification\nGO:0007264 Positive regulation of transcription, DNA-dependent\nGO:0007597 Positive regulation of protein homooligomerization\nGO:0007601 Positive regulation of protein heterooligomerization\nGO:0007611 Positive regulation of protein binding\nGO:0009885 Negative regulation of apoptosis\nGO:0016021 Positive regulation of protein import into nucleus, trans核过程无法继续，已到达限制。"
+  },
+  {
+    "disease": "primary_immunodeficiency",
+    "n_genes": 24,
+    "provider": "local",
+    "model_id": "/home/maano.malima/llm-models/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf",
+    "llm_ids": 10,
+    "allowed_ids": 13793,
+    "enriched_ids": 354,
+    "unsupported": 3,
+    "allowed_not_enriched": 3,
+    "not_enriched": 6,
+    "valid_enriched": 4,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0002256",
+        "name": "regulation of kinin cascade",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0002257",
+        "name": "negative regulation of kinin cascade",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0019211",
+        "name": "phosphatase activator activity",
+        "category": "WRONG_BRANCH"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 2,
+      "WRONG_BRANCH": 1
+    },
+    "llm_text": "GO:0006974 positive regulation of immune response\nGO:0009987 T cell activation\nGO:0019211 B cell activation\nGO:0002250 lymphocyte activation\nGO:0002682 positive regulation of T cell proliferation\nGO:0002253 positive regulation of B cell proliferation\nGO:0002774 positive regulation of B cell receptor signaling\nGO:0002684 positive regulation of T cell receptor signaling\nGO:0002256 positive regulation of T cell receptor signaling by CD3\nGO:0002257 positive regulation of B cell receptor signaling by CD79"
+  },
+  {
+    "disease": "type2_diabetes",
+    "n_genes": 18,
+    "provider": "local",
+    "model_id": "/home/maano.malima/llm-models/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf",
+    "llm_ids": 10,
+    "allowed_ids": 13776,
+    "enriched_ids": 303,
+    "unsupported": 6,
+    "allowed_not_enriched": 4,
+    "not_enriched": 10,
+    "valid_enriched": 0,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0007067",
+        "name": "mitotic cell cycle",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0007225",
+        "name": "patched ligand maturation",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0007226",
+        "name": "regulation of smoothened signaling pathway",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0007227",
+        "name": "obsolete signal transduction downstream of smoothened",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0007228",
+        "name": "obsolete positive regulation of hh target transcription factor activity",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0007230",
+        "name": "obsolete calcium-o-sensing receptor pathway",
+        "category": "OBSOLETE"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 3,
+      "OBSOLETE": 3
+    },
+    "llm_text": "GO:0006355 insulin secretion\nGO:0007067 insulin signaling\nGO:0007166 glucose transport\nGO:0007216 insulin action\nGO:0007225 insulin biosynthetic process\nGO:0007226 insulin receptor signaling\nGO:0007227 insulin receptor binding\nGO:0007228 insulin receptor activation\nGO:0007229 insulin receptor phosphorylation\nGO:0007230 insulin receptor internalization"
+  }
+]

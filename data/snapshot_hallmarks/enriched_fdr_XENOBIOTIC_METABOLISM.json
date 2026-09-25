@@ -1,0 +1,6704 @@
+{
+  "PANTHER": [
+    {
+      "id": "GO:0044281",
+      "label": "small molecule metabolic process",
+      "fdr": 5.829524188728333e-56,
+      "p_value": 4.236264943484001e-60,
+      "fold": 7.004002287021155,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043436",
+      "label": "oxoacid metabolic process",
+      "fdr": 2.6733057167119974e-51,
+      "p_value": 3.885336409726033e-55,
+      "fold": 10.182741786515372,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019752",
+      "label": "carboxylic acid metabolic process",
+      "fdr": 7.009741871688408e-50,
+      "p_value": 1.528175686001397e-53,
+      "fold": 10.1817664281067,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032787",
+      "label": "monocarboxylic acid metabolic process",
+      "fdr": 6.678051879321744e-33,
+      "p_value": 1.9411530787941993e-36,
+      "fold": 10.786163522012579,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006631",
+      "label": "fatty acid metabolic process",
+      "fdr": 9.146560573308913e-28,
+      "p_value": 3.323363335988995e-31,
+      "fold": 12.943396226415095,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008152",
+      "label": "metabolic process",
+      "fdr": 2.1020196905775466e-27,
+      "p_value": 9.16511746491191e-31,
+      "fold": 2.125239846498241,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044282",
+      "label": "small molecule catabolic process",
+      "fdr": 6.821616507925701e-26,
+      "p_value": 3.47004691195988e-29,
+      "fold": 10.942032937070563,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006805",
+      "label": "xenobiotic metabolic process",
+      "fdr": 2.8647955040044143e-21,
+      "p_value": 1.6654577452245704e-24,
+      "fold": 18.111095466065898,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006629",
+      "label": "lipid metabolic process",
+      "fdr": 2.5108571370124385e-20,
+      "p_value": 1.642156400923766e-23,
+      "fold": 5.021145087833442,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046395",
+      "label": "carboxylic acid catabolic process",
+      "fdr": 2.596361274045433e-20,
+      "p_value": 1.8867533420866457e-23,
+      "fold": 12.456587076306562,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071466",
+      "label": "cellular response to xenobiotic stimulus",
+      "fdr": 8.114613466319148e-20,
+      "p_value": 6.486501571797879e-23,
+      "fold": 14.589377249427418,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009056",
+      "label": "catabolic process",
+      "fdr": 9.719846885072207e-20,
+      "p_value": 8.475994667601663e-23,
+      "fold": 3.5642192566364868,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044283",
+      "label": "small molecule biosynthetic process",
+      "fdr": 3.9957833652858624e-19,
+      "p_value": 3.7748116960043754e-22,
+      "fold": 8.286930510814543,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042221",
+      "label": "response to chemical",
+      "fdr": 2.0952153581809438e-18,
+      "p_value": 2.131604898955978e-21,
+      "fold": 2.68531197737196,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070887",
+      "label": "cellular response to chemical stimulus",
+      "fdr": 1.6732313310315773e-16,
+      "p_value": 1.8238841628859573e-19,
+      "fold": 3.4218577333933617,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0120254",
+      "label": "olefinic compound metabolic process",
+      "fdr": 2.1479431501271072e-16,
+      "p_value": 2.6535159910007136e-19,
+      "fold": 14.237735849056603,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009410",
+      "label": "response to xenobiotic stimulus",
+      "fdr": 2.276510644350209e-16,
+      "p_value": 2.6469130375411194e-19,
+      "fold": 8.441345365053323,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033559",
+      "label": "unsaturated fatty acid metabolic process",
+      "fdr": 3.7778576955877007e-16,
+      "p_value": 4.941605880428647e-19,
+      "fold": 18.44433962264151,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006790",
+      "label": "sulfur compound metabolic process",
+      "fdr": 8.696979077458525e-16,
+      "p_value": 1.2008037386215536e-18,
+      "fold": 9.976135431426654,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044238",
+      "label": "primary metabolic process",
+      "fdr": 1.7914374594823517e-15,
+      "p_value": 2.6036442983538287e-18,
+      "fold": 1.936021499004456,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006520",
+      "label": "amino acid metabolic process",
+      "fdr": 6.002491109556556e-15,
+      "p_value": 9.160112877021123e-18,
+      "fold": 9.785833840535606,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046394",
+      "label": "carboxylic acid biosynthetic process",
+      "fdr": 3.5584282545585155e-14,
+      "p_value": 5.688934060045588e-17,
+      "fold": 9.66726689109841,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009987",
+      "label": "cellular process",
+      "fdr": 4.8463080245696456e-14,
+      "p_value": 8.452248571300887e-17,
+      "fold": 1.3062977713945743,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006690",
+      "label": "icosanoid metabolic process",
+      "fdr": 5.0515688456813626e-14,
+      "p_value": 8.443142464259236e-17,
+      "fold": 15.741968383477815,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006066",
+      "label": "alcohol metabolic process",
+      "fdr": 1.6368031410148086e-13,
+      "p_value": 2.9736268094884246e-16,
+      "fold": 8.995410504844468,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019395",
+      "label": "fatty acid oxidation",
+      "fdr": 6.635473836486401e-13,
+      "p_value": 1.2537048161372463e-15,
+      "fold": 19.41509433962264,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001676",
+      "label": "long-chain fatty acid metabolic process",
+      "fdr": 1.0045641987280356e-12,
+      "p_value": 1.971021972651476e-15,
+      "fold": 14.734669811320755,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901605",
+      "label": "alpha-amino acid metabolic process",
+      "fdr": 1.0721615272084002e-12,
+      "p_value": 2.1815654939201517e-15,
+      "fold": 10.968979852894147,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034440",
+      "label": "lipid oxidation",
+      "fdr": 2.012929027016754e-12,
+      "p_value": 4.242056666193289e-15,
+      "fold": 17.9769392033543,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009058",
+      "label": "biosynthetic process",
+      "fdr": 2.3830041081024346e-12,
+      "p_value": 5.195125589933365e-15,
+      "fold": 2.286631215019922,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072329",
+      "label": "monocarboxylic acid catabolic process",
+      "fdr": 6.581655780736597e-12,
+      "p_value": 1.4826780699283084e-14,
+      "fold": 14.652901388394447,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006575",
+      "label": "modified amino acid metabolic process",
+      "fdr": 8.189776666206837e-12,
+      "p_value": 1.9044608191164796e-14,
+      "fold": 10.66146798996619,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016042",
+      "label": "lipid catabolic process",
+      "fdr": 2.4163773363114893e-11,
+      "p_value": 5.794669871250574e-14,
+      "fold": 8.028798411122146,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030258",
+      "label": "lipid modification",
+      "fdr": 4.559499767988295e-11,
+      "p_value": 1.1265387116605046e-13,
+      "fold": 11.621711400478342,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901700",
+      "label": "response to oxygen-containing compound",
+      "fdr": 1.4397844358026758e-10,
+      "p_value": 3.6619762555841617e-13,
+      "fold": 3.258962264150943,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0170039",
+      "label": "proteinogenic amino acid metabolic process",
+      "fdr": 2.0598483706205172e-10,
+      "p_value": 5.38874655492614e-13,
+      "fold": 10.578737300435414,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019637",
+      "label": "organophosphate metabolic process",
+      "fdr": 2.9951193550743697e-10,
+      "p_value": 8.053151379823535e-13,
+      "fold": 3.9297510424837947,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019369",
+      "label": "arachidonate metabolic process",
+      "fdr": 4.019639423925571e-10,
+      "p_value": 1.1684149186616006e-12,
+      "fold": 19.09681410454686,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008150",
+      "label": "biological_process",
+      "fdr": 4.029566474703651e-10,
+      "p_value": 1.112735455553657e-12,
+      "fold": 1.1664386940895906,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034308",
+      "label": "primary alcohol metabolic process",
+      "fdr": 4.3547074957020226e-10,
+      "p_value": 1.2974566334116918e-12,
+      "fold": 14.010892822408092,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006793",
+      "label": "phosphorus metabolic process",
+      "fdr": 8.305694516826701e-10,
+      "p_value": 2.5349841559968132e-12,
+      "fold": 3.7808341608738827,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006692",
+      "label": "prostanoid metabolic process",
+      "fdr": 9.513153950727946e-10,
+      "p_value": 2.9726445743863212e-12,
+      "fold": 26.23661397246303,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008202",
+      "label": "steroid metabolic process",
+      "fdr": 1.1933688650552687e-09,
+      "p_value": 3.815727785948102e-12,
+      "fold": 8.60767729342876,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009062",
+      "label": "fatty acid catabolic process",
+      "fdr": 1.1966799067762336e-09,
+      "p_value": 3.913276346554067e-12,
+      "fold": 14.846836847946728,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072330",
+      "label": "monocarboxylic acid biosynthetic process",
+      "fdr": 2.031901039062374e-09,
+      "p_value": 6.792198807998634e-12,
+      "fold": 9.95645863570392,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0170033",
+      "label": "L-amino acid metabolic process",
+      "fdr": 2.1944362753326877e-09,
+      "p_value": 7.494986188549984e-12,
+      "fold": 9.893041701718545,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001523",
+      "label": "retinoid metabolic process",
+      "fdr": 2.385442019772759e-09,
+      "p_value": 8.320704668926126e-12,
+      "fold": 14.022012578616353,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006721",
+      "label": "terpenoid metabolic process",
+      "fdr": 2.7338996338701622e-09,
+      "p_value": 9.734836280767237e-12,
+      "fold": 12.13443396226415,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016101",
+      "label": "diterpenoid metabolic process",
+      "fdr": 3.5203428960252503e-09,
+      "p_value": 1.2791014083370578e-11,
+      "fold": 13.569689592209373,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042445",
+      "label": "hormone metabolic process",
+      "fdr": 3.927346726324318e-09,
+      "p_value": 1.4555241845980688e-11,
+      "fold": 8.640225229674998,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006720",
+      "label": "isoprenoid metabolic process",
+      "fdr": 6.677578621986749e-09,
+      "p_value": 2.5233201681804443e-11,
+      "fold": 11.325471698113208,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009636",
+      "label": "response to toxic substance",
+      "fdr": 9.32327194872127e-09,
+      "p_value": 3.590824891230487e-11,
+      "fold": 7.531717631750164,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050896",
+      "label": "response to stimulus",
+      "fdr": 1.2125601281387807e-08,
+      "p_value": 4.7582477232391657e-11,
+      "fold": 1.6140196420710695,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055086",
+      "label": "nucleobase-containing small molecule metabolic process",
+      "fdr": 1.2972460940102067e-08,
+      "p_value": 5.1848365068353586e-11,
+      "fold": 4.558326497128794,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006693",
+      "label": "prostaglandin metabolic process",
+      "fdr": 1.5158589644784467e-08,
+      "p_value": 6.168745150119397e-11,
+      "fold": 24.962264150943394,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006753",
+      "label": "nucleoside phosphate metabolic process",
+      "fdr": 1.998922822022315e-08,
+      "p_value": 8.27981984269108e-11,
+      "fold": 4.639636514983352,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006633",
+      "label": "fatty acid biosynthetic process",
+      "fdr": 2.6593223213361773e-08,
+      "p_value": 1.1208538233958162e-10,
+      "fold": 11.472555746140651,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006749",
+      "label": "glutathione metabolic process",
+      "fdr": 4.090479059149414e-08,
+      "p_value": 1.7537843506272467e-10,
+      "fold": 17.976939203354295,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042572",
+      "label": "retinol metabolic process",
+      "fdr": 5.8786516810841076e-08,
+      "p_value": 2.5631792810482265e-10,
+      "fold": 17.33490566037736,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901135",
+      "label": "carbohydrate derivative metabolic process",
+      "fdr": 6.219799284691031e-08,
+      "p_value": 2.7571234384576187e-10,
+      "fold": 3.620530412983243,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019373",
+      "label": "epoxygenase P450 pathway",
+      "fdr": 7.15169082388812e-08,
+      "p_value": 3.222184660134172e-10,
+      "fold": 37.75157232704403,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0170040",
+      "label": "proteinogenic amino acid catabolic process",
+      "fdr": 7.550648495772547e-08,
+      "p_value": 3.4568044127147047e-10,
+      "fold": 12.009336704921221,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0170035",
+      "label": "L-amino acid catabolic process",
+      "fdr": 8.393839256204e-08,
+      "p_value": 3.903827573556108e-10,
+      "fold": 11.886792452830186,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901606",
+      "label": "alpha-amino acid catabolic process",
+      "fdr": 1.180475140286805e-07,
+      "p_value": 5.575967162171523e-10,
+      "fold": 11.533719409676817,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009063",
+      "label": "amino acid catabolic process",
+      "fdr": 2.8437164423019384e-07,
+      "p_value": 1.3638927780824646e-09,
+      "fold": 10.687207893370262,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006635",
+      "label": "fatty acid beta-oxidation",
+      "fdr": 5.674206617054367e-07,
+      "p_value": 2.762675992606952e-09,
+      "fold": 16.80152394775036,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031667",
+      "label": "response to nutrient levels",
+      "fdr": 2.6336611304395742e-06,
+      "p_value": 1.3014240016705983e-08,
+      "fold": 4.441361450240473,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033993",
+      "label": "response to lipid",
+      "fdr": 2.9378975516745037e-06,
+      "p_value": 1.4731119182148157e-08,
+      "fold": 3.4104306242749933,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009725",
+      "label": "response to hormone",
+      "fdr": 2.982607810653462e-06,
+      "p_value": 1.5172047579808323e-08,
+      "fold": 3.508751989088429,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0018958",
+      "label": "phenol-containing compound metabolic process",
+      "fdr": 3.123364451679616e-06,
+      "p_value": 1.6115026238591143e-08,
+      "fold": 13.867924528301886,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008610",
+      "label": "lipid biosynthetic process",
+      "fdr": 4.577442537789053e-06,
+      "p_value": 2.4282632458295244e-08,
+      "fold": 4.099156194546047,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006950",
+      "label": "response to stress",
+      "fdr": 4.587480777831492e-06,
+      "p_value": 2.4002515515141885e-08,
+      "fold": 2.015075689285381,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072521",
+      "label": "purine-containing compound metabolic process",
+      "fdr": 5.421844814367773e-06,
+      "p_value": 2.9156058154437557e-08,
+      "fold": 4.238222257090182,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007584",
+      "label": "response to nutrient",
+      "fdr": 7.044714549832436e-06,
+      "p_value": 3.8394999726577474e-08,
+      "fold": 7.978805892995606,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006576",
+      "label": "biogenic amine metabolic process",
+      "fdr": 1.0258962124435253e-05,
+      "p_value": 5.6658754556869356e-08,
+      "fold": 14.934687953555878,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042417",
+      "label": "dopamine metabolic process",
+      "fdr": 1.7352002281312647e-05,
+      "p_value": 9.709353794499483e-08,
+      "fold": 25.32403609515997,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009719",
+      "label": "response to endogenous stimulus",
+      "fdr": 1.9453735160146465e-05,
+      "p_value": 1.116812061370228e-07,
+      "fold": 2.816332814451154,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044272",
+      "label": "sulfur compound biosynthetic process",
+      "fdr": 1.9676376714819874e-05,
+      "p_value": 1.115294952224366e-07,
+      "fold": 9.42480307748672,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000377",
+      "label": "regulation of reactive oxygen species metabolic process",
+      "fdr": 1.9816759261126743e-05,
+      "p_value": 1.1520534415305134e-07,
+      "fold": 8.15137548610111,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055088",
+      "label": "lipid homeostasis",
+      "fdr": 2.52090357132503e-05,
+      "p_value": 1.4838542931278792e-07,
+      "fold": 7.060034305317324,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046305",
+      "label": "alkanesulfonate biosynthetic process",
+      "fdr": 2.6788003328394738e-05,
+      "p_value": 1.6157287088560155e-07,
+      "fold": 64.71698113207547,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042412",
+      "label": "taurine biosynthetic process",
+      "fdr": 2.7114686295814183e-05,
+      "p_value": 1.6157287088560155e-07,
+      "fold": 64.71698113207547,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033540",
+      "label": "fatty acid beta-oxidation using acyl-CoA oxidase",
+      "fdr": 3.364996866155358e-05,
+      "p_value": 2.05406392527469e-07,
+      "fold": 34.66981132075472,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010817",
+      "label": "regulation of hormone levels",
+      "fdr": 3.936735430765872e-05,
+      "p_value": 2.43167292794927e-07,
+      "fold": 3.8986133212093654,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009308",
+      "label": "amine metabolic process",
+      "fdr": 4.234278835200708e-05,
+      "p_value": 2.6462319586313557e-07,
+      "fold": 12.327044025157232,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006778",
+      "label": "porphyrin-containing compound metabolic process",
+      "fdr": 6.712001824044573e-05,
+      "p_value": 4.2434718312032395e-07,
+      "fold": 14.772354388843315,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050878",
+      "label": "regulation of body fluid levels",
+      "fdr": 7.310035272755414e-05,
+      "p_value": 4.6746828283008245e-07,
+      "fold": 4.919365119836818,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007596",
+      "label": "blood coagulation",
+      "fdr": 7.533796178993541e-05,
+      "p_value": 4.872522781268986e-07,
+      "fold": 7.071723103836061,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0098754",
+      "label": "detoxification",
+      "fdr": 7.959608309819404e-05,
+      "p_value": 5.205760830490127e-07,
+      "fold": 7.025198609731876,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009712",
+      "label": "catechol-containing compound metabolic process",
+      "fdr": 8.043628706985756e-05,
+      "p_value": 5.377616750546396e-07,
+      "fold": 19.41509433962264,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006584",
+      "label": "catecholamine metabolic process",
+      "fdr": 8.132020231238348e-05,
+      "p_value": 5.377616750546396e-07,
+      "fold": 19.41509433962264,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050817",
+      "label": "coagulation",
+      "fdr": 8.225462507821484e-05,
+      "p_value": 5.558956567309048e-07,
+      "fold": 6.979282278949316,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042402",
+      "label": "biogenic amine catabolic process",
+      "fdr": 8.782766434515591e-05,
+      "p_value": 6.190889791061786e-07,
+      "fold": 28.551609322974475,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009310",
+      "label": "amine catabolic process",
+      "fdr": 8.874253584875129e-05,
+      "p_value": 6.190889791061786e-07,
+      "fold": 28.551609322974475,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050818",
+      "label": "regulation of coagulation",
+      "fdr": 8.877710302823267e-05,
+      "p_value": 6.064274169503577e-07,
+      "fold": 11.09433962264151,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051917",
+      "label": "regulation of fibrinolysis",
+      "fdr": 8.967666780505393e-05,
+      "p_value": 6.190889791061786e-07,
+      "fold": 28.551609322974475,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0097237",
+      "label": "cellular response to toxic substance",
+      "fdr": 8.979376614412834e-05,
+      "p_value": 6.39473082052509e-07,
+      "fold": 7.828667072428484,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042573",
+      "label": "retinoic acid metabolic process",
+      "fdr": 9.097687102405669e-05,
+      "p_value": 6.611210742246689e-07,
+      "fold": 18.788800973828362,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042632",
+      "label": "cholesterol homeostasis",
+      "fdr": 9.151335470095195e-05,
+      "p_value": 6.583694582802299e-07,
+      "fold": 9.100825471698114,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007599",
+      "label": "hemostasis",
+      "fdr": 9.194986437057446e-05,
+      "p_value": 6.748736502745455e-07,
+      "fold": 6.845065312046444,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0062012",
+      "label": "regulation of small molecule metabolic process",
+      "fdr": 9.599048183817374e-05,
+      "p_value": 7.115056425763913e-07,
+      "fold": 4.758601553829079,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055092",
+      "label": "sterol homeostasis",
+      "fdr": 9.60981292900971e-05,
+      "p_value": 7.1928692078192e-07,
+      "fold": 9.007002528690917,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000096",
+      "label": "sulfur amino acid metabolic process",
+      "fdr": 0.00010674420412801726,
+      "p_value": 8.06728960781469e-07,
+      "fold": 18.201650943396228,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042060",
+      "label": "wound healing",
+      "fdr": 0.0001136360453552266,
+      "p_value": 8.670725065256008e-07,
+      "fold": 5.033542976939203,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009117",
+      "label": "nucleotide metabolic process",
+      "fdr": 0.00012526840553347222,
+      "p_value": 9.649335794308594e-07,
+      "fold": 4.115418999670634,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009158",
+      "label": "ribonucleoside monophosphate catabolic process",
+      "fdr": 0.00014576045513859452,
+      "p_value": 1.1439669468038812e-06,
+      "fold": 25.546176762661368,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006979",
+      "label": "response to oxidative stress",
+      "fdr": 0.00014671860034633333,
+      "p_value": 1.1408248119364627e-06,
+      "fold": 4.30251398107981,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033013",
+      "label": "tetrapyrrole metabolic process",
+      "fdr": 0.00018778183879963886,
+      "p_value": 1.4874079230550567e-06,
+      "fold": 12.355060034305318,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046457",
+      "label": "prostanoid biosynthetic process",
+      "fdr": 0.00018921845799737983,
+      "p_value": 1.512537633871941e-06,
+      "fold": 24.268867924528305,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0005996",
+      "label": "monosaccharide metabolic process",
+      "fdr": 0.0002223568442500133,
+      "p_value": 1.8259082479653733e-06,
+      "fold": 6.983846884756345,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090304",
+      "label": "nucleic acid metabolic process",
+      "fdr": 0.0002226351682892872,
+      "p_value": 1.8120150314948163e-06,
+      "fold": 0.14525008234131653,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042592",
+      "label": "homeostatic process",
+      "fdr": 0.00022403752921249244,
+      "p_value": 1.8071481536651886e-06,
+      "fold": 2.4811622159262163,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042436",
+      "label": "indole-containing compound catabolic process",
+      "fdr": 0.0002643325659166677,
+      "p_value": 2.189805429438276e-06,
+      "fold": 38.83018867924528,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006636",
+      "label": "unsaturated fatty acid biosynthetic process",
+      "fdr": 0.0002793235097065246,
+      "p_value": 2.3342928287370344e-06,
+      "fold": 15.32770605759682,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009125",
+      "label": "nucleoside monophosphate catabolic process",
+      "fdr": 0.00029713487086416296,
+      "p_value": 2.526326567190398e-06,
+      "fold": 22.062607204116638,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032869",
+      "label": "cellular response to insulin stimulus",
+      "fdr": 0.0002984592332182612,
+      "p_value": 2.515897903736524e-06,
+      "fold": 6.741352201257862,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1990748",
+      "label": "cellular detoxification",
+      "fdr": 0.0003040177991723758,
+      "p_value": 2.606939924594168e-06,
+      "fold": 7.731674737017865,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0065008",
+      "label": "regulation of biological quality",
+      "fdr": 0.00033928467142597073,
+      "p_value": 2.9340074049626127e-06,
+      "fold": 1.9006280014776502,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019530",
+      "label": "taurine metabolic process",
+      "fdr": 0.00038819034841258595,
+      "p_value": 3.4133443905183417e-06,
+      "fold": 35.300171526586624,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019694",
+      "label": "alkanesulfonate metabolic process",
+      "fdr": 0.0003914252679826908,
+      "p_value": 3.4133443905183417e-06,
+      "fold": 35.300171526586624,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901701",
+      "label": "cellular response to oxygen-containing compound",
+      "fdr": 0.0003992077991505539,
+      "p_value": 3.5392305425744916e-06,
+      "fold": 2.660952016090413,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042440",
+      "label": "pigment metabolic process",
+      "fdr": 0.0004231625994009187,
+      "p_value": 3.7823559135464722e-06,
+      "fold": 10.786163522012579,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901698",
+      "label": "response to nitrogen compound",
+      "fdr": 0.0004587988502371763,
+      "p_value": 4.134224070155502e-06,
+      "fold": 2.848180098722148,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019216",
+      "label": "regulation of lipid metabolic process",
+      "fdr": 0.0004602010424202584,
+      "p_value": 4.213744011696284e-06,
+      "fold": 4.398241436160469,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030193",
+      "label": "regulation of blood coagulation",
+      "fdr": 0.00046347507440334994,
+      "p_value": 4.210041733916048e-06,
+      "fold": 10.617629716981133,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046135",
+      "label": "pyrimidine nucleoside catabolic process",
+      "fdr": 0.0004636070940331686,
+      "p_value": 4.278620808241582e-06,
+      "fold": 72.80660377358491,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1900046",
+      "label": "regulation of hemostasis",
+      "fdr": 0.0005028414862165174,
+      "p_value": 4.677255303808897e-06,
+      "fold": 10.454281567489115,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008211",
+      "label": "glucocorticoid metabolic process",
+      "fdr": 0.0005176886021741131,
+      "p_value": 5.078697863055393e-06,
+      "fold": 32.35849056603774,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019748",
+      "label": "secondary metabolic process",
+      "fdr": 0.0005187643969904538,
+      "p_value": 4.93845912402801e-06,
+      "fold": 13.54541465555068,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032868",
+      "label": "response to insulin",
+      "fdr": 0.0005201475868298717,
+      "p_value": 5.140619999190651e-06,
+      "fold": 5.5616155660377355,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009222",
+      "label": "pyrimidine ribonucleotide catabolic process",
+      "fdr": 0.0005215519499515318,
+      "p_value": 5.078697863055393e-06,
+      "fold": 32.35849056603774,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042168",
+      "label": "heme metabolic process",
+      "fdr": 0.0005227548923519188,
+      "p_value": 4.93845912402801e-06,
+      "fold": 13.54541465555068,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019318",
+      "label": "hexose metabolic process",
+      "fdr": 0.0005245508991709042,
+      "p_value": 4.917307317276843e-06,
+      "fold": 7.161305289205072,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051918",
+      "label": "negative regulation of fibrinolysis",
+      "fdr": 0.0005254733931842501,
+      "p_value": 5.078697863055393e-06,
+      "fold": 32.35849056603774,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019336",
+      "label": "phenol-containing compound catabolic process",
+      "fdr": 0.0005294542522235247,
+      "p_value": 5.078697863055393e-06,
+      "fold": 32.35849056603774,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902652",
+      "label": "secondary alcohol metabolic process",
+      "fdr": 0.0005366476496514829,
+      "p_value": 5.342687886218528e-06,
+      "fold": 8.350578210590383,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030194",
+      "label": "positive regulation of blood coagulation",
+      "fdr": 0.0005998160661762652,
+      "p_value": 6.102336259332689e-06,
+      "fold": 18.668359941944846,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1900048",
+      "label": "positive regulation of hemostasis",
+      "fdr": 0.0006041312896739361,
+      "p_value": 6.102336259332689e-06,
+      "fold": 18.668359941944846,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009119",
+      "label": "ribonucleoside metabolic process",
+      "fdr": 0.0006085090526425879,
+      "p_value": 6.102336259332689e-06,
+      "fold": 18.668359941944846,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043434",
+      "label": "response to peptide hormone",
+      "fdr": 0.000627878475792415,
+      "p_value": 6.433461600663507e-06,
+      "fold": 3.978502938447263,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050819",
+      "label": "negative regulation of coagulation",
+      "fdr": 0.000628527174443013,
+      "p_value": 6.485782920638606e-06,
+      "fold": 12.943396226415095,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009164",
+      "label": "nucleoside catabolic process",
+      "fdr": 0.0006905852493683793,
+      "p_value": 7.276713985787007e-06,
+      "fold": 29.869375907111756,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0015850",
+      "label": "organic hydroxy compound transport",
+      "fdr": 0.0006943165313930201,
+      "p_value": 7.2151198306229105e-06,
+      "fold": 5.9923130677847665,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046209",
+      "label": "nitric oxide metabolic process",
+      "fdr": 0.0006952311091629099,
+      "p_value": 7.426711216259556e-06,
+      "fold": 17.976939203354295,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033189",
+      "label": "response to vitamin A",
+      "fdr": 0.0006953809802667708,
+      "p_value": 7.276713985787007e-06,
+      "fold": 29.869375907111756,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042430",
+      "label": "indole-containing compound metabolic process",
+      "fdr": 0.0006999929660749846,
+      "p_value": 7.426711216259556e-06,
+      "fold": 17.976939203354295,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901293",
+      "label": "nucleoside phosphate biosynthetic process",
+      "fdr": 0.0007783035550485609,
+      "p_value": 8.37067990314563e-06,
+      "fold": 4.443595535477013,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006869",
+      "label": "lipid transport",
+      "fdr": 0.0007964038709848888,
+      "p_value": 8.623223368704921e-06,
+      "fold": 4.130871136089923,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050820",
+      "label": "positive regulation of coagulation",
+      "fdr": 0.0008116956673267705,
+      "p_value": 8.965754046484203e-06,
+      "fold": 17.33490566037736,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2001057",
+      "label": "reactive nitrogen species metabolic process",
+      "fdr": 0.000817071135322312,
+      "p_value": 8.965754046484203e-06,
+      "fold": 17.33490566037736,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010876",
+      "label": "lipid localization",
+      "fdr": 0.0008187278599927555,
+      "p_value": 8.924437104782597e-06,
+      "fold": 4.118353344768439,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042180",
+      "label": "ketone metabolic process",
+      "fdr": 0.0008375364007651235,
+      "p_value": 9.312046313281296e-06,
+      "fold": 9.437893081761008,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009116",
+      "label": "nucleoside metabolic process",
+      "fdr": 0.0008510021567139653,
+      "p_value": 9.523605270979628e-06,
+      "fold": 12.13443396226415,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0097305",
+      "label": "response to alcohol",
+      "fdr": 0.0008799823149419553,
+      "p_value": 9.91187114424846e-06,
+      "fold": 4.735388863322595,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009437",
+      "label": "carnitine metabolic process",
+      "fdr": 0.0008913985043088765,
+      "p_value": 1.0105237022904204e-05,
+      "fold": 27.735849056603772,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042360",
+      "label": "vitamin E metabolic process",
+      "fdr": 0.0009187074793562749,
+      "p_value": 1.0615107130124823e-05,
+      "fold": 58.24528301886793,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0140075",
+      "label": "regulation of lipoprotein transport",
+      "fdr": 0.0009245220836559981,
+      "p_value": 1.0615107130124823e-05,
+      "fold": 58.24528301886793,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0140077",
+      "label": "positive regulation of lipoprotein transport",
+      "fdr": 0.0009304107593480745,
+      "p_value": 1.0615107130124823e-05,
+      "fold": 58.24528301886793,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006091",
+      "label": "generation of precursor metabolites and energy",
+      "fdr": 0.0011194946350051925,
+      "p_value": 1.301643351506655e-05,
+      "fold": 4.263449770525242,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042167",
+      "label": "heme catabolic process",
+      "fdr": 0.0011539625465875898,
+      "p_value": 1.3668766448207044e-05,
+      "fold": 25.88679245283019,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034656",
+      "label": "nucleobase-containing small molecule catabolic process",
+      "fdr": 0.0011610857721838096,
+      "p_value": 1.3668766448207044e-05,
+      "fold": 25.88679245283019,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046149",
+      "label": "pigment catabolic process",
+      "fdr": 0.0011682974850545163,
+      "p_value": 1.3668766448207044e-05,
+      "fold": 25.88679245283019,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0098869",
+      "label": "cellular oxidant detoxification",
+      "fdr": 0.0012212782064766404,
+      "p_value": 1.4554874345045348e-05,
+      "fold": 8.825042881646656,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009611",
+      "label": "response to wounding",
+      "fdr": 0.001394501682960789,
+      "p_value": 1.6720643680585e-05,
+      "fold": 3.8941449964859163,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009123",
+      "label": "nucleoside monophosphate metabolic process",
+      "fdr": 0.001412310685481356,
+      "p_value": 1.7242075078909078e-05,
+      "fold": 8.60162407451636,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008652",
+      "label": "amino acid biosynthetic process",
+      "fdr": 0.0014150534314768144,
+      "p_value": 1.7069898235967677e-05,
+      "fold": 10.989676041295835,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033273",
+      "label": "response to vitamin",
+      "fdr": 0.0014207676356938193,
+      "p_value": 1.7242075078909078e-05,
+      "fold": 8.60162407451636,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033015",
+      "label": "tetrapyrrole catabolic process",
+      "fdr": 0.0014215604541427695,
+      "p_value": 1.807812509810222e-05,
+      "fold": 24.2688679245283,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042178",
+      "label": "xenobiotic catabolic process",
+      "fdr": 0.0014296553628257334,
+      "p_value": 1.776550156552579e-05,
+      "fold": 15.16804245283019,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006787",
+      "label": "porphyrin-containing compound catabolic process",
+      "fdr": 0.0014297303418102567,
+      "p_value": 1.807812509810222e-05,
+      "fold": 24.2688679245283,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071375",
+      "label": "cellular response to peptide hormone stimulus",
+      "fdr": 0.0014327561369466217,
+      "p_value": 1.7908150247425255e-05,
+      "fold": 4.463240078074171,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006809",
+      "label": "nitric oxide biosynthetic process",
+      "fdr": 0.001437994679046154,
+      "p_value": 1.807812509810222e-05,
+      "fold": 24.2688679245283,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000038",
+      "label": "very long-chain fatty acid metabolic process",
+      "fdr": 0.00143806510025412,
+      "p_value": 1.776550156552579e-05,
+      "fold": 15.16804245283019,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045429",
+      "label": "positive regulation of nitric oxide biosynthetic process",
+      "fdr": 0.0014465743612023692,
+      "p_value": 1.776550156552579e-05,
+      "fold": 15.16804245283019,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048878",
+      "label": "chemical homeostasis",
+      "fdr": 0.0014558911057956823,
+      "p_value": 1.8620509746387625e-05,
+      "fold": 2.6707366615509613,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010430",
+      "label": "fatty acid omega-oxidation",
+      "fdr": 0.0016106976342582593,
+      "p_value": 2.1068641389905287e-05,
+      "fold": 48.5377358490566,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042416",
+      "label": "dopamine biosynthetic process",
+      "fdr": 0.0016196959450641714,
+      "p_value": 2.1068641389905287e-05,
+      "fold": 48.5377358490566,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0005975",
+      "label": "carbohydrate metabolic process",
+      "fdr": 0.001620162496092157,
+      "p_value": 2.0839238558848326e-05,
+      "fold": 3.8175747297010814,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043415",
+      "label": "positive regulation of skeletal muscle tissue regeneration",
+      "fdr": 0.0016287953604858802,
+      "p_value": 2.1068641389905287e-05,
+      "fold": 48.5377358490566,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1905952",
+      "label": "regulation of lipid localization",
+      "fdr": 0.001783624727771202,
+      "p_value": 2.3460219150249806e-05,
+      "fold": 5.903238143804181,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046164",
+      "label": "alcohol catabolic process",
+      "fdr": 0.0018252468959902885,
+      "p_value": 2.4140319385962687e-05,
+      "fold": 14.275804661487237,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032870",
+      "label": "cellular response to hormone stimulus",
+      "fdr": 0.0018274598750672205,
+      "p_value": 2.4302387699825693e-05,
+      "fold": 3.223209021226415,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008203",
+      "label": "cholesterol metabolic process",
+      "fdr": 0.0019292166919460756,
+      "p_value": 2.5795790372652996e-05,
+      "fold": 8.089622641509434,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009156",
+      "label": "ribonucleoside monophosphate biosynthetic process",
+      "fdr": 0.0020662952620970182,
+      "p_value": 2.792899634837914e-05,
+      "fold": 13.867924528301886,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006006",
+      "label": "glucose metabolic process",
+      "fdr": 0.0020729049980446643,
+      "p_value": 2.7867700358859302e-05,
+      "fold": 7.994450610432853,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007162",
+      "label": "negative regulation of cell adhesion",
+      "fdr": 0.0021699811630397476,
+      "p_value": 2.996122527269472e-05,
+      "fold": 4.2360205831903945,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009159",
+      "label": "deoxyribonucleoside monophosphate catabolic process",
+      "fdr": 0.0021775369391365505,
+      "p_value": 2.9907309170613183e-05,
+      "fold": 21.572327044025158,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006577",
+      "label": "amino-acid betaine metabolic process",
+      "fdr": 0.00218911958242983,
+      "p_value": 2.9907309170613183e-05,
+      "fold": 21.572327044025158,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0015718",
+      "label": "monocarboxylic acid transport",
+      "fdr": 0.002198812871445924,
+      "p_value": 3.0519094429632405e-05,
+      "fold": 5.710321864594895,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046040",
+      "label": "IMP metabolic process",
+      "fdr": 0.0022008261042610056,
+      "p_value": 2.9907309170613183e-05,
+      "fold": 21.572327044025158,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090407",
+      "label": "organophosphate biosynthetic process",
+      "fdr": 0.00238783609813302,
+      "p_value": 3.3316221992699645e-05,
+      "fold": 3.143396226415094,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0062013",
+      "label": "positive regulation of small molecule metabolic process",
+      "fdr": 0.0024105236795315265,
+      "p_value": 3.3807940567515776e-05,
+      "fold": 5.636640292148509,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006248",
+      "label": "CMP catabolic process",
+      "fdr": 0.0025954136339154115,
+      "p_value": 3.6589655183459764e-05,
+      "fold": 41.60377358490566,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009072",
+      "label": "aromatic amino acid metabolic process",
+      "fdr": 0.002602535577338989,
+      "p_value": 3.6879183023116265e-05,
+      "fold": 13.118306986231515,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043648",
+      "label": "dicarboxylic acid metabolic process",
+      "fdr": 0.00263806697753853,
+      "p_value": 3.7574386134550674e-05,
+      "fold": 7.635149459402163,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042398",
+      "label": "modified amino acid biosynthetic process",
+      "fdr": 0.002941728596880122,
+      "p_value": 4.2113257291285806e-05,
+      "fold": 12.773088381330684,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046942",
+      "label": "carboxylic acid transport",
+      "fdr": 0.003229229480257084,
+      "p_value": 4.6933064170584746e-05,
+      "fold": 4.044811320754717,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901658",
+      "label": "glycosyl compound catabolic process",
+      "fdr": 0.0032382679041930975,
+      "p_value": 4.6593782794145286e-05,
+      "fold": 19.41509433962264,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0015849",
+      "label": "organic acid transport",
+      "fdr": 0.003245456764077471,
+      "p_value": 4.6933064170584746e-05,
+      "fold": 4.044811320754717,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016125",
+      "label": "sterol metabolic process",
+      "fdr": 0.0036592312188921594,
+      "p_value": 5.344854843378562e-05,
+      "fold": 7.229024488157366,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090303",
+      "label": "positive regulation of wound healing",
+      "fdr": 0.0037571815099301125,
+      "p_value": 5.542532130774019e-05,
+      "fold": 8.960812772133528,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061041",
+      "label": "regulation of wound healing",
+      "fdr": 0.0037572150389739694,
+      "p_value": 5.5152782346685695e-05,
+      "fold": 6.067216981132075,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019614",
+      "label": "catechol-containing compound catabolic process",
+      "fdr": 0.003825316128692761,
+      "p_value": 5.809832649493402e-05,
+      "fold": 36.403301886792455,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016070",
+      "label": "RNA metabolic process",
+      "fdr": 0.0038419688871987536,
+      "p_value": 5.86304386535672e-05,
+      "fold": 0.13548565484733177,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042420",
+      "label": "dopamine catabolic process",
+      "fdr": 0.0038437070716191685,
+      "p_value": 5.809832649493402e-05,
+      "fold": 36.403301886792455,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009074",
+      "label": "aromatic amino acid family catabolic process",
+      "fdr": 0.003851314198379387,
+      "p_value": 5.70938228667535e-05,
+      "fold": 18.49056603773585,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042424",
+      "label": "catecholamine catabolic process",
+      "fdr": 0.0038622757048153962,
+      "p_value": 5.809832649493402e-05,
+      "fold": 36.403301886792455,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006249",
+      "label": "dCMP catabolic process",
+      "fdr": 0.0038810246160038207,
+      "p_value": 5.809832649493402e-05,
+      "fold": 36.403301886792455,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046063",
+      "label": "dCMP metabolic process",
+      "fdr": 0.003899956443398961,
+      "p_value": 5.809832649493402e-05,
+      "fold": 36.403301886792455,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000379",
+      "label": "positive regulation of reactive oxygen species metabolic process",
+      "fdr": 0.0039423745145913845,
+      "p_value": 6.044916957915719e-05,
+      "fold": 8.825042881646654,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030195",
+      "label": "negative regulation of blood coagulation",
+      "fdr": 0.00396147223863639,
+      "p_value": 6.13177521131859e-05,
+      "fold": 11.83847215830649,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1900047",
+      "label": "negative regulation of hemostasis",
+      "fdr": 0.003980158428441278,
+      "p_value": 6.13177521131859e-05,
+      "fold": 11.83847215830649,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051260",
+      "label": "protein homooligomerization",
+      "fdr": 0.00433018883632797,
+      "p_value": 6.733961274429079e-05,
+      "fold": 4.622641509433963,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051289",
+      "label": "protein homotetramerization",
+      "fdr": 0.00456067817360632,
+      "p_value": 7.158683856543602e-05,
+      "fold": 8.565482796892342,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006081",
+      "label": "aldehyde metabolic process",
+      "fdr": 0.004581890630227745,
+      "p_value": 7.158683856543602e-05,
+      "fold": 8.565482796892342,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048545",
+      "label": "response to steroid hormone",
+      "fdr": 0.0048553212459638475,
+      "p_value": 7.656454548173496e-05,
+      "fold": 4.154981278907569,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0170041",
+      "label": "non-proteinogenic amino acid metabolic process",
+      "fdr": 0.00488939421794255,
+      "p_value": 7.745715714784362e-05,
+      "fold": 11.287845546292234,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046189",
+      "label": "phenol-containing compound biosynthetic process",
+      "fdr": 0.005222810481099092,
+      "p_value": 8.311863202969995e-05,
+      "fold": 16.882690730106646,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045834",
+      "label": "positive regulation of lipid metabolic process",
+      "fdr": 0.005293925616695526,
+      "p_value": 8.463510178569986e-05,
+      "fold": 5.710321864594895,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1905953",
+      "label": "negative regulation of lipid localization",
+      "fdr": 0.005347704512967307,
+      "p_value": 8.66607155287922e-05,
+      "fold": 11.031303602058319,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019319",
+      "label": "hexose biosynthetic process",
+      "fdr": 0.005371793272034727,
+      "p_value": 8.66607155287922e-05,
+      "fold": 11.031303602058319,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009175",
+      "label": "pyrimidine ribonucleoside monophosphate catabolic process",
+      "fdr": 0.00538517121945448,
+      "p_value": 8.648520016709833e-05,
+      "fold": 32.35849056603774,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0062197",
+      "label": "cellular response to chemical stress",
+      "fdr": 0.005397128079141533,
+      "p_value": 8.785383981743357e-05,
+      "fold": 4.091303404901323,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046890",
+      "label": "regulation of lipid biosynthetic process",
+      "fdr": 0.00579145468489139,
+      "p_value": 9.469350367709925e-05,
+      "fold": 4.936040933802366,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046364",
+      "label": "monosaccharide biosynthetic process",
+      "fdr": 0.005835302685728449,
+      "p_value": 9.668258210494051e-05,
+      "fold": 10.786163522012579,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009124",
+      "label": "nucleoside monophosphate biosynthetic process",
+      "fdr": 0.005861008864960733,
+      "p_value": 9.668258210494051e-05,
+      "fold": 10.786163522012579,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006244",
+      "label": "pyrimidine nucleotide catabolic process",
+      "fdr": 0.005868616379291921,
+      "p_value": 9.894041130700717e-05,
+      "fold": 16.17924528301887,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033628",
+      "label": "regulation of cell adhesion mediated by integrin",
+      "fdr": 0.005886942532504807,
+      "p_value": 9.668258210494051e-05,
+      "fold": 10.786163522012579,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006706",
+      "label": "steroid catabolic process",
+      "fdr": 0.005894021645003141,
+      "p_value": 9.894041130700717e-05,
+      "fold": 16.17924528301887,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006694",
+      "label": "steroid biosynthetic process",
+      "fdr": 0.005908591770477823,
+      "p_value": 9.87556214817164e-05,
+      "fold": 8.089622641509434,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903036",
+      "label": "positive regulation of response to wounding",
+      "fdr": 0.0059343934812659364,
+      "p_value": 9.87556214817164e-05,
+      "fold": 8.089622641509434,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042429",
+      "label": "serotonin catabolic process",
+      "fdr": 0.006211304438245297,
+      "p_value": 0.00010562061176872316,
+      "fold": 97.0754716981132,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033598",
+      "label": "mammary gland epithelial cell proliferation",
+      "fdr": 0.006237962397207723,
+      "p_value": 0.00010562061176872316,
+      "fold": 97.0754716981132,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030335",
+      "label": "positive regulation of cell migration",
+      "fdr": 0.006761863638180838,
+      "p_value": 0.00011547401751126349,
+      "fold": 2.9584905660377356,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072529",
+      "label": "pyrimidine-containing compound catabolic process",
+      "fdr": 0.00678408463407013,
+      "p_value": 0.00011683947811021152,
+      "fold": 15.532075471698114,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046033",
+      "label": "AMP metabolic process",
+      "fdr": 0.006812830755400935,
+      "p_value": 0.00011683947811021152,
+      "fold": 15.532075471698114,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009131",
+      "label": "pyrimidine nucleoside monophosphate catabolic process",
+      "fdr": 0.006972152690175036,
+      "p_value": 0.00012261179790875362,
+      "fold": 29.122641509433965,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009178",
+      "label": "pyrimidine deoxyribonucleoside monophosphate catabolic process",
+      "fdr": 0.007001082784325139,
+      "p_value": 0.00012261179790875362,
+      "fold": 29.122641509433965,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051241",
+      "label": "negative regulation of multicellular organismal process",
+      "fdr": 0.007019018500123812,
+      "p_value": 0.00012139571274104115,
+      "fold": 2.34623496551331,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043416",
+      "label": "regulation of skeletal muscle tissue regeneration",
+      "fdr": 0.007030253962593161,
+      "p_value": 0.00012261179790875362,
+      "fold": 29.122641509433965,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019184",
+      "label": "nonribosomal peptide biosynthetic process",
+      "fdr": 0.0070596692511395755,
+      "p_value": 0.00012261179790875362,
+      "fold": 29.122641509433965,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032102",
+      "label": "negative regulation of response to external stimulus",
+      "fdr": 0.007084038906464535,
+      "p_value": 0.00012509421221356602,
+      "fold": 3.420003067955208,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046434",
+      "label": "organophosphate catabolic process",
+      "fdr": 0.007145469140118031,
+      "p_value": 0.00012721749431937487,
+      "fold": 4.748256767842494,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051239",
+      "label": "regulation of multicellular organismal process",
+      "fdr": 0.00716440354566801,
+      "p_value": 0.00012703397028871407,
+      "fold": 1.7302720540324672,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051716",
+      "label": "cellular response to stimulus",
+      "fdr": 0.0073472194300235934,
+      "p_value": 0.00013134336020534875,
+      "fold": 1.425674484217951,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042401",
+      "label": "biogenic amine biosynthetic process",
+      "fdr": 0.007569848944327004,
+      "p_value": 0.00013697350389778535,
+      "fold": 14.934687953555878,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042759",
+      "label": "long-chain fatty acid biosynthetic process",
+      "fdr": 0.007600372528779936,
+      "p_value": 0.00013697350389778535,
+      "fold": 14.934687953555878,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006536",
+      "label": "glutamate metabolic process",
+      "fdr": 0.007631143267762851,
+      "p_value": 0.00013697350389778535,
+      "fold": 14.934687953555878,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046456",
+      "label": "icosanoid biosynthetic process",
+      "fdr": 0.00803338868316906,
+      "p_value": 0.0001459448565360268,
+      "fold": 9.905660377358489,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051259",
+      "label": "protein complex oligomerization",
+      "fdr": 0.008135351738199379,
+      "p_value": 0.00014838843734380088,
+      "fold": 3.8549826306109933,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009309",
+      "label": "amine biosynthetic process",
+      "fdr": 0.008710023906361684,
+      "p_value": 0.00015950338088824536,
+      "fold": 14.381551362683437,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0097267",
+      "label": "omega-hydroxylase P450 pathway",
+      "fdr": 0.008855267964073833,
+      "p_value": 0.00016731121798264638,
+      "fold": 26.475128644939968,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030155",
+      "label": "regulation of cell adhesion",
+      "fdr": 0.008878410873868542,
+      "p_value": 0.0001632321743397094,
+      "fold": 2.5760250869611045,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042428",
+      "label": "serotonin metabolic process",
+      "fdr": 0.008889458187873346,
+      "p_value": 0.00016731121798264638,
+      "fold": 26.475128644939968,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000098",
+      "label": "sulfur amino acid catabolic process",
+      "fdr": 0.008923913452167429,
+      "p_value": 0.00016731121798264638,
+      "fold": 26.475128644939968,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000145",
+      "label": "regulation of cell motility",
+      "fdr": 0.008956160166655411,
+      "p_value": 0.00016531245420612413,
+      "fold": 2.3626834381551363,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006188",
+      "label": "IMP biosynthetic process",
+      "fdr": 0.008958636850813995,
+      "p_value": 0.00016731121798264638,
+      "fold": 26.475128644939968,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046035",
+      "label": "CMP metabolic process",
+      "fdr": 0.008993631526012487,
+      "p_value": 0.00016731121798264638,
+      "fold": 26.475128644939968,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019371",
+      "label": "cyclooxygenase pathway",
+      "fdr": 0.009028900669251752,
+      "p_value": 0.00016731121798264638,
+      "fold": 26.475128644939968,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045428",
+      "label": "regulation of nitric oxide biosynthetic process",
+      "fdr": 0.009322317181214495,
+      "p_value": 0.00017681307930361042,
+      "fold": 9.517203107658158,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043173",
+      "label": "nucleotide salvage",
+      "fdr": 0.009695359052024217,
+      "p_value": 0.00018459298536664085,
+      "fold": 13.867924528301886,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000147",
+      "label": "positive regulation of cell motility",
+      "fdr": 0.010048954233529262,
+      "p_value": 0.00019205544389348127,
+      "fold": 2.8291576451180536,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009261",
+      "label": "ribonucleotide catabolic process",
+      "fdr": 0.010553806074310796,
+      "p_value": 0.00020323803573085977,
+      "fold": 7.103083294983893,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051591",
+      "label": "response to cAMP",
+      "fdr": 0.010593782612471065,
+      "p_value": 0.00020323803573085977,
+      "fold": 7.103083294983893,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046037",
+      "label": "GMP metabolic process",
+      "fdr": 0.010988569671722287,
+      "p_value": 0.00021240894794550747,
+      "fold": 13.389720234222512,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030334",
+      "label": "regulation of cell migration",
+      "fdr": 0.011169095258737067,
+      "p_value": 0.00021671015435526466,
+      "fold": 2.4023176348239486,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042423",
+      "label": "catecholamine biosynthetic process",
+      "fdr": 0.011200478824751526,
+      "p_value": 0.00022138872468079464,
+      "fold": 24.2688679245283,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903034",
+      "label": "regulation of response to wounding",
+      "fdr": 0.011235211823120116,
+      "p_value": 0.00021880944470577653,
+      "fold": 4.97822931785196,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042448",
+      "label": "progesterone metabolic process",
+      "fdr": 0.011241809004916661,
+      "p_value": 0.00022138872468079464,
+      "fold": 24.2688679245283,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009713",
+      "label": "catechol-containing compound biosynthetic process",
+      "fdr": 0.0112834453345645,
+      "p_value": 0.00022138872468079464,
+      "fold": 24.2688679245283,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006525",
+      "label": "arginine metabolic process",
+      "fdr": 0.011325391228001544,
+      "p_value": 0.00022138872468079464,
+      "fold": 24.2688679245283,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0040012",
+      "label": "regulation of locomotion",
+      "fdr": 0.012006572948720717,
+      "p_value": 0.00023819449276947575,
+      "fold": 2.2759794587732967,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009165",
+      "label": "nucleotide biosynthetic process",
+      "fdr": 0.01271624654226678,
+      "p_value": 0.0002559697908733303,
+      "fold": 4.325144778628807,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0080164",
+      "label": "regulation of nitric oxide metabolic process",
+      "fdr": 0.012719369508175154,
+      "p_value": 0.00025325973731850826,
+      "fold": 8.825042881646654,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0040017",
+      "label": "positive regulation of locomotion",
+      "fdr": 0.012742411505426677,
+      "p_value": 0.000254644514496936,
+      "fold": 2.758805589999665,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009259",
+      "label": "ribonucleotide metabolic process",
+      "fdr": 0.012752144923452158,
+      "p_value": 0.0002557657146190535,
+      "fold": 3.619763351455069,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019751",
+      "label": "polyol metabolic process",
+      "fdr": 0.013008455621274066,
+      "p_value": 0.00026374239650719163,
+      "fold": 6.77270732777534,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901699",
+      "label": "cellular response to nitrogen compound",
+      "fdr": 0.013018547036874634,
+      "p_value": 0.00026489304340708504,
+      "fold": 2.7490399064952413,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0015908",
+      "label": "fatty acid transport",
+      "fdr": 0.013055248627105985,
+      "p_value": 0.00026374239650719163,
+      "fold": 6.77270732777534,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006163",
+      "label": "purine nucleotide metabolic process",
+      "fdr": 0.013197598355197269,
+      "p_value": 0.00026949532285520185,
+      "fold": 3.3570768310586696,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009112",
+      "label": "nucleobase metabolic process",
+      "fdr": 0.013512077670945593,
+      "p_value": 0.00027689891019596377,
+      "fold": 12.525867315885574,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003018",
+      "label": "vascular process in circulatory system",
+      "fdr": 0.013595307834765395,
+      "p_value": 0.00027959247999699197,
+      "fold": 3.8830188679245277,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042373",
+      "label": "vitamin K metabolic process",
+      "fdr": 0.013694943743104246,
+      "p_value": 0.00028562232790283544,
+      "fold": 22.402031930333816,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003013",
+      "label": "circulatory system process",
+      "fdr": 0.013715430948317536,
+      "p_value": 0.00028704629846053705,
+      "fold": 2.98038728897716,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000050",
+      "label": "urea cycle",
+      "fdr": 0.013742828161786428,
+      "p_value": 0.00028562232790283544,
+      "fold": 22.402031930333816,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006167",
+      "label": "AMP biosynthetic process",
+      "fdr": 0.013791048611476907,
+      "p_value": 0.00028562232790283544,
+      "fold": 22.402031930333816,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006213",
+      "label": "pyrimidine nucleoside metabolic process",
+      "fdr": 0.01383960864179901,
+      "p_value": 0.00028562232790283544,
+      "fold": 22.402031930333816,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070542",
+      "label": "response to fatty acid",
+      "fdr": 0.014176795426356949,
+      "p_value": 0.00029979270903785133,
+      "fold": 8.515392254220457,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0150104",
+      "label": "transport across blood-brain barrier",
+      "fdr": 0.014182083216150181,
+      "p_value": 0.00029887392868858026,
+      "fold": 6.618782161234992,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010232",
+      "label": "vascular transport",
+      "fdr": 0.0142311561684552,
+      "p_value": 0.00029887392868858026,
+      "fold": 6.618782161234992,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045471",
+      "label": "response to ethanol",
+      "fdr": 0.014285837219646,
+      "p_value": 0.0003031367246665673,
+      "fold": 5.480066950699939,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051000",
+      "label": "positive regulation of nitric-oxide synthase activity",
+      "fdr": 0.014483848443751444,
+      "p_value": 0.00031470610309437407,
+      "fold": 64.71698113207547,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901161",
+      "label": "primary amino compound catabolic process",
+      "fdr": 0.014532451962019065,
+      "p_value": 0.00031470610309437407,
+      "fold": 64.71698113207547,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090345",
+      "label": "organohalogen metabolic process",
+      "fdr": 0.014581382776705998,
+      "p_value": 0.00031470610309437407,
+      "fold": 64.71698113207547,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046108",
+      "label": "uridine metabolic process",
+      "fdr": 0.01463064420500568,
+      "p_value": 0.00031470610309437407,
+      "fold": 64.71698113207547,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019693",
+      "label": "ribose phosphate metabolic process",
+      "fdr": 0.014671878019699248,
+      "p_value": 0.00031239446695529975,
+      "fold": 3.5358615519180305,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046131",
+      "label": "pyrimidine ribonucleoside metabolic process",
+      "fdr": 0.014680239609090446,
+      "p_value": 0.00031470610309437407,
+      "fold": 64.71698113207547,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042558",
+      "label": "pteridine-containing compound metabolic process",
+      "fdr": 0.014693282875895226,
+      "p_value": 0.0003139179685715571,
+      "fold": 12.13443396226415,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071495",
+      "label": "cellular response to endogenous stimulus",
+      "fdr": 0.014926690709616176,
+      "p_value": 0.00032541292150896394,
+      "fold": 2.3927052883337763,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035295",
+      "label": "tube development",
+      "fdr": 0.0161571210762014,
+      "p_value": 0.00035341133957827347,
+      "fold": 2.7895250487963565,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010594",
+      "label": "regulation of endothelial cell migration",
+      "fdr": 0.016190009140253186,
+      "p_value": 0.0003611897976933165,
+      "fold": 4.622641509433962,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019627",
+      "label": "urea metabolic process",
+      "fdr": 0.016223740183886434,
+      "p_value": 0.00036076335268288995,
+      "fold": 20.80188679245283,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046459",
+      "label": "short-chain fatty acid metabolic process",
+      "fdr": 0.016276932774653273,
+      "p_value": 0.00036076335268288995,
+      "fold": 20.80188679245283,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0040008",
+      "label": "regulation of growth",
+      "fdr": 0.016296688251803984,
+      "p_value": 0.00036475401362950563,
+      "fold": 2.910185447052644,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006000",
+      "label": "fructose metabolic process",
+      "fdr": 0.01633047531667516,
+      "p_value": 0.00036076335268288995,
+      "fold": 20.80188679245283,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901292",
+      "label": "nucleoside phosphate catabolic process",
+      "fdr": 0.016376378798215043,
+      "p_value": 0.00036772771227733795,
+      "fold": 5.308814858490567,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010038",
+      "label": "response to metal ion",
+      "fdr": 0.016380739017682017,
+      "p_value": 0.00036901599414878466,
+      "fold": 3.466981132075472,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006730",
+      "label": "one-carbon metabolic process",
+      "fdr": 0.016384371274816,
+      "p_value": 0.00036076335268288995,
+      "fold": 20.80188679245283,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071941",
+      "label": "nitrogen cycle metabolic process",
+      "fdr": 0.01643862415983195,
+      "p_value": 0.00036076335268288995,
+      "fold": 20.80188679245283,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032774",
+      "label": "RNA biosynthetic process",
+      "fdr": 0.0173060272694357,
+      "p_value": 0.00039111797694895014,
+      "fold": 0.15556966618287374,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046386",
+      "label": "deoxyribose phosphate catabolic process",
+      "fdr": 0.01745900396745528,
+      "p_value": 0.00039838145816299377,
+      "fold": 11.42064372918979,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009218",
+      "label": "pyrimidine ribonucleotide metabolic process",
+      "fdr": 0.01751478353284651,
+      "p_value": 0.00039838145816299377,
+      "fold": 11.42064372918979,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070302",
+      "label": "regulation of stress-activated protein kinase signaling cascade",
+      "fdr": 0.017570920659554352,
+      "p_value": 0.00039838145816299377,
+      "fold": 11.42064372918979,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043535",
+      "label": "regulation of blood vessel endothelial cell migration",
+      "fdr": 0.017599554864298688,
+      "p_value": 0.0004028675083390805,
+      "fold": 6.262933657942788,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061045",
+      "label": "negative regulation of wound healing",
+      "fdr": 0.017941787997130896,
+      "p_value": 0.00041200530536250005,
+      "fold": 7.957005876894525,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042559",
+      "label": "pteridine-containing compound biosynthetic process",
+      "fdr": 0.019245489519509294,
+      "p_value": 0.00044753699921829616,
+      "fold": 19.41509433962264,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006177",
+      "label": "GMP biosynthetic process",
+      "fdr": 0.019305820207658225,
+      "p_value": 0.00044753699921829616,
+      "fold": 19.41509433962264,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051791",
+      "label": "medium-chain fatty acid metabolic process",
+      "fdr": 0.019366530334097402,
+      "p_value": 0.00044753699921829616,
+      "fold": 19.41509433962264,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033629",
+      "label": "negative regulation of cell adhesion mediated by integrin",
+      "fdr": 0.01942762348972547,
+      "p_value": 0.00044753699921829616,
+      "fold": 19.41509433962264,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044419",
+      "label": "biological process involved in interspecies interaction between organisms",
+      "fdr": 0.01975176730449878,
+      "p_value": 0.0004607453894879812,
+      "fold": 2.0413066478575206,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0014823",
+      "label": "response to activity",
+      "fdr": 0.02200993430002412,
+      "p_value": 0.0005150206267428069,
+      "fold": 7.584021226415095,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055093",
+      "label": "response to hyperoxia",
+      "fdr": 0.02321713843728574,
+      "p_value": 0.0005466428932258252,
+      "fold": 18.201650943396228,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1900407",
+      "label": "regulation of cellular response to oxidative stress",
+      "fdr": 0.023289018122850093,
+      "p_value": 0.0005466428932258252,
+      "fold": 18.201650943396228,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044273",
+      "label": "sulfur compound catabolic process",
+      "fdr": 0.023449570033996718,
+      "p_value": 0.0005538195088328562,
+      "fold": 10.494645588985211,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009753",
+      "label": "response to jasmonic acid",
+      "fdr": 0.025911033942134284,
+      "p_value": 0.0006251335854072075,
+      "fold": 48.5377358490566,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071395",
+      "label": "cellular response to jasmonic acid stimulus",
+      "fdr": 0.025989315011445868,
+      "p_value": 0.0006251335854072075,
+      "fold": 48.5377358490566,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051919",
+      "label": "positive regulation of fibrinolysis",
+      "fdr": 0.026068070511480555,
+      "p_value": 0.0006251335854072075,
+      "fold": 48.5377358490566,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006598",
+      "label": "polyamine catabolic process",
+      "fdr": 0.026147304768354356,
+      "p_value": 0.0006251335854072075,
+      "fold": 48.5377358490566,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046098",
+      "label": "guanine metabolic process",
+      "fdr": 0.0262270221609408,
+      "p_value": 0.0006251335854072075,
+      "fold": 48.5377358490566,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009605",
+      "label": "response to external stimulus",
+      "fdr": 0.026282420114575756,
+      "p_value": 0.00063600362605579,
+      "fold": 1.8902887076893902,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046100",
+      "label": "hypoxanthine metabolic process",
+      "fdr": 0.026307227121677622,
+      "p_value": 0.0006251335854072075,
+      "fold": 48.5377358490566,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019448",
+      "label": "L-cysteine catabolic process",
+      "fdr": 0.026387924137388292,
+      "p_value": 0.0006251335854072075,
+      "fold": 48.5377358490566,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051897",
+      "label": "positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+      "fdr": 0.02656165514943846,
+      "p_value": 0.0006601326982855863,
+      "fold": 4.220672682526661,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051262",
+      "label": "protein tetramerization",
+      "fdr": 0.02660524927653209,
+      "p_value": 0.0006592827558533132,
+      "fold": 5.710321864594896,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010885",
+      "label": "regulation of cholesterol storage",
+      "fdr": 0.026662165239277717,
+      "p_value": 0.0006587556268697351,
+      "fold": 17.130965593784683,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043043",
+      "label": "peptide biosynthetic process",
+      "fdr": 0.026740814694260838,
+      "p_value": 0.0006587556268697351,
+      "fold": 17.130965593784683,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043691",
+      "label": "reverse cholesterol transport",
+      "fdr": 0.02681992953063439,
+      "p_value": 0.0006587556268697351,
+      "fold": 17.130965593784683,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006144",
+      "label": "purine nucleobase metabolic process",
+      "fdr": 0.026899513891259417,
+      "p_value": 0.0006587556268697351,
+      "fold": 17.130965593784683,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902644",
+      "label": "tertiary alcohol metabolic process",
+      "fdr": 0.026979571968316737,
+      "p_value": 0.0006587556268697351,
+      "fold": 17.130965593784683,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046049",
+      "label": "UMP metabolic process",
+      "fdr": 0.027060108004043057,
+      "p_value": 0.0006587556268697351,
+      "fold": 17.130965593784683,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031960",
+      "label": "response to corticosteroid",
+      "fdr": 0.02707400868864779,
+      "p_value": 0.0006571265825164132,
+      "fold": 4.819349658771578,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030301",
+      "label": "cholesterol transport",
+      "fdr": 0.02732577645497893,
+      "p_value": 0.0006811090272551248,
+      "fold": 7.137902330743619,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051222",
+      "label": "positive regulation of protein transport",
+      "fdr": 0.027994479873782795,
+      "p_value": 0.000699811138476948,
+      "fold": 3.765858815875082,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009743",
+      "label": "response to carbohydrate",
+      "fdr": 0.02849325861417576,
+      "p_value": 0.0007143502813669527,
+      "fold": 4.751946167040507,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046686",
+      "label": "response to cadmium ion",
+      "fdr": 0.02975319285752075,
+      "p_value": 0.000748100045687245,
+      "fold": 9.70754716981132,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009173",
+      "label": "pyrimidine ribonucleoside monophosphate metabolic process",
+      "fdr": 0.030845292919145444,
+      "p_value": 0.0007845252904368073,
+      "fold": 16.17924528301887,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009176",
+      "label": "pyrimidine deoxyribonucleoside monophosphate metabolic process",
+      "fdr": 0.03093367484728053,
+      "p_value": 0.0007845252904368073,
+      "fold": 16.17924528301887,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0015936",
+      "label": "coenzyme A metabolic process",
+      "fdr": 0.031022564717531335,
+      "p_value": 0.0007845252904368073,
+      "fold": 16.17924528301887,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001516",
+      "label": "prostaglandin biosynthetic process",
+      "fdr": 0.031111966921328255,
+      "p_value": 0.0007845252904368073,
+      "fold": 16.17924528301887,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010883",
+      "label": "regulation of lipid storage",
+      "fdr": 0.032148619433850154,
+      "p_value": 0.0008223467800824979,
+      "fold": 9.47077772664519,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006094",
+      "label": "gluconeogenesis",
+      "fdr": 0.0322402109422087,
+      "p_value": 0.0008223467800824979,
+      "fold": 9.47077772664519,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050810",
+      "label": "regulation of steroid biosynthetic process",
+      "fdr": 0.03234761280877333,
+      "p_value": 0.0008297876114742378,
+      "fold": 6.836300823810789,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009166",
+      "label": "nucleotide catabolic process",
+      "fdr": 0.0329671786591348,
+      "p_value": 0.0008480765384298903,
+      "fold": 5.443484394286722,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009167",
+      "label": "purine ribonucleoside monophosphate metabolic process",
+      "fdr": 0.034950762888325486,
+      "p_value": 0.0009016438358662559,
+      "fold": 9.245283018867925,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000146",
+      "label": "negative regulation of cell motility",
+      "fdr": 0.03522220069027289,
+      "p_value": 0.0009112058313884999,
+      "fold": 3.335926862478117,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046653",
+      "label": "tetrahydrofolate metabolic process",
+      "fdr": 0.035341993851341576,
+      "p_value": 0.000924577994802919,
+      "fold": 15.32770605759682,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010810",
+      "label": "regulation of cell-substrate adhesion",
+      "fdr": 0.035406926663467474,
+      "p_value": 0.0009314226765624029,
+      "fold": 4.003112234973741,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010888",
+      "label": "negative regulation of lipid storage",
+      "fdr": 0.03544043951666565,
+      "p_value": 0.000924577994802919,
+      "fold": 15.32770605759682,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901654",
+      "label": "response to ketone",
+      "fdr": 0.03550500679272916,
+      "p_value": 0.0009314226765624029,
+      "fold": 4.003112234973741,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009168",
+      "label": "purine ribonucleoside monophosphate biosynthetic process",
+      "fdr": 0.035539435157773656,
+      "p_value": 0.000924577994802919,
+      "fold": 15.32770605759682,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009404",
+      "label": "toxin metabolic process",
+      "fdr": 0.035638985396310836,
+      "p_value": 0.000924577994802919,
+      "fold": 15.32770605759682,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006996",
+      "label": "organelle organization",
+      "fdr": 0.03641678166032367,
+      "p_value": 0.000960634528209977,
+      "fold": 0.47320912387659636,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043094",
+      "label": "metabolic compound salvage",
+      "fdr": 0.037180178696517775,
+      "p_value": 0.0009861758029379396,
+      "fold": 9.030276437033788,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0170038",
+      "label": "proteinogenic amino acid biosynthetic process",
+      "fdr": 0.03728232204458513,
+      "p_value": 0.0009861758029379396,
+      "fold": 9.030276437033788,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0141187",
+      "label": "nucleic acid biosynthetic process",
+      "fdr": 0.03771142919620996,
+      "p_value": 0.0010030072731496873,
+      "fold": 0.2191319902891946,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019640",
+      "label": "D-glucuronate catabolic process to D-xylulose 5-phosphate",
+      "fdr": 0.03787248879888594,
+      "p_value": 0.0010348125709164387,
+      "fold": 38.83018867924528,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042760",
+      "label": "very long-chain fatty acid catabolic process",
+      "fdr": 0.03797348210234964,
+      "p_value": 0.0010348125709164387,
+      "fold": 38.83018867924528,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0036102",
+      "label": "leukotriene B4 metabolic process",
+      "fdr": 0.03807501547695485,
+      "p_value": 0.0010348125709164387,
+      "fold": 38.83018867924528,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1904748",
+      "label": "regulation of apoptotic process involved in development",
+      "fdr": 0.0381770932664373,
+      "p_value": 0.0010348125709164387,
+      "fold": 38.83018867924528,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042840",
+      "label": "D-glucuronate catabolic process",
+      "fdr": 0.03827971986123955,
+      "p_value": 0.0010348125709164387,
+      "fold": 38.83018867924528,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009635",
+      "label": "response to herbicide",
+      "fdr": 0.038382899699140466,
+      "p_value": 0.0010348125709164387,
+      "fold": 38.83018867924528,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051353",
+      "label": "positive regulation of oxidoreductase activity",
+      "fdr": 0.0384866372658949,
+      "p_value": 0.0010348125709164387,
+      "fold": 38.83018867924528,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006064",
+      "label": "glucuronate catabolic process",
+      "fdr": 0.03859093709588378,
+      "p_value": 0.0010348125709164387,
+      "fold": 38.83018867924528,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006572",
+      "label": "L-tyrosine catabolic process",
+      "fdr": 0.03869580377277476,
+      "p_value": 0.0010348125709164387,
+      "fold": 38.83018867924528,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046121",
+      "label": "2'-deoxyribonucleoside catabolic process",
+      "fdr": 0.03880124193019377,
+      "p_value": 0.0010348125709164387,
+      "fold": 38.83018867924528,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903426",
+      "label": "regulation of reactive oxygen species biosynthetic process",
+      "fdr": 0.039176158562613306,
+      "p_value": 0.001076127311726461,
+      "fold": 8.825042881646656,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043567",
+      "label": "regulation of insulin-like growth factor receptor signaling pathway",
+      "fdr": 0.03919584426304036,
+      "p_value": 0.0010795163851240678,
+      "fold": 14.561320754716983,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070328",
+      "label": "triglyceride homeostasis",
+      "fdr": 0.03928007410256718,
+      "p_value": 0.001076127311726461,
+      "fold": 8.825042881646656,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0015918",
+      "label": "sterol transport",
+      "fdr": 0.04090658711021909,
+      "p_value": 0.0011296056319950044,
+      "fold": 6.386544190665342,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0040013",
+      "label": "negative regulation of locomotion",
+      "fdr": 0.04141153313753394,
+      "p_value": 0.0011465586894412057,
+      "fold": 3.2358490566037736,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055090",
+      "label": "acylglycerol homeostasis",
+      "fdr": 0.04220818931956788,
+      "p_value": 0.0011716828951438797,
+      "fold": 8.628930817610064,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048519",
+      "label": "negative regulation of biological process",
+      "fdr": 0.04451295137739189,
+      "p_value": 0.0012518357810515706,
+      "fold": 1.405217020416868,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009127",
+      "label": "purine nucleoside monophosphate biosynthetic process",
+      "fdr": 0.04455997700080564,
+      "p_value": 0.0012499201455062115,
+      "fold": 13.867924528301886,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001558",
+      "label": "regulation of cell growth",
+      "fdr": 0.04460084103747748,
+      "p_value": 0.001241343079525752,
+      "fold": 2.9911209766925637,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009223",
+      "label": "pyrimidine deoxyribonucleotide catabolic process",
+      "fdr": 0.044675717200807735,
+      "p_value": 0.0012499201455062115,
+      "fold": 13.867924528301886,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050667",
+      "label": "homocysteine metabolic process",
+      "fdr": 0.0447920602143515,
+      "p_value": 0.0012499201455062115,
+      "fold": 13.867924528301886,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009126",
+      "label": "purine nucleoside monophosphate metabolic process",
+      "fdr": 0.045149800403634116,
+      "p_value": 0.0012730268553600784,
+      "fold": 8.441345365053323,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0080134",
+      "label": "regulation of response to stress",
+      "fdr": 0.046069769300848364,
+      "p_value": 0.0013023138040861868,
+      "fold": 1.8951827446486311,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034599",
+      "label": "cellular response to oxidative stress",
+      "fdr": 0.046795740105976466,
+      "p_value": 0.0013262363666398387,
+      "fold": 3.788311090658077,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010906",
+      "label": "regulation of glucose metabolic process",
+      "fdr": 0.047307283719494865,
+      "p_value": 0.0013441717850681267,
+      "fold": 6.144017196083115,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046683",
+      "label": "response to organophosphorus",
+      "fdr": 0.047334498655148056,
+      "p_value": 0.0013483848174419039,
+      "fold": 4.97822931785196,
+      "source": "PANTHER"
+    }
+  ],
+  "Enrichr": [
+    {
+      "id": "GO:0032787",
+      "label": "Monocarboxylic Acid Metabolic Process",
+      "fdr": 1.652408692017246e-11,
+      "p_value": 1.0244319231353043e-14,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006692",
+      "label": "Prostanoid Metabolic Process",
+      "fdr": 2.6927586206919877e-08,
+      "p_value": 3.74593809969989e-11,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006631",
+      "label": "Fatty Acid Metabolic Process",
+      "fdr": 2.6927586206919877e-08,
+      "p_value": 5.008230540654658e-11,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001523",
+      "label": "Retinoid Metabolic Process",
+      "fdr": 3.0487878412516516e-07,
+      "p_value": 7.560540213891263e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034308",
+      "label": "Primary Alcohol Metabolic Process",
+      "fdr": 3.224491006528738e-07,
+      "p_value": 9.995322400895032e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006629",
+      "label": "Lipid Metabolic Process",
+      "fdr": 2.1245242262272197e-06,
+      "p_value": 7.973801827089539e-09,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008202",
+      "label": "Steroid Metabolic Process",
+      "fdr": 2.1245242262272197e-06,
+      "p_value": 9.219881948909199e-09,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001676",
+      "label": "Long-Chain Fatty Acid Metabolic Process",
+      "fdr": 2.625540927986914e-06,
+      "p_value": 1.3021901688713772e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006693",
+      "label": "Prostaglandin Metabolic Process",
+      "fdr": 2.7025120252184585e-06,
+      "p_value": 1.507911235397776e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019369",
+      "label": "Arachidonate Metabolic Process",
+      "fdr": 4.449368979425874e-06,
+      "p_value": 2.758443260648403e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019395",
+      "label": "Fatty Acid Oxidation",
+      "fdr": 5.614411850339944e-06,
+      "p_value": 3.8287991539826034e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042572",
+      "label": "Retinol Metabolic Process",
+      "fdr": 1.0923140090513558e-05,
+      "p_value": 8.12632864762323e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016042",
+      "label": "Lipid Catabolic Process",
+      "fdr": 2.240141345635921e-05,
+      "p_value": 1.8054455978466816e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901605",
+      "label": "Alpha-Amino Acid Metabolic Process",
+      "fdr": 2.655512287854071e-05,
+      "p_value": 2.3048463750748292e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019373",
+      "label": "Epoxygenase P450 Pathway",
+      "fdr": 4.084810325999881e-05,
+      "p_value": 3.798645684438823e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902652",
+      "label": "Secondary Alcohol Metabolic Process",
+      "fdr": 4.4441169253457485e-05,
+      "p_value": 4.6838182102218057e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006635",
+      "label": "Fatty Acid Beta-Oxidation",
+      "fdr": 4.4441169253457485e-05,
+      "p_value": 4.6838182102218057e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019530",
+      "label": "Taurine Metabolic Process",
+      "fdr": 5.8989196544162544e-05,
+      "p_value": 6.582799366366558e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042417",
+      "label": "Dopamine Metabolic Process",
+      "fdr": 8.377809779028391e-05,
+      "p_value": 9.868467811626748e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042632",
+      "label": "Cholesterol Homeostasis",
+      "fdr": 0.00010973953637943199,
+      "p_value": 1.3606886097883692e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0055092",
+      "label": "Sterol Homeostasis",
+      "fdr": 0.00011498248418426488,
+      "p_value": 1.4969821251516196e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006749",
+      "label": "Glutathione Metabolic Process",
+      "fdr": 0.00014381995095168255,
+      "p_value": 1.9615864357948024e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072329",
+      "label": "Monocarboxylic Acid Catabolic Process",
+      "fdr": 0.0001529578227740055,
+      "p_value": 2.1810476898959246e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042423",
+      "label": "Catecholamine Biosynthetic Process",
+      "fdr": 0.00020371171102848387,
+      "p_value": 3.031048397200008e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042573",
+      "label": "Retinoic Acid Metabolic Process",
+      "fdr": 0.00027707136301550946,
+      "p_value": 4.294348465832447e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033540",
+      "label": "Fatty Acid Beta-Oxidation Using acyl-CoA Oxidase",
+      "fdr": 0.00027985634590801196,
+      "p_value": 4.5110136352190394e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006775",
+      "label": "Fat-Soluble Vitamin Metabolic Process",
+      "fdr": 0.0003150597518465144,
+      "p_value": 5.273783818881518e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042416",
+      "label": "Dopamine Biosynthetic Process",
+      "fdr": 0.0005591546919163274,
+      "p_value": 9.70634307108318e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000038",
+      "label": "Very Long-Chain Fatty Acid Metabolic Process",
+      "fdr": 0.0005946552439548676,
+      "p_value": 1.105992394212401e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045429",
+      "label": "Positive Regulation of Nitric Oxide Biosynthetic Process",
+      "fdr": 0.0005946552439548676,
+      "p_value": 1.105992394212401e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904407",
+      "label": "Positive Regulation of Nitric Oxide Metabolic Process",
+      "fdr": 0.0006805929888611454,
+      "p_value": 1.3080212433165224e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051260",
+      "label": "Protein Homooligomerization",
+      "fdr": 0.0007039344758205772,
+      "p_value": 1.4034124774281466e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033559",
+      "label": "Unsaturated Fatty Acid Metabolic Process",
+      "fdr": 0.0007039344758205772,
+      "p_value": 1.4401635277172379e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006690",
+      "label": "Icosanoid Metabolic Process",
+      "fdr": 0.0008124900976379937,
+      "p_value": 1.7886514398837515e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042168",
+      "label": "Heme Metabolic Process",
+      "fdr": 0.0008124900976379937,
+      "p_value": 1.7976601477623105e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006869",
+      "label": "Lipid Transport",
+      "fdr": 0.0008124900976379937,
+      "p_value": 1.813369095782255e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000096",
+      "label": "Sulfur Amino Acid Metabolic Process",
+      "fdr": 0.000885235570908447,
+      "p_value": 2.0854898756677612e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046457",
+      "label": "Prostanoid Biosynthetic Process",
+      "fdr": 0.000885235570908447,
+      "p_value": 2.0854898756677612e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016125",
+      "label": "Sterol Metabolic Process",
+      "fdr": 0.0010074856982047501,
+      "p_value": 2.4359542610034258e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051289",
+      "label": "Protein Homotetramerization",
+      "fdr": 0.0010844745904251875,
+      "p_value": 2.6893356241170177e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019752",
+      "label": "Carboxylic Acid Metabolic Process",
+      "fdr": 0.0010963716788876603,
+      "p_value": 2.7868095991564833e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006164",
+      "label": "Purine Nucleotide Biosynthetic Process",
+      "fdr": 0.0015581806440400972,
+      "p_value": 4.146798801190002e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0015908",
+      "label": "Fatty Acid Transport",
+      "fdr": 0.0015581806440400972,
+      "p_value": 4.153860365388976e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042373",
+      "label": "Vitamin K Metabolic Process",
+      "fdr": 0.001948874223695508,
+      "p_value": 5.3162099096467675e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008203",
+      "label": "Cholesterol Metabolic Process",
+      "fdr": 0.002173454374615147,
+      "p_value": 6.063573890742817e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006633",
+      "label": "Fatty Acid Biosynthetic Process",
+      "fdr": 0.0025052005460794277,
+      "p_value": 7.144403293220934e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042448",
+      "label": "Progesterone Metabolic Process",
+      "fdr": 0.002716552499865712,
+      "p_value": 7.91555905106562e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0015718",
+      "label": "Monocarboxylic Acid Transport",
+      "fdr": 0.002763953809076585,
+      "p_value": 8.373603081935455e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045428",
+      "label": "Regulation of Nitric Oxide Biosynthetic Process",
+      "fdr": 0.002763953809076585,
+      "p_value": 8.396387888701343e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046456",
+      "label": "Icosanoid Biosynthetic Process",
+      "fdr": 0.003292859189435511,
+      "p_value": 0.00010411396073230691,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042759",
+      "label": "Long-Chain Fatty Acid Biosynthetic Process",
+      "fdr": 0.003292859189435511,
+      "p_value": 0.00010411396073230691,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042167",
+      "label": "Heme Catabolic Process",
+      "fdr": 0.0034161073445034607,
+      "p_value": 0.00011224655254723089,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046149",
+      "label": "Pigment Catabolic Process",
+      "fdr": 0.0034161073445034607,
+      "p_value": 0.00011224655254723089,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051918",
+      "label": "Negative Regulation of Fibrinolysis",
+      "fdr": 0.004510172913955139,
+      "p_value": 0.00015320271943439296,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0015850",
+      "label": "Organic Hydroxy Compound Transport",
+      "fdr": 0.004510172913955139,
+      "p_value": 0.00015378766910572388,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030301",
+      "label": "Cholesterol Transport",
+      "fdr": 0.004861414645418725,
+      "p_value": 0.00016877818979755028,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051262",
+      "label": "Protein Tetramerization",
+      "fdr": 0.0052269574748075795,
+      "p_value": 0.0001847095945840248,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030335",
+      "label": "Positive Regulation of Cell Migration",
+      "fdr": 0.005238131796651069,
+      "p_value": 0.0001883519182924749,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006584",
+      "label": "Catecholamine Metabolic Process",
+      "fdr": 0.005361691949018731,
+      "p_value": 0.00020276702349047898,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1900047",
+      "label": "Negative Regulation of Hemostasis",
+      "fdr": 0.005361691949018731,
+      "p_value": 0.00020276702349047898,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006787",
+      "label": "Porphyrin-Containing Compound Catabolic Process",
+      "fdr": 0.005361691949018731,
+      "p_value": 0.00020276702349047898,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0150104",
+      "label": "Transport Across Blood-Brain Barrier",
+      "fdr": 0.005839274514416103,
+      "p_value": 0.00022444824543942863,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009891",
+      "label": "Positive Regulation of Biosynthetic Process",
+      "fdr": 0.0060531065582420315,
+      "p_value": 0.00023909225440062242,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0097306",
+      "label": "Cellular Response to Alcohol",
+      "fdr": 0.0060531065582420315,
+      "p_value": 0.00024017285785957223,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030195",
+      "label": "Negative Regulation of Blood Coagulation",
+      "fdr": 0.006131956842295442,
+      "p_value": 0.00024710303456243254,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071715",
+      "label": "Icosanoid Transport",
+      "fdr": 0.007886723432486621,
+      "p_value": 0.000330570754905644,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050819",
+      "label": "Negative Regulation of Coagulation",
+      "fdr": 0.007886723432486621,
+      "p_value": 0.000330570754905644,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009062",
+      "label": "Fatty Acid Catabolic Process",
+      "fdr": 0.007886723432486621,
+      "p_value": 0.0003324843108549847,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006636",
+      "label": "Unsaturated Fatty Acid Biosynthetic Process",
+      "fdr": 0.00931851675431819,
+      "p_value": 0.00041017649693527065,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006809",
+      "label": "Nitric Oxide Biosynthetic Process",
+      "fdr": 0.00931851675431819,
+      "p_value": 0.00041017649693527065,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001516",
+      "label": "Prostaglandin Biosynthetic Process",
+      "fdr": 0.00931851675431819,
+      "p_value": 0.00041017649693527065,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008207",
+      "label": "C21-steroid Hormone Metabolic Process",
+      "fdr": 0.010923148051640212,
+      "p_value": 0.0005011239651713426,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051917",
+      "label": "Regulation of Fibrinolysis",
+      "fdr": 0.010923148051640212,
+      "p_value": 0.0005011239651713426,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043691",
+      "label": "Reverse Cholesterol Transport",
+      "fdr": 0.010923148051640212,
+      "p_value": 0.0005011239651713426,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006163",
+      "label": "Purine Nucleotide Metabolic Process",
+      "fdr": 0.011793402228001395,
+      "p_value": 0.0005488816438829229,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007162",
+      "label": "Negative Regulation of Cell Adhesion",
+      "fdr": 0.011793402228001395,
+      "p_value": 0.0005556717726770651,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009165",
+      "label": "Nucleotide Biosynthetic Process",
+      "fdr": 0.015072693220035831,
+      "p_value": 0.0007195272026923491,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051222",
+      "label": "Positive Regulation of Protein Transport",
+      "fdr": 0.016684128055326018,
+      "p_value": 0.0008234685243405408,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043567",
+      "label": "Regulation of Insulin-Like Growth Factor Receptor Signaling Pathway",
+      "fdr": 0.016684128055326018,
+      "p_value": 0.0008481701801219675,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0014910",
+      "label": "Regulation of Smooth Muscle Cell Migration",
+      "fdr": 0.016684128055326018,
+      "p_value": 0.0008481701801219675,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010951",
+      "label": "Negative Regulation of Endopeptidase Activity",
+      "fdr": 0.016684128055326018,
+      "p_value": 0.0008481701801219675,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0062013",
+      "label": "Positive Regulation of Small Molecule Metabolic Process",
+      "fdr": 0.016684128055326018,
+      "p_value": 0.0008481701801219675,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006066",
+      "label": "Alcohol Metabolic Process",
+      "fdr": 0.017461336161811027,
+      "p_value": 0.0009754681839454337,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901607",
+      "label": "Alpha-Amino Acid Biosynthetic Process",
+      "fdr": 0.017461336161811027,
+      "p_value": 0.0009754681839454337,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009404",
+      "label": "Toxin Metabolic Process",
+      "fdr": 0.017461336161811027,
+      "p_value": 0.0009754681839454337,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1990962",
+      "label": "Xenobiotic Transport Across Blood-Brain Barrier",
+      "fdr": 0.017461336161811027,
+      "p_value": 0.0009754681839454337,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006591",
+      "label": "Ornithine Metabolic Process",
+      "fdr": 0.017461336161811027,
+      "p_value": 0.0009754681839454337,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0052548",
+      "label": "Regulation of Endopeptidase Activity",
+      "fdr": 0.017461336161811027,
+      "p_value": 0.0009905301969888136,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071398",
+      "label": "Cellular Response to Fatty Acid",
+      "fdr": 0.017461336161811027,
+      "p_value": 0.0009905301969888136,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042908",
+      "label": "Xenobiotic Transport",
+      "fdr": 0.017461336161811027,
+      "p_value": 0.0009905301969888136,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030194",
+      "label": "Positive Regulation of Blood Coagulation",
+      "fdr": 0.017461336161811027,
+      "p_value": 0.0009905301969888136,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010558",
+      "label": "Negative Regulation of Macromolecule Biosynthetic Process",
+      "fdr": 0.017461336161811027,
+      "p_value": 0.0009959348585781862,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060429",
+      "label": "Epithelium Development",
+      "fdr": 0.019368381154818395,
+      "p_value": 0.0011167138545555553,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051897",
+      "label": "+ Reg of Phosphatidylinositol 3-Kinase/Prot Kinase B Signal Transduction",
+      "fdr": 0.021355019000925398,
+      "p_value": 0.0012444958376236746,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045765",
+      "label": "Regulation of Angiogenesis",
+      "fdr": 0.021925928385842872,
+      "p_value": 0.001316267882772891,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0120178",
+      "label": "Steroid Hormone Biosynthetic Process",
+      "fdr": 0.021925928385842872,
+      "p_value": 0.0013185462203513692,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046209",
+      "label": "Nitric Oxide Metabolic Process",
+      "fdr": 0.021925928385842872,
+      "p_value": 0.0013185462203513692,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019318",
+      "label": "Hexose Metabolic Process",
+      "fdr": 0.022031768199915643,
+      "p_value": 0.0013385699216315768,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006177",
+      "label": "GMP Biosynthetic Process",
+      "fdr": 0.022986369355173196,
+      "p_value": 0.0014535707837741265,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034372",
+      "label": "Very-Low-Density Lipoprotein Particle Remodeling",
+      "fdr": 0.022986369355173196,
+      "p_value": 0.0014535707837741265,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006704",
+      "label": "Glucocorticoid Biosynthetic Process",
+      "fdr": 0.022986369355173196,
+      "p_value": 0.0014535707837741265,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071716",
+      "label": "Leukotriene Transport",
+      "fdr": 0.022986369355173196,
+      "p_value": 0.0014535707837741265,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042178",
+      "label": "Xenobiotic Catabolic Process",
+      "fdr": 0.023345456039170525,
+      "p_value": 0.0015052246919242,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010466",
+      "label": "Negative Regulation of Peptidase Activity",
+      "fdr": 0.023345456039170525,
+      "p_value": 0.0015052246919242,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010232",
+      "label": "Vascular Transport",
+      "fdr": 0.023800638764746574,
+      "p_value": 0.0015493286238675698,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002526",
+      "label": "Acute Inflammatory Response",
+      "fdr": 0.0255043075431445,
+      "p_value": 0.0017076659731305678,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0015909",
+      "label": "Long-Chain Fatty Acid Transport",
+      "fdr": 0.0255043075431445,
+      "p_value": 0.0017076659731305678,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072522",
+      "label": "Purine-Containing Compound Biosynthetic Process",
+      "fdr": 0.0255043075431445,
+      "p_value": 0.0017076659731305678,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000379",
+      "label": "Positive Regulation of Reactive Oxygen Species Metabolic Process",
+      "fdr": 0.026717298239302037,
+      "p_value": 0.0018054466882107389,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046148",
+      "label": "Pigment Biosynthetic Process",
+      "fdr": 0.02740220475181795,
+      "p_value": 0.0019263332020576173,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006188",
+      "label": "IMP Biosynthetic Process",
+      "fdr": 0.02740220475181795,
+      "p_value": 0.0020216133697869413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006569",
+      "label": "L-tryptophan Catabolic Process",
+      "fdr": 0.02740220475181795,
+      "p_value": 0.0020216133697869413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046185",
+      "label": "Aldehyde Catabolic Process",
+      "fdr": 0.02740220475181795,
+      "p_value": 0.0020216133697869413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0044550",
+      "label": "Secondary Metabolite Biosynthetic Process",
+      "fdr": 0.02740220475181795,
+      "p_value": 0.0020216133697869413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034370",
+      "label": "Triglyceride-Rich Lipoprotein Particle Remodeling",
+      "fdr": 0.02740220475181795,
+      "p_value": 0.0020216133697869413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0015812",
+      "label": "Gamma-Aminobutyric Acid Transport",
+      "fdr": 0.02740220475181795,
+      "p_value": 0.0020216133697869413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045940",
+      "label": "Positive Regulation of Steroid Metabolic Process",
+      "fdr": 0.02740220475181795,
+      "p_value": 0.0020216133697869413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009169",
+      "label": "Purine Ribonucleoside Monophosphate Catabolic Process",
+      "fdr": 0.02740220475181795,
+      "p_value": 0.0020216133697869413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043255",
+      "label": "Regulation of Carbohydrate Biosynthetic Process",
+      "fdr": 0.02740220475181795,
+      "p_value": 0.0020216133697869413,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048660",
+      "label": "Regulation of Smooth Muscle Cell Proliferation",
+      "fdr": 0.02791287404194278,
+      "p_value": 0.0020765932331265552,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0015918",
+      "label": "Sterol Transport",
+      "fdr": 0.028816325111907105,
+      "p_value": 0.0021616710096346928,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0044272",
+      "label": "Sulfur Compound Biosynthetic Process",
+      "fdr": 0.03139574173683853,
+      "p_value": 0.002374631427088841,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045834",
+      "label": "Positive Regulation of Lipid Metabolic Process",
+      "fdr": 0.03160122153280672,
+      "p_value": 0.002414105915085408,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006006",
+      "label": "Glucose Metabolic Process",
+      "fdr": 0.03160122153280672,
+      "p_value": 0.0025341401417975046,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043535",
+      "label": "Regulation of Blood Vessel Endothelial Cell Migration",
+      "fdr": 0.03160122153280672,
+      "p_value": 0.0025341401417975046,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046037",
+      "label": "GMP Metabolic Process",
+      "fdr": 0.03160122153280672,
+      "p_value": 0.0026777674677022855,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030647",
+      "label": "Aminoglycoside Antibiotic Metabolic Process",
+      "fdr": 0.03160122153280672,
+      "p_value": 0.0026777674677022855,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042402",
+      "label": "Biogenic Amine Catabolic Process",
+      "fdr": 0.03160122153280672,
+      "p_value": 0.0026777674677022855,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0044597",
+      "label": "Daunorubicin Metabolic Process",
+      "fdr": 0.03160122153280672,
+      "p_value": 0.0026777674677022855,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043650",
+      "label": "Dicarboxylic Acid Biosynthetic Process",
+      "fdr": 0.03160122153280672,
+      "p_value": 0.0026777674677022855,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006721",
+      "label": "Terpenoid Metabolic Process",
+      "fdr": 0.03160122153280672,
+      "p_value": 0.0026777674677022855,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008211",
+      "label": "Glucocorticoid Metabolic Process",
+      "fdr": 0.03160122153280672,
+      "p_value": 0.0026777674677022855,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070189",
+      "label": "Kynurenine Metabolic Process",
+      "fdr": 0.03160122153280672,
+      "p_value": 0.0026777674677022855,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0110076",
+      "label": "Negative Regulation of Ferroptosis",
+      "fdr": 0.03160122153280672,
+      "p_value": 0.0026777674677022855,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903377",
+      "label": "- Reg of Oxidative Stress-Induced Neuron Intrinsic Apoptotic Sgnlng Pway",
+      "fdr": 0.03160122153280672,
+      "p_value": 0.0026777674677022855,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090481",
+      "label": "Pyrimidine Nucleotide-Sugar Transmembrane Transport",
+      "fdr": 0.03160122153280672,
+      "p_value": 0.0026777674677022855,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010906",
+      "label": "Regulation of Glucose Metabolic Process",
+      "fdr": 0.03160122153280672,
+      "p_value": 0.0026840467141937513,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0061045",
+      "label": "Negative Regulation of Wound Healing",
+      "fdr": 0.03448669266000977,
+      "p_value": 0.0029718848603480213,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030193",
+      "label": "Regulation of Blood Coagulation",
+      "fdr": 0.03448669266000977,
+      "p_value": 0.0029718848603480213,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034341",
+      "label": "Response to Type II Interferon",
+      "fdr": 0.035215724423364854,
+      "p_value": 0.003056541487458822,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000377",
+      "label": "Regulation of Reactive Oxygen Species Metabolic Process",
+      "fdr": 0.03629496024053122,
+      "p_value": 0.003245825065519956,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0062197",
+      "label": "Cellular Response to Chemical Stress",
+      "fdr": 0.03629496024053122,
+      "p_value": 0.0033238214487381523,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046040",
+      "label": "IMP Metabolic Process",
+      "fdr": 0.03629496024053122,
+      "p_value": 0.0034202318391573132,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0061053",
+      "label": "Somite Development",
+      "fdr": 0.03629496024053122,
+      "p_value": 0.0034202318391573132,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0044598",
+      "label": "Doxorubicin Metabolic Process",
+      "fdr": 0.03629496024053122,
+      "p_value": 0.0034202318391573132,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042363",
+      "label": "Fat-Soluble Vitamin Catabolic Process",
+      "fdr": 0.03629496024053122,
+      "p_value": 0.0034202318391573132,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030299",
+      "label": "Intestinal Cholesterol Absorption",
+      "fdr": 0.03629496024053122,
+      "p_value": 0.0034202318391573132,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010887",
+      "label": "Negative Regulation of Cholesterol Storage",
+      "fdr": 0.03629496024053122,
+      "p_value": 0.0034202318391573132,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0038060",
+      "label": "Nitric oxide-cGMP-mediated Signaling",
+      "fdr": 0.03629496024053122,
+      "p_value": 0.0034202318391573132,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006082",
+      "label": "Organic Acid Metabolic Process",
+      "fdr": 0.03629496024053122,
+      "p_value": 0.0034202318391573132,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046189",
+      "label": "Phenol-Containing Compound Biosynthetic Process",
+      "fdr": 0.03629496024053122,
+      "p_value": 0.0034202318391573132,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030638",
+      "label": "Polyketide Metabolic Process",
+      "fdr": 0.03629496024053122,
+      "p_value": 0.0034202318391573132,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008284",
+      "label": "Positive Regulation of Cell Population Proliferation",
+      "fdr": 0.03771504397416225,
+      "p_value": 0.003577434425323511,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008210",
+      "label": "Estrogen Metabolic Process",
+      "fdr": 0.037735135254221015,
+      "p_value": 0.0036027345500000223,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000147",
+      "label": "Positive Regulation of Cell Motility",
+      "fdr": 0.03820616950044578,
+      "p_value": 0.0036713926054365133,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008206",
+      "label": "Bile Acid Metabolic Process",
+      "fdr": 0.04080523601386627,
+      "p_value": 0.0039464456405227145,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042401",
+      "label": "Biogenic Amine Biosynthetic Process",
+      "fdr": 0.04126979176513713,
+      "p_value": 0.004247232134539841,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071379",
+      "label": "Cellular Response to Prostaglandin Stimulus",
+      "fdr": 0.04126979176513713,
+      "p_value": 0.004247232134539841,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009069",
+      "label": "Serine Family Amino Acid Metabolic Process",
+      "fdr": 0.04126979176513713,
+      "p_value": 0.004247232134539841,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902222",
+      "label": "Erythrose 4-Phosphate/Phosphoenolpyruvate Family Amino Acid Catabolic Process",
+      "fdr": 0.04126979176513713,
+      "p_value": 0.004247232134539841,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046653",
+      "label": "Tetrahydrofolate Metabolic Process",
+      "fdr": 0.04126979176513713,
+      "p_value": 0.004247232134539841,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009084",
+      "label": "Glutamine Family Amino Acid Biosynthetic Process",
+      "fdr": 0.04126979176513713,
+      "p_value": 0.004247232134539841,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034392",
+      "label": "Negative Regulation of Smooth Muscle Cell Apoptotic Process",
+      "fdr": 0.04126979176513713,
+      "p_value": 0.004247232134539841,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006730",
+      "label": "One-Carbon Metabolic Process",
+      "fdr": 0.04126979176513713,
+      "p_value": 0.004247232134539841,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051000",
+      "label": "Positive Regulation of Nitric-Oxide Synthase Activity",
+      "fdr": 0.04126979176513713,
+      "p_value": 0.004247232134539841,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1900407",
+      "label": "Regulation of Cellular Response to Oxidative Stress",
+      "fdr": 0.04126979176513713,
+      "p_value": 0.004247232134539841,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033628",
+      "label": "Regulation of Cell Adhesion Mediated by Integrin",
+      "fdr": 0.04140785696032949,
+      "p_value": 0.004309453893401118,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902893",
+      "label": "Regulation of miRNA Transcription",
+      "fdr": 0.04140785696032949,
+      "p_value": 0.004312783613971081,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006111",
+      "label": "Regulation of Gluconeogenesis",
+      "fdr": 0.04451945998818613,
+      "p_value": 0.004692069558581303,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046578",
+      "label": "Regulation of Ras Protein Signal Transduction",
+      "fdr": 0.04451945998818613,
+      "p_value": 0.004692069558581303,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904018",
+      "label": "Positive Regulation of Vasculature Development",
+      "fdr": 0.04527759008065371,
+      "p_value": 0.004800042097825037,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903747",
+      "label": "Regulation of Establishment of Protein Localization to Mitochondrion",
+      "fdr": 0.04621263405642422,
+      "p_value": 0.0051570205394645754,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0110075",
+      "label": "Regulation of Ferroptosis",
+      "fdr": 0.04621263405642422,
+      "p_value": 0.0051570205394645754,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032368",
+      "label": "Regulation of Lipid Transport",
+      "fdr": 0.04621263405642422,
+      "p_value": 0.0051570205394645754,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903376",
+      "label": "Regulation of Oxidative Stress-Induced Neuron Intrinsic Apoptotic Signaling Pathway",
+      "fdr": 0.04621263405642422,
+      "p_value": 0.0051570205394645754,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009437",
+      "label": "Carnitine Metabolic Process",
+      "fdr": 0.04621263405642422,
+      "p_value": 0.0051570205394645754,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072350",
+      "label": "Tricarboxylic Acid Metabolic Process",
+      "fdr": 0.04621263405642422,
+      "p_value": 0.0051570205394645754,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902001",
+      "label": "Fatty Acid Transmembrane Transport",
+      "fdr": 0.04621263405642422,
+      "p_value": 0.0051570205394645754,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0098856",
+      "label": "Intestinal Lipid Absorption",
+      "fdr": 0.04621263405642422,
+      "p_value": 0.0051570205394645754,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0097267",
+      "label": "Omega-Hydroxylase P450 Pathway",
+      "fdr": 0.04621263405642422,
+      "p_value": 0.0051570205394645754,
+      "fold": null,
+      "source": "Enrichr"
+    }
+  ],
+  "g:Profiler": [
+    {
+      "id": "GO:0044281",
+      "label": "small molecule metabolic process",
+      "fdr": 1.5112355254826652e-42,
+      "p_value": 1.5112355254826652e-42,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006082",
+      "label": "organic acid metabolic process",
+      "fdr": 4.646092398963964e-41,
+      "p_value": 4.646092398963964e-41,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0043436",
+      "label": "oxoacid metabolic process",
+      "fdr": 3.2538008439965738e-40,
+      "p_value": 3.2538008439965738e-40,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019752",
+      "label": "carboxylic acid metabolic process",
+      "fdr": 9.926132360321909e-39,
+      "p_value": 9.926132360321909e-39,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-1430728",
+      "label": "Metabolism",
+      "fdr": 4.104833895008688e-34,
+      "p_value": 4.104833895008688e-34,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:01100",
+      "label": "Metabolic pathways",
+      "fdr": 1.396557251715905e-29,
+      "p_value": 1.396557251715905e-29,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0016491",
+      "label": "oxidoreductase activity",
+      "fdr": 4.187336609126331e-29,
+      "p_value": 4.187336609126331e-29,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0003824",
+      "label": "catalytic activity",
+      "fdr": 7.590184744147809e-25,
+      "p_value": 7.590184744147809e-25,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0032787",
+      "label": "monocarboxylic acid metabolic process",
+      "fdr": 1.1925340869043075e-24,
+      "p_value": 1.1925340869043075e-24,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-211859",
+      "label": "Biological oxidations",
+      "fdr": 1.7400257855276933e-23,
+      "p_value": 1.7400257855276933e-23,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006805",
+      "label": "xenobiotic metabolic process",
+      "fdr": 3.873850074995101e-21,
+      "p_value": 3.873850074995101e-21,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071466",
+      "label": "cellular response to xenobiotic stimulus",
+      "fdr": 4.306625837790332e-20,
+      "p_value": 4.306625837790332e-20,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0044283",
+      "label": "small molecule biosynthetic process",
+      "fdr": 4.65836372327938e-19,
+      "p_value": 4.65836372327938e-19,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006631",
+      "label": "fatty acid metabolic process",
+      "fdr": 1.0192002336177377e-18,
+      "p_value": 1.0192002336177377e-18,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016053",
+      "label": "organic acid biosynthetic process",
+      "fdr": 2.2284609129486424e-18,
+      "p_value": 2.2284609129486424e-18,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009410",
+      "label": "response to xenobiotic stimulus",
+      "fdr": 5.056216303168648e-17,
+      "p_value": 5.056216303168648e-17,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-211945",
+      "label": "Phase I - Functionalization of compounds",
+      "fdr": 1.0698324221423845e-16,
+      "p_value": 1.0698324221423845e-16,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0046394",
+      "label": "carboxylic acid biosynthetic process",
+      "fdr": 3.163433953043577e-15,
+      "p_value": 3.163433953043577e-15,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006629",
+      "label": "lipid metabolic process",
+      "fdr": 3.3377240347679347e-14,
+      "p_value": 3.3377240347679347e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0033559",
+      "label": "unsaturated fatty acid metabolic process",
+      "fdr": 8.761646800782115e-14,
+      "p_value": 8.761646800782115e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0036094",
+      "label": "small molecule binding",
+      "fdr": 3.641848422291307e-13,
+      "p_value": 3.641848422291307e-13,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0044282",
+      "label": "small molecule catabolic process",
+      "fdr": 5.696877521707212e-13,
+      "p_value": 5.696877521707212e-13,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0070887",
+      "label": "cellular response to chemical stimulus",
+      "fdr": 1.805250696993638e-12,
+      "p_value": 1.805250696993638e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006520",
+      "label": "amino acid metabolic process",
+      "fdr": 2.202931161978438e-12,
+      "p_value": 2.202931161978438e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042221",
+      "label": "response to chemical",
+      "fdr": 2.5881285888046474e-12,
+      "p_value": 2.5881285888046474e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0004497",
+      "label": "monooxygenase activity",
+      "fdr": 3.1590311411215595e-12,
+      "p_value": 3.1590311411215595e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005615",
+      "label": "extracellular space",
+      "fdr": 3.796957561239268e-12,
+      "p_value": 3.796957561239268e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0070062",
+      "label": "extracellular exosome",
+      "fdr": 7.582706312201267e-12,
+      "p_value": 7.582706312201267e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0016614",
+      "label": "oxidoreductase activity, acting on CH-OH group of donors",
+      "fdr": 7.978237712820434e-12,
+      "p_value": 7.978237712820434e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:1903561",
+      "label": "extracellular vesicle",
+      "fdr": 1.3008786707993264e-11,
+      "p_value": 1.3008786707993264e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0065010",
+      "label": "extracellular membrane-bounded organelle",
+      "fdr": 1.3302114322510941e-11,
+      "p_value": 1.3302114322510941e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043230",
+      "label": "extracellular organelle",
+      "fdr": 1.3302114322510941e-11,
+      "p_value": 1.3302114322510941e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0016616",
+      "label": "oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",
+      "fdr": 3.543222806247601e-11,
+      "p_value": 3.543222806247601e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005576",
+      "label": "extracellular region",
+      "fdr": 3.654043226408278e-11,
+      "p_value": 3.654043226408278e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0006690",
+      "label": "icosanoid metabolic process",
+      "fdr": 1.751944776264669e-10,
+      "p_value": 1.751944776264669e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1901605",
+      "label": "alpha-amino acid metabolic process",
+      "fdr": 3.075564960389673e-10,
+      "p_value": 3.075564960389673e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0020037",
+      "label": "heme binding",
+      "fdr": 9.211594375863502e-10,
+      "p_value": 9.211594375863502e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005737",
+      "label": "cytoplasm",
+      "fdr": 1.6087314168713626e-09,
+      "p_value": 1.6087314168713626e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0120254",
+      "label": "olefinic compound metabolic process",
+      "fdr": 1.6259061280158664e-09,
+      "p_value": 1.6259061280158664e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0008152",
+      "label": "metabolic process",
+      "fdr": 1.7457704031736523e-09,
+      "p_value": 1.7457704031736523e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016054",
+      "label": "organic acid catabolic process",
+      "fdr": 2.0419642682084943e-09,
+      "p_value": 2.0419642682084943e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046395",
+      "label": "carboxylic acid catabolic process",
+      "fdr": 2.0419642682084943e-09,
+      "p_value": 2.0419642682084943e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046906",
+      "label": "tetrapyrrole binding",
+      "fdr": 2.2246258266549153e-09,
+      "p_value": 2.2246258266549153e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "KEGG:00350",
+      "label": "Tyrosine metabolism",
+      "fdr": 3.0755222312115135e-09,
+      "p_value": 3.0755222312115135e-09,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "KEGG:00980",
+      "label": "Metabolism of xenobiotics by cytochrome P450",
+      "fdr": 5.611916091235318e-09,
+      "p_value": 5.611916091235318e-09,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "KEGG:00410",
+      "label": "beta-Alanine metabolism",
+      "fdr": 1.0089758233492112e-08,
+      "p_value": 1.0089758233492112e-08,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0016705",
+      "label": "oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",
+      "fdr": 1.205174776124974e-08,
+      "p_value": 1.205174776124974e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0033293",
+      "label": "monocarboxylic acid binding",
+      "fdr": 1.4396873781155584e-08,
+      "p_value": 1.4396873781155584e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0018455",
+      "label": "alcohol dehydrogenase [NAD(P)+] activity",
+      "fdr": 1.4650550536074341e-08,
+      "p_value": 1.4650550536074341e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "KEGG:00982",
+      "label": "Drug metabolism - cytochrome P450",
+      "fdr": 2.4916085007401837e-08,
+      "p_value": 2.4916085007401837e-08,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0006066",
+      "label": "alcohol metabolic process",
+      "fdr": 4.467067737776694e-08,
+      "p_value": 4.467067737776694e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019395",
+      "label": "fatty acid oxidation",
+      "fdr": 5.2030390435539334e-08,
+      "p_value": 5.2030390435539334e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0043167",
+      "label": "ion binding",
+      "fdr": 5.5811018855179824e-08,
+      "p_value": 5.5811018855179824e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0031982",
+      "label": "vesicle",
+      "fdr": 8.509694985707333e-08,
+      "p_value": 8.509694985707333e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0016712",
+      "label": "oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",
+      "fdr": 9.271945521781949e-08,
+      "p_value": 9.271945521781949e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0034440",
+      "label": "lipid oxidation",
+      "fdr": 1.0594620354550236e-07,
+      "p_value": 1.0594620354550236e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0170033",
+      "label": "L-amino acid metabolic process",
+      "fdr": 1.5816251444762477e-07,
+      "p_value": 1.5816251444762477e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:00380",
+      "label": "Tryptophan metabolism",
+      "fdr": 1.674725827688267e-07,
+      "p_value": 1.674725827688267e-07,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0006790",
+      "label": "sulfur compound metabolic process",
+      "fdr": 3.7343049554259424e-07,
+      "p_value": 3.7343049554259424e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0072330",
+      "label": "monocarboxylic acid biosynthetic process",
+      "fdr": 4.0240022077621814e-07,
+      "p_value": 4.0240022077621814e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-156580",
+      "label": "Phase II - Conjugation of compounds",
+      "fdr": 4.027065275157887e-07,
+      "p_value": 4.027065275157887e-07,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0031406",
+      "label": "carboxylic acid binding",
+      "fdr": 4.0547537857313576e-07,
+      "p_value": 4.0547537857313576e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0043177",
+      "label": "organic acid binding",
+      "fdr": 4.440834865024175e-07,
+      "p_value": 4.440834865024175e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0030258",
+      "label": "lipid modification",
+      "fdr": 4.698865174001178e-07,
+      "p_value": 4.698865174001178e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006692",
+      "label": "prostanoid metabolic process",
+      "fdr": 8.452905154915457e-07,
+      "p_value": 8.452905154915457e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0008202",
+      "label": "steroid metabolic process",
+      "fdr": 1.108955197479926e-06,
+      "p_value": 1.108955197479926e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031907",
+      "label": "microbody lumen",
+      "fdr": 1.514470185703838e-06,
+      "p_value": 1.514470185703838e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0005782",
+      "label": "peroxisomal matrix",
+      "fdr": 1.514470185703838e-06,
+      "p_value": 1.514470185703838e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0016042",
+      "label": "lipid catabolic process",
+      "fdr": 1.5316780613402565e-06,
+      "p_value": 1.5316780613402565e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0170039",
+      "label": "proteinogenic amino acid metabolic process",
+      "fdr": 1.547624507276555e-06,
+      "p_value": 1.547624507276555e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0001676",
+      "label": "long-chain fatty acid metabolic process",
+      "fdr": 1.9478719675716685e-06,
+      "p_value": 1.9478719675716685e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042802",
+      "label": "identical protein binding",
+      "fdr": 2.50605414174633e-06,
+      "p_value": 2.50605414174633e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0055086",
+      "label": "nucleobase-containing small molecule metabolic process",
+      "fdr": 2.746503289026424e-06,
+      "p_value": 2.746503289026424e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:05204",
+      "label": "Chemical carcinogenesis - DNA adducts",
+      "fdr": 3.3894983500426427e-06,
+      "p_value": 3.3894983500426427e-06,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0042445",
+      "label": "hormone metabolic process",
+      "fdr": 3.6694115337822334e-06,
+      "p_value": 3.6694115337822334e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006721",
+      "label": "terpenoid metabolic process",
+      "fdr": 3.963716941672112e-06,
+      "p_value": 3.963716941672112e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0072329",
+      "label": "monocarboxylic acid catabolic process",
+      "fdr": 4.441212762277916e-06,
+      "p_value": 4.441212762277916e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-71291",
+      "label": "Metabolism of amino acids and derivatives",
+      "fdr": 4.4449555569173e-06,
+      "p_value": 4.4449555569173e-06,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-8978868",
+      "label": "Fatty acid metabolism",
+      "fdr": 4.52834871660149e-06,
+      "p_value": 4.52834871660149e-06,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0008106",
+      "label": "alcohol dehydrogenase (NADP+) activity",
+      "fdr": 4.547342052098662e-06,
+      "p_value": 4.547342052098662e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0006633",
+      "label": "fatty acid biosynthetic process",
+      "fdr": 7.0134723779129405e-06,
+      "p_value": 7.0134723779129405e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005783",
+      "label": "endoplasmic reticulum",
+      "fdr": 7.696238319586452e-06,
+      "p_value": 7.696238319586452e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043168",
+      "label": "anion binding",
+      "fdr": 7.824454369675577e-06,
+      "p_value": 7.824454369675577e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0009056",
+      "label": "catabolic process",
+      "fdr": 8.44938656906836e-06,
+      "p_value": 8.44938656906836e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050660",
+      "label": "flavin adenine dinucleotide binding",
+      "fdr": 8.808462643804933e-06,
+      "p_value": 8.808462643804933e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-2142753",
+      "label": "Arachidonate metabolism",
+      "fdr": 9.39564598999567e-06,
+      "p_value": 9.39564598999567e-06,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006693",
+      "label": "prostaglandin metabolic process",
+      "fdr": 1.1026240128456039e-05,
+      "p_value": 1.1026240128456039e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0001523",
+      "label": "retinoid metabolic process",
+      "fdr": 1.1247441844999062e-05,
+      "p_value": 1.1247441844999062e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:01240",
+      "label": "Biosynthesis of cofactors",
+      "fdr": 1.2068708199759228e-05,
+      "p_value": 1.2068708199759228e-05,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0005504",
+      "label": "fatty acid binding",
+      "fdr": 1.3616643345874336e-05,
+      "p_value": 1.3616643345874336e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0016101",
+      "label": "diterpenoid metabolic process",
+      "fdr": 1.496789362351657e-05,
+      "p_value": 1.496789362351657e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005789",
+      "label": "endoplasmic reticulum membrane",
+      "fdr": 1.5422898012967487e-05,
+      "p_value": 1.5422898012967487e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-5579029",
+      "label": "Metabolic disorders of biological oxidation enzymes",
+      "fdr": 1.6766075666315327e-05,
+      "p_value": 1.6766075666315327e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006720",
+      "label": "isoprenoid metabolic process",
+      "fdr": 1.9787191090560315e-05,
+      "p_value": 1.9787191090560315e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0098827",
+      "label": "endoplasmic reticulum subcompartment",
+      "fdr": 2.0804879157998493e-05,
+      "p_value": 2.0804879157998493e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-211897",
+      "label": "Cytochrome P450 - arranged by substrate type",
+      "fdr": 2.1175570805402466e-05,
+      "p_value": 2.1175570805402466e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0016709",
+      "label": "oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",
+      "fdr": 2.1971254182587918e-05,
+      "p_value": 2.1971254182587918e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0018958",
+      "label": "phenol-containing compound metabolic process",
+      "fdr": 2.259353671538403e-05,
+      "p_value": 2.259353671538403e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042175",
+      "label": "nuclear outer membrane-endoplasmic reticulum membrane network",
+      "fdr": 2.532080551118694e-05,
+      "p_value": 2.532080551118694e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-196854",
+      "label": "Metabolism of vitamins and cofactors",
+      "fdr": 2.695403680968813e-05,
+      "p_value": 2.695403680968813e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0046305",
+      "label": "alkanesulfonate biosynthetic process",
+      "fdr": 2.9095746608016556e-05,
+      "p_value": 2.9095746608016556e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042412",
+      "label": "taurine biosynthetic process",
+      "fdr": 2.9095746608016556e-05,
+      "p_value": 2.9095746608016556e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:00830",
+      "label": "Retinol metabolism",
+      "fdr": 3.705508015068036e-05,
+      "p_value": 3.705508015068036e-05,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0019373",
+      "label": "epoxygenase P450 pathway",
+      "fdr": 4.208845957458251e-05,
+      "p_value": 4.208845957458251e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042417",
+      "label": "dopamine metabolic process",
+      "fdr": 5.378211070403492e-05,
+      "p_value": 5.378211070403492e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006576",
+      "label": "biogenic amine metabolic process",
+      "fdr": 5.5454064694376336e-05,
+      "p_value": 5.5454064694376336e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042803",
+      "label": "protein homodimerization activity",
+      "fdr": 6.1631575905954e-05,
+      "p_value": 6.1631575905954e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005829",
+      "label": "cytosol",
+      "fdr": 7.030054736930308e-05,
+      "p_value": 7.030054736930308e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0006753",
+      "label": "nucleoside phosphate metabolic process",
+      "fdr": 8.330423527377866e-05,
+      "p_value": 8.330423527377866e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009636",
+      "label": "response to toxic substance",
+      "fdr": 0.00010391401901613477,
+      "p_value": 0.00010391401901613477,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1901363",
+      "label": "heterocyclic compound binding",
+      "fdr": 0.00011481155688357218,
+      "p_value": 0.00011481155688357218,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0016829",
+      "label": "lyase activity",
+      "fdr": 0.00011604425797407189,
+      "p_value": 0.00011604425797407189,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0016903",
+      "label": "oxidoreductase activity, acting on the aldehyde or oxo group of donors",
+      "fdr": 0.000134668865295485,
+      "p_value": 0.000134668865295485,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0019369",
+      "label": "arachidonate metabolic process",
+      "fdr": 0.00014434521700532833,
+      "p_value": 0.00014434521700532833,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:00590",
+      "label": "Arachidonic acid metabolism",
+      "fdr": 0.00016286856119817952,
+      "p_value": 0.00016286856119817952,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "KEGG:00983",
+      "label": "Drug metabolism - other enzymes",
+      "fdr": 0.00017392452795116876,
+      "p_value": 0.00017392452795116876,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0009712",
+      "label": "catechol-containing compound metabolic process",
+      "fdr": 0.00017644727617248526,
+      "p_value": 0.00017644727617248526,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006584",
+      "label": "catecholamine metabolic process",
+      "fdr": 0.00017644727617248526,
+      "p_value": 0.00017644727617248526,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009062",
+      "label": "fatty acid catabolic process",
+      "fdr": 0.00018910933798040974,
+      "p_value": 0.00018910933798040974,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0034308",
+      "label": "primary alcohol metabolic process",
+      "fdr": 0.000189992611229705,
+      "p_value": 0.000189992611229705,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0008652",
+      "label": "amino acid biosynthetic process",
+      "fdr": 0.00019978709218774218,
+      "p_value": 0.00019978709218774218,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-556833",
+      "label": "Metabolism of lipids",
+      "fdr": 0.00020367153342135848,
+      "p_value": 0.00020367153342135848,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0072593",
+      "label": "reactive oxygen species metabolic process",
+      "fdr": 0.0002120897506623985,
+      "p_value": 0.0002120897506623985,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:00330",
+      "label": "Arginine and proline metabolism",
+      "fdr": 0.0002148242434507573,
+      "p_value": 0.0002148242434507573,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "KEGG:04146",
+      "label": "Peroxisome",
+      "fdr": 0.0002451609299347453,
+      "p_value": 0.0002451609299347453,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0008391",
+      "label": "arachidonate monooxygenase activity",
+      "fdr": 0.00027143731777935575,
+      "p_value": 0.00027143731777935575,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0008289",
+      "label": "lipid binding",
+      "fdr": 0.00027271937214419295,
+      "p_value": 0.00027271937214419295,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0009308",
+      "label": "amine metabolic process",
+      "fdr": 0.00027520889807567333,
+      "p_value": 0.00027520889807567333,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:00140",
+      "label": "Steroid hormone biosynthesis",
+      "fdr": 0.0002792226348556707,
+      "p_value": 0.0002792226348556707,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:1901700",
+      "label": "response to oxygen-containing compound",
+      "fdr": 0.0003555250425485356,
+      "p_value": 0.0003555250425485356,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0007596",
+      "label": "blood coagulation",
+      "fdr": 0.00035809241653181556,
+      "p_value": 0.00035809241653181556,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0004090",
+      "label": "carbonyl reductase (NADPH) activity",
+      "fdr": 0.00041978375998598307,
+      "p_value": 0.00041978375998598307,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0010876",
+      "label": "lipid localization",
+      "fdr": 0.0004627560724945342,
+      "p_value": 0.0004627560724945342,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-211981",
+      "label": "Xenobiotics",
+      "fdr": 0.0004655677067689826,
+      "p_value": 0.0004655677067689826,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0007599",
+      "label": "hemostasis",
+      "fdr": 0.0005210424620201795,
+      "p_value": 0.0005210424620201795,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050817",
+      "label": "coagulation",
+      "fdr": 0.0005210424620201795,
+      "p_value": 0.0005210424620201795,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016655",
+      "label": "oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor",
+      "fdr": 0.0005227343005462105,
+      "p_value": 0.0005227343005462105,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0042632",
+      "label": "cholesterol homeostasis",
+      "fdr": 0.000549349550203908,
+      "p_value": 0.000549349550203908,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042572",
+      "label": "retinol metabolic process",
+      "fdr": 0.0005572083788152687,
+      "p_value": 0.0005572083788152687,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006809",
+      "label": "nitric oxide biosynthetic process",
+      "fdr": 0.0005608877128646181,
+      "p_value": 0.0005608877128646181,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006979",
+      "label": "response to oxidative stress",
+      "fdr": 0.000603183211889481,
+      "p_value": 0.000603183211889481,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0055092",
+      "label": "sterol homeostasis",
+      "fdr": 0.0006128072462866607,
+      "p_value": 0.0006128072462866607,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016627",
+      "label": "oxidoreductase activity, acting on the CH-CH group of donors",
+      "fdr": 0.0006304050112413181,
+      "p_value": 0.0006304050112413181,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "KEGG:00430",
+      "label": "Taurine and hypotaurine metabolism",
+      "fdr": 0.0007246936540431583,
+      "p_value": 0.0007246936540431583,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "KEGG:01230",
+      "label": "Biosynthesis of amino acids",
+      "fdr": 0.0007361682747613884,
+      "p_value": 0.0007361682747613884,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "KEGG:00480",
+      "label": "Glutathione metabolism",
+      "fdr": 0.0008185150983904132,
+      "p_value": 0.0008185150983904132,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "KEGG:01200",
+      "label": "Carbon metabolism",
+      "fdr": 0.0008185407987874014,
+      "p_value": 0.0008185407987874014,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0000166",
+      "label": "nucleotide binding",
+      "fdr": 0.0008255739743225272,
+      "p_value": 0.0008255739743225272,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0042060",
+      "label": "wound healing",
+      "fdr": 0.000835007962620573,
+      "p_value": 0.000835007962620573,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046209",
+      "label": "nitric oxide metabolic process",
+      "fdr": 0.0009507294203889944,
+      "p_value": 0.0009507294203889944,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0015718",
+      "label": "monocarboxylic acid transport",
+      "fdr": 0.000981860762381188,
+      "p_value": 0.000981860762381188,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042180",
+      "label": "ketone metabolic process",
+      "fdr": 0.00099451984169368,
+      "p_value": 0.00099451984169368,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-2162123",
+      "label": "Synthesis of Prostaglandins (PG) and Thromboxanes (TX)",
+      "fdr": 0.0010008096772831407,
+      "p_value": 0.0010008096772831407,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:04936",
+      "label": "Alcoholic liver disease",
+      "fdr": 0.0010379326986914312,
+      "p_value": 0.0010379326986914312,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0005777",
+      "label": "peroxisome",
+      "fdr": 0.001040331881021194,
+      "p_value": 0.001040331881021194,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0042579",
+      "label": "microbody",
+      "fdr": 0.001040331881021194,
+      "p_value": 0.001040331881021194,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0006869",
+      "label": "lipid transport",
+      "fdr": 0.0010589797407059025,
+      "p_value": 0.0010589797407059025,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:2001057",
+      "label": "reactive nitrogen species metabolic process",
+      "fdr": 0.001078227834200047,
+      "p_value": 0.001078227834200047,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:00071",
+      "label": "Fatty acid degradation",
+      "fdr": 0.0011246225284995677,
+      "p_value": 0.0011246225284995677,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:1901265",
+      "label": "nucleoside phosphate binding",
+      "fdr": 0.001234503653062494,
+      "p_value": 0.001234503653062494,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0046872",
+      "label": "metal ion binding",
+      "fdr": 0.001258062798927644,
+      "p_value": 0.001258062798927644,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0042573",
+      "label": "retinoic acid metabolic process",
+      "fdr": 0.001437590479305043,
+      "p_value": 0.001437590479305043,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006575",
+      "label": "modified amino acid metabolic process",
+      "fdr": 0.0015071931792859814,
+      "p_value": 0.0015071931792859814,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0004030",
+      "label": "aldehyde dehydrogenase [NAD(P)+] activity",
+      "fdr": 0.0015486680167751865,
+      "p_value": 0.0015486680167751865,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0004029",
+      "label": "aldehyde dehydrogenase (NAD+) activity",
+      "fdr": 0.0015486680167751865,
+      "p_value": 0.0015486680167751865,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-9033241",
+      "label": "Peroxisomal protein import",
+      "fdr": 0.0016713400284949968,
+      "p_value": 0.0016713400284949968,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0046983",
+      "label": "protein dimerization activity",
+      "fdr": 0.0018251335266406793,
+      "p_value": 0.0018251335266406793,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0051917",
+      "label": "regulation of fibrinolysis",
+      "fdr": 0.0018369708970719368,
+      "p_value": 0.0018369708970719368,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042953",
+      "label": "lipoprotein transport",
+      "fdr": 0.0018369708970719368,
+      "p_value": 0.0018369708970719368,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031984",
+      "label": "organelle subcompartment",
+      "fdr": 0.001891567874157832,
+      "p_value": 0.001891567874157832,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0062012",
+      "label": "regulation of small molecule metabolic process",
+      "fdr": 0.0021245214094394527,
+      "p_value": 0.0021245214094394527,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0044872",
+      "label": "lipoprotein localization",
+      "fdr": 0.00251945145496461,
+      "p_value": 0.00251945145496461,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0140075",
+      "label": "regulation of lipoprotein transport",
+      "fdr": 0.002530547811171418,
+      "p_value": 0.002530547811171418,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0140077",
+      "label": "positive regulation of lipoprotein transport",
+      "fdr": 0.002530547811171418,
+      "p_value": 0.002530547811171418,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019637",
+      "label": "organophosphate metabolic process",
+      "fdr": 0.002530804185628302,
+      "p_value": 0.002530804185628302,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9018678",
+      "label": "Biosynthesis of specialized proresolving mediators (SPMs)",
+      "fdr": 0.0027486455617413094,
+      "p_value": 0.0027486455617413094,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9748784",
+      "label": "Drug ADME",
+      "fdr": 0.0027531385953731276,
+      "p_value": 0.0027531385953731276,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0043169",
+      "label": "cation binding",
+      "fdr": 0.0028487006936721206,
+      "p_value": 0.0028487006936721206,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0016645",
+      "label": "oxidoreductase activity, acting on the CH-NH group of donors",
+      "fdr": 0.0030396301273735373,
+      "p_value": 0.0030396301273735373,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "KEGG:00770",
+      "label": "Pantothenate and CoA biosynthesis",
+      "fdr": 0.003135658777361913,
+      "p_value": 0.003135658777361913,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0019530",
+      "label": "taurine metabolic process",
+      "fdr": 0.003501502417387938,
+      "p_value": 0.003501502417387938,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019694",
+      "label": "alkanesulfonate metabolic process",
+      "fdr": 0.003501502417387938,
+      "p_value": 0.003501502417387938,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042416",
+      "label": "dopamine biosynthetic process",
+      "fdr": 0.003501502417387938,
+      "p_value": 0.003501502417387938,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:00270",
+      "label": "Cysteine and methionine metabolism",
+      "fdr": 0.003575303313685673,
+      "p_value": 0.003575303313685673,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "KEGG:00340",
+      "label": "Histidine metabolism",
+      "fdr": 0.003998454391148685,
+      "p_value": 0.003998454391148685,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0072521",
+      "label": "purine-containing compound metabolic process",
+      "fdr": 0.004030480321341309,
+      "p_value": 0.004030480321341309,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0008610",
+      "label": "lipid biosynthetic process",
+      "fdr": 0.00404547541381816,
+      "p_value": 0.00404547541381816,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0043227",
+      "label": "membrane-bounded organelle",
+      "fdr": 0.004271784372473247,
+      "p_value": 0.004271784372473247,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0009117",
+      "label": "nucleotide metabolic process",
+      "fdr": 0.004587213289597505,
+      "p_value": 0.004587213289597505,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006636",
+      "label": "unsaturated fatty acid biosynthetic process",
+      "fdr": 0.004634376740531934,
+      "p_value": 0.004634376740531934,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-112311",
+      "label": "Neurotransmitter clearance",
+      "fdr": 0.004828688746351731,
+      "p_value": 0.004828688746351731,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0016860",
+      "label": "intramolecular oxidoreductase activity",
+      "fdr": 0.0048680871699184405,
+      "p_value": 0.0048680871699184405,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005996",
+      "label": "monosaccharide metabolic process",
+      "fdr": 0.005143489895346321,
+      "p_value": 0.005143489895346321,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-156590",
+      "label": "Glutathione conjugation",
+      "fdr": 0.005377386131598597,
+      "p_value": 0.005377386131598597,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0008392",
+      "label": "arachidonate epoxygenase activity",
+      "fdr": 0.00569166644340089,
+      "p_value": 0.00569166644340089,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "KEGG:05208",
+      "label": "Chemical carcinogenesis - reactive oxygen species",
+      "fdr": 0.006120222894363512,
+      "p_value": 0.006120222894363512,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0098754",
+      "label": "detoxification",
+      "fdr": 0.006194279741521233,
+      "p_value": 0.006194279741521233,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019825",
+      "label": "oxygen binding",
+      "fdr": 0.00654934887447012,
+      "p_value": 0.00654934887447012,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0016620",
+      "label": "oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor",
+      "fdr": 0.00654934887447012,
+      "p_value": 0.00654934887447012,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:2000377",
+      "label": "regulation of reactive oxygen species metabolic process",
+      "fdr": 0.006687025734861475,
+      "p_value": 0.006687025734861475,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0097237",
+      "label": "cellular response to toxic substance",
+      "fdr": 0.00691305385390074,
+      "p_value": 0.00691305385390074,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003013",
+      "label": "circulatory system process",
+      "fdr": 0.006974279022138665,
+      "p_value": 0.006974279022138665,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042592",
+      "label": "homeostatic process",
+      "fdr": 0.008061510938572528,
+      "p_value": 0.008061510938572528,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0055088",
+      "label": "lipid homeostasis",
+      "fdr": 0.008156082447153639,
+      "p_value": 0.008156082447153639,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016651",
+      "label": "oxidoreductase activity, acting on NAD(P)H",
+      "fdr": 0.008931406444757694,
+      "p_value": 0.008931406444757694,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0046457",
+      "label": "prostanoid biosynthetic process",
+      "fdr": 0.009435953183812303,
+      "p_value": 0.009435953183812303,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009611",
+      "label": "response to wounding",
+      "fdr": 0.00993579795485082,
+      "p_value": 0.00993579795485082,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0010817",
+      "label": "regulation of hormone levels",
+      "fdr": 0.010325936805304876,
+      "p_value": 0.010325936805304876,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0072562",
+      "label": "blood microparticle",
+      "fdr": 0.010452904364021593,
+      "p_value": 0.010452904364021593,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-71384",
+      "label": "Ethanol oxidation",
+      "fdr": 0.011105936790576932,
+      "p_value": 0.011105936790576932,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0042730",
+      "label": "fibrinolysis",
+      "fdr": 0.011806568773231677,
+      "p_value": 0.011806568773231677,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006950",
+      "label": "response to stress",
+      "fdr": 0.012027534358432292,
+      "p_value": 0.012027534358432292,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050878",
+      "label": "regulation of body fluid levels",
+      "fdr": 0.012032636006848074,
+      "p_value": 0.012032636006848074,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006006",
+      "label": "glucose metabolic process",
+      "fdr": 0.012183056880982516,
+      "p_value": 0.012183056880982516,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0170040",
+      "label": "proteinogenic amino acid catabolic process",
+      "fdr": 0.012242044990754392,
+      "p_value": 0.012242044990754392,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5668914",
+      "label": "Diseases of metabolism",
+      "fdr": 0.013347154858327244,
+      "p_value": 0.013347154858327244,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0051918",
+      "label": "negative regulation of fibrinolysis",
+      "fdr": 0.013382519679374639,
+      "p_value": 0.013382519679374639,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006635",
+      "label": "fatty acid beta-oxidation",
+      "fdr": 0.013637522135323672,
+      "p_value": 0.013637522135323672,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0015849",
+      "label": "organic acid transport",
+      "fdr": 0.014905262034638824,
+      "p_value": 0.014905262034638824,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046942",
+      "label": "carboxylic acid transport",
+      "fdr": 0.014905262034638824,
+      "p_value": 0.014905262034638824,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0170035",
+      "label": "L-amino acid catabolic process",
+      "fdr": 0.015162474520588498,
+      "p_value": 0.015162474520588498,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-189445",
+      "label": "Metabolism of porphyrins",
+      "fdr": 0.015595727111963479,
+      "p_value": 0.015595727111963479,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0019318",
+      "label": "hexose metabolic process",
+      "fdr": 0.016122102275794546,
+      "p_value": 0.016122102275794546,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9609507",
+      "label": "Protein localization",
+      "fdr": 0.016706690477734456,
+      "p_value": 0.016706690477734456,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:04610",
+      "label": "Complement and coagulation cascades",
+      "fdr": 0.016804688603076576,
+      "p_value": 0.016804688603076576,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "KEGG:00360",
+      "label": "Phenylalanine metabolism",
+      "fdr": 0.01682736895940987,
+      "p_value": 0.01682736895940987,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0042537",
+      "label": "benzene-containing compound metabolic process",
+      "fdr": 0.019153922218531752,
+      "p_value": 0.019153922218531752,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0033540",
+      "label": "fatty acid beta-oxidation using acyl-CoA oxidase",
+      "fdr": 0.019153922218531752,
+      "p_value": 0.019153922218531752,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:00620",
+      "label": "Pyruvate metabolism",
+      "fdr": 0.019959160882696156,
+      "p_value": 0.019959160882696156,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "KEGG:00010",
+      "label": "Glycolysis / Gluconeogenesis",
+      "fdr": 0.021038787551876464,
+      "p_value": 0.021038787551876464,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0030195",
+      "label": "negative regulation of blood coagulation",
+      "fdr": 0.021106887190205717,
+      "p_value": 0.021106887190205717,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1901607",
+      "label": "alpha-amino acid biosynthetic process",
+      "fdr": 0.021106887190205717,
+      "p_value": 0.021106887190205717,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1900047",
+      "label": "negative regulation of hemostasis",
+      "fdr": 0.021106887190205717,
+      "p_value": 0.021106887190205717,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-156581",
+      "label": "Methylation",
+      "fdr": 0.021914616572917028,
+      "p_value": 0.021914616572917028,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-189483",
+      "label": "Heme degradation",
+      "fdr": 0.021914616572917028,
+      "p_value": 0.021914616572917028,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0031090",
+      "label": "organelle membrane",
+      "fdr": 0.022613953409309807,
+      "p_value": 0.022613953409309807,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:1901606",
+      "label": "alpha-amino acid catabolic process",
+      "fdr": 0.022749572730802737,
+      "p_value": 0.022749572730802737,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0044272",
+      "label": "sulfur compound biosynthetic process",
+      "fdr": 0.02276999258646058,
+      "p_value": 0.02276999258646058,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042360",
+      "label": "vitamin E metabolic process",
+      "fdr": 0.02487103846790642,
+      "p_value": 0.02487103846790642,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050819",
+      "label": "negative regulation of coagulation",
+      "fdr": 0.02729131450765391,
+      "p_value": 0.02729131450765391,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005496",
+      "label": "steroid binding",
+      "fdr": 0.028073862273822345,
+      "p_value": 0.028073862273822345,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0044238",
+      "label": "primary metabolic process",
+      "fdr": 0.030706228755721626,
+      "p_value": 0.030706228755721626,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000096",
+      "label": "sulfur amino acid metabolic process",
+      "fdr": 0.03146021551982256,
+      "p_value": 0.03146021551982256,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:00740",
+      "label": "Riboflavin metabolism",
+      "fdr": 0.03208967654044214,
+      "p_value": 0.03208967654044214,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0031091",
+      "label": "platelet alpha granule",
+      "fdr": 0.034466498202894734,
+      "p_value": 0.034466498202894734,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "KEGG:04979",
+      "label": "Cholesterol metabolism",
+      "fdr": 0.03510615033522197,
+      "p_value": 0.03510615033522197,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "KEGG:04913",
+      "label": "Ovarian steroidogenesis",
+      "fdr": 0.03510615033522197,
+      "p_value": 0.03510615033522197,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0009713",
+      "label": "catechol-containing compound biosynthetic process",
+      "fdr": 0.03590264107011396,
+      "p_value": 0.03590264107011396,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042423",
+      "label": "catecholamine biosynthetic process",
+      "fdr": 0.03590264107011396,
+      "p_value": 0.03590264107011396,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0004022",
+      "label": "alcohol dehydrogenase (NAD+) activity",
+      "fdr": 0.038749149454127295,
+      "p_value": 0.038749149454127295,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-9018677",
+      "label": "Biosynthesis of DHA-derived SPMs",
+      "fdr": 0.0388804045086725,
+      "p_value": 0.0388804045086725,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0019842",
+      "label": "vitamin binding",
+      "fdr": 0.03916044966837619,
+      "p_value": 0.03916044966837619,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005739",
+      "label": "mitochondrion",
+      "fdr": 0.04372790828416464,
+      "p_value": 0.04372790828416464,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0042401",
+      "label": "biogenic amine biosynthetic process",
+      "fdr": 0.04416766550309315,
+      "p_value": 0.04416766550309315,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000038",
+      "label": "very long-chain fatty acid metabolic process",
+      "fdr": 0.04416766550309315,
+      "p_value": 0.04416766550309315,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031093",
+      "label": "platelet alpha granule lumen",
+      "fdr": 0.044893784096774116,
+      "p_value": 0.044893784096774116,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "KEGG:03320",
+      "label": "PPAR signaling pathway",
+      "fdr": 0.04611835639874301,
+      "p_value": 0.04611835639874301,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0016830",
+      "label": "carbon-carbon lyase activity",
+      "fdr": 0.04670208943806525,
+      "p_value": 0.04670208943806525,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0009119",
+      "label": "ribonucleoside metabolic process",
+      "fdr": 0.04743383332754928,
+      "p_value": 0.04743383332754928,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005759",
+      "label": "mitochondrial matrix",
+      "fdr": 0.04787086399215623,
+      "p_value": 0.04787086399215623,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0050896",
+      "label": "response to stimulus",
+      "fdr": 0.048083227991903385,
+      "p_value": 0.048083227991903385,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1990748",
+      "label": "cellular detoxification",
+      "fdr": 0.049300133320093725,
+      "p_value": 0.049300133320093725,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0010430",
+      "label": "fatty acid omega-oxidation",
+      "fdr": 0.04931358910465275,
+      "p_value": 0.04931358910465275,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9759194",
+      "label": "Nuclear events mediated by NFE2L2",
+      "fdr": 0.04990240271320189,
+      "p_value": 0.04990240271320189,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0047822",
+      "label": "hypotaurine monooxygenase activity",
+      "fdr": 0.04996694602327171,
+      "p_value": 0.04996694602327171,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0018467",
+      "label": "formaldehyde dehydrogenase (NAD+) activity",
+      "fdr": 0.04996694602327171,
+      "p_value": 0.04996694602327171,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+model,n_runs,valid_rate_mean,ci_low,ci_high
+groq-gpt-oss-120b,87,0.3505,0.3464,0.3550
+groq-qwen3.8-27b,92,0.2014,0.1981,0.2045
+qwen2.5-7b,36,0.1525,0.1525,0.1525

@@ -1,0 +1,900 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<title>GroundAnnot report</title>
+<style>
+body { font-family: system-ui, sans-serif; max-width: 1100px; margin: 2em auto; }
+h1 { border-bottom: 2px solid #333; }
+h2 { margin-top: 2em; color: #444; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: 0.9em; }
+th, td { border: 1px solid #ccc; padding: 6px 8px; text-align: left; }
+th { background: #f0f0f0; }
+.gene-card { border: 1px solid #ddd; padding: 1em; margin: 1em 0; border-radius: 6px; }
+.gene-card h3 { margin-top: 0; }
+.small { color: #666; font-size: 0.85em; }
+.section-tag { display: inline-block; background: #eee; padding: 2px 8px;
+               border-radius: 4px; font-size: 0.8em; }
+.closed { background: #e8f4ea; }
+.context { background: #f4f0e8; }
+</style></head><body>
+
+<h1>GroundAnnot report — TGF_BETA_SIGNALING</h1>
+<p class="small">Run: 2026-09-25T08:25:10 &nbsp;|&nbsp; Organism: human
+&nbsp;|&nbsp; Input genes: 54</p>
+<p class="small">Genes: TGFBR1, SMAD7, TGFB1, SMURF2, SMURF1, BMPR2, SKIL, SKI, ACVR1, PMEPA1, NCOR2, SERPINE1, JUNB, SMAD1, SMAD6, PPP1R15A, TGIF1, FURIN, SMAD3, FKBP1A, MAP3K7, BMPR1A, CTNNB1, HIPK2, KLF10, BMP2, ENG, APC, PPM1A, XIAP, CDH1, ID1, LEFTY2, CDKN1C, TRIM33, RAB31, TJP1, SLC20A1, CDK9, ID3, NOG, ARID4B, IFNGR2, ID2, PPP1CA, SPTBN1, WWTR1, BCAR3, THBS1, FNTA, HDAC1, UBE2D3, LTBP2, RHOA</p>
+
+<h2><span class="section-tag closed">Closed vocabulary</span> Enrichment</h2>
+<p>The language model may cite term IDs only from the tables below.</p>
+
+
+<h3>PANTHER</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0090092</td><td>regulation of transmembrane receptor protein serine/threonine kinase signaling pathway</td>
+<td>2.15e-36</td>
+<td>2.96e-32</td></tr>
+
+<tr><td>GO:0007178</td><td>cell surface receptor protein serine/threonine kinase signaling pathway</td>
+<td>2.28e-33</td>
+<td>1.57e-29</td></tr>
+
+<tr><td>GO:0141091</td><td>transforming growth factor beta receptor superfamily signaling pathway</td>
+<td>1.57e-30</td>
+<td>7.19e-27</td></tr>
+
+<tr><td>GO:0070848</td><td>response to growth factor</td>
+<td>8.11e-28</td>
+<td>2.79e-24</td></tr>
+
+<tr><td>GO:0071363</td><td>cellular response to growth factor stimulus</td>
+<td>5.63e-27</td>
+<td>1.55e-23</td></tr>
+
+<tr><td>GO:0090101</td><td>negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway</td>
+<td>7.01e-27</td>
+<td>1.61e-23</td></tr>
+
+<tr><td>GO:0007167</td><td>enzyme-linked receptor protein signaling pathway</td>
+<td>2.69e-25</td>
+<td>5.29e-22</td></tr>
+
+<tr><td>GO:0017015</td><td>regulation of transforming growth factor beta receptor signaling pathway</td>
+<td>3.50e-25</td>
+<td>6.03e-22</td></tr>
+
+<tr><td>GO:1903844</td><td>regulation of cellular response to transforming growth factor beta stimulus</td>
+<td>5.32e-25</td>
+<td>8.14e-22</td></tr>
+
+<tr><td>GO:0071495</td><td>cellular response to endogenous stimulus</td>
+<td>8.26e-25</td>
+<td>1.14e-21</td></tr>
+
+<tr><td>GO:0009719</td><td>response to endogenous stimulus</td>
+<td>2.07e-24</td>
+<td>2.59e-21</td></tr>
+
+<tr><td>GO:0090287</td><td>regulation of cellular response to growth factor stimulus</td>
+<td>3.03e-24</td>
+<td>3.48e-21</td></tr>
+
+<tr><td>GO:0007179</td><td>transforming growth factor beta receptor signaling pathway</td>
+<td>1.29e-22</td>
+<td>1.36e-19</td></tr>
+
+<tr><td>GO:0060390</td><td>regulation of SMAD protein signal transduction</td>
+<td>6.97e-22</td>
+<td>6.85e-19</td></tr>
+
+<tr><td>GO:0009968</td><td>negative regulation of signal transduction</td>
+<td>2.68e-21</td>
+<td>2.46e-18</td></tr>
+
+<tr><td>GO:0009966</td><td>regulation of signal transduction</td>
+<td>1.25e-20</td>
+<td>1.08e-17</td></tr>
+
+<tr><td>GO:0010648</td><td>negative regulation of cell communication</td>
+<td>1.53e-20</td>
+<td>1.24e-17</td></tr>
+
+<tr><td>GO:0023057</td><td>negative regulation of signaling</td>
+<td>1.53e-20</td>
+<td>1.17e-17</td></tr>
+
+<tr><td>GO:0030512</td><td>negative regulation of transforming growth factor beta receptor signaling pathway</td>
+<td>3.20e-20</td>
+<td>2.32e-17</td></tr>
+
+<tr><td>GO:0048585</td><td>negative regulation of response to stimulus</td>
+<td>9.06e-20</td>
+<td>6.24e-17</td></tr>
+
+<tr><td>GO:0071560</td><td>cellular response to transforming growth factor beta stimulus</td>
+<td>1.03e-19</td>
+<td>6.78e-17</td></tr>
+
+<tr><td>GO:0023051</td><td>regulation of signaling</td>
+<td>1.16e-19</td>
+<td>7.29e-17</td></tr>
+
+<tr><td>GO:0010646</td><td>regulation of cell communication</td>
+<td>1.28e-19</td>
+<td>7.68e-17</td></tr>
+
+<tr><td>GO:0048519</td><td>negative regulation of biological process</td>
+<td>1.30e-19</td>
+<td>7.47e-17</td></tr>
+
+<tr><td>GO:0048583</td><td>regulation of response to stimulus</td>
+<td>1.38e-19</td>
+<td>7.62e-17</td></tr>
+
+</table>
+
+<h3>Enrichr</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0017015</td><td>Regulation of Transforming Growth Factor Beta Receptor Signaling Pathway</td>
+<td>2.04e-25</td>
+<td>1.50e-22</td></tr>
+
+<tr><td>GO:0090101</td><td>- Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway</td>
+<td>2.75e-25</td>
+<td>1.50e-22</td></tr>
+
+<tr><td>GO:0141091</td><td>Transforming Growth Factor Beta Receptor Superfamily Signaling Pathway</td>
+<td>7.32e-24</td>
+<td>2.67e-21</td></tr>
+
+<tr><td>GO:0060390</td><td>Regulation of SMAD Protein Signal Transduction</td>
+<td>5.13e-20</td>
+<td>1.19e-17</td></tr>
+
+<tr><td>GO:0030512</td><td>Negative Regulation of Transforming Growth Factor Beta Receptor Signaling Pathway</td>
+<td>5.44e-20</td>
+<td>1.19e-17</td></tr>
+
+<tr><td>GO:0007179</td><td>Transforming Growth Factor Beta Receptor Signaling Pathway</td>
+<td>1.10e-18</td>
+<td>2.01e-16</td></tr>
+
+<tr><td>GO:0030510</td><td>Regulation of BMP Signaling Pathway</td>
+<td>1.30e-18</td>
+<td>2.03e-16</td></tr>
+
+<tr><td>GO:0030514</td><td>Negative Regulation of BMP Signaling Pathway</td>
+<td>2.53e-17</td>
+<td>3.36e-15</td></tr>
+
+<tr><td>GO:0071560</td><td>Cellular Response to Transforming Growth Factor Beta Stimulus</td>
+<td>2.76e-17</td>
+<td>3.36e-15</td></tr>
+
+<tr><td>GO:0090288</td><td>Negative Regulation of Cellular Response to Growth Factor Stimulus</td>
+<td>5.89e-17</td>
+<td>6.43e-15</td></tr>
+
+<tr><td>GO:0045892</td><td>Negative Regulation of DNA-templated Transcription</td>
+<td>3.64e-15</td>
+<td>3.62e-13</td></tr>
+
+<tr><td>GO:0090100</td><td>+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway</td>
+<td>2.02e-14</td>
+<td>1.84e-12</td></tr>
+
+<tr><td>GO:0000122</td><td>Negative Regulation of Transcription by RNA Polymerase II</td>
+<td>2.23e-14</td>
+<td>1.87e-12</td></tr>
+
+<tr><td>GO:0006357</td><td>Regulation of Transcription by RNA Polymerase II</td>
+<td>2.55e-14</td>
+<td>1.99e-12</td></tr>
+
+<tr><td>GO:0007178</td><td>Cell Surface Receptor Protein Serine/Threonine Kinase Signaling Pathway</td>
+<td>3.23e-13</td>
+<td>2.36e-11</td></tr>
+
+<tr><td>GO:1902533</td><td>Positive Regulation of Intracellular Signal Transduction</td>
+<td>6.61e-13</td>
+<td>4.52e-11</td></tr>
+
+<tr><td>GO:0042127</td><td>Regulation of Cell Population Proliferation</td>
+<td>7.32e-13</td>
+<td>4.71e-11</td></tr>
+
+<tr><td>GO:0051240</td><td>Positive Regulation of Multicellular Organismal Process</td>
+<td>2.59e-12</td>
+<td>1.57e-10</td></tr>
+
+<tr><td>GO:0055010</td><td>Ventricular Cardiac Muscle Tissue Morphogenesis</td>
+<td>2.83e-12</td>
+<td>1.63e-10</td></tr>
+
+<tr><td>GO:0060395</td><td>SMAD Protein Signal Transduction</td>
+<td>5.26e-12</td>
+<td>2.88e-10</td></tr>
+
+<tr><td>GO:0060391</td><td>Positive Regulation of SMAD Protein Signal Transduction</td>
+<td>1.00e-11</td>
+<td>5.23e-10</td></tr>
+
+<tr><td>GO:0060392</td><td>Negative Regulation of SMAD Protein Signal Transduction</td>
+<td>2.10e-11</td>
+<td>1.04e-09</td></tr>
+
+<tr><td>GO:0030509</td><td>BMP Signaling Pathway</td>
+<td>4.04e-11</td>
+<td>1.92e-09</td></tr>
+
+<tr><td>GO:0051094</td><td>Positive Regulation of Developmental Process</td>
+<td>4.48e-11</td>
+<td>2.04e-09</td></tr>
+
+<tr><td>GO:0048660</td><td>Regulation of Smooth Muscle Cell Proliferation</td>
+<td>1.12e-10</td>
+<td>4.72e-09</td></tr>
+
+</table>
+
+<h3>g:Profiler</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>REAC:R-HSA-9006936</td><td>Signaling by TGFB family members</td>
+<td>1.86e-43</td>
+<td>1.86e-43</td></tr>
+
+<tr><td>GO:0007178</td><td>cell surface receptor protein serine/threonine kinase signaling pathway</td>
+<td>3.28e-41</td>
+<td>3.28e-41</td></tr>
+
+<tr><td>GO:0141091</td><td>transforming growth factor beta receptor superfamily signaling pathway</td>
+<td>5.16e-40</td>
+<td>5.16e-40</td></tr>
+
+<tr><td>GO:0007179</td><td>transforming growth factor beta receptor signaling pathway</td>
+<td>2.99e-38</td>
+<td>2.99e-38</td></tr>
+
+<tr><td>REAC:R-HSA-170834</td><td>Signaling by TGF-beta Receptor Complex</td>
+<td>1.27e-37</td>
+<td>1.27e-37</td></tr>
+
+<tr><td>GO:0071560</td><td>cellular response to transforming growth factor beta stimulus</td>
+<td>1.56e-36</td>
+<td>1.56e-36</td></tr>
+
+<tr><td>GO:0071559</td><td>response to transforming growth factor beta</td>
+<td>3.71e-36</td>
+<td>3.71e-36</td></tr>
+
+<tr><td>GO:0071363</td><td>cellular response to growth factor stimulus</td>
+<td>3.35e-33</td>
+<td>3.35e-33</td></tr>
+
+<tr><td>GO:0070848</td><td>response to growth factor</td>
+<td>9.48e-33</td>
+<td>9.48e-33</td></tr>
+
+<tr><td>GO:0090092</td><td>regulation of transmembrane receptor protein serine/threonine kinase signaling pathway</td>
+<td>1.92e-31</td>
+<td>1.92e-31</td></tr>
+
+<tr><td>KEGG:04350</td><td>TGF-beta signaling pathway</td>
+<td>3.98e-31</td>
+<td>3.98e-31</td></tr>
+
+<tr><td>GO:0007167</td><td>enzyme-linked receptor protein signaling pathway</td>
+<td>6.64e-31</td>
+<td>6.64e-31</td></tr>
+
+<tr><td>GO:0071495</td><td>cellular response to endogenous stimulus</td>
+<td>9.02e-31</td>
+<td>9.02e-31</td></tr>
+
+<tr><td>GO:0009719</td><td>response to endogenous stimulus</td>
+<td>1.70e-30</td>
+<td>1.70e-30</td></tr>
+
+<tr><td>GO:0046332</td><td>SMAD binding</td>
+<td>1.73e-26</td>
+<td>1.73e-26</td></tr>
+
+<tr><td>REAC:R-HSA-2173793</td><td>Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer</td>
+<td>3.82e-24</td>
+<td>3.82e-24</td></tr>
+
+<tr><td>GO:0060395</td><td>SMAD protein signal transduction</td>
+<td>1.81e-22</td>
+<td>1.81e-22</td></tr>
+
+<tr><td>GO:0090101</td><td>negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway</td>
+<td>3.66e-22</td>
+<td>3.66e-22</td></tr>
+
+<tr><td>GO:0030509</td><td>BMP signaling pathway</td>
+<td>9.38e-21</td>
+<td>9.38e-21</td></tr>
+
+<tr><td>GO:0017015</td><td>regulation of transforming growth factor beta receptor signaling pathway</td>
+<td>1.09e-20</td>
+<td>1.09e-20</td></tr>
+
+<tr><td>GO:1903844</td><td>regulation of cellular response to transforming growth factor beta stimulus</td>
+<td>1.47e-20</td>
+<td>1.47e-20</td></tr>
+
+<tr><td>GO:0071772</td><td>response to BMP</td>
+<td>2.27e-20</td>
+<td>2.27e-20</td></tr>
+
+<tr><td>GO:0071773</td><td>cellular response to BMP stimulus</td>
+<td>2.27e-20</td>
+<td>2.27e-20</td></tr>
+
+<tr><td>GO:0007166</td><td>cell surface receptor signaling pathway</td>
+<td>5.12e-20</td>
+<td>5.12e-20</td></tr>
+
+<tr><td>GO:0090287</td><td>regulation of cellular response to growth factor stimulus</td>
+<td>1.18e-19</td>
+<td>1.18e-19</td></tr>
+
+</table>
+
+
+<h2><span class="section-tag context">Context only</span> Per-gene annotations</h2>
+<p>The language model may read these for narrative but must not cite them as enrichment evidence.</p>
+
+
+<div class="gene-card">
+<h3>TGFBR1 — transforming growth factor beta receptor 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene forms a heteromeric complex with type II TGF-beta receptors when bound to TGF-beta, transducing the TGF-beta signal from the cell surface to the cytoplasm. The encoded protein is a serine/threonine protein kinase. Mutations in this gene have been associated with Loeys-Dietz aortic aneurysm syndrome (LDAS). Multiple transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Aug 2008].</p>
+<p><b>GO:BP:</b> skeletal system development; in utero embryonic development; kidney development; epithelial to mesenchymal transition; positive regulation of endothelial cell proliferation; ventricular trabecula myocardium morphogenesis</p>
+<p><b>GO:MF:</b> protein kinase activity; protein serine/threonine kinase activity; transmembrane receptor protein serine/threonine kinase activity; transforming growth factor beta receptor activity; transforming growth factor beta receptor activity, type I; signaling receptor binding</p>
+<p><b>GO:CC:</b> nucleus; endosome; plasma membrane; bicellular tight junction; cell surface; membrane</p>
+<p><b>Pathways:</b> MAPK signaling pathway - Homo sapiens (human) (kegg); Cytokine-cytokine receptor interaction - Homo sapiens (human) (kegg); FoxO signaling pathway - Homo sapiens (human) (kegg); Endocytosis - Homo sapiens (human) (kegg); Cellular senescence - Homo sapiens (human) (kegg); TGF-beta signaling pathway - Homo sapiens (human) (kegg); Apelin signaling pathway - Homo sapiens (human) (kegg); Osteoclast differentiation - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Ser/Thr protein kinase, TGFB receptor; Activin types I and II receptor domain; Protein kinase domain; GS domain; Serine/threonine-protein kinase, active site; Protein kinase-like domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>SMAD7 — SMAD family member 7</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a nuclear protein that binds the E3 ubiquitin ligase SMURF2. Upon binding, this complex translocates to the cytoplasm, where it interacts with TGF-beta receptor type-1 (TGFBR1), leading to the degradation of both the encoded protein and TGFBR1. Expression of this gene is induced by TGFBR1. Variations in this gene are a cause of susceptibility to colorectal cancer type 3 (CRCS3). Several transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Jun 2010].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; ureteric bud development; negative regulation of T cell cytokine production; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; transforming growth factor beta receptor signaling pathway</p>
+<p><b>GO:MF:</b> transcription corepressor activity; protein binding; collagen binding; beta-catenin binding; ubiquitin protein ligase binding; type I transforming growth factor beta receptor binding</p>
+<p><b>GO:CC:</b> chromatin; fibrillar center; nucleus; nucleoplasm; transcription regulator complex; cytoplasm</p>
+<p><b>Pathways:</b> TGF-beta signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Cytokine Signaling in Immune system (reactome); Signal Transduction (reactome); Immune System (reactome); Signaling by TGF-beta Receptor Complex (reactome); Signaling by BMP (reactome); Generic Transcription Pathway (reactome)</p>
+<p><b>InterPro:</b> SMAD domain, Dwarfin-type; MAD homology 1, Dwarfin-type; SMAD/FHA domain superfamily; MAD homology, MH1; Dwarfin; SMAD-like domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>TGFB1 — transforming growth factor beta 1</h3>
+<p><b>Summary:</b> This gene encodes a secreted ligand of the TGF-beta (transforming growth factor-beta) superfamily of proteins. Ligands of this family bind various TGF-beta receptors leading to recruitment and activation of SMAD family transcription factors that regulate gene expression. The encoded preproprotein is proteolytically processed to generate a latency-associated peptide (LAP) and a mature peptide, and is found in either a latent form composed of a mature peptide homodimer, a LAP homodimer, and a latent TGF-beta binding protein, or in an active form consisting solely of the mature peptide homodimer. The mature peptide may also form heterodimers with other TGFB family members. This encoded protein regulates cell proliferation, differentiation and growth, and can modulate expression and activation of other growth factors including interferon gamma and tumor necrosis factor alpha. This gene is frequently upregulated in tumor cells, and mutations in this gene result in Camurati-Engelmann disease. [provided by RefSeq, Aug 2016].</p>
+<p><b>GO:BP:</b> skeletal system development; regulation of cell growth; vasculogenesis; ureteric bud development; response to hypoxia; morphogenesis of a branching structure</p>
+<p><b>GO:MF:</b> type II transforming growth factor beta receptor binding; cytokine activity; transforming growth factor beta receptor binding; protein binding; growth factor activity; enzyme binding</p>
+<p><b>GO:CC:</b> extracellular region; nucleus; cytoplasm; Golgi lumen; plasma membrane; microvillus</p>
+<p><b>Pathways:</b> MAPK signaling pathway - Homo sapiens (human) (kegg); Cytokine-cytokine receptor interaction - Homo sapiens (human) (kegg); FoxO signaling pathway - Homo sapiens (human) (kegg); Cell cycle - Homo sapiens (human) (kegg); Cellular senescence - Homo sapiens (human) (kegg); TGF-beta signaling pathway - Homo sapiens (human) (kegg); Osteoclast differentiation - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> TGF-beta, propeptide; Transforming growth factor-beta, C-terminal; Transforming growth factor beta-1 proprotein; Transforming growth factor-beta-related; Transforming growth factor-beta; Transforming growth factor beta, conserved site</p>
+</div>
+
+<div class="gene-card">
+<h3>SMURF2 — SMAD specific E3 ubiquitin protein ligase 2</h3>
+<p><b>Summary:</b> Enables SMAD binding activity; identical protein binding activity; and ubiquitin-protein transferase activity. Involved in negative regulation of transforming growth factor beta receptor signaling pathway; positive regulation of trophoblast cell migration; and ubiquitin-dependent SMAD protein catabolic process. Located in nuclear speck. Part of ubiquitin ligase complex. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; ubiquitin-dependent protein catabolic process; positive regulation of signal transduction; protein ubiquitination; regulation of transforming growth factor beta receptor signaling pathway; negative regulation of transforming growth factor beta receptor signaling pathway</p>
+<p><b>GO:MF:</b> ubiquitin-protein transferase activity; protein binding; identical protein binding; SMAD binding; ubiquitin protein ligase activity</p>
+<p><b>GO:CC:</b> ubiquitin ligase complex; nucleus; nucleoplasm; cytoplasm; lysosome; cytosol</p>
+<p><b>Pathways:</b> Ubiquitin mediated proteolysis - Homo sapiens (human) (kegg); Endocytosis - Homo sapiens (human) (kegg); Hedgehog signaling pathway - Homo sapiens (human) (kegg); TGF-beta signaling pathway - Homo sapiens (human) (kegg); Adaptive Immune System (reactome); Signal Transduction (reactome); Immune System (reactome); Signaling by TGF-beta Receptor Complex (reactome)</p>
+<p><b>InterPro:</b> C2 domain; HECT domain; WW domain; E3 ubiquitin-protein ligase, SMURF1 type; C2 domain superfamily; HECT, E3 ligase catalytic domain</p>
+</div>
+
+<div class="gene-card">
+<h3>SMURF1 — SMAD specific E3 ubiquitin protein ligase 1</h3>
+<p><b>Summary:</b> This gene encodes a ubiquitin ligase that is specific for receptor-regulated SMAD proteins in the bone morphogenetic protein (BMP) pathway. This protein plays a key roll in the regulation of cell motility, cell signalling, and cell polarity. Alternative splicing results in multiple transcript variants encoding different isoforms.[provided by RefSeq, Dec 2010].</p>
+<p><b>GO:BP:</b> protein polyubiquitination; ubiquitin-dependent protein catabolic process; protein export from nucleus; ectoderm development; protein ubiquitination; cell differentiation</p>
+<p><b>GO:MF:</b> ubiquitin-protein transferase activity; transforming growth factor beta receptor binding; protein binding; phospholipid binding; SMAD binding; ubiquitin protein ligase activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm; mitochondrion; lysosome; cytosol</p>
+<p><b>Pathways:</b> Ubiquitin mediated proteolysis - Homo sapiens (human) (kegg); Endocytosis - Homo sapiens (human) (kegg); Hedgehog signaling pathway - Homo sapiens (human) (kegg); TGF-beta signaling pathway - Homo sapiens (human) (kegg); Adaptive Immune System (reactome); Signal Transduction (reactome); Immune System (reactome); Signaling by TGF-beta Receptor Complex (reactome)</p>
+<p><b>InterPro:</b> C2 domain; HECT domain; WW domain; E3 ubiquitin-protein ligase, SMURF1 type; C2 domain superfamily; HECT, E3 ligase catalytic domain</p>
+</div>
+
+<div class="gene-card">
+<h3>BMPR2 — bone morphogenetic protein receptor type 2</h3>
+<p><b>Summary:</b> This gene encodes a member of the bone morphogenetic protein (BMP) receptor family of transmembrane serine/threonine kinases. The ligands of this receptor are members of the TGF-beta superfamily. BMPs are involved in endochondral bone formation and embryogenesis. These proteins transduce their signals through the formation of heteromeric complexes of two different types of serine (threonine) kinase receptors: type I receptors of about 50-55 kD and type II receptors of about 70-80 kD. Mutations in this gene have been associated with primary pulmonary hypertension, both familial and fenfluramine-associated, and with pulmonary venoocclusive disease. [provided by RefSeq, May 2020].</p>
+<p><b>GO:BP:</b> regulation of cell growth; blood vessel development; osteoblast differentiation; mesoderm formation; endothelial cell proliferation; vasculature development</p>
+<p><b>GO:MF:</b> protein serine/threonine kinase activity; transmembrane receptor protein serine/threonine kinase activity; transforming growth factor beta receptor activity; protein binding; ATP binding; activin receptor activity, type II</p>
+<p><b>GO:CC:</b> extracellular region; plasma membrane; caveola; clathrin-coated pit; adherens junction; cell surface</p>
+<p><b>Pathways:</b> Cytokine-cytokine receptor interaction - Homo sapiens (human) (kegg); TGF-beta signaling pathway - Homo sapiens (human) (kegg); Axon guidance - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); MicroRNAs in cancer - Homo sapiens (human) (kegg); Fluid shear stress and atherosclerosis - Homo sapiens (human) (kegg); Signal Transduction (reactome)</p>
+<p><b>InterPro:</b> Ser/Thr protein kinase, TGFB receptor; Activin types I and II receptor domain; Protein kinase domain; Protein kinase-like domain superfamily; Transforming growth factor-beta receptor, type II; Protein kinase, ATP binding site</p>
+</div>
+
+<div class="gene-card">
+<h3>SKIL — SKI like proto-oncogene</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a component of the SMAD pathway, which regulates cell growth and differentiation through transforming growth factor-beta (TGFB). In the absence of ligand, the encoded protein binds to the promoter region of TGFB-responsive genes and recruits a nuclear repressor complex. TGFB signaling causes SMAD3 to enter the nucleus and degrade this protein, allowing these genes to be activated. Four transcript variants encoding three different isoforms have been found for this gene. [provided by RefSeq, Oct 2011].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; spermatogenesis; skeletal muscle tissue development; negative regulation of transforming growth factor beta receptor signaling pathway; negative regulation of BMP signaling pathway; response to cytokine</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription repressor activity, RNA polymerase II-specific; chromatin binding; protein binding; protein domain specific binding</p>
+<p><b>GO:CC:</b> acrosomal vesicle; nucleus; nucleoplasm; transcription regulator complex; cytoplasm; PML body</p>
+<p><b>Pathways:</b> Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Signal Transduction (reactome); Signaling by TGF-beta Receptor Complex (reactome); Generic Transcription Pathway (reactome); Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer (reactome); Downregulation of SMAD2/3:SMAD4 transcriptional activity (reactome); RNA Polymerase II Transcription (reactome); Gene expression (Transcription) (reactome)</p>
+<p><b>InterPro:</b> SKI/SNO/DAC domain; Putative DNA-binding domain superfamily; SAND-like domain superfamily; c-SKI SMAD4-binding domain; Transcription regulator SKI/SnoN; Ski-like, DNA-binding domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>SKI — SKI proto-oncogene</h3>
+<p><b>Summary:</b> This gene encodes the nuclear protooncogene protein homolog of avian sarcoma viral (v-ski) oncogene. It functions as a repressor of TGF-beta signaling, and may play a role in neural tube development and muscle differentiation. [provided by RefSeq, Oct 2009].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; neural tube closure; lens morphogenesis in camera-type eye; transforming growth factor beta receptor signaling pathway; negative regulation of cell population proliferation; anterior/posterior axis specification</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription repressor activity, RNA polymerase II-specific; protein binding; zinc ion binding; protein kinase binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; transcription regulator complex; cytoplasm; centrosome; nuclear body</p>
+<p><b>Pathways:</b> Signal Transduction (reactome); Signaling by TGF-beta Receptor Complex (reactome); Signaling by BMP (reactome); Generic Transcription Pathway (reactome); Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer (reactome); Downregulation of SMAD2/3:SMAD4 transcriptional activity (reactome); RNA Polymerase II Transcription (reactome); Gene expression (Transcription) (reactome)</p>
+<p><b>InterPro:</b> SKI/SNO/DAC domain; Putative DNA-binding domain superfamily; SAND-like domain superfamily; c-SKI SMAD4-binding domain; Transcription regulator SKI/SnoN; Ski-like, DNA-binding domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>ACVR1 — activin A receptor type 1</h3>
+<p><b>Summary:</b> Activins are dimeric growth and differentiation factors which belong to the transforming growth factor-beta (TGF-beta) superfamily of structurally related signaling proteins. Activins signal through a heteromeric complex of receptor serine kinases which include at least two type I ( I and IB) and two type II (II and IIB) receptors. These receptors are all transmembrane proteins, composed of a ligand-binding extracellular domain with cysteine-rich region, a transmembrane domain, and a cytoplasmic domain with predicted serine/threonine specificity. Type I receptors are essential for signaling; and type II receptors are required for binding ligands and for expression of type I receptors. Type I and II receptors form a stable complex after ligand binding, resulting in phosphorylation of type I receptors by type II receptors. This gene encodes activin A type I receptor which signals a particular transcriptional response in concert with activin type II receptors. Mutations in this gene are associated with fibrodysplasia ossificans progressive. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> osteoblast differentiation; acute inflammatory response; embryonic heart tube morphogenesis; outflow tract septum morphogenesis; atrioventricular valve morphogenesis; mitral valve morphogenesis</p>
+<p><b>GO:MF:</b> protein kinase activity; protein serine/threonine kinase activity; transmembrane receptor protein serine/threonine kinase activity; transforming growth factor beta receptor activity, type I; protein binding; ATP binding</p>
+<p><b>GO:CC:</b> plasma membrane; membrane; apical part of cell; activin receptor complex; BMP receptor complex</p>
+<p><b>Pathways:</b> Cytokine-cytokine receptor interaction - Homo sapiens (human) (kegg); TGF-beta signaling pathway - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Fluid shear stress and atherosclerosis - Homo sapiens (human) (kegg); Mesodermal commitment pathway (wikipathways); ESC Pluripotency Pathways (wikipathways)</p>
+<p><b>InterPro:</b> Ser/Thr protein kinase, TGFB receptor; Activin types I and II receptor domain; Protein kinase domain; Serine-threonine/tyrosine-protein kinase, catalytic domain; GS domain; Serine/threonine-protein kinase, active site</p>
+</div>
+
+<div class="gene-card">
+<h3>PMEPA1 — prostate transmembrane protein, androgen induced 1</h3>
+<p><b>Summary:</b> This gene encodes a transmembrane protein that contains a Smad interacting motif (SIM). Expression of this gene is induced by androgens and transforming growth factor beta, and the encoded protein suppresses the androgen receptor and transforming growth factor beta signaling pathways though interactions with Smad proteins. Overexpression of this gene may play a role in multiple types of cancer. Alternatively spliced transcript variants encoding multiple isoforms have been observed for this gene. [provided by RefSeq, Dec 2011].</p>
+<p><b>GO:BP:</b> negative regulation of transforming growth factor beta receptor signaling pathway; androgen receptor signaling pathway; negative regulation of SMAD protein signal transduction</p>
+<p><b>GO:MF:</b> protein binding; WW domain binding; R-SMAD binding; protein sequestering activity</p>
+<p><b>GO:CC:</b> Golgi membrane; plasma membrane; endosome membrane; membrane; early endosome membrane</p>
+<p><b>Pathways:</b> Signal Transduction (reactome); Signaling by TGF-beta Receptor Complex (reactome); Downregulation of TGF-beta receptor signaling (reactome); TGF-beta receptor signaling activates SMADs (reactome); Signaling by TGFB family members (reactome); LDLRAD4 and what we know about it (wikipathways)</p>
+<p><b>InterPro:</b> TMEPAI family</p>
+</div>
+
+<div class="gene-card">
+<h3>NCOR2 — nuclear receptor corepressor 2</h3>
+<p><b>Summary:</b> This gene encodes a nuclear receptor co-repressor that mediates transcriptional silencing of certain target genes. The encoded protein is a member of a family of thyroid hormone- and retinoic acid receptor-associated co-repressors. This protein acts as part of a multisubunit complex which includes histone deacetylases to modify chromatin structure that prevents basal transcriptional activity of target genes. Aberrant expression of this gene is associated with certain cancers. Alternate splicing results in multiple transcript variants encoding different isoforms.[provided by RefSeq, Apr 2011].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; lactation; regulation of ketone metabolic process; cerebellum development; response to estradiol; estrous cycle</p>
+<p><b>GO:MF:</b> chromatin binding; transcription corepressor activity; Notch binding; protein binding; enzyme activator activity; nuclear receptor binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; membrane; nuclear matrix; nuclear body</p>
+<p><b>Pathways:</b> Notch signaling pathway - Homo sapiens (human) (kegg); Epstein-Barr virus infection - Homo sapiens (human) (kegg); Developmental Biology (reactome); Metabolism (reactome); Signaling by NOTCH (reactome); Signal Transduction (reactome); Disease (reactome); Signaling by TGF-beta Receptor Complex (reactome)</p>
+<p><b>InterPro:</b> SANT/Myb domain; Homedomain-like superfamily; SANT domain; Myb domain; N-CoR, GPS2-interacting domain; Nuclear receptor corepressor</p>
+</div>
+
+<div class="gene-card">
+<h3>SERPINE1 — serpin family E member 1</h3>
+<p><b>Summary:</b> This gene encodes a member of the serine proteinase inhibitor (serpin) superfamily. This member is the principal inhibitor of tissue plasminogen activator (tPA) and urokinase (uPA), and hence is an inhibitor of fibrinolysis. The protein also functions as a component of innate antiviral immunity. Defects in this gene are the cause of plasminogen activator inhibitor-1 deficiency (PAI-1 deficiency), and high concentrations of the gene product are associated with thrombophilia. [provided by RefSeq, Aug 2020].</p>
+<p><b>GO:BP:</b> angiogenesis; negative regulation of gene expression; negative regulation of plasminogen activation; negative regulation of smooth muscle cell migration; positive regulation of blood coagulation; negative regulation of blood coagulation</p>
+<p><b>GO:MF:</b> protease binding; endopeptidase inhibitor activity; serine-type endopeptidase inhibitor activity; signaling receptor binding; protein binding</p>
+<p><b>GO:CC:</b> extracellular region; plasma membrane; extracellular matrix; platelet alpha granule lumen; extracellular exosome; serine protease inhibitor complex</p>
+<p><b>Pathways:</b> HIF-1 signaling pathway - Homo sapiens (human) (kegg); p53 signaling pathway - Homo sapiens (human) (kegg); Cellular senescence - Homo sapiens (human) (kegg); Apelin signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Complement and coagulation cascades - Homo sapiens (human) (kegg); AGE-RAGE signaling pathway in diabetic complications - Homo sapiens (human) (kegg); Chagas disease - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Serpin family; Serpin, conserved site; Serpin domain; Serpin superfamily; Serpin superfamily, domain 1; Serpin superfamily, domain 2</p>
+</div>
+
+<div class="gene-card">
+<h3>JUNB — JunB proto-oncogene, AP-1 transcription factor subunit</h3>
+<p><b>Summary:</b> Enables sequence-specific double-stranded DNA binding activity. Involved in positive regulation of transcription by RNA polymerase II. Located in nucleoplasm. Part of transcription factor AP-1 complex. Biomarker of Hodgkin's lymphoma and anaplastic large cell lymphoma. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; gene expression; regulation of cell population proliferation; positive regulation of transcription by RNA polymerase II; response to steroid hormone</p>
+<p><b>GO:MF:</b> RNA polymerase II transcription regulatory region sequence-specific DNA binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA binding; double-stranded DNA binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; transcription regulator complex; transcription factor AP-1 complex; RNA polymerase II transcription regulator complex</p>
+<p><b>Pathways:</b> Osteoclast differentiation - Homo sapiens (human) (kegg); TNF signaling pathway - Homo sapiens (human) (kegg); Growth hormone synthesis, secretion and action - Homo sapiens (human) (kegg); Cytokine Signaling in Immune system (reactome); Signal Transduction (reactome); Disease (reactome); Signaling by NTRKs (reactome); Immune System (reactome)</p>
+<p><b>InterPro:</b> Transcription factor Jun; Basic-leucine zipper domain; Jun-like transcription factor; Transcription factor, Skn-1-like, DNA-binding domain superfamily; Basic-leucine zipper domain superfamily; AP-1 Transcription Factor bZIP</p>
+</div>
+
+<div class="gene-card">
+<h3>SMAD1 — SMAD family member 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene belongs to the SMAD, a family of proteins similar to the gene products of the Drosophila gene 'mothers against decapentaplegic' (Mad) and the C. elegans gene Sma. SMAD proteins are signal transducers and transcriptional modulators that mediate multiple signaling pathways. This protein mediates the signals of the bone morphogenetic proteins (BMPs), which are involved in a range of biological activities including cell growth, apoptosis, morphogenesis, development and immune responses. In response to BMP ligands, this protein can be phosphorylated and activated by the BMP receptor kinase. The phosphorylated form of this protein forms a complex with SMAD4, which is important for its function in the transcription regulation. This protein is a target for SMAD-specific E3 ubiquitin ligases, such as SMURF1 and SMURF2, and undergoes ubiquitination and proteasome-mediated degradation. Alternatively spliced transcript variants encoding the same protein have been observed. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> ossification; osteoblast differentiation; ureteric bud development; cardiac conduction system development; DNA-templated transcription; regulation of DNA-templated transcription</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA-binding transcription factor activity; protein binding; DEAD/H-box RNA helicase binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nuclear inner membrane; nucleoplasm; transcription regulator complex; cytoplasm</p>
+<p><b>Pathways:</b> TGF-beta signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Transcriptional misregulation in cancer - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signal Transduction (reactome); Signaling by BMP (reactome); Generic Transcription Pathway (reactome)</p>
+<p><b>InterPro:</b> SMAD domain, Dwarfin-type; MAD homology 1, Dwarfin-type; SMAD/FHA domain superfamily; MAD homology, MH1; Dwarfin; SMAD-like domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>SMAD6 — SMAD family member 6</h3>
+<p><b>Summary:</b> The protein encoded by this gene belongs to the SMAD family of proteins, which are related to Drosophila 'mothers against decapentaplegic' (Mad) and C. elegans Sma. SMAD proteins are signal transducers and transcriptional modulators that mediate multiple signaling pathways. This protein functions in the negative regulation of BMP and TGF-beta/activin-signalling. Multiple transcript variants have been found for this gene.[provided by RefSeq, Sep 2014].</p>
+<p><b>GO:BP:</b> ureteric bud development; outflow tract septum morphogenesis; aortic valve morphogenesis; mitral valve morphogenesis; pulmonary valve morphogenesis; regulation of DNA-templated transcription</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; chromatin binding; protein binding; ubiquitin protein ligase binding; type I transforming growth factor beta receptor binding; identical protein binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; transcription regulator complex; cytoplasm; cytosol</p>
+<p><b>Pathways:</b> TGF-beta signaling pathway - Homo sapiens (human) (kegg); Signal Transduction (reactome); Signaling by BMP (reactome); Generic Transcription Pathway (reactome); RNA Polymerase II Transcription (reactome); Gene expression (Transcription) (reactome); Transcriptional regulation by RUNX2 (reactome); RUNX2 regulates bone development (reactome)</p>
+<p><b>InterPro:</b> MAD homology 1, Dwarfin-type; MAD homology, MH1; Dwarfin; SMAD MH1 domain superfamily; SMAD domain, Dwarfin-type; SMAD/FHA domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>PPP1R15A — protein phosphatase 1 regulatory subunit 15A</h3>
+<p><b>Summary:</b> This gene is a member of a group of genes whose transcript levels are increased following stressful growth arrest conditions and treatment with DNA-damaging agents. The induction of this gene by ionizing radiation occurs in certain cell lines regardless of p53 status, and its protein response is correlated with apoptosis following ionizing radiation. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> regulation of translational initiation; apoptotic process; DNA damage response; positive regulation of translational initiation in response to stress; response to endoplasmic reticulum stress; regulation of translation in response to endoplasmic reticulum stress</p>
+<p><b>GO:MF:</b> protein binding; protein phosphatase 1 binding; protein phosphatase regulator activity; protein kinase binding; molecular adaptor activity; eukaryotic initiation factor eIF2 binding</p>
+<p><b>GO:CC:</b> protein phosphatase type 1 complex; cytoplasm; mitochondrion; mitochondrial outer membrane; endoplasmic reticulum; endoplasmic reticulum membrane</p>
+<p><b>Pathways:</b> Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Signal Transduction (reactome); Signaling by TGF-beta Receptor Complex (reactome); Downregulation of TGF-beta receptor signaling (reactome); TGF-beta receptor signaling activates SMADs (reactome); Cellular responses to stress (reactome); Cellular responses to stimuli (reactome); Signaling by TGFB family members (reactome)</p>
+<p><b>InterPro:</b> Protein phosphatase 1, regulatory subunit 15A/B, C-terminal; Protein Phosphatase 1 Regulatory Subunit 15</p>
+</div>
+
+<div class="gene-card">
+<h3>TGIF1 — TGFB induced factor homeobox 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the three-amino acid loop extension (TALE) superclass of atypical homeodomains. TALE homeobox proteins are highly conserved transcription regulators. This particular homeodomain binds to a previously characterized retinoid X receptor responsive element from the cellular retinol-binding protein II promoter. In addition to its role in inhibiting 9-cis-retinoic acid-dependent RXR alpha transcription activation of the retinoic acid responsive element, the protein is an active transcriptional co-repressor of SMAD2 and may participate in the transmission of nuclear signals during development and in the adult. Mutations in this gene are associated with holoprosencephaly type 4, which is a structural anomaly of the brain. Alternative splicing has been observed at this locus and multiple splice variants encoding distinct isoforms are described. [provided by RefSeq, Jul 2013].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; regulation of DNA-templated transcription; response to xenobiotic stimulus; negative regulation of gene expression; cellular response to growth factor stimulus</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA binding; chromatin binding; DNA-binding transcription factor activity</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm</p>
+<p><b>Pathways:</b> TGF-beta signaling pathway - Homo sapiens (human) (kegg); Signal Transduction (reactome); Signaling by TGF-beta Receptor Complex (reactome); Generic Transcription Pathway (reactome); Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer (reactome); Downregulation of SMAD2/3:SMAD4 transcriptional activity (reactome); SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription (reactome); RNA Polymerase II Transcription (reactome)</p>
+<p><b>InterPro:</b> KN homeodomain; Homedomain-like superfamily; Three Amino acid Loop Extension (TALE) homeobox; Homeodomain</p>
+</div>
+
+<div class="gene-card">
+<h3>FURIN — furin, paired basic amino acid cleaving enzyme</h3>
+<p><b>Summary:</b> This gene encodes a member of the subtilisin-like proprotein convertase family, which includes proteases that process protein and peptide precursors trafficking through regulated or constitutive branches of the secretory pathway. It encodes a type 1 membrane bound protease that is expressed in many tissues, including neuroendocrine, liver, gut, and brain. The encoded protein undergoes an initial autocatalytic processing event in the ER and then sorts to the trans-Golgi network through endosomes where a second autocatalytic event takes place and the catalytic activity is acquired. Like other members of this convertase family, the product of this gene specifically cleaves substrates at single or paired basic residues. Some of its substrates include proparathyroid hormone, transforming growth factor beta 1 precursor, proalbumin, pro-beta-secretase, membrane type-1 matrix metalloproteinase, beta subunit of pro-nerve growth factor and von Willebrand factor. It is thought to be one of the proteases responsible for the activation of HIV envelope glycoproteins gp160 and gp140, and may play a role in tumor progression. Unlike SARS-CoV and other coronaviruses, the spike protein of SARS-CoV-2 is thought to be uniquely cleaved by this protease. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Aug 2020].</p>
+<p><b>GO:BP:</b> blastocyst formation; negative regulation of inflammatory response to antigenic stimulus; proteolysis; transforming growth factor beta receptor signaling pathway; protein processing; peptide hormone processing</p>
+<p><b>GO:MF:</b> protease binding; endopeptidase activity; serine-type endopeptidase activity; endopeptidase inhibitor activity; serine-type endopeptidase inhibitor activity; protein binding</p>
+<p><b>GO:CC:</b> Golgi membrane; extracellular region; endoplasmic reticulum; Golgi apparatus; Golgi lumen; trans-Golgi network</p>
+<p><b>Pathways:</b> Antimicrobial mechanism of IFN-stimulated genes (reactome); Signaling by NODAL (reactome); Developmental Biology (reactome); Cytokine Signaling in Immune system (reactome); Collagen degradation (reactome); Degradation of the extracellular matrix (reactome); Extracellular matrix organization (reactome); Cell-Cell communication (reactome)</p>
+<p><b>InterPro:</b> Peptidase S8/S53 domain; P domain; Furin-like repeat; Galactose-binding-like domain superfamily; Growth factor receptor cysteine-rich domain superfamily; Peptidase S8, subtilisin-related</p>
+</div>
+
+<div class="gene-card">
+<h3>SMAD3 — SMAD family member 3</h3>
+<p><b>Summary:</b> The SMAD family of proteins are a group of intracellular signal transducer proteins similar to the gene products of the Drosophila gene 'mothers against decapentaplegic' (Mad) and the C. elegans gene Sma. The SMAD3 protein functions in the transforming growth factor-beta signaling pathway, and transmits signals from the cell surface to the nucleus, regulating gene activity and cell proliferation. This protein forms a complex with other SMAD proteins and binds DNA, functioning both as a transcription factor and tumor suppressor. Mutations in this gene are associated with aneurysms-osteoarthritis syndrome and Loeys-Dietz Syndrome 3. [provided by RefSeq, May 2022].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; MAPK cascade; osteoblast differentiation; ureteric bud development; response to hypoxia; release of cytochrome c from mitochondria</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II transcription regulatory region sequence-specific DNA binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; cis-regulatory region sequence-specific DNA binding; DNA-binding transcription repressor activity</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nuclear inner membrane; nucleoplasm; transcription regulator complex; cytoplasm</p>
+<p><b>Pathways:</b> FoxO signaling pathway - Homo sapiens (human) (kegg); Cell cycle - Homo sapiens (human) (kegg); Endocytosis - Homo sapiens (human) (kegg); Cellular senescence - Homo sapiens (human) (kegg); Wnt signaling pathway - Homo sapiens (human) (kegg); TGF-beta signaling pathway - Homo sapiens (human) (kegg); Apelin signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> SMAD domain, Dwarfin-type; MAD homology 1, Dwarfin-type; SMAD/FHA domain superfamily; MAD homology, MH1; Dwarfin; SMAD-like domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>FKBP1A — FKBP prolyl isomerase 1A</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the immunophilin protein family, which play a role in immunoregulation and basic cellular processes involving protein folding and trafficking. The protein is a cis-trans prolyl isomerase that binds the immunosuppressants FK506 and rapamycin. It interacts with several intracellular signal transduction proteins including type I TGF-beta receptor. It also interacts with multiple intracellular calcium release channels, and coordinates multi-protein complex formation of the tetrameric skeletal muscle ryanodine receptor. In mouse, deletion of this homologous gene causes congenital heart disorder known as noncompaction of left ventricular myocardium. Multiple alternatively spliced variants, encoding the same protein, have been identified. The human genome contains five pseudogenes related to this gene, at least one of which is transcribed. [provided by RefSeq, Sep 2008].</p>
+<p><b>GO:BP:</b> heart morphogenesis; protein folding; 'de novo' protein folding; regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion; regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion; negative regulation of transforming growth factor beta receptor signaling pathway</p>
+<p><b>GO:MF:</b> peptidyl-prolyl cis-trans isomerase activity; transforming growth factor beta receptor binding; calcium channel regulator activity; protein binding; macrolide binding; FK506 binding</p>
+<p><b>GO:CC:</b> cytoplasm; cytosol; terminal cisterna; membrane; sarcoplasmic reticulum; Z disc</p>
+<p><b>Pathways:</b> Downstream signaling events of B Cell Receptor (BCR) (reactome); Adaptive Immune System (reactome); Signal Transduction (reactome); Disease (reactome); MTOR signalling (reactome); mTORC1-mediated signalling (reactome); Immune System (reactome); Signaling by TGF-beta Receptor Complex (reactome)</p>
+<p><b>InterPro:</b> FKBP-type peptidyl-prolyl cis-trans isomerase domain; Peptidyl-prolyl cis-trans isomerase domain superfamily; FKBP-type Peptidyl-prolyl cis-trans Isomerase</p>
+</div>
+
+<div class="gene-card">
+<h3>MAP3K7 — mitogen-activated protein kinase kinase kinase 7</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the serine/threonine protein kinase family. This kinase mediates the signaling transduction induced by TGF beta and morphogenetic protein (BMP), and controls a variety of cell functions including transcription regulation and apoptosis. In response to IL-1, this protein forms a kinase complex including TRAF6, MAP3K7P1/TAB1 and MAP3K7P2/TAB2; this complex is required for the activation of nuclear factor kappa B. This kinase can also activate MAPK8/JNK, MAP2K4/MKK4, and thus plays a role in the cell response to environmental stresses. Four alternatively spliced transcript variants encoding distinct isoforms have been reported. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> MAPK cascade; osteoblast differentiation; response to hypoxia; stimulatory C-type lectin receptor signaling pathway; positive regulation of T cell cytokine production; cytoplasmic pattern recognition receptor signaling pathway</p>
+<p><b>GO:MF:</b> magnesium ion binding; transcription coactivator binding; protein kinase activity; protein serine/threonine kinase activity; MAP kinase activity; MAP kinase kinase activity</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; endoplasmic reticulum membrane; cytosol; plasma membrane; endosome membrane</p>
+<p><b>Pathways:</b> MAPK signaling pathway - Homo sapiens (human) (kegg); NF-kappa B signaling pathway - Homo sapiens (human) (kegg); Autophagy - animal - Homo sapiens (human) (kegg); AMPK signaling pathway - Homo sapiens (human) (kegg); Wnt signaling pathway - Homo sapiens (human) (kegg); Osteoclast differentiation - Homo sapiens (human) (kegg); Adherens junction - Homo sapiens (human) (kegg); Neutrophil extracellular trap formation - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Protein kinase domain; Serine-threonine/tyrosine-protein kinase, catalytic domain; Serine/threonine-protein kinase, active site; Protein kinase-like domain superfamily; Protein kinase, ATP binding site; Mitogen-activated protein kinase kinase kinase 7</p>
+</div>
+
+<div class="gene-card">
+<h3>BMPR1A — bone morphogenetic protein receptor type 1A</h3>
+<p><b>Summary:</b> The bone morphogenetic protein (BMP) receptors are a family of transmembrane serine/threonine kinases that include the type I receptors BMPR1A and BMPR1B and the type II receptor BMPR2. These receptors are also closely related to the activin receptors, ACVR1 and ACVR2. The ligands of these receptors are members of the TGF-beta superfamily. TGF-betas and activins transduce their signals through the formation of heteromeric complexes with 2 different types of serine (threonine) kinase receptors: type I receptors of about 50-55 kD and type II receptors of about 70-80 kD. Type II receptors bind ligands in the absence of type I receptors, but they require their respective type I receptors for signaling, whereas type I receptors require their respective type II receptors for ligand binding. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> angiogenesis; osteoblast differentiation; chondrocyte differentiation; outflow tract septum morphogenesis; outflow tract morphogenesis; cardiac conduction system development</p>
+<p><b>GO:MF:</b> protein kinase activity; protein serine/threonine kinase activity; transmembrane receptor protein serine/threonine kinase activity; transforming growth factor beta receptor activity, type I; protein binding; ATP binding</p>
+<p><b>GO:CC:</b> plasma membrane; caveola; external side of plasma membrane; cell surface; membrane; dendrite</p>
+<p><b>Pathways:</b> Cytokine-cytokine receptor interaction - Homo sapiens (human) (kegg); TGF-beta signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Fluid shear stress and atherosclerosis - Homo sapiens (human) (kegg); Signal Transduction (reactome); Signaling by BMP (reactome); Signaling by TGFB family members (reactome)</p>
+<p><b>InterPro:</b> Ser/Thr protein kinase, TGFB receptor; Activin types I and II receptor domain; Protein kinase domain; GS domain; Serine/threonine-protein kinase, active site; Protein kinase-like domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>CTNNB1 — catenin beta 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene is part of a complex of proteins that constitute adherens junctions (AJs). AJs are necessary for the creation and maintenance of epithelial cell layers by regulating cell growth and adhesion between cells. The encoded protein also anchors the actin cytoskeleton and may be responsible for transmitting the contact inhibition signal that causes cells to stop dividing once the epithelial sheet is complete. Finally, this protein binds to the product of the APC gene, which is mutated in adenomatous polyposis of the colon. Mutations in this gene are a cause of colorectal cancer (CRC), pilomatrixoma (PTR), medulloblastoma (MDB), and ovarian cancer. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Aug 2016].</p>
+<p><b>GO:BP:</b> protein polyubiquitination; osteoblast differentiation; epithelial to mesenchymal transition; positive regulation of neuroblast proliferation; outflow tract morphogenesis; cell adhesion</p>
+<p><b>GO:MF:</b> transcription coregulator binding; transcription corepressor binding; chromatin binding; transcription coactivator activity; signaling receptor binding; protein binding</p>
+<p><b>GO:CC:</b> chromatin; euchromatin; spindle pole; nucleus; nucleoplasm; transcription regulator complex</p>
+<p><b>Pathways:</b> Rap1 signaling pathway - Homo sapiens (human) (kegg); Wnt signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Focal adhesion - Homo sapiens (human) (kegg); Adherens junction - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Leukocyte transendothelial migration - Homo sapiens (human) (kegg); Melanogenesis - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Armadillo; Armadillo-like helical; Beta-catenin; Armadillo-type fold</p>
+</div>
+
+<div class="gene-card">
+<h3>HIPK2 — homeodomain interacting protein kinase 2</h3>
+<p><b>Summary:</b> This gene encodes a conserved serine/threonine kinase that is a member of the homeodomain-interacting protein kinase family. The encoded protein interacts with homeodomain transcription factors and many other transcription factors such as p53, and can function as both a corepressor and a coactivator depending on the transcription factor and its subcellular localization. Multiple transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Nov 2011].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; eye development; protein phosphorylation; smoothened signaling pathway; retina layer formation; peptidyl-serine phosphorylation</p>
+<p><b>GO:MF:</b> transcription coactivator activity; transcription corepressor activity; protein kinase activity; protein serine/threonine kinase activity; protein tyrosine kinase activity; protein binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm; cytoplasmic stress granule; nuclear body; PML body</p>
+<p><b>Pathways:</b> Cellular senescence - Homo sapiens (human) (kegg); YAP1- and WWTR1 (TAZ)-stimulated gene expression (reactome); Generic Transcription Pathway (reactome); SUMOylation (reactome); SUMO E3 ligases SUMOylate target proteins (reactome); Transcriptional Regulation by TP53 (reactome); SUMOylation of transcription cofactors (reactome); Metabolism of proteins (reactome)</p>
+<p><b>InterPro:</b> Protein kinase domain; Serine/threonine-protein kinase, active site; Protein kinase-like domain superfamily; Protein kinase, ATP binding site; Serine/threonine and dual-specificity kinase</p>
+</div>
+
+<div class="gene-card">
+<h3>KLF10 — KLF transcription factor 10</h3>
+<p><b>Summary:</b> This gene encodes a member of a family of proteins that feature C2H2-type zinc finger domains. The encoded protein is a transcriptional repressor that acts as an effector of transforming growth factor beta signaling. Activity of this protein may inhibit the growth of cancers, particularly pancreatic cancer. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jun 2013].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; regulation of transcription by RNA polymerase II; cell-cell signaling; circadian rhythm; negative regulation of cell population proliferation; cellular response to starvation</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; core promoter sequence-specific DNA binding; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA-binding transcription factor activity; protein binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus</p>
+<p><b>Pathways:</b> TGF-beta Signaling Pathway (wikipathways)</p>
+<p><b>InterPro:</b> Zinc finger C2H2-type; Zinc finger C2H2 superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>BMP2 — bone morphogenetic protein 2</h3>
+<p><b>Summary:</b> This gene encodes a secreted ligand of the TGF-beta (transforming growth factor-beta) superfamily of proteins. Ligands of this family bind various TGF-beta receptors leading to recruitment and activation of SMAD family transcription factors that regulate gene expression. The encoded preproprotein is proteolytically processed to generate each subunit of the disulfide-linked homodimer, which plays a role in bone and cartilage development. Duplication of a regulatory region downstream of this gene causes a form of brachydactyly characterized by a malformed index finger and second toe in human patients. [provided by RefSeq, Jul 2016].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; skeletal system development; osteoblast differentiation; branching involved in ureteric bud morphogenesis; response to hypoxia; in utero embryonic development</p>
+<p><b>GO:MF:</b> signaling receptor binding; cytokine activity; protein binding; growth factor activity; phosphatase activator activity; co-receptor binding</p>
+<p><b>GO:CC:</b> extracellular region; plasma membrane; cell surface; protein-containing complex; BMP receptor complex</p>
+<p><b>Pathways:</b> Cytokine-cytokine receptor interaction - Homo sapiens (human) (kegg); TGF-beta signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Basal cell carcinoma - Homo sapiens (human) (kegg); Extracellular matrix organization (reactome); Elastic fibre formation (reactome); Signal Transduction (reactome)</p>
+<p><b>InterPro:</b> TGF-beta, propeptide; Transforming growth factor-beta, C-terminal; Transforming growth factor-beta-related; Transforming growth factor beta, conserved site; Cystine-knot cytokine; Bone morphogenetic protein 2, TGF-beta-like domain</p>
+</div>
+
+<div class="gene-card">
+<h3>ENG — endoglin</h3>
+<p><b>Summary:</b> This gene encodes a homodimeric transmembrane protein which is a major glycoprotein of the vascular endothelium. This protein is a component of the transforming growth factor beta receptor complex and it binds to the beta1 and beta3 peptides with high affinity. Mutations in this gene cause hereditary hemorrhagic telangiectasia, also known as Osler-Rendu-Weber syndrome 1, an autosomal dominant multisystemic vascular dysplasia. This gene may also be involved in preeclampsia and several types of cancer. Alternatively spliced transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, May 2013].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; branching involved in blood vessel morphogenesis; vasculogenesis; response to hypoxia; negative regulation of endothelial cell proliferation; heart looping</p>
+<p><b>GO:MF:</b> transmembrane signaling receptor activity; type II transforming growth factor beta receptor binding; protein binding; galactose binding; glycosaminoglycan binding; coreceptor activity</p>
+<p><b>GO:CC:</b> extracellular region; plasma membrane; focal adhesion; external side of plasma membrane; cell surface; signaling receptor complex</p>
+<p><b>Pathways:</b> Hypothesized Pathways in Pathogenesis of Cardiovascular Disease (wikipathways); VEGFA-VEGFR2 Signaling Pathway (wikipathways); TGF-beta receptor signaling in skeletal dysplasias (wikipathways); TGF-beta Receptor Signaling (wikipathways)</p>
+<p><b>InterPro:</b> —</p>
+</div>
+
+<div class="gene-card">
+<h3>APC — APC regulator of Wnt signaling pathway</h3>
+<p><b>Summary:</b> This gene encodes a tumor suppressor protein that acts as an antagonist of the Wnt signaling pathway. It is also involved in other processes including cell migration and adhesion, transcriptional activation, and apoptosis. Defects in this gene cause familial adenomatous polyposis (FAP), an autosomal dominant pre-malignant disease that usually progresses to malignancy. Mutations in the APC gene have been found to occur in most colorectal cancers, where disease-associated mutations tend to be clustered in a small region designated the mutation cluster region (MCR) and result in a truncated protein product. [provided by RefSeq, Jun 2022].</p>
+<p><b>GO:BP:</b> mitotic cytokinesis; cell fate specification; heart valve development; endocardial cushion morphogenesis; DNA damage response; negative regulation of microtubule depolymerization</p>
+<p><b>GO:MF:</b> protein binding; beta-catenin binding; microtubule binding; protein kinase regulator activity; protein kinase binding; ubiquitin protein ligase binding</p>
+<p><b>GO:CC:</b> kinetochore; nucleus; nucleoplasm; cytoplasm; centrosome; cytosol</p>
+<p><b>Pathways:</b> Wnt signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Regulation of actin cytoskeleton - Homo sapiens (human) (kegg); Cushing syndrome - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Human papillomavirus infection - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Armadillo; Adenomatous polyposis coli protein repeat; SAMP; EB-1 binding; Adenomatous polyposis coli protein basic domain; Adenomatous polyposis coli protein, 15 residue repeat</p>
+</div>
+
+<div class="gene-card">
+<h3>PPM1A — protein phosphatase, Mg2+/Mn2+ dependent 1A</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the PP2C family of Ser/Thr protein phosphatases. PP2C family members are known to be negative regulators of cell stress response pathways. This phosphatase dephosphorylates, and negatively regulates the activities of, MAP kinases and MAP kinase kinases. It has been shown to inhibit the activation of p38 and JNK kinase cascades induced by environmental stresses. This phosphatase can also dephosphorylate cyclin-dependent kinases, and thus may be involved in cell cycle control. Overexpression of this phosphatase is reported to activate the expression of the tumor suppressor gene TP53/p53, which leads to G2/M cell cycle arrest and apoptosis. Three alternatively spliced transcript variants encoding distinct isoforms have been described. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; protein dephosphorylation; N-terminal protein myristoylation; negative regulation of transforming growth factor beta receptor signaling pathway; regulation of canonical NF-kappaB signal transduction; positive regulation of canonical NF-kappaB signal transduction</p>
+<p><b>GO:MF:</b> magnesium ion binding; phosphoprotein phosphatase activity; protein serine/threonine phosphatase activity; protein binding; manganese ion binding; calmodulin-dependent protein phosphatase activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytosol; membrane</p>
+<p><b>Pathways:</b> MAPK signaling pathway - Homo sapiens (human) (kegg); Signal Transduction (reactome); MTOR signalling (reactome); Signaling by TGF-beta Receptor Complex (reactome); Generic Transcription Pathway (reactome); Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer (reactome); Downregulation of SMAD2/3:SMAD4 transcriptional activity (reactome); Energy dependent regulation of mTOR by LKB1-AMPK (reactome)</p>
+<p><b>InterPro:</b> PPM-type phosphatase, divalent cation binding; PPM-type phosphatase-like domain; Protein serine/threonine phosphatase 2C, C-terminal; Protein phosphatase 2C; PPM-type phosphatase-like domain superfamily; Phosphatase 2C, C-terminal domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>XIAP — X-linked inhibitor of apoptosis</h3>
+<p><b>Summary:</b> This gene encodes a protein that belongs to a family of apoptotic suppressor proteins. Members of this family share a conserved motif termed, baculovirus IAP repeat, which is necessary for their anti-apoptotic function. This protein functions through binding to tumor necrosis factor receptor-associated factors TRAF1 and TRAF2 and inhibits apoptosis induced by menadione, a potent inducer of free radicals, and interleukin 1-beta converting enzyme. This protein also inhibits at least two members of the caspase family of cell-death proteases, caspase-3 and caspase-7. Mutations in this gene are the cause of X-linked lymphoproliferative syndrome. Alternate splicing results in multiple transcript variants. Pseudogenes of this gene are found on chromosomes 2 and 11.[provided by RefSeq, Feb 2011].</p>
+<p><b>GO:BP:</b> DNA damage response; negative regulation of tumor necrosis factor-mediated signaling pathway; regulation of BMP signaling pathway; positive regulation of protein ubiquitination; positive regulation of type I interferon production; response to lipopolysaccharide</p>
+<p><b>GO:MF:</b> ubiquitin-protein transferase activity; cysteine-type endopeptidase inhibitor activity; protein binding; enzyme binding; identical protein binding; cysteine-type endopeptidase inhibitor activity involved in apoptotic process</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; nucleolus; cytoplasm; cytosol; protein-containing complex</p>
+<p><b>Pathways:</b> NF-kappa B signaling pathway - Homo sapiens (human) (kegg); Ubiquitin mediated proteolysis - Homo sapiens (human) (kegg); Apoptosis - Homo sapiens (human) (kegg); Apoptosis - multiple species - Homo sapiens (human) (kegg); Necroptosis - Homo sapiens (human) (kegg); Focal adhesion - Homo sapiens (human) (kegg); NOD-like receptor signaling pathway - Homo sapiens (human) (kegg); Toxoplasmosis - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> BIR repeat; Zinc finger, RING-type; Death-like domain superfamily; XIAP/BIRC8, UBA domain; BIRC2/3-like, UBA domain; Inhibitor of Apoptosis</p>
+</div>
+
+<div class="gene-card">
+<h3>CDH1 — cadherin 1</h3>
+<p><b>Summary:</b> This gene encodes a classical cadherin of the cadherin superfamily. Alternative splicing results in multiple transcript variants, at least one of which encodes a preproprotein that is proteolytically processed to generate the mature glycoprotein. This calcium-dependent cell-cell adhesion protein is comprised of five extracellular cadherin repeats, a transmembrane region and a highly conserved cytoplasmic tail. Mutations in this gene are correlated with gastric, breast, colorectal, thyroid and ovarian cancer. Loss of function of this gene is thought to contribute to cancer progression by increasing proliferation, invasion, and/or metastasis. The ectodomain of this protein mediates bacterial adhesion to mammalian cells and the cytoplasmic domain is required for internalization. This gene is present in a gene cluster with other members of the cadherin family on chromosome 16. [provided by RefSeq, Nov 2015].</p>
+<p><b>GO:BP:</b> cell morphogenesis; desmosome assembly; cell-cell junction assembly; cell adhesion; homophilic cell-cell adhesion; synapse assembly</p>
+<p><b>GO:MF:</b> calcium ion binding; protein binding; beta-catenin binding; ankyrin binding; GTPase activating protein binding; identical protein binding</p>
+<p><b>GO:CC:</b> Golgi membrane; extracellular region; cytoplasm; lysosomal membrane; endosome; endoplasmic reticulum lumen</p>
+<p><b>Pathways:</b> Rap1 signaling pathway - Homo sapiens (human) (kegg); Apelin signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Cell adhesion molecules - Homo sapiens (human) (kegg); Adherens junction - Homo sapiens (human) (kegg); Bacterial invasion of epithelial cells - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Endometrial cancer - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Cadherin, Y-type LIR-motif; Cadherin-like; Cadherin prodomain; Cadherin-like superfamily; Cadherin conserved site; Catenin binding domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>ID1 — inhibitor of DNA binding 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a helix-loop-helix (HLH) protein that can form heterodimers with members of the basic HLH family of transcription factors. The encoded protein has no DNA binding activity and therefore can inhibit the DNA binding and transcriptional activation ability of basic HLH proteins with which it interacts. This protein may play a role in cell growth, senescence, and differentiation. Two transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; angiogenesis; transforming growth factor beta receptor signaling pathway; circadian rhythm; positive regulation of gene expression; neuron differentiation</p>
+<p><b>GO:MF:</b> transcription corepressor activity; protein binding; protein dimerization activity; transcription regulator inhibitor activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm</p>
+<p><b>Pathways:</b> Rap1 signaling pathway - Homo sapiens (human) (kegg); TGF-beta signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signal Transduction (reactome); Signaling by NTRKs (reactome); Signaling by NTRK1 (TRKA) (reactome)</p>
+<p><b>InterPro:</b> Myc-type, basic helix-loop-helix (bHLH) domain; DNA-binding protein inhibitor; Helix-loop-helix DNA-binding domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>LEFTY2 — left-right determination factor 2</h3>
+<p><b>Summary:</b> This gene encodes a secreted ligand of the TGF-beta (transforming growth factor-beta) superfamily of proteins. Ligands of this family bind various TGF-beta receptors leading to recruitment and activation of SMAD family transcription factors that regulate gene expression. The encoded preproprotein is proteolytically processed to generate the mature protein, which plays a role in left-right asymmetry determination of organ systems during development. The protein may also play a role in endometrial bleeding. Mutations in this gene have been associated with left-right axis malformations, particularly in the heart and lungs. Some types of infertility have been associated with dysregulated expression of this gene in the endometrium. This gene is closely linked to both a related family member and a related pseudogene. This gene encodes multiple isoforms that may undergo similar proteolytic processing. [provided by RefSeq, Aug 2016].</p>
+<p><b>GO:BP:</b> anterior/posterior axis specification; BMP signaling pathway</p>
+<p><b>GO:MF:</b> cytokine activity; transforming growth factor beta receptor binding; growth factor activity</p>
+<p><b>GO:CC:</b> extracellular region; extracellular matrix; platelet alpha granule lumen</p>
+<p><b>Pathways:</b> TGF-beta signaling pathway - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Hemostasis (reactome); Platelet degranulation  (reactome); Signaling by NODAL (reactome); Developmental Biology (reactome); Regulation of signaling by NODAL (reactome); Platelet activation, signaling and aggregation (reactome)</p>
+<p><b>InterPro:</b> TGF-beta, propeptide; Transforming growth factor-beta, C-terminal; Left- Right determination factor; Transforming growth factor-beta-related; Transforming growth factor beta, conserved site; Cystine-knot cytokine</p>
+</div>
+
+<div class="gene-card">
+<h3>CDKN1C — cyclin dependent kinase inhibitor 1C</h3>
+<p><b>Summary:</b> This gene is imprinted, with preferential expression of the maternal allele. The encoded protein is a tight-binding, strong inhibitor of several G1 cyclin/Cdk complexes and a negative regulator of cell proliferation. Mutations in this gene are implicated in sporadic cancers and Beckwith-Wiedemann syndorome, suggesting that this gene is a tumor suppressor candidate. Three transcript variants encoding two different isoforms have been found for this gene. [provided by RefSeq, Oct 2010].</p>
+<p><b>GO:BP:</b> positive regulation of transforming growth factor beta receptor signaling pathway; negative regulation of epithelial cell proliferation; regulation of cell cycle; negative regulation of G1/S transition of mitotic cell cycle</p>
+<p><b>GO:MF:</b> cyclin-dependent protein serine/threonine kinase inhibitor activity; protein binding; protein-containing complex binding; molecular function inhibitor activity</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm</p>
+<p><b>Pathways:</b> Cell cycle - Homo sapiens (human) (kegg); Cell Cycle (reactome); Disease (reactome); Mitotic G1 phase and G1/S transition (reactome); Cyclin D associated events in G1 (reactome); G1 Phase (reactome); Cell Cycle, Mitotic (reactome); Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects (reactome)</p>
+<p><b>InterPro:</b> Cyclin-dependent kinase inhibitor domain; Cyclin-dependent kinase inhibitor domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>TRIM33 — tripartite motif containing 33</h3>
+<p><b>Summary:</b> The protein encoded by this gene is thought to be a transcriptional corepressor. However, molecules that interact with this protein have not yet been identified. The protein is a member of the tripartite motif family. This motif includes three zinc-binding domains, a RING, a B-box type 1 and a B-box type 2, and a coiled-coil region. Three alternatively spliced transcript variants for this gene have been described, however, the full-length nature of one variant has not been determined. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; regulation of transcription by RNA polymerase II; protein ubiquitination; regulation of transforming growth factor beta receptor signaling pathway; negative regulation of BMP signaling pathway; negative regulation of DNA-templated transcription</p>
+<p><b>GO:MF:</b> transcription coregulator activity; ubiquitin-protein transferase activity; protein binding; zinc ion binding; ubiquitin protein ligase activity; co-SMAD binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm</p>
+<p><b>Pathways:</b> Developmental Biology (reactome); Signal Transduction (reactome); Signaling by TGF-beta Receptor Complex (reactome); Generic Transcription Pathway (reactome); Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer (reactome); Downregulation of SMAD2/3:SMAD4 transcriptional activity (reactome); RNA Polymerase II Transcription (reactome); Gene expression (Transcription) (reactome)</p>
+<p><b>InterPro:</b> B-box-type zinc finger; Bromodomain; Zinc finger, RING-type; Zinc finger, PHD-type; B-box, C-terminal; Zinc finger, FYVE/PHD-type</p>
+</div>
+
+<div class="gene-card">
+<h3>RAB31 — RAB31, member RAS oncogene family</h3>
+<p><b>Summary:</b> Small GTP-binding proteins of the RAB family, such as RAB31, play essential roles in vesicle and granule targeting (Bao et al., 2002 [PubMed 11784320]).[supplied by OMIM, Jul 2009]</p>
+<p><b>GO:BP:</b> intracellular protein transport; endosomal transport; receptor internalization; cellular response to insulin stimulus; Golgi to plasma membrane protein transport; regulated exocytosis</p>
+<p><b>GO:MF:</b> GTPase activity; G protein activity; protein binding; GTP binding; GDP binding</p>
+<p><b>GO:CC:</b> phagocytic cup; cytoplasm; early endosome; late endosome; Golgi apparatus; trans-Golgi network</p>
+<p><b>Pathways:</b> Endocytosis - Homo sapiens (human) (kegg); Innate Immune System (reactome); Immune System (reactome); Membrane Trafficking (reactome); Metabolism of proteins (reactome); Vesicle-mediated transport (reactome); Post-translational protein modification (reactome); Neutrophil degranulation (reactome)</p>
+<p><b>InterPro:</b> Small GTPase; Small GTP-binding domain; P-loop containing nucleoside triphosphate hydrolase</p>
+</div>
+
+<div class="gene-card">
+<h3>TJP1 — tight junction protein 1</h3>
+<p><b>Summary:</b> This gene encodes a member of the membrane-associated guanylate kinase (MAGUK) family of proteins, and acts as a tight junction adaptor protein that also regulates adherens junctions. Tight junctions regulate the movement of ions and macromolecules between endothelial and epithelial cells. The multidomain structure of this scaffold protein, including a postsynaptic density 95/disc-large/zona occludens (PDZ) domain, a Src homology (SH3) domain, a guanylate kinase (GuK) domain and unique (U) motifs all help to co-ordinate binding of transmembrane proteins, cytosolic proteins, and F-actin, which are required for tight junction function. Alternative splicing results in multiple transcript variants encoding different isoforms. [provided by RefSeq, Aug 2017].</p>
+<p><b>GO:BP:</b> cell-cell junction assembly; positive regulation of cell population proliferation; actin cytoskeleton organization; positive regulation of cell migration; actomyosin structure organization; adherens junction maintenance</p>
+<p><b>GO:MF:</b> protein binding; cadherin binding; cell adhesion molecule binding</p>
+<p><b>GO:CC:</b> podosome; nucleoplasm; cytoplasm; cytosol; plasma membrane; adherens junction</p>
+<p><b>Pathways:</b> Adherens junction - Homo sapiens (human) (kegg); Tight junction - Homo sapiens (human) (kegg); Gap junction - Homo sapiens (human) (kegg); Vibrio cholerae infection - Homo sapiens (human) (kegg); Epithelial cell signaling in Helicobacter pylori infection - Homo sapiens (human) (kegg); Pathogenic Escherichia coli infection - Homo sapiens (human) (kegg); Apoptosis (reactome); Apoptotic cleavage of cellular proteins (reactome)</p>
+<p><b>InterPro:</b> ZU5 domain; SH3 domain; PDZ domain; Tight junction protein ZO; Tight junction protein ZO-1; Guanylate kinase-like domain</p>
+</div>
+
+<div class="gene-card">
+<h3>SLC20A1 — solute carrier family 20 member 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a sodium-phosphate symporter that absorbs phosphate from interstitial fluid for use in cellular functions such as metabolism, signal transduction, and nucleic acid and lipid synthesis. The encoded protein is also a retroviral receptor, causing human cells to be susceptible to infection by gibbon ape leukemia virus, simian sarcoma-associated virus, feline leukemia virus subgroup B, and 10A1 murine leukemia virus.[provided by RefSeq, Mar 2011].</p>
+<p><b>GO:BP:</b> phosphate-containing compound metabolic process; sodium ion transport; phosphate ion transport; cell population proliferation; phosphate ion transmembrane transport; sodium ion transmembrane transport</p>
+<p><b>GO:MF:</b> phosphate transmembrane transporter activity; high-affinity phosphate:sodium symporter activity; sodium:phosphate symporter activity; signaling receptor activity</p>
+<p><b>GO:CC:</b> plasma membrane; membrane</p>
+<p><b>Pathways:</b> Transport of small molecules (reactome); SLC-mediated transmembrane transport (reactome); Sodium-coupled phosphate cotransporters (reactome); SLC-mediated transport of inorganic anions (reactome)</p>
+<p><b>InterPro:</b> Phosphate transporter</p>
+</div>
+
+<div class="gene-card">
+<h3>CDK9 — cyclin dependent kinase 9</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the cyclin-dependent protein kinase (CDK) family. CDK family members are highly similar to the gene products of S. cerevisiae cdc28, and S. pombe cdc2, and known as important cell cycle regulators. This kinase was found to be a component of the multiprotein complex TAK/P-TEFb, which is an elongation factor for RNA polymerase II-directed transcription and functions by phosphorylating the C-terminal domain of the largest subunit of RNA polymerase II. This protein forms a complex with and is regulated by its regulatory subunit cyclin T or cyclin K. HIV-1 Tat protein was found to interact with this protein and cyclin T, which suggested a possible involvement of this protein in AIDS. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> regulation of DNA repair; transcription by RNA polymerase II; transcription initiation at RNA polymerase II promoter; transcription elongation by RNA polymerase II; protein phosphorylation; regulation of mitotic cell cycle</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; transcription coactivator binding; DNA binding; chromatin binding; transcription elongation factor activity</p>
+<p><b>GO:CC:</b> cyclin-dependent protein kinase holoenzyme complex; nucleus; nucleoplasm; cytoplasm; transcription elongation factor complex; cyclin/CDK positive transcription elongation factor complex</p>
+<p><b>Pathways:</b> Transcriptional misregulation in cancer - Homo sapiens (human) (kegg); Formation of RNA Pol II elongation complex  (reactome); Adaptive Immune System (reactome); Signal Transduction (reactome); HIV Life Cycle (reactome); Late Phase of HIV Life Cycle (reactome); HIV Infection (reactome); Host Interactions of HIV factors (reactome)</p>
+<p><b>InterPro:</b> Protein kinase domain; Serine/threonine-protein kinase, active site; Protein kinase-like domain superfamily; Protein kinase, ATP binding site; Cyclin-dependent kinase</p>
+</div>
+
+<div class="gene-card">
+<h3>ID3 — inhibitor of DNA binding 3</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a helix-loop-helix (HLH) protein that can form heterodimers with other HLH proteins. However, the encoded protein lacks a basic DNA-binding domain and therefore inhibits the DNA binding of any HLH protein with which it interacts. [provided by RefSeq, Aug 2011].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; metanephros development; regulation of DNA replication; central nervous system development; circadian rhythm; positive regulation of gene expression</p>
+<p><b>GO:MF:</b> transcription corepressor activity; protein binding; protein domain specific binding; bHLH transcription factor binding; protein dimerization activity; transcription regulator inhibitor activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm</p>
+<p><b>Pathways:</b> TGF-beta signaling pathway - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Signal Transduction (reactome); Signaling by NTRKs (reactome); Signaling by NTRK1 (TRKA) (reactome); Nuclear Events (kinase and transcription factor activation) (reactome); Signaling by Receptor Tyrosine Kinases (reactome); NGF-stimulated transcription (reactome)</p>
+<p><b>InterPro:</b> Myc-type, basic helix-loop-helix (bHLH) domain; DNA-binding protein inhibitor; Helix-loop-helix DNA-binding domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>NOG — noggin</h3>
+<p><b>Summary:</b> The secreted polypeptide, encoded by this gene, binds and inactivates members of the transforming growth factor-beta (TGF-beta) superfamily signaling proteins, such as bone morphogenetic protein-4 (BMP4). By diffusing through extracellular matrices more efficiently than members of the TGF-beta superfamily, this protein may have a principal role in creating morphogenic gradients. The protein appears to have pleiotropic effect, both early in development as well as in later stages. It was originally isolated from Xenopus based on its ability to restore normal dorsal-ventral body axis in embryos that had been artificially ventralized by UV treatment. The results of the mouse knockout of the ortholog suggest that it is involved in numerous developmental processes, such as neural tube fusion and joint formation. Recently, several dominant human NOG mutations in unrelated families with proximal symphalangism (SYM1) and multiple synostoses syndrome (SYNS1) were identified; both SYM1 and SYNS1 have multiple joint fusion as their principal feature, and map to the same region (17q22) as this gene. All of these mutations altered evolutionarily conserved amino acid residues. The amino acid sequence of this human gene is highly homologous to that of Xenopus, rat and mouse. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; skeletal system development; osteoblast differentiation; epithelial to mesenchymal transition; membranous septum morphogenesis; outflow tract morphogenesis</p>
+<p><b>GO:MF:</b> protein binding; growth factor binding; protein homodimerization activity; receptor ligand inhibitor activity</p>
+<p><b>GO:CC:</b> extracellular region; presynapse</p>
+<p><b>Pathways:</b> TGF-beta signaling pathway - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signal Transduction (reactome); Signaling by BMP (reactome); Signaling by TGFB family members (reactome); Gastrulation (reactome); Formation of paraxial mesoderm (reactome); Bone morphogenic protein (BMP) signaling and regulation (wikipathways)</p>
+<p><b>InterPro:</b> Noggin; Cystine-knot cytokine</p>
+</div>
+
+<div class="gene-card">
+<h3>ARID4B — AT-rich interaction domain 4B</h3>
+<p><b>Summary:</b> This gene encodes a protein with sequence similarity to retinoblastoma-binding protein-1. The encoded protein is a subunit of the histone deacetylase-dependant SIN3A transcriptional corepressor complex, which functions in diverse cellular processes including proliferation, differentiation, apoptosis, oncogenesis, and cell fate determination. The gene product is recognized by IgG antibody isolated from a breast cancer patient and appears to be a molecular marker associated with a broad range of human malignancies. Alternate transcriptional splice variants encoding different isoforms have been characterized. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; regulation of transcription by RNA polymerase II; negative regulation of cell migration; negative regulation of transforming growth factor beta receptor signaling pathway; negative regulation of stem cell population maintenance; positive regulation of stem cell population maintenance</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; DNA binding; protein binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm; cytosol; Sin3-type complex</p>
+<p><b>Pathways:</b> Disease (reactome); Epigenetic regulation of gene expression (reactome); HDACs deacetylate histones (reactome); Chromatin modifying enzymes (reactome); NoRC negatively regulates rRNA expression (reactome); Chromatin organization (reactome); Negative epigenetic regulation of rRNA expression (reactome); Infectious disease (reactome)</p>
+<p><b>InterPro:</b> ARID DNA-binding domain; Tudor domain; ARID4A/B, PWWP domain; Chromo-like domain superfamily; RNA binding activity-knot of a chromodomain; ARID4B, ARID/BRIGHT domain</p>
+</div>
+
+<div class="gene-card">
+<h3>IFNGR2 — interferon gamma receptor 2</h3>
+<p><b>Summary:</b> This gene (IFNGR2) encodes the non-ligand-binding beta chain of the gamma interferon receptor. Human interferon-gamma receptor is a heterodimer of IFNGR1 and IFNGR2. Defects in IFNGR2 are a cause of mendelian susceptibility to mycobacterial disease (MSMD), also known as familial disseminated atypical mycobacterial infection. MSMD is a genetically heterogeneous disease with autosomal recessive, autosomal dominant or X-linked inheritance. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> microglial cell activation; cell surface receptor signaling pathway; response to virus; cytokine-mediated signaling pathway; type III interferon-mediated signaling pathway; type II interferon-mediated signaling pathway</p>
+<p><b>GO:MF:</b> cytokine receptor activity; type II interferon receptor activity; protein binding</p>
+<p><b>GO:CC:</b> Golgi membrane; cytoplasm; endoplasmic reticulum; endoplasmic reticulum membrane; plasma membrane; cytoplasmic vesicle membrane</p>
+<p><b>Pathways:</b> Cytokine-cytokine receptor interaction - Homo sapiens (human) (kegg); HIF-1 signaling pathway - Homo sapiens (human) (kegg); Necroptosis - Homo sapiens (human) (kegg); Osteoclast differentiation - Homo sapiens (human) (kegg); JAK-STAT signaling pathway - Homo sapiens (human) (kegg); Natural killer cell mediated cytotoxicity - Homo sapiens (human) (kegg); Th1 and Th2 cell differentiation - Homo sapiens (human) (kegg); Th17 cell differentiation - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Fibronectin type III; Immunoglobulin-like fold; Interferon/interleukin receptor domain; Fibronectin type III superfamily; Type II Cytokine and Tissue Factor Receptors</p>
+</div>
+
+<div class="gene-card">
+<h3>ID2 — inhibitor of DNA binding 2</h3>
+<p><b>Summary:</b> The protein encoded by this gene belongs to the inhibitor of DNA binding family, members of which are transcriptional regulators that contain a helix-loop-helix (HLH) domain but not a basic domain. Members of the inhibitor of DNA binding family inhibit the functions of basic helix-loop-helix transcription factors in a dominant-negative manner by suppressing their heterodimerization partners through the HLH domains. This protein may play a role in negatively regulating cell differentiation. A pseudogene of this gene is located on chromosome 3. [provided by RefSeq, Aug 2011].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; membranous septum morphogenesis; bundle of His development; regulation of transcription by RNA polymerase II; heart development; circadian rhythm</p>
+<p><b>GO:MF:</b> transcription corepressor activity; protein binding; transmembrane transporter binding; protein dimerization activity; RNA polymerase II-specific DNA-binding transcription factor binding; transcription regulator inhibitor activity</p>
+<p><b>GO:CC:</b> euchromatin; nucleus; nucleoplasm; cytoplasm; cytosol; protein-containing complex</p>
+<p><b>Pathways:</b> TGF-beta signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Transcriptional misregulation in cancer - Homo sapiens (human) (kegg); Signal Transduction (reactome); Signaling by NTRKs (reactome); Signaling by NTRK1 (TRKA) (reactome); Nuclear Events (kinase and transcription factor activation) (reactome)</p>
+<p><b>InterPro:</b> Myc-type, basic helix-loop-helix (bHLH) domain; DNA-binding protein inhibitor; Helix-loop-helix DNA-binding domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>PPP1CA — protein phosphatase 1 catalytic subunit alpha</h3>
+<p><b>Summary:</b> The protein encoded by this gene is one of the three catalytic subunits of protein phosphatase 1 (PP1). This broadly expressed gene encodes the alpha subunit of the PP1 complex that associates with over 200 regulatory proteins to form holoenzymes which dephosphorylate their biological targets with high specificity. PP1 is a serine/threonine specific protein phosphatase known to be involved in the regulation of a variety of cellular processes, such as cell division, glycogen metabolism, muscle contractility, protein synthesis, and HIV-1 viral transcription. Increased PP1 activity has been observed in the end stage of heart failure. Studies suggest that PP1 is an important regulator of cardiac function and that PP1 deregulation is implicated in diabetes and multiple types of cancer. Three alternatively spliced transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Jul 2020].</p>
+<p><b>GO:BP:</b> RNA polymerase II promoter clearance; regulation of glycogen biosynthetic process; regulation of glycogen catabolic process; protein dephosphorylation; response to lead ion; circadian regulation of gene expression</p>
+<p><b>GO:MF:</b> phosphoprotein phosphatase activity; protein serine/threonine phosphatase activity; iron ion binding; protein binding; protein phosphatase 1 binding; hydrolase activity</p>
+<p><b>GO:CC:</b> protein phosphatase type 1 complex; chromosome, telomeric region; nucleus; nucleoplasm; nucleolus; cytoplasm</p>
+<p><b>Pathways:</b> mRNA surveillance pathway - Homo sapiens (human) (kegg); cGMP-PKG signaling pathway - Homo sapiens (human) (kegg); cAMP signaling pathway - Homo sapiens (human) (kegg); Oocyte meiosis - Homo sapiens (human) (kegg); Cellular senescence - Homo sapiens (human) (kegg); Adrenergic signaling in cardiomyocytes - Homo sapiens (human) (kegg); Vascular smooth muscle contraction - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Calcineurin-like, phosphoesterase domain; Serine/threonine-specific protein phosphatase/bis(5-nucleosyl)-tetraphosphatase; Metallo-dependent phosphatase-like; Serine-threonine protein phosphatase, N-terminal; Serine/threonine-protein phosphatase PP1 catalytic subunit</p>
+</div>
+
+<div class="gene-card">
+<h3>SPTBN1 — spectrin beta, non-erythrocytic 1</h3>
+<p><b>Summary:</b> Spectrin is an actin crosslinking and molecular scaffold protein that links the plasma membrane to the actin cytoskeleton, and functions in the determination of cell shape, arrangement of transmembrane proteins, and organization of organelles. It is composed of two antiparallel dimers of alpha- and beta- subunits. This gene is one member of a family of beta-spectrin genes. The encoded protein contains an N-terminal actin-binding domain, and 17 spectrin repeats which are involved in dimer formation. Multiple transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> mitotic cytokinesis; plasma membrane organization; central nervous system development; vesicle-mediated transport; central nervous system formation; actin cytoskeleton organization</p>
+<p><b>GO:MF:</b> RNA binding; actin binding; structural constituent of cytoskeleton; protein binding; phospholipid binding; ankyrin binding</p>
+<p><b>GO:CC:</b> nucleus; nucleolus; cytoplasm; cytosol; cytoskeleton; plasma membrane</p>
+<p><b>Pathways:</b> Developmental Biology (reactome); Cell-Cell communication (reactome); Signal Transduction (reactome); Disease (reactome); Signaling by Rho GTPases (reactome); ER to Golgi Anterograde Transport (reactome); Membrane Trafficking (reactome); Nephrin family interactions (reactome)</p>
+<p><b>InterPro:</b> Actinin-type actin-binding domain, conserved site; Pleckstrin homology domain, spectrin-type; Calponin homology domain; Pleckstrin homology domain; Spectrin repeat; PH-like domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>WWTR1 — WW domain containing transcription regulator 1</h3>
+<p><b>Summary:</b> Enables transcription coactivator activity. Involved in several processes, including hippo signaling; positive regulation of cell differentiation; and regulation of signal transduction. Located in cytosol and nuclear body. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> tissue homeostasis; heart process; regulation of DNA-templated transcription; positive regulation of cell population proliferation; positive regulation of epithelial to mesenchymal transition; stem cell division</p>
+<p><b>GO:MF:</b> transcription coregulator activity; transcription coactivator activity; transcription corepressor activity; protein binding; protein homodimerization activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; transcription regulator complex; cytoplasm; cytosol; plasma membrane</p>
+<p><b>Pathways:</b> Hippo signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - multiple species - Homo sapiens (human) (kegg); Developmental Biology (reactome); Adaptive Immune System (reactome); Signal Transduction (reactome); Immune System (reactome); Signaling by TGF-beta Receptor Complex (reactome); Signaling by Hippo (reactome)</p>
+<p><b>InterPro:</b> WW domain; WW domain superfamily; Yes-associated protein 1</p>
+</div>
+
+<div class="gene-card">
+<h3>BCAR3 — BCAR3 adaptor protein, NSP family member</h3>
+<p><b>Summary:</b> Breast tumors are initially dependent on estrogens for growth and progression and can be inhibited by anti-estrogens such as tamoxifen. However, breast cancers progress to become anti-estrogen resistant. Breast cancer anti-estrogen resistance gene 3 was identified in the search for genes involved in the development of estrogen resistance. The gene encodes a component of intracellular signal transduction that causes estrogen-independent proliferation in human breast cancer cells. The protein contains a putative src homology 2 (SH2) domain, a hall mark of cellular tyrosine kinase signaling molecules, and is partly homologous to the cell division cycle protein CDC48. Multiple transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, May 2012].</p>
+<p><b>GO:BP:</b> signal transduction; epidermal growth factor receptor signaling pathway; small GTPase-mediated signal transduction; positive regulation of cell population proliferation; insulin receptor signaling pathway; response to xenobiotic stimulus</p>
+<p><b>GO:MF:</b> phosphotyrosine residue binding; guanyl-nucleotide exchange factor activity; protein binding; kinase binding</p>
+<p><b>GO:CC:</b> cytoplasm; focal adhesion; membrane</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> SH2 domain; Ras guanine-nucleotide exchange factors catalytic domain; Ras guanine nucleotide exchange factor domain superfamily; SH2 domain superfamily; Ras guanine-nucleotide exchange factor, catalytic domain superfamily; SHEP1/BCAR3/NSP1, SH2 domain</p>
+</div>
+
+<div class="gene-card">
+<h3>THBS1 — thrombospondin 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a subunit of a disulfide-linked homotrimeric protein. This protein is an adhesive glycoprotein that mediates cell-to-cell and cell-to-matrix interactions. This protein can bind to fibrinogen, fibronectin, laminin, type V collagen and integrins alpha-V/beta-1. This protein has been shown to play roles in platelet aggregation, angiogenesis, and tumorigenesis. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> response to hypoxia; negative regulation of endothelial cell proliferation; negative regulation of cell-matrix adhesion; sprouting angiogenesis; chronic inflammatory response; negative regulation of antigen processing and presentation of peptide or polysaccharide antigen via MHC class II</p>
+<p><b>GO:MF:</b> phosphatidylserine binding; fibronectin binding; protease binding; endopeptidase inhibitor activity; integrin binding; extracellular matrix structural constituent</p>
+<p><b>GO:CC:</b> extracellular region; fibrinogen complex; endoplasmic reticulum; endoplasmic reticulum lumen; external side of plasma membrane; cell surface</p>
+<p><b>Pathways:</b> Rap1 signaling pathway - Homo sapiens (human) (kegg); p53 signaling pathway - Homo sapiens (human) (kegg); Phagosome - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); TGF-beta signaling pathway - Homo sapiens (human) (kegg); Focal adhesion - Homo sapiens (human) (kegg); ECM-receptor interaction - Homo sapiens (human) (kegg); Malaria - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> EGF-like domain; Thrombospondin type-1 (TSP1) repeat; VWFC domain; EGF-like calcium-binding domain; Thrombospondin, type 3-like repeat; Thrombospondin, C-terminal</p>
+</div>
+
+<div class="gene-card">
+<h3>FNTA — farnesyltransferase, CAAX box, subunit alpha</h3>
+<p><b>Summary:</b> Prenyltransferases can attach either a farnesyl group or a geranylgeranyl group in thioether linkage to the cysteine residue of proteins with a C-terminal CAAX box. CAAX geranylgeranyltransferase and CAAX farnesyltransferase are heterodimers that share the same alpha subunit but have different beta subunits. This gene encodes the alpha subunit of these transferases. Alternative splicing results in multiple transcript variants. Related pseudogenes have been identified on chromosomes 11 and 13. [provided by RefSeq, May 2010].</p>
+<p><b>GO:BP:</b> enzyme-linked receptor protein signaling pathway; transforming growth factor beta receptor signaling pathway; peptide pheromone maturation; neuromuscular junction development; protein farnesylation; protein geranylgeranylation</p>
+<p><b>GO:MF:</b> protein farnesyltransferase activity; protein geranylgeranyltransferase activity; CAAX-protein geranylgeranyltransferase activity; Rab geranylgeranyltransferase activity; protein binding; microtubule binding</p>
+<p><b>GO:CC:</b> cytoplasm; cytosol; microtubule associated complex; plasma membrane; CAAX-protein geranylgeranyltransferase complex; protein farnesyltransferase complex</p>
+<p><b>Pathways:</b> Terpenoid backbone biosynthesis - Homo sapiens (human) (kegg); Apoptosis (reactome); Apoptotic cleavage of cellular proteins (reactome); Antimicrobial mechanism of IFN-stimulated genes (reactome); Cytokine Signaling in Immune system (reactome); Signal Transduction (reactome); Disease (reactome); Immune System (reactome)</p>
+<p><b>InterPro:</b> Protein prenyltransferase, alpha subunit</p>
+</div>
+
+<div class="gene-card">
+<h3>HDAC1 — histone deacetylase 1</h3>
+<p><b>Summary:</b> Histone acetylation and deacetylation, catalyzed by multisubunit complexes, play a key role in the regulation of eukaryotic gene expression. The protein encoded by this gene belongs to the histone deacetylase/acuc/apha family and is a component of the histone deacetylase complex. It also interacts with retinoblastoma tumor-suppressor protein and this complex is a key element in the control of cell proliferation and differentiation. Together with metastasis-associated protein-2, it deacetylates p53 and modulates its effect on cell growth and apoptosis. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; chromatin organization; chromatin remodeling; DNA methylation-dependent constitutive heterochromatin formation; regulation of transcription by RNA polymerase II; circadian rhythm</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; RNA polymerase II core promoter sequence-specific DNA binding; core promoter sequence-specific DNA binding; transcription corepressor binding; p53 binding</p>
+<p><b>GO:CC:</b> histone deacetylase complex; chromatin; heterochromatin; nucleus; nucleoplasm; transcription regulator complex</p>
+<p><b>Pathways:</b> Cell cycle - Homo sapiens (human) (kegg); Longevity regulating pathway - multiple species - Homo sapiens (human) (kegg); Notch signaling pathway - Homo sapiens (human) (kegg); Neutrophil extracellular trap formation - Homo sapiens (human) (kegg); Thyroid hormone signaling pathway - Homo sapiens (human) (kegg); Huntington disease - Homo sapiens (human) (kegg); Amphetamine addiction - Homo sapiens (human) (kegg); Alcoholism - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Histone deacetylase HDAC; Class I/II Histone deacetylase HDAC; Ureohydrolase domain superfamily; Histone deacetylase domain; Histone deacetylase domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>UBE2D3 — ubiquitin conjugating enzyme E2 D3</h3>
+<p><b>Summary:</b> The modification of proteins with ubiquitin is an important cellular mechanism for targeting abnormal or short-lived proteins for degradation. Ubiquitination involves at least three classes of enzymes: ubiquitin-activating enzymes, or E1s, ubiquitin-conjugating enzymes, or E2s, and ubiquitin-protein ligases, or E3s. This gene encodes a member of the E2 ubiquitin-conjugating enzyme family. This enzyme functions in the ubiquitination of the tumor-suppressor protein p53, which is induced by an E3 ubiquitin-protein ligase. [provided by RefSeq, Jan 2017].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; protein polyubiquitination; ubiquitin-dependent protein catabolic process; protein monoubiquitination; protein ubiquitination; negative regulation of BMP signaling pathway</p>
+<p><b>GO:MF:</b> ubiquitin-protein transferase activity; protein binding; ubiquitin protein ligase activity; ubiquitin conjugating enzyme activity</p>
+<p><b>GO:CC:</b> nucleoplasm; cytoplasm; cytosol; plasma membrane; endosome membrane; extracellular exosome</p>
+<p><b>Pathways:</b> Ubiquitin mediated proteolysis - Homo sapiens (human) (kegg); Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Shigellosis - Homo sapiens (human) (kegg); Cellular response to hypoxia (reactome); Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha (reactome); Cytokine Signaling in Immune system (reactome); Adaptive Immune System (reactome); Signal Transduction (reactome)</p>
+<p><b>InterPro:</b> Ubiquitin-conjugating (UBC), catalytic core domain; Ubiquitin-conjugating enzyme/RWD-like; Ubiquitin-conjugating enzyme, active site; Ubiquitin-conjugating enzyme</p>
+</div>
+
+<div class="gene-card">
+<h3>LTBP2 — latent transforming growth factor beta binding protein 2</h3>
+<p><b>Summary:</b> The protein encoded by this gene belongs to the family of latent transforming growth factor (TGF)-beta binding proteins (LTBP), which are extracellular matrix proteins with multi-domain structure. This protein is the largest member of the LTBP family possessing unique regions and with most similarity to the fibrillins. It has thus been suggested that it may have multiple functions: as a member of the TGF-beta latent complex, as a structural component of microfibrils, and a role in cell adhesion. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> protein targeting; transforming growth factor beta receptor signaling pathway; protein secretion; establishment of protein localization to extracellular region; supramolecular fiber organization</p>
+<p><b>GO:MF:</b> extracellular matrix structural constituent; calcium ion binding; protein binding; microfibril binding</p>
+<p><b>GO:CC:</b> extracellular region; extracellular matrix; extracellular exosome; elastic fiber; transforming growth factor beta complex; non-collagenous component of basement membrane</p>
+<p><b>Pathways:</b> Extracellular matrix organization (reactome); Elastic fibre formation (reactome); Signal Transduction (reactome); Signaling by TGF-beta Receptor Complex (reactome); Molecules associated with elastic fibres (reactome); TGF-beta receptor signaling activates SMADs (reactome); Signaling by TGFB family members (reactome); Hypothesized Pathways in Pathogenesis of Cardiovascular Disease (wikipathways)</p>
+<p><b>InterPro:</b> EGF-type aspartate/asparagine hydroxylation site; EGF-like domain; EGF-like calcium-binding domain; Growth factor receptor cysteine-rich domain superfamily; TB domain; EGF-like calcium-binding, conserved site</p>
+</div>
+
+<div class="gene-card">
+<h3>RHOA — ras homolog family member A</h3>
+<p><b>Summary:</b> This gene encodes a member of the Rho family of small GTPases, which cycle between inactive GDP-bound and active GTP-bound states and function as molecular switches in signal transduction cascades. Rho proteins promote reorganization of the actin cytoskeleton and regulate cell shape, attachment, and motility. Overexpression of this gene is associated with tumor cell proliferation and metastasis. Multiple alternatively spliced variants have been identified. [provided by RefSeq, Sep 2015].</p>
+<p><b>GO:BP:</b> mitotic cytokinesis; alpha-beta T cell lineage commitment; aortic valve formation; Rho protein signal transduction; negative regulation of cell-substrate adhesion; cell migration</p>
+<p><b>GO:MF:</b> GTPase activity; G protein activity; protein binding; GTP binding; myosin binding; protein kinase binding</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; endosome; endoplasmic reticulum membrane; cytosol; cytoskeleton</p>
+<p><b>Pathways:</b> Ras signaling pathway - Homo sapiens (human) (kegg); Rap1 signaling pathway - Homo sapiens (human) (kegg); cGMP-PKG signaling pathway - Homo sapiens (human) (kegg); cAMP signaling pathway - Homo sapiens (human) (kegg); Chemokine signaling pathway - Homo sapiens (human) (kegg); Sphingolipid signaling pathway - Homo sapiens (human) (kegg); Phospholipase D signaling pathway - Homo sapiens (human) (kegg); Endocytosis - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Small GTPase; Small GTPase Rho; Small GTP-binding domain; P-loop containing nucleoside triphosphate hydrolase</p>
+</div>
+
+
+<h2>Provenance</h2>
+<ul>
+<li>PANTHER: pantherdb.org, REST (geneinfo + enrich/overrep)</li>
+<li>Enrichr: maayanlab.cloud/Enrichr, GO_Biological_Process_2025</li>
+<li>g:Profiler: biit.cs.ut.ee/gprofiler, GO/KEGG/REAC</li>
+<li>MyGene.info: mygene.info/v3/query</li>
+</ul>
+</body></html>

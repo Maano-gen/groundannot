@@ -1,0 +1,1480 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<title>GroundAnnot report</title>
+<style>
+body { font-family: system-ui, sans-serif; max-width: 1100px; margin: 2em auto; }
+h1 { border-bottom: 2px solid #333; }
+h2 { margin-top: 2em; color: #444; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: 0.9em; }
+th, td { border: 1px solid #ccc; padding: 6px 8px; text-align: left; }
+th { background: #f0f0f0; }
+.gene-card { border: 1px solid #ddd; padding: 1em; margin: 1em 0; border-radius: 6px; }
+.gene-card h3 { margin-top: 0; }
+.small { color: #666; font-size: 0.85em; }
+.section-tag { display: inline-block; background: #eee; padding: 2px 8px;
+               border-radius: 4px; font-size: 0.8em; }
+.closed { background: #e8f4ea; }
+.context { background: #f4f0e8; }
+</style></head><body>
+
+<h1>GroundAnnot report — UNFOLDED_PROTEIN_RESPONSE</h1>
+<p class="small">Run: 2026-09-25T08:25:40 &nbsp;|&nbsp; Organism: human
+&nbsp;|&nbsp; Input genes: 113</p>
+<p class="small">Genes: ATF4, HERPUD1, PARN, EXOSC4, HSP90B1, XBP1, EXOSC9, HSPA5, ATF3, EXOSC1, EXOSC5, ASNS, ARFGAP1, WFS1, SRPRB, DNAJB9, TSPYL2, NFYA, CALR, KHSRP, DNAJC3, EXOSC2, NOP14, ATF6, HYOU1, RRP9, NOP56, CXXC1, IGFBP1, CNOT4, DCP2, PDIA6, ATP6V0D1, PREB, SEC31A, GOSR2, SERP1, NFYB, NHP2, DCTN1, SLC7A5, SSR1, EDEM1, EDC4, EIF2AK3, MTHFD2, SRPRA, NOLC1, ERN1, FKBP14, ZBTB17, WIPI1, YIF1A, CCL2, DKC1, EIF4EBP1, EIF4A1, EIF2S1, TATDN2, XPOT, LSM4, CHAC1, STC2, PDIA5, NABP1, LSM1, SDAD1, EIF4A2, EIF4E, IARS1, DDX10, GEMIN4, TARS1, ALDH18A1, DDIT4, HSPA9, SEC11A, EIF4A3, POP4, ERO1A, CEBPG, BAG3, KDELR3, CEBPB, CNOT2, SHC1, SPCS3, H2AX, SLC1A4, RPS14, NPM1, CNOT6, CKS1B, PSAT1, EIF4G1, YWHAZ, SLC30A5, MTREX, KIF5B, DCP1A, IFIT1, IMP3, SPCS1, DNAJA4, VEGFA, TTC37, TUBB2A, FUS, EXOSC10, EEF2, EXOC2, PAIP1, BANF1</p>
+
+<h2><span class="section-tag closed">Closed vocabulary</span> Enrichment</h2>
+<p>The language model may cite term IDs only from the tables below.</p>
+
+
+<h3>PANTHER</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0010467</td><td>gene expression</td>
+<td>4.33e-23</td>
+<td>5.96e-19</td></tr>
+
+<tr><td>GO:0034976</td><td>response to endoplasmic reticulum stress</td>
+<td>1.27e-21</td>
+<td>8.76e-18</td></tr>
+
+<tr><td>GO:0009059</td><td>macromolecule biosynthetic process</td>
+<td>1.10e-20</td>
+<td>5.05e-17</td></tr>
+
+<tr><td>GO:0010608</td><td>post-transcriptional regulation of gene expression</td>
+<td>1.00e-19</td>
+<td>3.44e-16</td></tr>
+
+<tr><td>GO:0043170</td><td>macromolecule metabolic process</td>
+<td>4.23e-18</td>
+<td>1.16e-14</td></tr>
+
+<tr><td>GO:0006402</td><td>mRNA catabolic process</td>
+<td>4.61e-17</td>
+<td>1.06e-13</td></tr>
+
+<tr><td>GO:0009058</td><td>biosynthetic process</td>
+<td>4.97e-17</td>
+<td>9.76e-14</td></tr>
+
+<tr><td>GO:0000956</td><td>nuclear-transcribed mRNA catabolic process</td>
+<td>6.31e-17</td>
+<td>1.08e-13</td></tr>
+
+<tr><td>GO:0016070</td><td>RNA metabolic process</td>
+<td>1.33e-16</td>
+<td>2.03e-13</td></tr>
+
+<tr><td>GO:0006401</td><td>RNA catabolic process</td>
+<td>2.09e-16</td>
+<td>2.87e-13</td></tr>
+
+<tr><td>GO:0034620</td><td>cellular response to unfolded protein</td>
+<td>2.93e-16</td>
+<td>3.67e-13</td></tr>
+
+<tr><td>GO:0010629</td><td>negative regulation of gene expression</td>
+<td>6.07e-16</td>
+<td>6.96e-13</td></tr>
+
+<tr><td>GO:0030968</td><td>endoplasmic reticulum unfolded protein response</td>
+<td>7.13e-16</td>
+<td>7.54e-13</td></tr>
+
+<tr><td>GO:0141188</td><td>nucleic acid catabolic process</td>
+<td>1.17e-15</td>
+<td>1.15e-12</td></tr>
+
+<tr><td>GO:0035967</td><td>cellular response to topologically incorrect protein</td>
+<td>2.96e-15</td>
+<td>2.72e-12</td></tr>
+
+<tr><td>GO:0006364</td><td>rRNA processing</td>
+<td>1.62e-14</td>
+<td>1.39e-11</td></tr>
+
+<tr><td>GO:0006986</td><td>response to unfolded protein</td>
+<td>1.82e-14</td>
+<td>1.47e-11</td></tr>
+
+<tr><td>GO:0010605</td><td>negative regulation of macromolecule metabolic process</td>
+<td>2.29e-14</td>
+<td>1.75e-11</td></tr>
+
+<tr><td>GO:0042254</td><td>ribosome biogenesis</td>
+<td>2.43e-14</td>
+<td>1.76e-11</td></tr>
+
+<tr><td>GO:0033554</td><td>cellular response to stress</td>
+<td>2.51e-14</td>
+<td>1.73e-11</td></tr>
+
+<tr><td>GO:0044238</td><td>primary metabolic process</td>
+<td>4.30e-14</td>
+<td>2.82e-11</td></tr>
+
+<tr><td>GO:0090304</td><td>nucleic acid metabolic process</td>
+<td>4.46e-14</td>
+<td>2.79e-11</td></tr>
+
+<tr><td>GO:0035966</td><td>response to topologically incorrect protein</td>
+<td>1.23e-13</td>
+<td>7.36e-11</td></tr>
+
+<tr><td>GO:0016071</td><td>mRNA metabolic process</td>
+<td>2.25e-13</td>
+<td>1.29e-10</td></tr>
+
+<tr><td>GO:0010558</td><td>negative regulation of macromolecule biosynthetic process</td>
+<td>2.46e-13</td>
+<td>1.35e-10</td></tr>
+
+</table>
+
+<h3>Enrichr</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0034976</td><td>Response to Endoplasmic Reticulum Stress</td>
+<td>8.93e-20</td>
+<td>9.56e-17</td></tr>
+
+<tr><td>GO:0000956</td><td>Nuclear-Transcribed mRNA Catabolic Process</td>
+<td>2.89e-15</td>
+<td>1.55e-12</td></tr>
+
+<tr><td>GO:0042254</td><td>Ribosome Biogenesis</td>
+<td>1.83e-14</td>
+<td>6.52e-12</td></tr>
+
+<tr><td>GO:0006396</td><td>RNA Processing</td>
+<td>4.92e-14</td>
+<td>1.06e-11</td></tr>
+
+<tr><td>GO:0006364</td><td>rRNA Processing</td>
+<td>4.94e-14</td>
+<td>1.06e-11</td></tr>
+
+<tr><td>GO:0030968</td><td>Endoplasmic Reticulum Unfolded Protein Response</td>
+<td>1.21e-13</td>
+<td>2.15e-11</td></tr>
+
+<tr><td>GO:0016072</td><td>rRNA Metabolic Process</td>
+<td>3.15e-13</td>
+<td>4.81e-11</td></tr>
+
+<tr><td>GO:0034620</td><td>Cellular Response to Unfolded Protein</td>
+<td>9.18e-13</td>
+<td>1.23e-10</td></tr>
+
+<tr><td>GO:0006401</td><td>RNA Catabolic Process</td>
+<td>2.30e-11</td>
+<td>2.73e-09</td></tr>
+
+<tr><td>GO:0016070</td><td>RNA Metabolic Process</td>
+<td>7.78e-11</td>
+<td>8.33e-09</td></tr>
+
+<tr><td>GO:0000288</td><td>Nuclear-Transcribed mRNA Catabolic Process, Deadenylation-Dependent Decay</td>
+<td>3.58e-10</td>
+<td>3.48e-08</td></tr>
+
+<tr><td>GO:0036503</td><td>ERAD Pathway</td>
+<td>2.26e-09</td>
+<td>1.86e-07</td></tr>
+
+<tr><td>GO:0031126</td><td>sno(s)RNA 3'-End Processing</td>
+<td>2.37e-09</td>
+<td>1.86e-07</td></tr>
+
+<tr><td>GO:0141188</td><td>Nucleic Acid Catabolic Process</td>
+<td>2.43e-09</td>
+<td>1.86e-07</td></tr>
+
+<tr><td>GO:0071027</td><td>Nuclear RNA Surveillance</td>
+<td>6.54e-09</td>
+<td>4.66e-07</td></tr>
+
+<tr><td>GO:0006984</td><td>ER-nucleus Signaling Pathway</td>
+<td>7.64e-09</td>
+<td>5.11e-07</td></tr>
+
+<tr><td>GO:0006402</td><td>mRNA Catabolic Process</td>
+<td>1.08e-08</td>
+<td>6.77e-07</td></tr>
+
+<tr><td>GO:0006417</td><td>Regulation of Translation</td>
+<td>1.91e-08</td>
+<td>1.14e-06</td></tr>
+
+<tr><td>GO:0071051</td><td>poly(A)-dependent snoRNA 3'-End Processing</td>
+<td>3.34e-08</td>
+<td>1.88e-06</td></tr>
+
+<tr><td>GO:0036490</td><td>Regulation of Translation in Response to Endoplasmic Reticulum Stress</td>
+<td>1.19e-07</td>
+<td>6.27e-06</td></tr>
+
+<tr><td>GO:0006446</td><td>Regulation of Translational Initiation</td>
+<td>1.23e-07</td>
+<td>6.27e-06</td></tr>
+
+<tr><td>GO:0045047</td><td>Protein Targeting to ER</td>
+<td>1.63e-07</td>
+<td>7.95e-06</td></tr>
+
+<tr><td>GO:0071028</td><td>Nuclear mRNA Surveillance</td>
+<td>1.98e-07</td>
+<td>9.19e-06</td></tr>
+
+<tr><td>GO:1904872</td><td>Regulation of Telomerase RNA Localization to Cajal Body</td>
+<td>3.09e-07</td>
+<td>1.32e-05</td></tr>
+
+<tr><td>GO:0110156</td><td>mRNA Methylguanosine-Cap Decapping</td>
+<td>3.09e-07</td>
+<td>1.32e-05</td></tr>
+
+</table>
+
+<h3>g:Profiler</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>REAC:R-HSA-381119</td><td>Unfolded Protein Response (UPR)</td>
+<td>2.05e-80</td>
+<td>2.05e-80</td></tr>
+
+<tr><td>REAC:R-HSA-381070</td><td>IRE1alpha activates chaperones</td>
+<td>1.87e-42</td>
+<td>1.87e-42</td></tr>
+
+<tr><td>REAC:R-HSA-381038</td><td>XBP1(S) activates chaperone genes</td>
+<td>1.09e-38</td>
+<td>1.09e-38</td></tr>
+
+<tr><td>REAC:R-HSA-2262752</td><td>Cellular responses to stress</td>
+<td>5.72e-38</td>
+<td>5.72e-38</td></tr>
+
+<tr><td>REAC:R-HSA-8953897</td><td>Cellular responses to stimuli</td>
+<td>1.60e-37</td>
+<td>1.60e-37</td></tr>
+
+<tr><td>REAC:R-HSA-381042</td><td>PERK regulates gene expression</td>
+<td>1.77e-35</td>
+<td>1.77e-35</td></tr>
+
+<tr><td>REAC:R-HSA-380994</td><td>ATF4 activates genes in response to endoplasmic reticulum  stress</td>
+<td>1.21e-30</td>
+<td>1.21e-30</td></tr>
+
+<tr><td>REAC:R-HSA-429914</td><td>Deadenylation-dependent mRNA decay</td>
+<td>2.80e-24</td>
+<td>2.80e-24</td></tr>
+
+<tr><td>KEGG:03018</td><td>RNA degradation</td>
+<td>3.50e-17</td>
+<td>3.50e-17</td></tr>
+
+<tr><td>GO:0034976</td><td>response to endoplasmic reticulum stress</td>
+<td>1.16e-15</td>
+<td>1.16e-15</td></tr>
+
+<tr><td>GO:0003723</td><td>RNA binding</td>
+<td>7.28e-15</td>
+<td>7.28e-15</td></tr>
+
+<tr><td>GO:0006401</td><td>RNA catabolic process</td>
+<td>3.49e-14</td>
+<td>3.49e-14</td></tr>
+
+<tr><td>REAC:R-HSA-8953854</td><td>Metabolism of RNA</td>
+<td>1.29e-13</td>
+<td>1.29e-13</td></tr>
+
+<tr><td>KEGG:04141</td><td>Protein processing in endoplasmic reticulum</td>
+<td>1.49e-13</td>
+<td>1.49e-13</td></tr>
+
+<tr><td>GO:0141188</td><td>nucleic acid catabolic process</td>
+<td>1.56e-13</td>
+<td>1.56e-13</td></tr>
+
+<tr><td>GO:0010608</td><td>post-transcriptional regulation of gene expression</td>
+<td>1.71e-12</td>
+<td>1.71e-12</td></tr>
+
+<tr><td>GO:0006364</td><td>rRNA processing</td>
+<td>1.94e-12</td>
+<td>1.94e-12</td></tr>
+
+<tr><td>GO:0006402</td><td>mRNA catabolic process</td>
+<td>2.41e-12</td>
+<td>2.41e-12</td></tr>
+
+<tr><td>GO:0000956</td><td>nuclear-transcribed mRNA catabolic process</td>
+<td>2.48e-12</td>
+<td>2.48e-12</td></tr>
+
+<tr><td>REAC:R-HSA-450604</td><td>KSRP (KHSRP) binds and destabilizes mRNA</td>
+<td>6.32e-12</td>
+<td>6.32e-12</td></tr>
+
+<tr><td>REAC:R-HSA-429947</td><td>Deadenylation of mRNA</td>
+<td>7.20e-12</td>
+<td>7.20e-12</td></tr>
+
+<tr><td>GO:0042254</td><td>ribosome biogenesis</td>
+<td>1.08e-11</td>
+<td>1.08e-11</td></tr>
+
+<tr><td>GO:0003676</td><td>nucleic acid binding</td>
+<td>1.29e-11</td>
+<td>1.29e-11</td></tr>
+
+<tr><td>GO:0010629</td><td>negative regulation of gene expression</td>
+<td>1.51e-11</td>
+<td>1.51e-11</td></tr>
+
+<tr><td>GO:0010467</td><td>gene expression</td>
+<td>4.86e-11</td>
+<td>4.86e-11</td></tr>
+
+</table>
+
+
+<h2><span class="section-tag context">Context only</span> Per-gene annotations</h2>
+<p>The language model may read these for narrative but must not cite them as enrichment evidence.</p>
+
+
+<div class="gene-card">
+<h3>ATF4 — activating transcription factor 4</h3>
+<p><b>Summary:</b> This gene encodes a transcription factor that was originally identified as a widely expressed mammalian DNA binding protein that could bind a tax-responsive enhancer element in the LTR of HTLV-1. The encoded protein was also isolated and characterized as the cAMP-response element binding protein 2 (CREB-2). The protein encoded by this gene belongs to a family of DNA-binding proteins that includes the AP-1 family of transcription factors, cAMP-response element binding proteins (CREBs) and CREB-like proteins. These transcription factors share a leucine zipper region that is involved in protein-protein interactions, located C-terminal to a stretch of basic amino acids that functions as a DNA binding domain. Two alternative transcripts encoding the same protein have been described. Two pseudogenes are located on the X chromosome at q28 in a region containing a large inverted duplication. [provided by RefSeq, Sep 2011].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; gluconeogenesis; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; transcription by RNA polymerase II; gamma-aminobutyric acid signaling pathway</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II transcription regulatory region sequence-specific DNA binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; transcription regulator complex; cytoplasm; centrosome</p>
+<p><b>Pathways:</b> MAPK signaling pathway - Homo sapiens (human) (kegg); cGMP-PKG signaling pathway - Homo sapiens (human) (kegg); Mitophagy - animal - Homo sapiens (human) (kegg); Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); Apoptosis - Homo sapiens (human) (kegg); Longevity regulating pathway - Homo sapiens (human) (kegg); Adrenergic signaling in cardiomyocytes - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Basic-leucine zipper domain; Basic-leucine zipper domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>HERPUD1 — homocysteine inducible ER protein with ubiquitin like domain 1</h3>
+<p><b>Summary:</b> The accumulation of unfolded proteins in the endoplasmic reticulum (ER) triggers the ER stress response. This response includes the inhibition of translation to prevent further accumulation of unfolded proteins, the increased expression of proteins involved in polypeptide folding, known as the unfolded protein response (UPR), and the destruction of misfolded proteins by the ER-associated protein degradation (ERAD) system. This gene may play a role in both UPR and ERAD. Its expression is induced by UPR and it has an ER stress response element in its promoter region while the encoded protein has an N-terminal ubiquitin-like domain which may interact with the ERAD system. This protein has been shown to interact with presenilin proteins and to increase the level of amyloid-beta protein following its overexpression. Alternative splicing of this gene produces multiple transcript variants encoding different isoforms. The full-length nature of all transcript variants has not been determined. [provided by RefSeq, Jan 2013].</p>
+<p><b>GO:BP:</b> ubiquitin-dependent protein catabolic process; intracellular calcium ion homeostasis; response to unfolded protein; endoplasmic reticulum unfolded protein response; retrograde protein transport, ER to cytosol; endoplasmic reticulum calcium ion homeostasis</p>
+<p><b>GO:MF:</b> protein binding; transmembrane transporter binding; ubiquitin-like ligase-substrate adaptor activity</p>
+<p><b>GO:CC:</b> Hrd1p ubiquitin ligase complex; endoplasmic reticulum; endoplasmic reticulum membrane; membrane; endoplasmic reticulum quality control compartment; Lewy body core</p>
+<p><b>Pathways:</b> Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Cellular responses to stress (reactome); ATF4 activates genes in response to endoplasmic reticulum  stress (reactome); PERK regulates gene expression (reactome); Unfolded Protein Response (UPR) (reactome); Cellular responses to stimuli (reactome); VEGFA-VEGFR2 Signaling Pathway (wikipathways); Exercise-induced Circadian Regulation (wikipathways)</p>
+<p><b>InterPro:</b> Ubiquitin-like domain; Ubiquitin-like domain superfamily; Homocysteine-responsive endoplasmic reticulum-resident ubiquitin-like domain member 1 /2</p>
+</div>
+
+<div class="gene-card">
+<h3>PARN — poly(A)-specific ribonuclease</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a 3'-exoribonuclease, with similarity to the RNase D family of 3'-exonucleases. It prefers poly(A) as the substrate, hence, efficiently degrades poly(A) tails of mRNAs. Exonucleolytic degradation of the poly(A) tail is often the first step in the decay of eukaryotic mRNAs. This protein is also involved in silencing of certain maternal mRNAs during oocyte maturation and early embryonic development, as well as in nonsense-mediated decay (NMD) of mRNAs that contain premature stop codons. Alternatively spliced transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Aug 2008].</p>
+<p><b>GO:BP:</b> nuclear-transcribed mRNA poly(A) tail shortening; box H/ACA sno(s)RNA 3'-end processing; RNA catabolic process; mRNA catabolic process; female gamete generation; RNA modification</p>
+<p><b>GO:MF:</b> 3'-5'-RNA exonuclease activity; nucleic acid binding; RNA binding; mRNA 3'-UTR binding; nuclease activity; poly(A)-specific ribonuclease activity</p>
+<p><b>GO:CC:</b> nucleus; nucleolus; cytoplasm; cytosol; nuclear speck</p>
+<p><b>Pathways:</b> RNA degradation - Homo sapiens (human) (kegg); Cellular responses to stress (reactome); ATF4 activates genes in response to endoplasmic reticulum  stress (reactome); PERK regulates gene expression (reactome); Unfolded Protein Response (UPR) (reactome); Deadenylation-dependent mRNA decay (reactome); Deadenylation of mRNA (reactome); Regulation of mRNA stability by proteins that bind AU-rich elements (reactome)</p>
+<p><b>InterPro:</b> R3H domain; Ribonuclease CAF1; Ribonuclease H-like superfamily; Nucleotide-binding alpha-beta plait domain superfamily; Poly(A)-specific ribonuclease, RNA-binding; PARN, R3H domain</p>
+</div>
+
+<div class="gene-card">
+<h3>EXOSC4 — exosome component 4</h3>
+<p><b>Summary:</b> Enables mRNA 3'-UTR AU-rich region binding activity. Involved in nucleic acid metabolic process and positive regulation of cell growth. Acts upstream of or within defense response to virus. Located in cytosol; nucleoplasm; and transcriptionally active chromatin. Part of exosome (RNase complex). [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> maturation of 5.8S rRNA; nuclear-transcribed mRNA catabolic process; rRNA processing; RNA processing; RNA catabolic process; rRNA catabolic process</p>
+<p><b>GO:MF:</b> 3'-5'-RNA exonuclease activity; RNA binding; RNA exonuclease activity; protein binding; mRNA 3'-UTR AU-rich region binding</p>
+<p><b>GO:CC:</b> nuclear exosome (RNase complex); cytoplasmic exosome (RNase complex); exosome (RNase complex); euchromatin; nucleus; nucleoplasm</p>
+<p><b>Pathways:</b> RNA degradation - Homo sapiens (human) (kegg); Adaptive Immune System (reactome); Immune System (reactome); Cellular responses to stress (reactome); ATF4 activates genes in response to endoplasmic reticulum  stress (reactome); PERK regulates gene expression (reactome); Unfolded Protein Response (UPR) (reactome); Deadenylation-dependent mRNA decay (reactome)</p>
+<p><b>InterPro:</b> Exoribonuclease, phosphorolytic domain 1; Exoribonuclease, phosphorolytic domain 2; Ribosomal protein uS5 domain 2-type superfamily; PNPase/RNase PH domain superfamily; Exoribonuclease, PH domain 2 superfamily; Ribonuclease PH</p>
+</div>
+
+<div class="gene-card">
+<h3>HSP90B1 — heat shock protein 90 beta family member 1</h3>
+<p><b>Summary:</b> This gene encodes a member of a family of adenosine triphosphate(ATP)-metabolizing molecular chaperones with roles in stabilizing and folding other proteins. The encoded protein is localized to melanosomes and the endoplasmic reticulum. Expression of this protein is associated with a variety of pathogenic states, including tumor formation. There is a microRNA gene located within the 5' exon of this gene. There are pseudogenes for this gene on chromosomes 1 and 15. [provided by RefSeq, Aug 2012].</p>
+<p><b>GO:BP:</b> response to hypoxia; protein folding; response to hormone; protein transport; positive regulation of Wnt signaling pathway; retrograde protein transport, ER to cytosol</p>
+<p><b>GO:MF:</b> RNA binding; protein phosphatase inhibitor activity; calcium ion binding; protein binding; ATP binding; ATP hydrolysis activity</p>
+<p><b>GO:CC:</b> extracellular region; nucleus; cytoplasm; endoplasmic reticulum; endoplasmic reticulum lumen; endoplasmic reticulum membrane</p>
+<p><b>Pathways:</b> Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); IL-17 signaling pathway - Homo sapiens (human) (kegg); Estrogen signaling pathway - Homo sapiens (human) (kegg); Thyroid hormone synthesis - Homo sapiens (human) (kegg); Salmonella infection - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Prostate cancer - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Heat shock protein Hsp90 family; Histidine kinase/HSP90-like ATPase domain; Heat shock protein Hsp90, conserved site; Ribosomal protein uS5 domain 2-type superfamily; Heat shock protein Hsp90, N-terminal; Histidine kinase/HSP90-like ATPase superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>XBP1 — X-box binding protein 1</h3>
+<p><b>Summary:</b> This gene encodes a transcription factor that regulates MHC class II genes by binding to a promoter element referred to as an X box. This gene product is a bZIP protein, which was also identified as a cellular transcription factor that binds to an enhancer in the promoter of the T cell leukemia virus type 1 promoter. It may increase expression of viral proteins by acting as the DNA binding partner of a viral transactivator. It has been found that upon accumulation of unfolded proteins in the endoplasmic reticulum (ER), the mRNA of this gene is processed to an active form by an unconventional splicing mechanism that is mediated by the endonuclease inositol-requiring enzyme 1 (IRE1). The resulting loss of 26 nt from the spliced mRNA causes a frame-shift and an isoform XBP1(S), which is the functionally active transcription factor. The isoform encoded by the unspliced mRNA, XBP1(U), is constitutively expressed, and thought to function as a negative feedback regulator of XBP1(S), which shuts off transcription of target genes during the recovery phase of ER stress. A pseudogene of XBP1 has been identified and localized to chromosome 5. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; angiogenesis; regulation of cell growth; liver development; positive regulation of protein phosphorylation; endothelial cell proliferation</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II transcription regulatory region sequence-specific DNA binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; cis-regulatory region sequence-specific DNA binding; protease binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm; endoplasmic reticulum; endoplasmic reticulum membrane; cytosol</p>
+<p><b>Pathways:</b> Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Non-alcoholic fatty liver disease - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Parkinson disease - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Spinocerebellar ataxia - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Lipid and atherosclerosis - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Basic-leucine zipper domain; Basic-leucine zipper domain superfamily; Endoplasmic Reticulum Stress-Regulated Transcription Factor</p>
+</div>
+
+<div class="gene-card">
+<h3>EXOSC9 — exosome component 9</h3>
+<p><b>Summary:</b> This gene encodes a component of the human exosome, a exoribonuclease complex which processes and degrades RNA in the nucleus and cytoplasm. This component may play a role in mRNA degradation and the polymyositis/scleroderma autoantigen complex. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Aug 2011].</p>
+<p><b>GO:BP:</b> exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); nuclear-transcribed mRNA catabolic process; rRNA processing; RNA processing; RNA catabolic process; mRNA catabolic process</p>
+<p><b>GO:MF:</b> 3'-5'-RNA exonuclease activity; RNA binding; RNA exonuclease activity; protein binding; mRNA 3'-UTR AU-rich region binding; RNA polymerase II-specific DNA-binding transcription factor binding</p>
+<p><b>GO:CC:</b> nuclear exosome (RNase complex); cytoplasmic exosome (RNase complex); exosome (RNase complex); nuclear chromosome; nucleus; nucleoplasm</p>
+<p><b>Pathways:</b> RNA degradation - Homo sapiens (human) (kegg); Adaptive Immune System (reactome); Immune System (reactome); Cellular responses to stress (reactome); ATF4 activates genes in response to endoplasmic reticulum  stress (reactome); PERK regulates gene expression (reactome); Unfolded Protein Response (UPR) (reactome); Deadenylation-dependent mRNA decay (reactome)</p>
+<p><b>InterPro:</b> Exoribonuclease, phosphorolytic domain 1; Exoribonuclease, phosphorolytic domain 2; Ribosomal protein uS5 domain 2-type superfamily; PNPase/RNase PH domain superfamily; Exosome complex component RRP45; Exoribonuclease, PH domain 2 superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>HSPA5 — heat shock protein family A (Hsp70) member 5</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the heat shock protein 70 (HSP70) family. This protein localizes to the lumen of the endoplasmic reticulum (ER) where it operates as a typical HSP70 chaperone involved in the folding and assembly of proteins in the ER and is a master regulator of ER homeostasis. During cellular stress, as during viral infection or tumorogenesis, this protein interacts with the transmembrane stress sensor proteins PERK (protein kinase R-like endoplasmic reticulum kinase), IRE1 (inositol-requiring kinase 1), and ATF6 (activating transcription factor 6) where it acts as a repressor of the unfolded protein response (UPR) and also plays a role in cellular apoptosis and senescence. Elevated expression and atypical translocation of this protein to the cell surface has been reported in viral infections and some types of cancer cells. At the cell surface this protein may facilitate viral attachment and entry to host cells. This gene is a therapeutic target for the treatment of coronavirus diseases and chemoresistant cancers. [provided by RefSeq, Jul 2020].</p>
+<p><b>GO:BP:</b> cerebellum structural organization; cerebellar Purkinje cell layer development; substantia nigra development; positive regulation of cell migration; endoplasmic reticulum unfolded protein response; post-translational protein targeting to membrane, translocation</p>
+<p><b>GO:MF:</b> calcium ion binding; protein binding; ATP binding; ATP hydrolysis activity; enzyme binding; protein domain specific binding</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; mitochondrion; endoplasmic reticulum; endoplasmic reticulum lumen; endoplasmic reticulum membrane</p>
+<p><b>Pathways:</b> Protein export - Homo sapiens (human) (kegg); Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Antigen processing and presentation - Homo sapiens (human) (kegg); Thyroid hormone synthesis - Homo sapiens (human) (kegg); Parkinson disease - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Prion disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Heat shock protein 70 family; Heat shock protein 70, conserved site; Heat shock protein 70kD, peptide-binding domain superfamily; Heat shock protein 70kD, C-terminal domain superfamily; Endoplasmic reticulum chaperone BIP, nucleotide-binding domain; ATPase, nucleotide binding domain</p>
+</div>
+
+<div class="gene-card">
+<h3>ATF3 — activating transcription factor 3</h3>
+<p><b>Summary:</b> This gene encodes a member of the mammalian activation transcription factor/cAMP responsive element-binding (CREB) protein family of transcription factors. This gene is induced by a variety of signals, including many of those encountered by cancer cells, and is involved in the complex process of cellular stress response. Multiple transcript variants encoding different isoforms have been found for this gene. It is possible that alternative splicing of this gene may be physiologically important in the regulation of target genes. [provided by RefSeq, Apr 2011].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; positive regulation of cell population proliferation; positive regulation of gene expression; endoplasmic reticulum unfolded protein response</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II transcription regulatory region sequence-specific DNA binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; nucleolus; RNA polymerase II transcription regulator complex; CHOP-ATF3 complex</p>
+<p><b>Pathways:</b> Adaptive Immune System (reactome); Immune System (reactome); Cellular responses to stress (reactome); ATF4 activates genes in response to endoplasmic reticulum  stress (reactome); PERK regulates gene expression (reactome); Unfolded Protein Response (UPR) (reactome); Regulation of T cell activation by CD28 family (reactome); Co-inhibition by PD-1 (reactome)</p>
+<p><b>InterPro:</b> AP-1 transcription factor; Basic-leucine zipper domain; Basic-leucine zipper domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>EXOSC1 — exosome component 1</h3>
+<p><b>Summary:</b> This gene encodes a core component of the exosome. The mammalian exosome is required for rapid degradation of AU rich element-containing RNAs but not for poly(A) shortening. The association of this protein with the exosome is mediated by protein-protein interactions with ribosomal RNA-processing protein 42 and ribosomal RNA-processing protein 46. Alternative splicing of this gene results in multiple transcript variants. [provided by RefSeq, Jan 2016].</p>
+<p><b>GO:BP:</b> exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); RNA processing; RNA catabolic process; nuclear-transcribed mRNA catabolic process, non-stop decay</p>
+<p><b>GO:MF:</b> nucleic acid binding; RNA binding; RNA exonuclease activity; protein binding</p>
+<p><b>GO:CC:</b> nuclear exosome (RNase complex); cytoplasmic exosome (RNase complex); exosome (RNase complex); nucleus; nucleoplasm; nucleolus</p>
+<p><b>Pathways:</b> RNA degradation - Homo sapiens (human) (kegg); Adaptive Immune System (reactome); Immune System (reactome); Cellular responses to stress (reactome); ATF4 activates genes in response to endoplasmic reticulum  stress (reactome); PERK regulates gene expression (reactome); Unfolded Protein Response (UPR) (reactome); Deadenylation-dependent mRNA decay (reactome)</p>
+<p><b>InterPro:</b> S1 domain; Nucleic acid-binding, OB-fold; Exosome complex component CSL4, C-terminal; Exosome complex component, N-terminal domain; Exosome complex component Csl4</p>
+</div>
+
+<div class="gene-card">
+<h3>EXOSC5 — exosome component 5</h3>
+<p><b>Summary:</b> Predicted to enable RNA binding activity. Involved in DNA deamination and exonucleolytic catabolism of deadenylated mRNA. Acts upstream of or within defense response to virus. Located in nucleolus; nucleoplasm; and transcriptionally active chromatin. Part of exosome (RNase complex). [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> rRNA processing; RNA processing; RNA catabolic process; mRNA catabolic process; rRNA catabolic process; U4 snRNA 3'-end processing</p>
+<p><b>GO:MF:</b> 3'-5'-RNA exonuclease activity; RNA binding; RNA exonuclease activity; protein binding</p>
+<p><b>GO:CC:</b> nuclear exosome (RNase complex); cytoplasmic exosome (RNase complex); exosome (RNase complex); euchromatin; nucleus; nucleoplasm</p>
+<p><b>Pathways:</b> RNA degradation - Homo sapiens (human) (kegg); Adaptive Immune System (reactome); Immune System (reactome); Cellular responses to stress (reactome); ATF4 activates genes in response to endoplasmic reticulum  stress (reactome); PERK regulates gene expression (reactome); Unfolded Protein Response (UPR) (reactome); Deadenylation-dependent mRNA decay (reactome)</p>
+<p><b>InterPro:</b> Exoribonuclease, phosphorolytic domain 1; Exoribonuclease, phosphorolytic domain 2; Ribosomal protein uS5 domain 2-type superfamily; PNPase/RNase PH domain superfamily; Exoribonuclease, PH domain 2 superfamily; Ribonuclease PH</p>
+</div>
+
+<div class="gene-card">
+<h3>ASNS — asparagine synthetase (glutamine-hydrolyzing)</h3>
+<p><b>Summary:</b> The protein encoded by this gene is involved in the synthesis of asparagine. This gene complements a mutation in the temperature-sensitive hamster mutant ts11, which blocks progression through the G1 phase of the cell cycle at nonpermissive temperature. Alternatively spliced transcript variants have been described for this gene. [provided by RefSeq, May 2010].</p>
+<p><b>GO:BP:</b> cellular response to glucose starvation; negative regulation of apoptotic process; positive regulation of mitotic cell cycle; L-asparagine biosynthetic process</p>
+<p><b>GO:MF:</b> asparagine synthase (glutamine-hydrolyzing) activity; aspartate-ammonia ligase activity; glutaminase activity; protein binding</p>
+<p><b>GO:CC:</b> cytosol</p>
+<p><b>Pathways:</b> Alanine, aspartate and glutamate metabolism - Homo sapiens (human) (kegg); Metabolism (reactome); Cellular responses to stress (reactome); ATF4 activates genes in response to endoplasmic reticulum  stress (reactome); PERK regulates gene expression (reactome); Unfolded Protein Response (UPR) (reactome); Metabolism of amino acids and derivatives (reactome); Cellular responses to stimuli (reactome)</p>
+<p><b>InterPro:</b> Asparagine synthase; Asparagine synthase, glutamine-hydrolyzing; Rossmann-like alpha/beta/alpha sandwich fold; Glutamine amidotransferase type 2 domain; Nucleophile aminohydrolases, N-terminal; Asparagine synthase, N-terminal domain</p>
+</div>
+
+<div class="gene-card">
+<h3>ARFGAP1 — ARF GTPase activating protein 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a GTPase-activating protein, which associates with the Golgi apparatus and which interacts with ADP-ribosylation factor 1. The encoded protein promotes hydrolysis of ADP-ribosylation factor 1-bound GTP and is required for the dissociation of coat proteins from Golgi-derived membranes and vesicles. Dissociation of the coat proteins is required for the fusion of these vesicles with target compartments. The activity of this protein is stimulated by phosphoinosides and inhibited by phosphatidylcholine. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jul 2013].</p>
+<p><b>GO:BP:</b> regulation of endocytosis; regulation of ARF protein signal transduction</p>
+<p><b>GO:MF:</b> GTPase activator activity; protein binding</p>
+<p><b>GO:CC:</b> Golgi membrane; cytoplasm; Golgi apparatus; cytosol; synapse</p>
+<p><b>Pathways:</b> Endocytosis - Homo sapiens (human) (kegg); ER to Golgi Anterograde Transport (reactome); Membrane Trafficking (reactome); Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome); Metabolism of proteins (reactome)</p>
+<p><b>InterPro:</b> Arf GTPase activating protein; ARFGAP/RecO-like zinc finger; ArfGAP domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>WFS1 — wolframin ER transmembrane glycoprotein</h3>
+<p><b>Summary:</b> This gene encodes a transmembrane protein, which is located primarily in the endoplasmic reticulum and ubiquitously expressed with highest levels in brain, pancreas, heart, and insulinoma beta-cell lines. Mutations in this gene are associated with Wolfram syndrome, also called DIDMOAD (Diabetes Insipidus, Diabetes Mellitus, Optic Atrophy, and Deafness), an autosomal recessive disorder. The disease affects the brain and central nervous system. Mutations in this gene can also cause autosomal dominant deafness 6 (DFNA6), also known as DFNA14 or DFNA38. Alternatively spliced transcript variants have been found for this gene. [provided by RefSeq, Mar 2009].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; kidney development; renal water homeostasis; ER overload response; visual perception; sensory perception of sound</p>
+<p><b>GO:MF:</b> protein binding; calmodulin binding; ubiquitin protein ligase binding; calcium-dependent protein binding; ATPase binding; proteasome binding</p>
+<p><b>GO:CC:</b> endoplasmic reticulum; endoplasmic reticulum lumen; endoplasmic reticulum membrane; transport vesicle; secretory granule; dendrite</p>
+<p><b>Pathways:</b> Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome); Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs) (reactome); Metabolism of proteins (reactome); Post-translational protein modification (reactome)</p>
+<p><b>InterPro:</b> Tetratricopeptide-like helical domain superfamily; Wolframin; Wolframin family; Wolframin, Sel1-like repeat; Wolframin, EF-hand domain; Wolframin, cysteine-rich domain</p>
+</div>
+
+<div class="gene-card">
+<h3>SRPRB — SRP receptor subunit beta</h3>
+<p><b>Summary:</b> The protein encoded by this gene has similarity to mouse protein which is a subunit of the signal recognition particle receptor (SR). This subunit is a transmembrane GTPase belonging to the GTPase superfamily. It anchors alpha subunit, a peripheral membrane GTPase, to the ER membrane. SR is required for the cotranslational targeting of both secretory and membrane proteins to the ER membrane. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition; protein targeting to ER</p>
+<p><b>GO:MF:</b> protein binding; GTP binding</p>
+<p><b>GO:CC:</b> cytoplasm; signal recognition particle receptor complex; endoplasmic reticulum membrane; cytoplasmic microtubule; membrane</p>
+<p><b>Pathways:</b> Protein export - Homo sapiens (human) (kegg); SRP-dependent cotranslational protein targeting to membrane (reactome); Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome); Metabolism of proteins (reactome); Translation (reactome)</p>
+<p><b>InterPro:</b> Signal recognition particle receptor, beta subunit; Small GTPase superfamily, ARF type; P-loop containing nucleoside triphosphate hydrolase</p>
+</div>
+
+<div class="gene-card">
+<h3>DNAJB9 — DnaJ heat shock protein family (Hsp40) member B9</h3>
+<p><b>Summary:</b> This gene is a member of the J protein family. J proteins function in many cellular processes by regulating the ATPase activity of 70 kDa heat shock proteins. This gene is a member of the type 2 subgroup of DnaJ proteins. The encoded protein is localized to the endoplasmic reticulum. This protein is induced by endoplasmic reticulum stress and plays a role in protecting stressed cells from apoptosis. [provided by RefSeq, Dec 2010].</p>
+<p><b>GO:BP:</b> positive regulation of immunoglobulin production; B cell differentiation; response to endoplasmic reticulum stress; ERAD pathway; negative regulation of IRE1-mediated unfolded protein response</p>
+<p><b>GO:MF:</b> protein binding; Hsp70 protein binding; protein-folding chaperone binding; misfolded protein binding</p>
+<p><b>GO:CC:</b> nucleolus; cytoplasm; endoplasmic reticulum; endoplasmic reticulum lumen; endoplasmic reticulum membrane; extracellular exosome</p>
+<p><b>Pathways:</b> Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome); Cellular responses to stimuli (reactome); Photodynamic therapy-induced unfolded protein response (wikipathways); VEGFA-VEGFR2 Signaling Pathway (wikipathways)</p>
+<p><b>InterPro:</b> DnaJ domain; DnaJ domain, conserved site; Chaperone J-domain superfamily; Hsp70 co-chaperone J-domain-containing protein</p>
+</div>
+
+<div class="gene-card">
+<h3>TSPYL2 — TSPY like 2</h3>
+<p><b>Summary:</b> This gene encodes a member of the testis-specific protein Y-encoded, TSPY-like/SET/nucleosome assembly protein-1 superfamily. The encoded protein is localized to the nucleolus where it functions in chromatin remodeling and as an inhibitor of cell-cycle progression. This protein may play a role in the suppression of tumor growth. [provided by RefSeq, Sep 2009].</p>
+<p><b>GO:BP:</b> nucleosome assembly; negative regulation of DNA replication; regulation of signal transduction; negative regulation of cell growth; negative regulation of cell cycle; regulation of protein kinase activity</p>
+<p><b>GO:MF:</b> rDNA binding; chromatin binding; protein binding; histone binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; nucleolus; cytoplasm</p>
+<p><b>Pathways:</b> Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome); Cellular responses to stimuli (reactome)</p>
+<p><b>InterPro:</b> Nucleosome assembly protein (NAP); NAP-like superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>NFYA — nuclear transcription factor Y subunit alpha</h3>
+<p><b>Summary:</b> The protein encoded by this gene is one subunit of a trimeric complex, forming a highly conserved transcription factor that binds to CCAAT motifs in the promoter regions in a variety of genes. Subunit A associates with a tight dimer composed of the B and C subunits, resulting in a trimer that binds to DNA with high specificity and affinity. The sequence specific interactions of the complex are made by the A subunit, suggesting a role as the regulatory subunit. In addition, there is evidence of post-transcriptional regulation in this gene product, either by protein degradation or control of translation. Further regulation is represented by alternative splicing in the glutamine-rich activation domain, with clear tissue-specific preferences for the two isoforms. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; transcription by RNA polymerase II; positive regulation of DNA-templated transcription; positive regulation of transcription by RNA polymerase II</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA binding; DNA-binding transcription factor activity</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; CCAAT-binding factor complex; protein-DNA complex; RNA polymerase II transcription regulator complex</p>
+<p><b>Pathways:</b> Antigen processing and presentation - Homo sapiens (human) (kegg); Spinocerebellar ataxia - Homo sapiens (human) (kegg); Tuberculosis - Homo sapiens (human) (kegg); Metabolism (reactome); Regulation of cholesterol biosynthesis by SREBP (SREBF) (reactome); PPARA activates gene expression (reactome); Generic Transcription Pathway (reactome); Cellular responses to stress (reactome)</p>
+<p><b>InterPro:</b> Nuclear transcription factor Y subunit A; CCAAT-binding factor, conserved site</p>
+</div>
+
+<div class="gene-card">
+<h3>CALR — calreticulin</h3>
+<p><b>Summary:</b> Calreticulin is a highly conserved chaperone protein which resides primarily in the endoplasmic reticulum, and is involved in a variety of cellular processes, among them, cell adhesion. Additionally, it functions in protein folding quality control and calcium homeostasis. Calreticulin is also found in the nucleus, suggesting that it may have a role in transcription regulation. Systemic lupus erythematosus is associated with increased autoantibody titers against calreticulin. Recurrent mutations in calreticulin have been linked to various neoplasms, including the myeloproliferative type.[provided by RefSeq, May 2020].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; peptide antigen assembly with MHC class I protein complex; regulation of DNA-templated transcription; protein folding; protein export from nucleus; intracellular calcium ion homeostasis</p>
+<p><b>GO:MF:</b> complement component C1q complex binding; DNA binding; RNA binding; mRNA binding; nuclear export signal receptor activity; integrin binding</p>
+<p><b>GO:CC:</b> acrosomal vesicle; extracellular region; nucleus; nuclear envelope; cytoplasm; mitochondrion</p>
+<p><b>Pathways:</b> Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Phagosome - Homo sapiens (human) (kegg); Antigen processing and presentation - Homo sapiens (human) (kegg); Chagas disease - Homo sapiens (human) (kegg); Human cytomegalovirus infection - Homo sapiens (human) (kegg); Human T-cell leukemia virus 1 infection - Homo sapiens (human) (kegg); Herpes simplex virus 1 infection - Homo sapiens (human) (kegg); Epstein-Barr virus infection - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Calreticulin/calnexin; Calreticulin/calnexin, P domain superfamily; Calreticulin; Concanavalin A-like lectin/glucanase domain superfamily; Calreticulin/calnexin, conserved site</p>
+</div>
+
+<div class="gene-card">
+<h3>KHSRP — KH-type splicing regulatory protein</h3>
+<p><b>Summary:</b> The KHSRP gene encodes a multifunctional RNA-binding protein implicated in a variety of cellular processes, including transcription, alternative pre-mRNA splicing, and mRNA localization (Min et al., 1997 [PubMed 9136930]; Gherzi et al., 2004 [PubMed 15175153]).[supplied by OMIM, Apr 2010].</p>
+<p><b>GO:BP:</b> RNA splicing, via transesterification reactions; regulation of DNA-templated transcription; mRNA processing; protein folding; RNA splicing; miRNA metabolic process</p>
+<p><b>GO:MF:</b> nucleic acid binding; RNA binding; mRNA binding; mRNA 3'-UTR binding; protein binding; mRNA 3'-UTR AU-rich region binding</p>
+<p><b>GO:CC:</b> exosome (RNase complex); nucleus; nucleoplasm; cytoplasm; cytosol; membrane</p>
+<p><b>Pathways:</b> Cellular responses to stress (reactome); ATF4 activates genes in response to endoplasmic reticulum  stress (reactome); PERK regulates gene expression (reactome); Unfolded Protein Response (UPR) (reactome); Regulation of mRNA stability by proteins that bind AU-rich elements (reactome); KSRP (KHSRP) binds and destabilizes mRNA (reactome); Metabolism of RNA (reactome); Cellular responses to stimuli (reactome)</p>
+<p><b>InterPro:</b> K Homology domain; K Homology domain, type 1; K homology domain superfamily, prokaryotic type; K Homology domain, type 1 superfamily; Far upstream element-binding protein 2, second type I K homology domain; Far upstream element-binding protein 2, first type I K homology domain</p>
+</div>
+
+<div class="gene-card">
+<h3>DNAJC3 — DnaJ heat shock protein family (Hsp40) member C3</h3>
+<p><b>Summary:</b> This gene encodes a protein with multiple tetratricopeptide repeat (TPR) motifs as well as the highly conserved J domain found in DNAJ chaperone family members. It is a member of the tetratricopeptide repeat family of proteins and acts as an inhibitor of the interferon-induced, dsRNA-activated protein kinase (PKR). [provided by RefSeq, Jul 2010].</p>
+<p><b>GO:BP:</b> endoplasmic reticulum unfolded protein response; protein folding in endoplasmic reticulum; response to endoplasmic reticulum stress; positive regulation of translation initiation in response to endoplasmic reticulum stress; negative regulation of apoptotic process; cellular response to cold</p>
+<p><b>GO:MF:</b> protein kinase inhibitor activity; protein kinase binding; protein-folding chaperone binding; misfolded protein binding</p>
+<p><b>GO:CC:</b> extracellular region; cytoplasm; endoplasmic reticulum; endoplasmic reticulum lumen; cytosol; membrane</p>
+<p><b>Pathways:</b> Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Influenza A - Homo sapiens (human) (kegg); Antimicrobial mechanism of IFN-stimulated genes (reactome); Cytokine Signaling in Immune system (reactome); Disease (reactome); Innate Immune System (reactome); Influenza Infection (reactome); Immune System (reactome)</p>
+<p><b>InterPro:</b> DnaJ domain; Tetratricopeptide-like helical domain superfamily; Tetratricopeptide repeat; Chaperone J-domain superfamily; DnaJ Homolog Subfamily C Member 3 Co-Chaperones</p>
+</div>
+
+<div class="gene-card">
+<h3>EXOSC2 — exosome component 2</h3>
+<p><b>Summary:</b> Predicted to enable RNA binding activity. Involved in positive regulation of cell growth. Located in cytoplasm; nucleolus; and nucleoplasm. Part of nuclear exosome (RNase complex). [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); nuclear-transcribed mRNA catabolic process; rRNA processing; RNA processing; RNA catabolic process; positive regulation of cell growth</p>
+<p><b>GO:MF:</b> 3'-5'-RNA exonuclease activity; RNA binding; RNA exonuclease activity; protein binding; 7S RNA binding</p>
+<p><b>GO:CC:</b> nuclear exosome (RNase complex); cytoplasmic exosome (RNase complex); exosome (RNase complex); nucleus; nucleoplasm; nucleolus</p>
+<p><b>Pathways:</b> RNA degradation - Homo sapiens (human) (kegg); Adaptive Immune System (reactome); Immune System (reactome); Cellular responses to stress (reactome); ATF4 activates genes in response to endoplasmic reticulum  stress (reactome); PERK regulates gene expression (reactome); Unfolded Protein Response (UPR) (reactome); Deadenylation-dependent mRNA decay (reactome)</p>
+<p><b>InterPro:</b> K Homology domain, type 1; Nucleic acid-binding, OB-fold; Exosome complex component, N-terminal domain; Exosome complex RNA-binding protein 1/RRP40/RRP4; K Homology domain, type 1 superfamily; RRP4, S1 domain</p>
+</div>
+
+<div class="gene-card">
+<h3>NOP14 — NOP14 nucleolar protein</h3>
+<p><b>Summary:</b> This gene encodes a protein that plays a role in pre-18s rRNA processing and small ribosomal subunit assembly. The encoded protein may be involved in the regulation of pancreatic cancer cell proliferation and migration. Alternative splicing results in multiple transcript variants. [provided by RefSeq, May 2014].</p>
+<p><b>GO:BP:</b> endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); endonucleolytic cleavage to generate mature 5'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA); endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); rRNA processing; maturation of SSU-rRNA</p>
+<p><b>GO:MF:</b> RNA binding; enzyme binding; snoRNA binding</p>
+<p><b>GO:CC:</b> nucleoplasm; nucleolus; membrane; 90S preribosome; Noc4p-Nop14p complex; small-subunit processome</p>
+<p><b>Pathways:</b> rRNA modification in the nucleus and cytosol (reactome); Major pathway of rRNA processing in the nucleolus and cytosol (reactome); rRNA processing (reactome); rRNA processing in the nucleus and cytosol (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> Nucleolar protein 14</p>
+</div>
+
+<div class="gene-card">
+<h3>ATF6 — activating transcription factor 6</h3>
+<p><b>Summary:</b> This gene encodes a transcription factor that activates target genes for the unfolded protein response (UPR) during endoplasmic reticulum (ER) stress. Although it is a transcription factor, this protein is unusual in that it is synthesized as a transmembrane protein that is embedded in the ER. It functions as an ER stress sensor/transducer, and following ER stress-induced proteolysis, it functions as a nuclear transcription factor via a cis-acting ER stress response element (ERSE) that is present in the promoters of genes encoding ER chaperones. This protein has been identified as a survival factor for quiescent but not proliferative squamous carcinoma cells. There have been conflicting reports about the association of polymorphisms in this gene with diabetes in different populations, but another polymorphism has been associated with increased plasma cholesterol levels. This gene is also thought to be a potential therapeutic target for cystic fibrosis. [provided by RefSeq, Aug 2011].</p>
+<p><b>GO:BP:</b> eye development; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; protein folding; signal transduction; visual perception</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II transcription regulatory region sequence-specific DNA binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA-binding transcription factor activity</p>
+<p><b>GO:CC:</b> Golgi membrane; chromatin; fibrillar center; nucleus; nuclear envelope; nucleoplasm</p>
+<p><b>Pathways:</b> Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Parkinson disease - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Lipid and atherosclerosis - Homo sapiens (human) (kegg); Cytokine Signaling in Immune system (reactome); Immune System (reactome)</p>
+<p><b>InterPro:</b> Basic-leucine zipper domain; Basic-leucine zipper domain superfamily; ATF bZIP Transcription Factors</p>
+</div>
+
+<div class="gene-card">
+<h3>HYOU1 — hypoxia up-regulated 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene belongs to the heat shock protein 70 family. This gene uses alternative transcription start sites. A cis-acting segment found in the 5' UTR is involved in stress-dependent induction, resulting in the accumulation of this protein in the endoplasmic reticulum (ER) under hypoxic conditions. The protein encoded by this gene is thought to play an important role in protein folding and secretion in the ER. Since suppression of the protein is associated with accelerated apoptosis, it is also suggested to have an important cytoprotective role in hypoxia-induced cellular perturbation. This protein has been shown to be up-regulated in tumors, especially in breast tumors, and thus it is associated with tumor invasiveness. This gene also has an alternative translation initiation site, resulting in a protein that lacks the N-terminal signal peptide. This signal peptide-lacking protein, which is only 3 amino acids shorter than the mature protein in the ER, is thought to have a housekeeping function in the cytosol. In rat, this protein localizes to both the ER by a carboxy-terminal peptide sequence and to mitochondria by an amino-terminal targeting signal. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Mar 2014].</p>
+<p><b>GO:BP:</b> response to ischemia; endoplasmic reticulum to Golgi vesicle-mediated transport; response to stress; response to endoplasmic reticulum stress; negative regulation of apoptotic process; cellular response to hypoxia</p>
+<p><b>GO:MF:</b> adenyl-nucleotide exchange factor activity; protein binding; ATP binding; ATP hydrolysis activity; protein-folding chaperone binding</p>
+<p><b>GO:CC:</b> extracellular region; endoplasmic reticulum; endoplasmic reticulum lumen; smooth endoplasmic reticulum; focal adhesion; membrane</p>
+<p><b>Pathways:</b> Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Disease (reactome); Binding and Uptake of Ligands by Scavenger Receptors (reactome); Cellular responses to stress (reactome); Scavenging by Class F Receptors (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome)</p>
+<p><b>InterPro:</b> Heat shock protein 70 family; Heat shock protein 70, conserved site; Heat shock protein 70kD, peptide-binding domain superfamily; Heat shock protein 70kD, C-terminal domain superfamily; ATPase, nucleotide binding domain</p>
+</div>
+
+<div class="gene-card">
+<h3>RRP9 — ribosomal RNA processing 9, U3 small nucleolar RNA binding protein</h3>
+<p><b>Summary:</b> This gene encodes a member of the WD-repeat protein family. The encoded protein is a component of the nucleolar small nuclear ribonucleoprotein particle (snoRNP) and is essential for 18s rRNA processing during ribosome synthesis. It contains seven WD domains required for nucleolar localization and specific interaction with the U3 small nucleolar RNA (U3 snoRNA). [provided by RefSeq, Oct 2012].</p>
+<p><b>GO:BP:</b> endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); rRNA processing; maturation of SSU-rRNA; ribosomal small subunit biogenesis</p>
+<p><b>GO:MF:</b> RNA binding; protein binding; U3 snoRNA binding</p>
+<p><b>GO:CC:</b> nucleoplasm; nucleolus; box C/D methylation guide snoRNP complex; small-subunit processome</p>
+<p><b>Pathways:</b> rRNA modification in the nucleus and cytosol (reactome); Major pathway of rRNA processing in the nucleolus and cytosol (reactome); rRNA processing (reactome); rRNA processing in the nucleus and cytosol (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> WD40 repeat; WD40/YVTN repeat-like-containing domain superfamily; WD40 repeat, conserved site; PAC1/LIS1-like, WD-40 repeat; WD40-repeat-containing domain superfamily; Ribosomal RNA-processing protein Rrp9-like</p>
+</div>
+
+<div class="gene-card">
+<h3>NOP56 — NOP56 ribonucleoprotein</h3>
+<p><b>Summary:</b> Nop56p is a yeast nucleolar protein that is part of a complex with the nucleolar proteins Nop58p and fibrillarin. Nop56p is required for assembly of the 60S ribosomal subunit and is involved in pre-rRNA processing. The protein encoded by this gene is similar in sequence to Nop56p and is also found in the nucleolus. Expansion of a GGCCTG repeat from 3-8 copies to 1500-2500 copies in an intron of this gene results in spinocerebellar ataxia 36. Multiple transcript variants encoding several different isoforms have been found for this gene, but the full-length nature of most of them has not been determined. [provided by RefSeq, Jul 2016].</p>
+<p><b>GO:BP:</b> rRNA 2'-O-methylation; rRNA processing; mRNA modification; neuron differentiation; maturation of SSU-rRNA; ribosomal small subunit biogenesis</p>
+<p><b>GO:MF:</b> RNA binding; protein binding; snoRNA binding; cadherin binding; histone methyltransferase binding</p>
+<p><b>GO:CC:</b> fibrillar center; nucleoplasm; nucleolus; sno(s)RNA-containing ribonucleoprotein complex; cytoplasm; membrane</p>
+<p><b>Pathways:</b> Ribosome biogenesis in eukaryotes - Homo sapiens (human) (kegg); Spinocerebellar ataxia - Homo sapiens (human) (kegg); Chaperonin-mediated protein folding (reactome); Association of TriC/CCT with target proteins during biosynthesis (reactome); Protein folding (reactome); Metabolism of proteins (reactome); rRNA modification in the nucleus and cytosol (reactome); Major pathway of rRNA processing in the nucleolus and cytosol (reactome)</p>
+<p><b>InterPro:</b> Nop domain; Nucleolar protein 58/56, N-terminal; NOSIC; Nop domain superfamily; Nop, C-terminal domain; Nucleolar protein Nop56/Nop58</p>
+</div>
+
+<div class="gene-card">
+<h3>CXXC1 — CXXC finger protein 1</h3>
+<p><b>Summary:</b> This gene encodes a protein that functions as a transcriptional activator that binds specifically to non-methylated CpG motifs through its CXXC domain. The protein is a component of the SETD1 complex, regulates gene expression and is essential for vertebrate development. [provided by RefSeq, Sep 2015].</p>
+<p><b>GO:BP:</b> chromatin organization; regulation of DNA-templated transcription; positive regulation of DNA-templated transcription</p>
+<p><b>GO:MF:</b> cis-regulatory region sequence-specific DNA binding; DNA binding; protein binding; zinc ion binding; unmethylated CpG binding; histone H3K4me3 reader activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; nuclear matrix; nuclear speck; nuclear lumen; histone methyltransferase complex</p>
+<p><b>Pathways:</b> Epigenetic regulation of gene expression (reactome); Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome); Gene expression (Transcription) (reactome); Cellular responses to stimuli (reactome); Formation of WDR5-containing histone-modifying complexes (reactome)</p>
+<p><b>InterPro:</b> Zinc finger, PHD-type; Zinc finger, CXXC-type; Zinc finger, FYVE/PHD-type; Zinc finger, RING/FYVE/PHD-type; Zinc finger, PHD-type, conserved site; Zinc finger, PHD-finger</p>
+</div>
+
+<div class="gene-card">
+<h3>IGFBP1 — insulin like growth factor binding protein 1</h3>
+<p><b>Summary:</b> This gene is a member of the insulin-like growth factor binding protein (IGFBP) family and encodes a protein with an IGFBP N-terminal domain and a thyroglobulin type-I domain. The encoded protein, mainly expressed in the liver, circulates in the plasma and binds both insulin-like growth factors (IGFs) I and II, prolonging their half-lives and altering their interaction with cell surface receptors. This protein is important in cell migration and metabolism. Low levels of this protein may be associated with impaired glucose tolerance, vascular disease and hypertension in human patients. [provided by RefSeq, Aug 2017].</p>
+<p><b>GO:BP:</b> signal transduction; insulin receptor signaling pathway; positive regulation of cell growth; tissue regeneration; regulation of insulin-like growth factor receptor signaling pathway; negative regulation of canonical Wnt signaling pathway</p>
+<p><b>GO:MF:</b> signaling receptor binding; protein binding; insulin-like growth factor binding; insulin-like growth factor I binding; insulin-like growth factor II binding</p>
+<p><b>GO:CC:</b> extracellular region; endoplasmic reticulum lumen; non-collagenous component of basement membrane; non-collagenous component of interstitial matrix</p>
+<p><b>Pathways:</b> Generic Transcription Pathway (reactome); Cellular responses to stress (reactome); ATF4 activates genes in response to endoplasmic reticulum  stress (reactome); PERK regulates gene expression (reactome); Unfolded Protein Response (UPR) (reactome); Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs) (reactome); Metabolism of proteins (reactome); Post-translational protein modification (reactome)</p>
+<p><b>InterPro:</b> Thyroglobulin type-1; Insulin-like growth factor-binding protein, IGFBP; Growth factor receptor cysteine-rich domain superfamily; Insulin-like growth factor binding protein, N-terminal, Cys-rich conserved site; Insulin-like growth factor-binding protein family 1-6, chordata; Insulin-like growth factor-binding protein 1</p>
+</div>
+
+<div class="gene-card">
+<h3>CNOT4 — CCR4-NOT transcription complex subunit 4</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a subunit of the CCR4-NOT complex, a global transcriptional regulator. The encoded protein interacts with CNOT1 and has E3 ubiquitin ligase activity. Several transcript variants encoding different isoforms have been found for this gene.[provided by RefSeq, Jul 2010].</p>
+<p><b>GO:BP:</b> nuclear-transcribed mRNA poly(A) tail shortening; ubiquitin-dependent protein catabolic process; protein ubiquitination; deadenylation-independent decapping of nuclear-transcribed mRNA; regulation of megakaryocyte differentiation; protein autoubiquitination</p>
+<p><b>GO:MF:</b> nucleic acid binding; RNA binding; ubiquitin-protein transferase activity; protein binding; metal ion binding; ubiquitin protein ligase activity</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; cytosol; CCR4-NOT complex</p>
+<p><b>Pathways:</b> RNA degradation - Homo sapiens (human) (kegg); Developmental Biology (reactome); Generic Transcription Pathway (reactome); Transcriptional Regulation by TP53 (reactome); Deadenylation-dependent mRNA decay (reactome); Deadenylation of mRNA (reactome); TP53 Regulates Transcription of Cell Cycle Genes (reactome); TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain (reactome)</p>
+<p><b>InterPro:</b> RNA recognition motif domain; Zinc finger, CCCH-type; Zinc finger, RING-type; RNA recognition motif domain, eukaryotic-type; Nucleotide-binding alpha-beta plait domain superfamily; Zinc finger, RING/FYVE/PHD-type</p>
+</div>
+
+<div class="gene-card">
+<h3>DCP2 — decapping mRNA 2</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a key component of an mRNA-decapping complex required for degradation of mRNAs, both in normal mRNA turnover, and in nonsense-mediated mRNA decay (NMD). It removes the 7-methyl guanine cap structure from mRNA, prior to its degradation from the 5' end. Alternatively spliced transcript variants encoding different isoforms have been noted for this gene.[provided by RefSeq, Jun 2011].</p>
+<p><b>GO:BP:</b> nuclear-transcribed mRNA catabolic process, nonsense-mediated decay; nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay; deadenylation-dependent decapping of nuclear-transcribed mRNA; mRNA catabolic process; negative regulation of telomere maintenance via telomerase; regulation of mRNA stability</p>
+<p><b>GO:MF:</b> RNA binding; 5'-3' RNA exonuclease activity; protein binding; hydrolase activity; RNA exonuclease activity, producing 5'-phosphomonoesters; manganese ion binding</p>
+<p><b>GO:CC:</b> P-body; nucleus; cytoplasm; cytosol; RISC complex; cytoplasmic ribonucleoprotein granule</p>
+<p><b>Pathways:</b> RNA degradation - Homo sapiens (human) (kegg); Cellular responses to stress (reactome); ATF4 activates genes in response to endoplasmic reticulum  stress (reactome); PERK regulates gene expression (reactome); Unfolded Protein Response (UPR) (reactome); Deadenylation-dependent mRNA decay (reactome); mRNA decay by 5' to 3' exoribonuclease (reactome); Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA (reactome)</p>
+<p><b>InterPro:</b> NUDIX hydrolase domain; mRNA decapping protein 2, Box A domain; NUDIX hydrolase-like domain superfamily; NUDIX hydrolase, conserved site; mRNA decapping protein 2, Box A domain superfamily; mRNA decapping enzyme 2 , NUDIX hydrolase domain</p>
+</div>
+
+<div class="gene-card">
+<h3>PDIA6 — protein disulfide isomerase family A member 6</h3>
+<p><b>Summary:</b> This gene encodes a member of the disulfide isomerase (PDI) family of endoplasmic reticulum (ER) proteins that catalyze protein folding and thiol-disulfide interchange reactions. The encoded protein has an N-terminal ER-signal sequence, two catalytically active thioredoxin (TRX) domains, a TRX-like domain, and a C-terminal ER-retention sequence. This protein inhibits the aggregation of misfolded proteins and exhibits both isomerase and chaperone activity. Alternative splicing results in multiple transcript variants encoding different isoforms. [provided by RefSeq, Dec 2016].</p>
+<p><b>GO:BP:</b> protein folding; response to endoplasmic reticulum stress</p>
+<p><b>GO:MF:</b> protein disulfide isomerase activity; protein binding; protein-disulfide reductase activity</p>
+<p><b>GO:CC:</b> extracellular region; endoplasmic reticulum; endoplasmic reticulum lumen; endoplasmic reticulum membrane; endoplasmic reticulum-Golgi intermediate compartment; plasma membrane</p>
+<p><b>Pathways:</b> Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome); Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs) (reactome); Metabolism of proteins (reactome); Post-translational protein modification (reactome)</p>
+<p><b>InterPro:</b> Protein disulfide-isomerase, thioredoxin-like domain; Thioredoxin domain; Thioredoxin, conserved site; Thioredoxin-like superfamily; PDIA6-like, C-terminal thioredoxin-like domain</p>
+</div>
+
+<div class="gene-card">
+<h3>ATP6V0D1 — ATPase H+ transporting V0 subunit d1</h3>
+<p><b>Summary:</b> This gene encodes a component of vacuolar ATPase (V-ATPase), a multisubunit enzyme that mediates acidification of eukaryotic intracellular organelles. V-ATPase dependent organelle acidification is necessary for such intracellular processes as protein sorting, zymogen activation, receptor-mediated endocytosis, and synaptic vesicle proton gradient generation. V-ATPase is composed of a cytosolic V1 domain and a transmembrane V0 domain. The V1 domain consists of three A and three B subunits, two G subunits plus the C, D, E, F, and H subunits. The V1 domain contains the ATP catalytic site. The V0 domain consists of five different subunits: a, c, c', c'', and d. Additional isoforms of many of the V1 and V0 subunit proteins are encoded by multiple genes or alternatively spliced transcript variants. This encoded protein is known as the D subunit and is found ubiquitously. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> intracellular iron ion homeostasis; vacuolar transport; vacuolar acidification; regulation of macroautophagy; cellular response to increased oxygen levels; cilium assembly</p>
+<p><b>GO:MF:</b> protein binding; proton transmembrane transporter activity; proton-transporting ATPase activity, rotational mechanism; guanyl nucleotide exchange factor activator activity</p>
+<p><b>GO:CC:</b> vacuolar proton-transporting V-type ATPase, V0 domain; lysosomal membrane; early endosome; centrosome; endosome membrane; membrane</p>
+<p><b>Pathways:</b> Oxidative phosphorylation - Homo sapiens (human) (kegg); Lysosome - Homo sapiens (human) (kegg); Phagosome - Homo sapiens (human) (kegg); Synaptic vesicle cycle - Homo sapiens (human) (kegg); Collecting duct acid secretion - Homo sapiens (human) (kegg); Vibrio cholerae infection - Homo sapiens (human) (kegg); Epithelial cell signaling in Helicobacter pylori infection - Homo sapiens (human) (kegg); Tuberculosis - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> ATPase, V0 complex, C/D subunit; ATPase, V0 complex, subunit D; V-type ATPase subunit C/D; V-type ATP synthase subunit C/D subunit superfamily; V-type ATP synthase C/D subunit, domain 3 superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>PREB — prolactin regulatory element binding</h3>
+<p><b>Summary:</b> This gene encodes a protein that specifically binds to a Pit1-binding element of the prolactin (PRL) promoter. This protein may act as a transcriptional regulator and is thought to be involved in some of the developmental abnormalities observed in patients with partial trisomy 2p. This gene overlaps the abhydrolase domain containing 1 (ABHD1) gene on the opposite strand. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> endoplasmic reticulum to Golgi vesicle-mediated transport; lipoprotein transport; COPII vesicle coat assembly</p>
+<p><b>GO:MF:</b> guanyl-nucleotide exchange factor activity; protein binding; GTPase binding</p>
+<p><b>GO:CC:</b> nucleus; endoplasmic reticulum membrane; membrane; endoplasmic reticulum exit site</p>
+<p><b>Pathways:</b> Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); ER to Golgi Anterograde Transport (reactome); Membrane Trafficking (reactome); COPII-mediated vesicle transport (reactome); Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome)</p>
+<p><b>InterPro:</b> WD40 repeat; Quinoprotein alcohol dehydrogenase-like superfamily; WD40/YVTN repeat-like-containing domain superfamily; Guanine nucleotide-exchange factor Sec12-like; WD40-repeat-containing domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>SEC31A — SEC31 homolog A, COPII component</h3>
+<p><b>Summary:</b> The protein encoded by this gene shares similarity with the yeast Sec31 protein, and is a component of the outer layer of the coat protein complex II (COPII). The encoded protein is involved in vesicle budding from the endoplasmic reticulum (ER) and contains multiple WD repeats near the N-terminus and a proline-rich region in the C-terminal half. It associates with the protein encoded by the SEC13 homolog, nuclear pore and COPII coat complex component (SEC13), and is required for ER-Golgi transport. Monoubiquitylation of this protein by CUL3-KLHL12 was found to regulate the size of COPII coats to accommodate unusually shaped cargo. Alternative splicing results in multiple transcript variants encoding different isoforms. [provided by RefSeq, Dec 2015].</p>
+<p><b>GO:BP:</b> endoplasmic reticulum to Golgi vesicle-mediated transport; response to calcium ion; COPII-coated vesicle cargo loading; positive regulation of ER to Golgi vesicle-mediated transport</p>
+<p><b>GO:MF:</b> structural molecule activity; protein binding; calcium-dependent protein binding</p>
+<p><b>GO:CC:</b> cytoplasm; endoplasmic reticulum; endoplasmic reticulum membrane; cytosol; ER to Golgi transport vesicle membrane; vesicle coat</p>
+<p><b>Pathways:</b> Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Adaptive Immune System (reactome); Disease (reactome); Immune System (reactome); ER to Golgi Anterograde Transport (reactome); Membrane Trafficking (reactome); COPII-mediated vesicle transport (reactome); MHC class II antigen presentation (reactome)</p>
+<p><b>InterPro:</b> WD40 repeat; WD40/YVTN repeat-like-containing domain superfamily; Sec16, Sec23-binding domain; WD40-repeat-containing domain superfamily; Protein transport protein SEC31-like</p>
+</div>
+
+<div class="gene-card">
+<h3>GOSR2 — golgi SNAP receptor complex member 2</h3>
+<p><b>Summary:</b> This gene encodes a trafficking membrane protein which transports proteins among the medial- and trans-Golgi compartments. Due to its chromosomal location and trafficking function, this gene may be involved in familial essential hypertension. [provided by RefSeq, Mar 2016].</p>
+<p><b>GO:BP:</b> endoplasmic reticulum to Golgi vesicle-mediated transport; intra-Golgi vesicle-mediated transport; vesicle fusion; vesicle-mediated transport</p>
+<p><b>GO:MF:</b> SNARE binding; SNAP receptor activity; protein binding</p>
+<p><b>GO:CC:</b> Golgi membrane; endoplasmic reticulum membrane; Golgi apparatus; ER to Golgi transport vesicle membrane; membrane; SNARE complex</p>
+<p><b>Pathways:</b> SNARE interactions in vesicular transport - Homo sapiens (human) (kegg); ER to Golgi Anterograde Transport (reactome); Membrane Trafficking (reactome); COPII-mediated vesicle transport (reactome); Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome)</p>
+<p><b>InterPro:</b> SNARE; GOSR2/Membrin/Bos1; Vesicle transport v-SNARE, N-terminal domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>SERP1 — stress associated endoplasmic reticulum protein 1</h3>
+<p><b>Summary:</b> Predicted to be involved in endoplasmic reticulum unfolded protein response and protein glycosylation. Predicted to act upstream of or within several processes, including multicellular organism aging; positive regulation of organ growth; and positive regulation of peptide hormone secretion. Located in cytoplasmic microtubule. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> plasma membrane organization; glycoprotein biosynthetic process; endoplasmic reticulum unfolded protein response; protein modification process</p>
+<p><b>GO:MF:</b> protein binding</p>
+<p><b>GO:CC:</b> endoplasmic reticulum; endoplasmic reticulum membrane; cytosol; ribosome; cytoplasmic microtubule; membrane</p>
+<p><b>Pathways:</b> SRP-dependent cotranslational protein targeting to membrane (reactome); Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome); Metabolism of proteins (reactome); Translation (reactome); Cellular responses to stimuli (reactome)</p>
+<p><b>InterPro:</b> Stress-associated endoplasmic reticulum protein</p>
+</div>
+
+<div class="gene-card">
+<h3>NFYB — nuclear transcription factor Y subunit beta</h3>
+<p><b>Summary:</b> The protein encoded by this gene is one subunit of a trimeric complex, forming a highly conserved transcription factor that binds with high specificity to CCAAT motifs in the promoter regions in a variety of genes. This gene product, subunit B, forms a tight dimer with the C subunit, a prerequisite for subunit A association. The resulting trimer binds to DNA with high specificity and affinity. Subunits B and C each contain a histone-like motif. Observation of the histone nature of these subunits is supported by two types of evidence; protein sequence alignments and experiments with mutants. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; positive regulation of transcription by RNA polymerase II</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA binding; DNA-binding transcription factor activity</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; transcription regulator complex; CCAAT-binding factor complex; protein-DNA complex</p>
+<p><b>Pathways:</b> Antigen processing and presentation - Homo sapiens (human) (kegg); Tuberculosis - Homo sapiens (human) (kegg); Human T-cell leukemia virus 1 infection - Homo sapiens (human) (kegg); Metabolism (reactome); Regulation of cholesterol biosynthesis by SREBP (SREBF) (reactome); PPARA activates gene expression (reactome); Generic Transcription Pathway (reactome); Cellular responses to stress (reactome)</p>
+<p><b>InterPro:</b> Transcription factor, NFYB/HAP3, conserved site; Transcription factor CBF/NF-Y/archaeal histone domain; Histone-fold; Transcription factor NFYB/HAP3</p>
+</div>
+
+<div class="gene-card">
+<h3>NHP2 — NHP2 ribonucleoprotein</h3>
+<p><b>Summary:</b> This gene is a member of the H/ACA snoRNPs (small nucleolar ribonucleoproteins) gene family. snoRNPs are involved in various aspects of rRNA processing and modification and have been classified into two families: C/D and H/ACA. The H/ACA snoRNPs also include the DKC1, NOLA1 and NOLA3 proteins. These four H/ACA snoRNP proteins localize to the dense fibrillar components of nucleoli and to coiled (Cajal) bodies in the nucleus. Both 18S rRNA production and rRNA pseudouridylation are impaired if any one of the four proteins is depleted. The four H/ACA snoRNP proteins are also components of the telomerase complex. This gene encodes a protein related to Saccharomyces cerevisiae Nhp2p. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Oct 2008].</p>
+<p><b>GO:BP:</b> snoRNA guided rRNA pseudouridine synthesis; telomere maintenance via telomerase; rRNA pseudouridine synthesis; snRNA pseudouridine synthesis; telomerase RNA localization to Cajal body</p>
+<p><b>GO:MF:</b> RNA binding; mRNA 3'-UTR binding; protein binding; U3 snoRNA binding; box H/ACA snoRNA binding; telomerase RNA binding</p>
+<p><b>GO:CC:</b> chromosome, telomeric region; nucleoplasm; telomerase holoenzyme complex; nucleolus; sno(s)RNA-containing ribonucleoprotein complex; Cajal body</p>
+<p><b>Pathways:</b> Ribosome biogenesis in eukaryotes - Homo sapiens (human) (kegg); Telomere Maintenance (reactome); Cell Cycle (reactome); Telomere Extension By Telomerase (reactome); Extension of Telomeres (reactome); rRNA modification in the nucleus and cytosol (reactome); rRNA processing (reactome); Chromosome Maintenance (reactome)</p>
+<p><b>InterPro:</b> H/ACA ribonucleoprotein complex, subunit Nhp2-like; Ribosomal protein eL8/eL30/eS12/Gadd45; Ribosomal protein eL8/Nhp2 family; Ribosomal protein eL30-like superfamily; Large ribosomal subunit protein eL8/uL1-like</p>
+</div>
+
+<div class="gene-card">
+<h3>DCTN1 — dynactin subunit 1</h3>
+<p><b>Summary:</b> This gene encodes the largest subunit of dynactin, a macromolecular complex consisting of 10 subunits ranging in size from 22 to 150 kD. Dynactin binds to both microtubules and cytoplasmic dynein. Dynactin is involved in a diverse array of cellular functions, including ER-to-Golgi transport, the centripetal movement of lysosomes and endosomes, spindle formation, chromosome movement, nuclear positioning, and axonogenesis. This subunit interacts with dynein intermediate chain by its domains directly binding to dynein and binds to microtubules via a highly conserved glycine-rich cytoskeleton-associated protein (CAP-Gly) domain in its N-terminus. Alternative splicing of this gene results in multiple transcript variants encoding distinct isoforms. Mutations in this gene cause distal hereditary motor neuronopathy type VIIB (HMN7B) which is also known as distal spinal and bulbar muscular atrophy (dSBMA). [provided by RefSeq, Oct 2008].</p>
+<p><b>GO:BP:</b> establishment of mitotic spindle orientation; mitotic cell cycle; mitotic nuclear membrane disassembly; nuclear migration; nervous system development; neuromuscular junction development</p>
+<p><b>GO:MF:</b> protein binding; microtubule binding; tubulin binding; protein kinase binding; sterol sensor activity; tau protein binding</p>
+<p><b>GO:CC:</b> kinetochore; spindle pole; nuclear envelope; cytoplasm; centrosome; centriole</p>
+<p><b>Pathways:</b> Vasopressin-regulated water reabsorption - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Huntington disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Salmonella infection - Homo sapiens (human) (kegg); Adaptive Immune System (reactome); Cell Cycle (reactome); Disease (reactome)</p>
+<p><b>InterPro:</b> CAP Gly-rich domain; Dynein associated protein; CAP Gly-rich domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>SLC7A5 — solute carrier family 7 member 5</h3>
+<p><b>Summary:</b> Enables L-leucine transmembrane transporter activity; L-tryptophan transmembrane transporter activity; and thyroid hormone transmembrane transporter activity. Involved in carboxylic acid transport; thyroid hormone transport; and xenobiotic transport. Located in cytosol; intracellular membrane-bounded organelle; and plasma membrane. Is integral component of membrane. Part of amino acid transport complex; apical plasma membrane; and microvillus membrane. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> positive regulation of cytokine production involved in immune response; amino acid transmembrane transport; amino acid transport; response to mechanical stimulus; negative regulation of autophagy; negative regulation of gene expression</p>
+<p><b>GO:MF:</b> protein binding; amino acid transmembrane transporter activity; aromatic amino acid transmembrane transporter activity; neutral L-amino acid transmembrane transporter activity; L-amino acid transmembrane transporter activity; L-leucine transmembrane transporter activity</p>
+<p><b>GO:CC:</b> lysosomal membrane; cytosol; plasma membrane; basal plasma membrane; membrane; basolateral plasma membrane</p>
+<p><b>Pathways:</b> mTOR signaling pathway - Homo sapiens (human) (kegg); Central carbon metabolism in cancer - Homo sapiens (human) (kegg); Hemostasis (reactome); Metabolism (reactome); Cell surface interactions at the vascular wall (reactome); Basigin interactions (reactome); Amino acid transport across the plasma membrane (reactome); Transport of small molecules (reactome)</p>
+<p><b>InterPro:</b> Amino acid/polyamine transporter I; L-type amino acid transporter; Cellular Amino Acid Transporter</p>
+</div>
+
+<div class="gene-card">
+<h3>SSR1 — signal sequence receptor subunit 1</h3>
+<p><b>Summary:</b> The signal sequence receptor (SSR) is a glycosylated endoplasmic reticulum (ER) membrane receptor associated with protein translocation across the ER membrane. The SSR consists of 2 subunits, a 34-kD glycoprotein encoded by this gene and a 22-kD glycoprotein. This gene generates several mRNA species as a result of complex alternative polyadenylation. This gene is unusual in that it utilizes arrays of polyA signal sequences that are mostly non-canonical. Multiple transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, May 2014].</p>
+<p><b>GO:BP:</b> cotranslational protein targeting to membrane; positive regulation of cell population proliferation; post-translational protein targeting to membrane, translocation</p>
+<p><b>GO:MF:</b> protein binding</p>
+<p><b>GO:CC:</b> endoplasmic reticulum; endoplasmic reticulum membrane; membrane; translocon complex</p>
+<p><b>Pathways:</b> Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); SRP-dependent cotranslational protein targeting to membrane (reactome); Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome); Metabolism of proteins (reactome); Translation (reactome)</p>
+<p><b>InterPro:</b> Translocon-associated protein (TRAP), alpha subunit</p>
+</div>
+
+<div class="gene-card">
+<h3>EDEM1 — ER degradation enhancing alpha-mannosidase like protein 1</h3>
+<p><b>Summary:</b> Enables mannosyl-oligosaccharide 1,2-alpha-mannosidase activity and misfolded protein binding activity. Involved in mannose trimming involved in glycoprotein ERAD pathway; positive regulation of retrograde protein transport, ER to cytosol; and protein targeting to ER. Located in aggresome and endoplasmic reticulum quality control compartment. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> carbohydrate metabolic process; ubiquitin-dependent protein catabolic process; ERAD pathway; protein targeting to ER; positive regulation of retrograde protein transport, ER to cytosol; endoplasmic reticulum mannose trimming</p>
+<p><b>GO:MF:</b> mannosyl-oligosaccharide 1,2-alpha-mannosidase activity; calcium ion binding; protein binding; misfolded protein binding</p>
+<p><b>GO:CC:</b> endoplasmic reticulum; endoplasmic reticulum membrane; membrane; endoplasmic reticulum quality control compartment</p>
+<p><b>Pathways:</b> Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome); Metabolism of proteins (reactome); Asparagine N-linked glycosylation (reactome); N-glycan trimming in the ER and Calnexin/Calreticulin cycle (reactome)</p>
+<p><b>InterPro:</b> Glycoside hydrolase family 47; Six-hairpin glycosidase-like superfamily; Seven-hairpin glycosidases; ER degradation-enhancing alpha-mannosidase-like protein 1/2/3</p>
+</div>
+
+<div class="gene-card">
+<h3>EDC4 — enhancer of mRNA decapping 4</h3>
+<p><b>Summary:</b> Predicted to be involved in deadenylation-independent decapping of nuclear-transcribed mRNA. Located in P-body and nucleoplasm. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay; deadenylation-dependent decapping of nuclear-transcribed mRNA; deadenylation-independent decapping of nuclear-transcribed mRNA</p>
+<p><b>GO:MF:</b> protein binding; molecular condensate scaffold activity</p>
+<p><b>GO:CC:</b> P-body; nucleus; nucleoplasm; cytoplasm; cytosol; membrane</p>
+<p><b>Pathways:</b> RNA degradation - Homo sapiens (human) (kegg); Deadenylation-dependent mRNA decay (reactome); mRNA decay by 5' to 3' exoribonuclease (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> WD40 repeat; WD40/YVTN repeat-like-containing domain superfamily; Enhancer of mRNA-decapping protein 4, WD40 repeat region; WD40-repeat-containing domain superfamily; Enhancer of mRNA-decapping protein 4, conserved C-terminal domain superfamily; Enhancer of mRNA-decapping protein 4-like</p>
+</div>
+
+<div class="gene-card">
+<h3>EIF2AK3 — eukaryotic translation initiation factor 2 alpha kinase 3</h3>
+<p><b>Summary:</b> The protein encoded by this gene phosphorylates the alpha subunit of eukaryotic translation-initiation factor 2, leading to its inactivation, and thus to a rapid reduction of translational initiation and repression of global protein synthesis. This protein is thought to modulate mitochondrial function. It is a type I membrane protein located in the endoplasmic reticulum (ER), where it is induced by ER stress caused by malfolded proteins. Mutations in this gene are associated with Wolcott-Rallison syndrome. [provided by RefSeq, Sep 2015].</p>
+<p><b>GO:BP:</b> skeletal system development; ossification; angiogenesis; chondrocyte development; regulation of translational initiation; ER overload response</p>
+<p><b>GO:MF:</b> protein kinase activity; protein serine/threonine kinase activity; eukaryotic translation initiation factor 2alpha kinase activity; protein tyrosine kinase activity; non-membrane spanning protein tyrosine kinase activity; protein binding</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; endoplasmic reticulum; endoplasmic reticulum membrane; cytosol; membrane</p>
+<p><b>Pathways:</b> Mitophagy - animal - Homo sapiens (human) (kegg); Autophagy - animal - Homo sapiens (human) (kegg); Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Apoptosis - Homo sapiens (human) (kegg); Non-alcoholic fatty liver disease - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Parkinson disease - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Protein kinase domain; Serine/threonine-protein kinase, active site; Protein kinase-like domain superfamily; Quinoprotein alcohol dehydrogenase-like superfamily; Protein kinase, ATP binding site; Cell Cycle and Stress Response Kinase</p>
+</div>
+
+<div class="gene-card">
+<h3>MTHFD2 — methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase</h3>
+<p><b>Summary:</b> This gene encodes a nuclear-encoded mitochondrial bifunctional enzyme with methylenetetrahydrofolate dehydrogenase and methenyltetrahydrofolate cyclohydrolase activities. The enzyme functions as a homodimer and is unique in its absolute requirement for magnesium and inorganic phosphate. Formation of the enzyme-magnesium complex allows binding of NAD. Alternative splicing results in two different transcripts, one protein-coding and the other not protein-coding. This gene has a pseudogene on chromosome 7. [provided by RefSeq, Mar 2009].</p>
+<p><b>GO:BP:</b> formate biosynthetic process; tetrahydrofolate interconversion; tetrahydrofolate metabolic process; folic acid metabolic process</p>
+<p><b>GO:MF:</b> magnesium ion binding; catalytic activity; methenyltetrahydrofolate cyclohydrolase activity; methylenetetrahydrofolate dehydrogenase (NAD+) activity; methylenetetrahydrofolate dehydrogenase (NADP+) activity; protein binding</p>
+<p><b>GO:CC:</b> extracellular region; mitochondrion; mitochondrial matrix</p>
+<p><b>Pathways:</b> One carbon pool by folate - Homo sapiens (human) (kegg); Metabolism (reactome); Metabolism of folate and pterines (reactome); Metabolism of water-soluble vitamins and cofactors (reactome); Metabolism of vitamins and cofactors (reactome); Folate Metabolism (wikipathways); One-carbon metabolism (wikipathways); Trans-sulfuration and one-carbon metabolism (wikipathways)</p>
+<p><b>InterPro:</b> Tetrahydrofolate dehydrogenase/cyclohydrolase; Tetrahydrofolate dehydrogenase/cyclohydrolase, catalytic domain; Tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain; Tetrahydrofolate dehydrogenase/cyclohydrolase, conserved site; NAD(P)-binding domain superfamily; Aminoacid dehydrogenase-like, N-terminal domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>SRPRA — SRP receptor subunit alpha</h3>
+<p><b>Summary:</b> The gene encodes a subunit of the endoplasmic reticulum signal recognition particle receptor that, in conjunction with the signal recognition particle, is involved in the targeting and translocation of signal sequence tagged secretory and membrane proteins across the endoplasmic reticulum. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Apr 2010].</p>
+<p><b>GO:BP:</b> cotranslational protein targeting to membrane; SRP-dependent cotranslational protein targeting to membrane; SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition; intracellular protein transport; protein targeting to ER</p>
+<p><b>GO:MF:</b> RNA binding; GTPase activity; signal recognition particle binding; protein binding; GTP binding</p>
+<p><b>GO:CC:</b> signal recognition particle receptor complex; endoplasmic reticulum membrane; membrane; extracellular exosome</p>
+<p><b>Pathways:</b> Protein export - Homo sapiens (human) (kegg); SRP-dependent cotranslational protein targeting to membrane (reactome); Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome); Metabolism of proteins (reactome); Translation (reactome)</p>
+<p><b>InterPro:</b> Signal recognition particle, SRP54 subunit, GTPase domain; AAA+ ATPase domain; Signal recognition particle receptor, alpha subunit, N-terminal; Longin-like domain superfamily; Signal recognition particle SRP54, helical bundle; P-loop containing nucleoside triphosphate hydrolase</p>
+</div>
+
+<div class="gene-card">
+<h3>NOLC1 — nucleolar and coiled-body phosphoprotein 1</h3>
+<p><b>Summary:</b> Enables protein heterodimerization activity and protein-macromolecule adaptor activity. Involved in neural crest cell development; neural crest formation; and regulation of translation. Located in fibrillar center. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> mitotic cell cycle; rRNA processing; regulation of translation; neural crest formation; neural crest cell development; ribosome biogenesis</p>
+<p><b>GO:MF:</b> RNA binding; protein kinase inhibitor activity; protein binding; protein-macromolecule adaptor activity; protein heterodimerization activity; molecular function inhibitor activity</p>
+<p><b>GO:CC:</b> fibrillar center; nucleoplasm; nucleolus; cytoplasm</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> LIS1 homology motif; Srp40, C-terminal; Nopp140-like</p>
+</div>
+
+<div class="gene-card">
+<h3>ERN1 — endoplasmic reticulum to nucleus signaling 1</h3>
+<p><b>Summary:</b> This gene encodes the transmembrane protein kinase inositol-requiring enzyme 1. The encoded protein contains two functional catalytic domains, a serine/threonine-protein kinase domain and an endoribonuclease domain. This protein functions as a sensor of unfolded proteins in the endoplasmic reticulum (ER) and triggers an intracellular signaling pathway termed the unfolded protein response (UPR). The UPR is an ER stress response that is conserved from yeast to mammals and activates genes involved in degrading misfolded proteins, regulating protein synthesis and activating molecular chaperones. This protein specifically mediates the splicing and activation of the stress response transcription factor X-box binding protein 1. [provided by RefSeq, Aug 2017].</p>
+<p><b>GO:BP:</b> endothelial cell proliferation; mRNA processing; RNA catabolic process; mRNA catabolic process; protein phosphorylation; regulation of macroautophagy</p>
+<p><b>GO:MF:</b> magnesium ion binding; endonuclease activity; RNA endonuclease activity; RNA nuclease activity; protein kinase activity; protein serine/threonine kinase activity</p>
+<p><b>GO:CC:</b> nuclear inner membrane; cytoplasm; mitochondrion; endoplasmic reticulum; endoplasmic reticulum membrane; protein-containing complex</p>
+<p><b>Pathways:</b> Autophagy - animal - Homo sapiens (human) (kegg); Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Apoptosis - Homo sapiens (human) (kegg); Non-alcoholic fatty liver disease - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Parkinson disease - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Huntington disease - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Protein kinase domain; Serine/threonine-protein kinase, active site; KEN domain; Protein kinase-like domain superfamily; Quinoprotein alcohol dehydrogenase-like superfamily; WD40/YVTN repeat-like-containing domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>FKBP14 — FKBP prolyl isomerase 14</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the FK506-binding protein family of peptidyl-prolyl cis-trans isomerases. The encoded protein is found in the lumen of the endoplasmic reticulum, where it is thought to accelerate protein folding. Defects in this gene are a cause of a type of Ehlers-Danlos syndrome (EDS). Both a protein-coding variant and noncoding variants are transcribed from this gene. [provided by RefSeq, Mar 2012].</p>
+<p><b>GO:BP:</b> —</p>
+<p><b>GO:MF:</b> peptidyl-prolyl cis-trans isomerase activity; calcium ion binding; protein binding</p>
+<p><b>GO:CC:</b> endoplasmic reticulum; endoplasmic reticulum lumen</p>
+<p><b>Pathways:</b> Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome); Cellular responses to stimuli (reactome)</p>
+<p><b>InterPro:</b> FKBP-type peptidyl-prolyl cis-trans isomerase domain; EF-hand domain; EF-hand domain pair; EF-Hand 1, calcium-binding site; Peptidyl-prolyl cis-trans isomerase domain superfamily; Peptidyl-prolyl cis-trans isomerase FKBP</p>
+</div>
+
+<div class="gene-card">
+<h3>ZBTB17 — zinc finger and BTB domain containing 17</h3>
+<p><b>Summary:</b> This gene encodes a zinc finger protein involved in the regulation of c-myc. The symbol MIZ1 has also been associated with PIAS2 which is a different gene located on chromosome 18. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; regulation of cytokine production; regulation of immune system process; negative regulation of cell population proliferation; negative regulation of cell cycle; positive regulation of DNA-templated transcription</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; core promoter sequence-specific DNA binding; transcription coactivator binding; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; protein-containing complex; protein-DNA complex</p>
+<p><b>Pathways:</b> Cell cycle - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Transcriptional misregulation in cancer - Homo sapiens (human) (kegg); Small cell lung cancer - Homo sapiens (human) (kegg); Adaptive Immune System (reactome); Immune System (reactome); Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome)</p>
+<p><b>InterPro:</b> BTB/POZ domain; SKP1/BTB/POZ domain superfamily; Zinc finger C2H2-type; Zinc finger C2H2 superfamily; Zinc finger and BTB domain-containing; Ikaros C2H2-type zinc-finger</p>
+</div>
+
+<div class="gene-card">
+<h3>WIPI1 — WD repeat domain, phosphoinositide interacting 1</h3>
+<p><b>Summary:</b> This gene encodes a WD40 repeat protein. Members of the WD40 repeat family are key components of many essential biologic functions. They regulate the assembly of multiprotein complexes by presenting a beta-propeller platform for simultaneous and reversible protein-protein interactions. Members of the WIPI subfamily of WD40 repeat proteins have a 7-bladed propeller structure and contain a conserved motif for interaction with phospholipids. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Mar 2016].</p>
+<p><b>GO:BP:</b> autophagosome assembly; autophagy of mitochondrion; pexophagy; autophagy; cellular response to starvation; endosomal transport</p>
+<p><b>GO:MF:</b> signaling receptor binding; protein binding; nuclear estrogen receptor binding; protein-macromolecule adaptor activity; phosphatidylinositol-3-phosphate binding; nuclear androgen receptor binding</p>
+<p><b>GO:CC:</b> Golgi membrane; phagophore assembly site; autophagosome membrane; cytoplasm; endosome; Golgi apparatus</p>
+<p><b>Pathways:</b> Autophagy - other - Homo sapiens (human) (kegg); Autophagy - animal - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Huntington disease - Homo sapiens (human) (kegg); Spinocerebellar ataxia - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Shigellosis - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> WD40 repeat; WD40/YVTN repeat-like-containing domain superfamily; WD40-repeat-containing domain superfamily; PROPPIN</p>
+</div>
+
+<div class="gene-card">
+<h3>YIF1A — Yip1 interacting factor homolog A, membrane trafficking protein</h3>
+<p><b>Summary:</b> Predicted to be involved in endoplasmic reticulum to Golgi vesicle-mediated transport. Located in Golgi apparatus and endoplasmic reticulum-Golgi intermediate compartment. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> endoplasmic reticulum to Golgi vesicle-mediated transport</p>
+<p><b>GO:MF:</b> protein binding</p>
+<p><b>GO:CC:</b> Golgi membrane; endoplasmic reticulum membrane; endoplasmic reticulum-Golgi intermediate compartment; Golgi apparatus; COPII-coated ER to Golgi transport vesicle; endoplasmic reticulum-Golgi intermediate compartment membrane</p>
+<p><b>Pathways:</b> Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome); Cellular responses to stimuli (reactome)</p>
+<p><b>InterPro:</b> Yif1 family</p>
+</div>
+
+<div class="gene-card">
+<h3>CCL2 — C-C motif chemokine ligand 2</h3>
+<p><b>Summary:</b> This gene is one of several cytokine genes clustered on the q-arm of chromosome 17. Chemokines are a superfamily of secreted proteins involved in immunoregulatory and inflammatory processes. The superfamily is divided into four subfamilies based on the arrangement of N-terminal cysteine residues of the mature peptide. This chemokine is a member of the CC subfamily which is characterized by two adjacent cysteine residues. This cytokine displays chemotactic activity for monocytes and basophils but not for neutrophils or eosinophils. It has been implicated in the pathogenesis of diseases characterized by monocytic infiltrates, like psoriasis, rheumatoid arthritis and atherosclerosis. It binds to chemokine receptors CCR2 and CCR4. Elevated expression of the encoded protein is associated with severe acute respiratory syndrome coronavirus 2 (SARS&#8208;CoV&#8208;2) infection. [provided by RefSeq, Aug 2020].</p>
+<p><b>GO:BP:</b> angiogenesis; monocyte chemotaxis; protein phosphorylation; chemotaxis; inflammatory response; immune response</p>
+<p><b>GO:MF:</b> protein kinase activity; signaling receptor binding; protein binding; chemokine activity; CCR2 chemokine receptor binding; chemoattractant activity</p>
+<p><b>GO:CC:</b> extracellular region; membrane</p>
+<p><b>Pathways:</b> Cytokine-cytokine receptor interaction - Homo sapiens (human) (kegg); Viral protein interaction with cytokine and cytokine receptor - Homo sapiens (human) (kegg); Chemokine signaling pathway - Homo sapiens (human) (kegg); NOD-like receptor signaling pathway - Homo sapiens (human) (kegg); IL-17 signaling pathway - Homo sapiens (human) (kegg); TNF signaling pathway - Homo sapiens (human) (kegg); AGE-RAGE signaling pathway in diabetic complications - Homo sapiens (human) (kegg); Yersinia infection - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> CC chemokine, conserved site; Chemokine interleukin-8-like domain; Chemokine interleukin-8-like superfamily; Chemokine beta/gamma/delta</p>
+</div>
+
+<div class="gene-card">
+<h3>DKC1 — dyskerin pseudouridine synthase 1</h3>
+<p><b>Summary:</b> This gene functions in two distinct complexes. It plays an active role in telomerase stabilization and maintenance, as well as recognition of snoRNAs containing H/ACA sequences which provides stability during biogenesis and assembly into H/ACA small nucleolar RNA ribonucleoproteins (snoRNPs). This gene is highly conserved and widely expressed, and may play additional roles in nucleo-cytoplasmic shuttling, DNA damage response, and cell adhesion. Mutations have been associated with X-linked dyskeratosis congenita. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jan 2014].</p>
+<p><b>GO:BP:</b> enzyme-directed rRNA pseudouridine synthesis; box H/ACA sno(s)RNA 3'-end processing; pseudouridine synthesis; rRNA processing; RNA processing; telomere maintenance via telomerase</p>
+<p><b>GO:MF:</b> telomerase activity; RNA binding; protein binding; pseudouridine synthase activity; box H/ACA snoRNA binding; telomerase RNA binding</p>
+<p><b>GO:CC:</b> fibrillar center; nucleus; nucleoplasm; telomerase holoenzyme complex; nucleolus; cytoplasm</p>
+<p><b>Pathways:</b> Ribosome biogenesis in eukaryotes - Homo sapiens (human) (kegg); Telomere Maintenance (reactome); Cell Cycle (reactome); Telomere Extension By Telomerase (reactome); Extension of Telomeres (reactome); rRNA modification in the nucleus and cytosol (reactome); rRNA processing (reactome); Chromosome Maintenance (reactome)</p>
+<p><b>InterPro:</b> PUA domain; Pseudouridine synthase II, N-terminal; Uncharacterised domain CHP00451; tRNA pseudouridine synthase B family; Dyskerin-like; PUA-like superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>EIF4EBP1 — eukaryotic translation initiation factor 4E binding protein 1</h3>
+<p><b>Summary:</b> This gene encodes one member of a family of translation repressor proteins. The protein directly interacts with eukaryotic translation initiation factor 4E (eIF4E), which is a limiting component of the multisubunit complex that recruits 40S ribosomal subunits to the 5' end of mRNAs. Interaction of this protein with eIF4E inhibits complex assembly and represses translation. This protein is phosphorylated in response to various signals including UV irradiation and insulin signaling, resulting in its dissociation from eIF4E and activation of mRNA translation. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> G1/S transition of mitotic cell cycle; negative regulation of translation; TOR signaling; positive regulation of mitotic cell cycle; negative regulation of translational initiation</p>
+<p><b>GO:MF:</b> protein binding; eukaryotic initiation factor 4E binding; translation repressor activity; translation initiation factor binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm; cytosol</p>
+<p><b>Pathways:</b> RNA transport - Homo sapiens (human) (kegg); ErbB signaling pathway - Homo sapiens (human) (kegg); HIF-1 signaling pathway - Homo sapiens (human) (kegg); mTOR signaling pathway - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); AMPK signaling pathway - Homo sapiens (human) (kegg); Longevity regulating pathway - Homo sapiens (human) (kegg); Cellular senescence - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Eukaryotic translation initiation factor 4E binding</p>
+</div>
+
+<div class="gene-card">
+<h3>EIF4A1 — eukaryotic translation initiation factor 4A1</h3>
+<p><b>Summary:</b> Enables double-stranded RNA binding activity. Predicted to be involved in cytoplasmic translational initiation. Located in cytoplasm. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> cytoplasmic translational initiation; translational initiation; positive regulation of translation</p>
+<p><b>GO:MF:</b> RNA cap binding; nucleic acid binding; RNA binding; RNA helicase activity; double-stranded RNA binding; mRNA binding</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; cytosol; plasma membrane; cytoplasmic stress granule; membrane</p>
+<p><b>Pathways:</b> RNA transport - Homo sapiens (human) (kegg); ISG15 antiviral mechanism (reactome); Antimicrobial mechanism of IFN-stimulated genes (reactome); Developmental Biology (reactome); Cytokine Signaling in Immune system (reactome); L13a-mediated translational silencing of Ceruloplasmin expression (reactome); Disease (reactome); Immune System (reactome)</p>
+<p><b>InterPro:</b> ATP-dependent RNA helicase DEAD-box, conserved site; Helicase, C-terminal domain-like; DEAD/DEAH-box helicase domain; Helicase superfamily 1/2, ATP-binding domain; RNA helicase, DEAD-box type, Q motif; P-loop containing nucleoside triphosphate hydrolase</p>
+</div>
+
+<div class="gene-card">
+<h3>EIF2S1 — eukaryotic translation initiation factor 2 subunit alpha</h3>
+<p><b>Summary:</b> The translation initiation factor EIF2 catalyzes the first regulated step of protein synthesis initiation, promoting the binding of the initiator tRNA to 40S ribosomal subunits. Binding occurs as a ternary complex of methionyl-tRNA, EIF2, and GTP. EIF2 is composed of 3 nonidentical subunits, the 36-kD EIF2-alpha subunit (EIF2S1), the 38-kD EIF2-beta subunit (EIF2S2; MIM 603908), and the 52-kD EIF2-gamma subunit (EIF2S3; MIM 300161). The rate of formation of the ternary complex is modulated by the phosphorylation state of EIF2-alpha (Ernst et al., 1987 [PubMed 2948954]).[supplied by OMIM, Feb 2010].</p>
+<p><b>GO:BP:</b> mitophagy; translational initiation; regulation of translational initiation; negative regulation of translational initiation in response to stress; cytoplasmic stress granule assembly; cellular response to amino acid starvation</p>
+<p><b>GO:MF:</b> nucleic acid binding; RNA binding; translation initiation factor activity; protein binding; ribosome binding; cap-dependent translation initiation factor activity</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; mitochondrion; cytosol; eukaryotic translation initiation factor 2 complex; cytoplasmic stress granule</p>
+<p><b>Pathways:</b> RNA transport - Homo sapiens (human) (kegg); Autophagy - animal - Homo sapiens (human) (kegg); Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Apoptosis - Homo sapiens (human) (kegg); Non-alcoholic fatty liver disease - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Parkinson disease - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> S1 domain; Translation initiation factor 2, alpha subunit; Nucleic acid-binding, OB-fold; Translation initiation factor 2, alpha subunit, middle domain superfamily; Translation initiation factor 2, alpha subunit, C-terminal; IF2a, S1-like domain</p>
+</div>
+
+<div class="gene-card">
+<h3>TATDN2 — TatD DNase domain containing 2</h3>
+<p><b>Summary:</b> Predicted to enable metal ion binding activity and nuclease activity. Predicted to be involved in nucleic acid phosphodiester bond hydrolysis. Predicted to be located in nucleoplasm. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> —</p>
+<p><b>GO:MF:</b> hydrolase activity, acting on ester bonds</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm</p>
+<p><b>Pathways:</b> Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome); Cellular responses to stimuli (reactome)</p>
+<p><b>InterPro:</b> 3'-5' ssDNA/RNA exonuclease TatD-like; Deoxyribonuclease, TatD-related, conserved site; Metal-dependent hydrolase</p>
+</div>
+
+<div class="gene-card">
+<h3>XPOT — exportin for tRNA</h3>
+<p><b>Summary:</b> This gene encodes a protein belonging to the RAN-GTPase exportin family that mediates export of tRNA from the nucleus to the cytoplasm. Translocation of tRNA to the cytoplasm occurs once exportin has bound both tRNA and GTP-bound RAN. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> tRNA export from nucleus; intracellular protein transport; nucleocytoplasmic transport; intercellular transport; tRNA re-export from nucleus</p>
+<p><b>GO:MF:</b> tRNA binding; protein binding; small GTPase binding</p>
+<p><b>GO:CC:</b> nucleus; nuclear pore; nucleoplasm; cytoplasm; cytosol; nuclear matrix</p>
+<p><b>Pathways:</b> RNA transport - Homo sapiens (human) (kegg); tRNA processing in the nucleus (reactome); tRNA processing (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> Importin-beta, N-terminal domain; Armadillo-like helical; Exportin-1/Importin-beta-like; Armadillo-type fold; Exportin-T; Exportin-T, C-terminal domain</p>
+</div>
+
+<div class="gene-card">
+<h3>LSM4 — LSM4 homolog, U6 small nuclear RNA and mRNA degradation associated</h3>
+<p><b>Summary:</b> This gene encodes a member of the LSm family of RNA-binding proteins. LSm proteins form stable heteromers that bind specifically to the 3'-terminal oligo(U) tract of U6 snRNA and may play a role in pre-mRNA splicing by mediating U4/U6 snRNP formation. Alternatively spliced transcript variants encoding multiple isoforms have been observed for this gene. [provided by RefSeq, Nov 2011].</p>
+<p><b>GO:BP:</b> spliceosomal tri-snRNP complex assembly; deadenylation-dependent decapping of nuclear-transcribed mRNA; spliceosomal snRNP assembly; mRNA splicing, via spliceosome; nuclear-transcribed mRNA catabolic process; RNA processing</p>
+<p><b>GO:MF:</b> RNA binding; protein binding; U6 snRNA binding; PH domain binding</p>
+<p><b>GO:CC:</b> P-body; nucleus; nucleoplasm; spliceosomal complex; U6 snRNP; U6atac snRNP</p>
+<p><b>Pathways:</b> RNA degradation - Homo sapiens (human) (kegg); Spliceosome - Homo sapiens (human) (kegg); Deadenylation-dependent mRNA decay (reactome); mRNA decay by 5' to 3' exoribonuclease (reactome); mRNA Splicing - Major Pathway (reactome); mRNA Splicing (reactome); Processing of Capped Intron-Containing Pre-mRNA (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> Sm domain, eukaryotic/archaea-type; LSM domain superfamily; Like-Sm (LSM) domain containing protein, LSm4/SmD1/SmD3; Sm-like protein Lsm4; Sm domain</p>
+</div>
+
+<div class="gene-card">
+<h3>CHAC1 — ChaC glutathione specific gamma-glutamylcyclotransferase 1</h3>
+<p><b>Summary:</b> This gene encodes a member of the gamma-glutamylcyclotransferase family of proteins. The encoded protein has been shown to promote neuronal differentiation by deglycination of the Notch receptor, which prevents receptor maturation and inhibits Notch signaling. This protein may also play a role in the unfolded protein response, and in regulation of glutathione levels and oxidative balance in the cell. Elevated expression of this gene may indicate increased risk of cancer recurrence among breast and ovarian cancer patients. [provided by RefSeq, Sep 2016].</p>
+<p><b>GO:BP:</b> glutathione metabolic process; glutathione catabolic process; negative regulation of protein processing; neurogenesis; negative regulation of Notch signaling pathway; intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress</p>
+<p><b>GO:MF:</b> Notch binding; protein binding; glutathione specific gamma-glutamylcyclotransferase activity</p>
+<p><b>GO:CC:</b> cytoplasm; Golgi apparatus; trans-Golgi network; cytosol</p>
+<p><b>Pathways:</b> Glutathione metabolism - Homo sapiens (human) (kegg); Metabolism (reactome); Phase II - Conjugation of compounds (reactome); Glutathione conjugation (reactome); Glutathione synthesis and recycling (reactome); Biological oxidations (reactome); Cellular responses to stress (reactome); Cellular responses to stimuli (reactome)</p>
+<p><b>InterPro:</b> Glutathione-specific gamma-glutamylcyclotransferase; Gamma-glutamyl cyclotransferase-like; Gamma-glutamyl cyclotransferase-like superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>STC2 — stanniocalcin 2</h3>
+<p><b>Summary:</b> This gene encodes a secreted, homodimeric glycoprotein that is expressed in a wide variety of tissues and may have autocrine or paracrine functions. The encoded protein has 10 of its 15 cysteine residues conserved among stanniocalcin family members and is phosphorylated by casein kinase 2 exclusively on its serine residues. Its C-terminus contains a cluster of histidine residues which may interact with metal ions. The protein may play a role in the regulation of renal and intestinal calcium and phosphate transport, cell metabolism, or cellular calcium/phosphate homeostasis. Constitutive overexpression of human stanniocalcin 2 in mice resulted in pre- and postnatal growth restriction, reduced bone and skeletal muscle growth, and organomegaly. Expression of this gene is induced by estrogen and altered in some breast cancers. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> intracellular calcium ion homeostasis; signal transduction; embryo implantation; negative regulation of gene expression; response to vitamin D; response to peptide hormone</p>
+<p><b>GO:MF:</b> hormone activity; enzyme binding; heme binding; protein homodimerization activity</p>
+<p><b>GO:CC:</b> extracellular region; endoplasmic reticulum; endoplasmic reticulum lumen; Golgi apparatus; perinuclear region of cytoplasm</p>
+<p><b>Pathways:</b> Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs) (reactome); Metabolism of proteins (reactome); Post-translational protein modification (reactome); Post-translational protein phosphorylation (reactome)</p>
+<p><b>InterPro:</b> Stanniocalcin</p>
+</div>
+
+<div class="gene-card">
+<h3>PDIA5 — protein disulfide isomerase family A member 5</h3>
+<p><b>Summary:</b> This gene encodes a member of the disulfide isomerase (PDI) family of endoplasmic reticulum (ER) proteins that catalyze protein folding and thiol-disulfide interchange reactions. The encoded protein has an N-terminal ER-signal sequence, three catalytically active thioredoxin (TRX) domains, a TRX-like domain, and a C-terminal ER-retention sequence. The N-terminal TRX-like domain is the primary binding site for the major ER chaperone calreticulin and possibly other proteins and substrates as well. Alternative splicing results in multiple protein- and non-protein-coding transcript variants. [provided by RefSeq, Dec 2016].</p>
+<p><b>GO:BP:</b> protein folding; electron transport chain</p>
+<p><b>GO:MF:</b> protein disulfide isomerase activity; protein binding; protein-disulfide reductase activity; oxidoreductase activity</p>
+<p><b>GO:CC:</b> endoplasmic reticulum; endoplasmic reticulum lumen; endoplasmic reticulum membrane</p>
+<p><b>Pathways:</b> Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome); Cellular responses to stimuli (reactome)</p>
+<p><b>InterPro:</b> Thioredoxin domain; Thioredoxin, conserved site; Thioredoxin-like superfamily; Protein disulfide-isomerase A5, N-terminal TRX-like b domain; Protein disulfide-isomerase A5, TRX (a) domain; Protein Disulfide Isomerase</p>
+</div>
+
+<div class="gene-card">
+<h3>NABP1 — nucleic acid binding protein 1</h3>
+<p><b>Summary:</b> Single-stranded DNA (ssDNA)-binding proteins, such as OBFC2A, are ubiquitous and essential for a variety of DNA metabolic processes, including replication, recombination, and detection and repair of damage (Richard et al., 2008 [PubMed 18449195]).[supplied by OMIM, Jun 2008].</p>
+<p><b>GO:BP:</b> double-strand break repair via homologous recombination; DNA repair; DNA damage response; response to ionizing radiation; mitotic G2/M transition checkpoint</p>
+<p><b>GO:MF:</b> DNA binding; single-stranded DNA binding; RNA binding; protein binding</p>
+<p><b>GO:CC:</b> chromosome, telomeric region; nucleus; nucleoplasm; cytosol; site of double-strand break; SOSS complex</p>
+<p><b>Pathways:</b> RNA polymerase II transcribes snRNA genes (reactome); RNA Polymerase II Transcription (reactome); Gene expression (Transcription) (reactome)</p>
+<p><b>InterPro:</b> Nucleic acid-binding, OB-fold; Single-stranded DNA binding protein Ssb-like, OB fold; SOSS complex subunit B</p>
+</div>
+
+<div class="gene-card">
+<h3>LSM1 — LSM1 homolog, mRNA degradation associated</h3>
+<p><b>Summary:</b> This gene encodes a member of the LSm family of RNA-binding proteins. LSm proteins form stable heteromers that bind specifically to the 3'-terminal oligo(U) tract of U6 snRNA and may play a role in pre-mRNA splicing by mediating U4/U6 snRNP formation. Increased expression of this gene may play a role in cellular transformation and the progression of several malignancies including lung cancer, mesothelioma and breast cancer. Alternatively spliced transcript variants have been observed for this gene, and a pseudogene of this gene is located on the short arm of chromosome 9. [provided by RefSeq, Nov 2011].</p>
+<p><b>GO:BP:</b> deadenylation-dependent decapping of nuclear-transcribed mRNA; RNA splicing, via transesterification reactions; nuclear-transcribed mRNA catabolic process; mRNA processing; RNA splicing; histone mRNA catabolic process</p>
+<p><b>GO:MF:</b> RNA binding; mRNA binding; protein binding</p>
+<p><b>GO:CC:</b> P-body; nucleus; cytoplasm; cytosol; Lsm1-7-Pat1 complex</p>
+<p><b>Pathways:</b> RNA degradation - Homo sapiens (human) (kegg); Deadenylation-dependent mRNA decay (reactome); mRNA decay by 5' to 3' exoribonuclease (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> Sm domain, eukaryotic/archaea-type; LSM domain superfamily; Sm-like protein Lsm1; U6 snRNA-associated Sm-like protein Lsm1/8; Sm domain</p>
+</div>
+
+<div class="gene-card">
+<h3>SDAD1 — SDA1 domain containing 1</h3>
+<p><b>Summary:</b> Predicted to be involved in ribosomal large subunit biogenesis and ribosomal large subunit export from nucleus. Predicted to act upstream of or within cellular response to leukemia inhibitory factor. Located in nucleolus and nucleoplasm. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> ribosomal large subunit export from nucleus; ribosomal large subunit biogenesis</p>
+<p><b>GO:MF:</b> —</p>
+<p><b>GO:CC:</b> nucleolus</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> SDA1, middle domain; SDA1, N-terminal; Armadillo-type fold; Sda1; SDA1, C-terminal domain</p>
+</div>
+
+<div class="gene-card">
+<h3>EIF4A2 — eukaryotic translation initiation factor 4A2</h3>
+<p><b>Summary:</b> Enables ATP hydrolysis activity. Involved in negative regulation of RNA-directed 5'-3' RNA polymerase activity. Located in perinuclear region of cytoplasm. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> cytoplasmic translational initiation; translational initiation; regulation of translational initiation; negative regulation of RNA-dependent RNA polymerase activity</p>
+<p><b>GO:MF:</b> nucleic acid binding; RNA binding; RNA helicase activity; translation initiation factor activity; helicase activity; protein binding</p>
+<p><b>GO:CC:</b> cytosol; eukaryotic translation initiation factor 4F complex; perinuclear region of cytoplasm</p>
+<p><b>Pathways:</b> RNA transport - Homo sapiens (human) (kegg); ISG15 antiviral mechanism (reactome); Antimicrobial mechanism of IFN-stimulated genes (reactome); Developmental Biology (reactome); Cytokine Signaling in Immune system (reactome); L13a-mediated translational silencing of Ceruloplasmin expression (reactome); Disease (reactome); Immune System (reactome)</p>
+<p><b>InterPro:</b> ATP-dependent RNA helicase DEAD-box, conserved site; Helicase, C-terminal domain-like; DEAD/DEAH-box helicase domain; Helicase superfamily 1/2, ATP-binding domain; RNA helicase, DEAD-box type, Q motif; P-loop containing nucleoside triphosphate hydrolase</p>
+</div>
+
+<div class="gene-card">
+<h3>EIF4E — eukaryotic translation initiation factor 4E</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a component of the eukaryotic translation initiation factor 4F complex, which recognizes the 7-methylguanosine cap structure at the 5' end of messenger RNAs. The encoded protein aids in translation initiation by recruiting ribosomes to the 5'-cap structure. Association of this protein with the 4F complex is the rate-limiting step in translation initiation. This gene acts as a proto-oncogene, and its expression and activation is associated with transformation and tumorigenesis. Several pseudogenes of this gene are found on other chromosomes. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Sep 2015].</p>
+<p><b>GO:BP:</b> G1/S transition of mitotic cell cycle; mRNA export from nucleus; translational initiation; regulation of translation; negative regulation of autophagy; negative regulation of translation</p>
+<p><b>GO:MF:</b> RNA cap binding; RNA 7-methylguanosine cap binding; RNA binding; translation initiation factor activity; protein binding; enzyme binding</p>
+<p><b>GO:CC:</b> P-body; nucleus; nucleoplasm; cytoplasm; cytosol; cytoplasmic stress granule</p>
+<p><b>Pathways:</b> RNA transport - Homo sapiens (human) (kegg); HIF-1 signaling pathway - Homo sapiens (human) (kegg); mTOR signaling pathway - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); Longevity regulating pathway - Homo sapiens (human) (kegg); Insulin signaling pathway - Homo sapiens (human) (kegg); ISG15 antiviral mechanism (reactome); Antimicrobial mechanism of IFN-stimulated genes (reactome)</p>
+<p><b>InterPro:</b> Translation Initiation factor eIF- 4e; Eukaryotic translation initiation factor 4E (eIF-4E), conserved site; Translation Initiation factor eIF- 4e-like</p>
+</div>
+
+<div class="gene-card">
+<h3>IARS1 — isoleucyl-tRNA synthetase 1</h3>
+<p><b>Summary:</b> Aminoacyl-tRNA synthetases catalyze the aminoacylation of tRNA by their cognate amino acid. Because of their central role in linking amino acids with nucleotide triplets contained in tRNAS, aminoacyl-tRNA synthetases are thought to be among the first proteins that appeared in evolution. Isoleucine-tRNA synthetase belongs to the class-I aminoacyl-tRNA synthetase family and has been identified as a target of autoantibodies in the autoimmune disease polymyositis/dermatomyositis. Alternatively spliced transcript variants have been found. [provided by RefSeq, Nov 2012].</p>
+<p><b>GO:BP:</b> osteoblast differentiation; tRNA aminoacylation for protein translation; isoleucyl-tRNA aminoacylation; aminoacyl-tRNA metabolism involved in translational fidelity</p>
+<p><b>GO:MF:</b> tRNA binding; nucleotide binding; aminoacyl-tRNA deacylase activity; aminoacyl-tRNA ligase activity; isoleucine-tRNA ligase activity; protein binding</p>
+<p><b>GO:CC:</b> cytoplasm; cytosol; membrane; aminoacyl-tRNA synthetase multienzyme complex; extracellular exosome</p>
+<p><b>Pathways:</b> Aminoacyl-tRNA biosynthesis - Homo sapiens (human) (kegg); Developmental Biology (reactome); Metabolism (reactome); Selenoamino acid metabolism (reactome); Cytosolic tRNA aminoacylation (reactome); tRNA Aminoacylation (reactome); Metabolism of proteins (reactome); Metabolism of amino acids and derivatives (reactome)</p>
+<p><b>InterPro:</b> Aminoacyl-tRNA synthetase, class I, conserved site; Aminoacyl-tRNA synthetase, class Ia; Isoleucine-tRNA ligase; Valyl/Leucyl/Isoleucyl-tRNA synthetase, editing domain; Aminoacyl-tRNA synthetase, class Ia, anticodon-binding; Methionyl/Valyl/Leucyl/Isoleucyl-tRNA synthetase, anticodon-binding</p>
+</div>
+
+<div class="gene-card">
+<h3>DDX10 — DEAD-box helicase 10</h3>
+<p><b>Summary:</b> DEAD box proteins, characterized by the conserved motif Asp-Glu-Ala-Asp (DEAD), are putative RNA helicases. They are implicated in a number of cellular processes involving alteration of RNA secondary structure such as translation initiation, nuclear and mitochondrial splicing, and ribosome and spliceosome assembly. Based on their distribution patterns, some members of this family are believed to be involved in embryogenesis, spermatogenesis, and cellular growth and division. This gene encodes a DEAD box protein, and it may be involved in ribosome assembly. Fusion of this gene and the nucleoporin gene, NUP98, by inversion 11 (p15q22) chromosome translocation is found in the patients with de novo or therapy-related myeloid malignancies. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> rRNA processing</p>
+<p><b>GO:MF:</b> nucleic acid binding; RNA binding; RNA helicase activity; protein binding; ATP binding; ATP hydrolysis activity</p>
+<p><b>GO:CC:</b> nucleus; nucleolus; cytoplasm</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> ATP-dependent RNA helicase DEAD-box, conserved site; Helicase, C-terminal domain-like; DEAD/DEAH-box helicase domain; Helicase superfamily 1/2, ATP-binding domain; RNA helicase, DEAD-box type, Q motif; ATP-dependent rRNA helicase SPB4-like, C-terminal extension</p>
+</div>
+
+<div class="gene-card">
+<h3>GEMIN4 — gem nuclear organelle associated protein 4</h3>
+<p><b>Summary:</b> The product of this gene is part of a large complex localized to the cytoplasm, nucleoli, and to discrete nuclear bodies called Gemini bodies (gems). The complex functions in spliceosomal snRNP assembly in the cytoplasm, and regenerates spliceosomes required for pre-mRNA splicing in the nucleus. The encoded protein directly interacts with a DEAD box protein and several spliceosome core proteins. Alternatively spliced transcript variants have been described, but their biological validity has not been determined. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> spliceosomal snRNP assembly; rRNA processing</p>
+<p><b>GO:MF:</b> protein binding; ribonucleoprotein complex binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; nucleolus; cytoplasm; cytosol; Cajal body</p>
+<p><b>Pathways:</b> RNA transport - Homo sapiens (human) (kegg); Disease (reactome); snRNP Assembly (reactome); Metabolism of non-coding RNA (reactome); Infectious disease (reactome); Metabolism of RNA (reactome); SARS-CoV Infections (reactome); SARS-CoV-2 Infection (reactome)</p>
+<p><b>InterPro:</b> Gem-associated protein 4</p>
+</div>
+
+<div class="gene-card">
+<h3>TARS1 — threonyl-tRNA synthetase 1</h3>
+<p><b>Summary:</b> Aminoacyl-tRNA synthetases catalyze the aminoacylation of tRNA by their cognate amino acid. Because of their central role in linking amino acids with nucleotide triplets contained in tRNAs, aminoacyl-tRNA synthetases are thought to be among the first proteins that appeared in evolution. Threonyl-tRNA synthetase belongs to the class-II aminoacyl-tRNA synthetase family [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> tRNA aminoacylation for protein translation; threonyl-tRNA aminoacylation; tRNA aminoacylation</p>
+<p><b>GO:MF:</b> nucleotide binding; aminoacyl-tRNA ligase activity; threonine-tRNA ligase activity; protein binding; ATP binding; zinc ion binding</p>
+<p><b>GO:CC:</b> cytoplasm; cytosol; extracellular exosome</p>
+<p><b>Pathways:</b> Aminoacyl-tRNA biosynthesis - Homo sapiens (human) (kegg); Cytosolic tRNA aminoacylation (reactome); tRNA Aminoacylation (reactome); Metabolism of proteins (reactome); Translation (reactome)</p>
+<p><b>InterPro:</b> Aminoacyl-tRNA synthetase, class II (G/ P/ S/T); Threonine-tRNA ligase, class IIa; TGS; Anticodon-binding; Aminoacyl-tRNA synthetase, class II; Beta-grasp domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>ALDH18A1 — aldehyde dehydrogenase 18 family member A1</h3>
+<p><b>Summary:</b> This gene is a member of the aldehyde dehydrogenase family and encodes a bifunctional ATP- and NADPH-dependent mitochondrial enzyme with both gamma-glutamyl kinase and gamma-glutamyl phosphate reductase activities. The encoded protein catalyzes the reduction of glutamate to delta1-pyrroline-5-carboxylate, a critical step in the de novo biosynthesis of proline, ornithine and arginine. Mutations in this gene lead to hyperammonemia, hypoornithinemia, hypocitrullinemia, hypoargininemia and hypoprolinemia and may be associated with neurodegeneration, cataracts and connective tissue diseases. Alternatively spliced transcript variants, encoding different isoforms, have been described for this gene. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> glutamate metabolic process; L-glutamate catabolic process; L-glutamine catabolic process; L-ornithine biosynthetic process; response to temperature stimulus; L-citrulline biosynthetic process</p>
+<p><b>GO:MF:</b> RNA binding; catalytic activity; glutamate 5-kinase activity; glutamate-5-semialdehyde dehydrogenase (NADP+) activity; protein binding; ATP binding</p>
+<p><b>GO:CC:</b> cytoplasm; mitochondrion; mitochondrial inner membrane; mitochondrial matrix; mitochondrial membrane</p>
+<p><b>Pathways:</b> Arginine and proline metabolism - Homo sapiens (human) (kegg); Metabolism (reactome); Metabolism of proteins (reactome); Metabolism of amino acids and derivatives (reactome); Glutamate and glutamine metabolism (reactome); Mitochondrial protein degradation (reactome); Amino Acid metabolism (wikipathways)</p>
+<p><b>InterPro:</b> GPR domain; Aspartate/glutamate/uridylate kinase; Glutamate/acetylglutamate kinase; Glutamate 5-kinase/delta-1-pyrroline-5-carboxylate synthase; Delta l-pyrroline-5-carboxylate synthetase; Aldehyde dehydrogenase domain</p>
+</div>
+
+<div class="gene-card">
+<h3>DDIT4 — DNA damage inducible transcript 4</h3>
+<p><b>Summary:</b> Predicted to enable 14-3-3 protein binding activity. Involved in defense response to virus; negative regulation of TOR signaling; and response to hypoxia. Located in cytosol. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> response to hypoxia; neuron migration; apoptotic process; brain development; negative regulation of signal transduction; neuron differentiation</p>
+<p><b>GO:MF:</b> protein binding; 14-3-3 protein binding</p>
+<p><b>GO:CC:</b> cytoplasm; mitochondrion; cytosol</p>
+<p><b>Pathways:</b> Autophagy - animal - Homo sapiens (human) (kegg); mTOR signaling pathway - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); MicroRNAs in cancer - Homo sapiens (human) (kegg); Generic Transcription Pathway (reactome); Transcriptional Regulation by TP53 (reactome); TP53 Regulates Metabolic Genes (reactome); RNA Polymerase II Transcription (reactome)</p>
+<p><b>InterPro:</b> RTP801-like; RTP801-like, C-terminal domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>HSPA9 — heat shock protein family A (Hsp70) member 9</h3>
+<p><b>Summary:</b> This gene encodes a member of the heat shock protein 70 gene family. The encoded protein is primarily localized to the mitochondria but is also found in the endoplasmic reticulum, plasma membrane and cytoplasmic vesicles. This protein is a heat-shock cognate protein. This protein plays a role in cell proliferation, stress response and maintenance of the mitochondria. A pseudogene of this gene is found on chromosome 2.[provided by RefSeq, May 2010].</p>
+<p><b>GO:BP:</b> protein folding; intracellular protein transport; inner mitochondrial membrane organization; response to toxic substance; iron-sulfur cluster assembly; protein import into mitochondrial matrix</p>
+<p><b>GO:MF:</b> RNA binding; protein binding; ATP binding; ATP hydrolysis activity; fibroblast growth factor binding; enzyme binding</p>
+<p><b>GO:CC:</b> SAM complex; PAM complex, Tim23 associated import motor; nucleolus; cytoplasm; mitochondrion; mitochondrial inner membrane</p>
+<p><b>Pathways:</b> RNA degradation - Homo sapiens (human) (kegg); Tuberculosis - Homo sapiens (human) (kegg); Mitochondrial protein import (reactome); Cytokine Signaling in Immune system (reactome); Aerobic respiration and respiratory electron transport (reactome); Metabolism (reactome); Mitochondrial biogenesis (reactome); Immune System (reactome)</p>
+<p><b>InterPro:</b> Chaperone DnaK; Heat shock protein 70 family; Heat shock protein 70, conserved site; Heat shock protein 70kD, peptide-binding domain superfamily; Heat shock protein 70kD, C-terminal domain superfamily; ATPase, nucleotide binding domain</p>
+</div>
+
+<div class="gene-card">
+<h3>SEC11A — SEC11 homolog A, signal peptidase complex subunit</h3>
+<p><b>Summary:</b> This gene encodes a member of the peptidase S26B family. The encoded protein is an 18kDa subunit of the signal peptidase complex and has been linked to cell migration and invasion, gastric cancer and lymph node metastasis. Alternative splicing results in multiple transcript variants. A related pseudogene has been identified on chromosome 8. [provided by RefSeq, Dec 2012].</p>
+<p><b>GO:BP:</b> response to virus; protein processing; protein maturation</p>
+<p><b>GO:MF:</b> serine-type endopeptidase activity; protein binding; peptidase activity; signal peptidase activity</p>
+<p><b>GO:CC:</b> signal peptidase complex; endoplasmic reticulum membrane; membrane</p>
+<p><b>Pathways:</b> Protein export - Homo sapiens (human) (kegg); Cell-Cell communication (reactome); Disease (reactome); SRP-dependent cotranslational protein targeting to membrane (reactome); Peptide hormone metabolism (reactome); Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1) (reactome); Metabolism of proteins (reactome); Incretin synthesis, secretion, and inactivation (reactome)</p>
+<p><b>InterPro:</b> Peptidase S26B; Peptidase S24/S26A/S26B/S26C; Peptidase S26; Peptidase S26A, signal peptidase I, serine active site; Peptidase S26A, signal peptidase I, conserved site; LexA/Signal peptidase-like superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>EIF4A3 — eukaryotic translation initiation factor 4A3</h3>
+<p><b>Summary:</b> This gene encodes a member of the DEAD box protein family. DEAD box proteins, characterized by the conserved motif Asp-Glu-Ala-Asp (DEAD), are putative RNA helicases. They are implicated in a number of cellular processes involving alteration of RNA secondary structure, such as translation initiation, nuclear and mitochondrial splicing, and ribosome and spliceosome assembly. Based on their distribution patterns, some members of this family are believed to be involved in embryogenesis, spermatogenesis, and cellular growth and division. The protein encoded by this gene is a nuclear matrix protein. Its amino acid sequence is highly similar to the amino acid sequences of the translation initiation factors eIF4AI and eIF4AII, two other members of the DEAD box protein family. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> nuclear-transcribed mRNA catabolic process, nonsense-mediated decay; mRNA splicing, via spliceosome; mRNA export from nucleus; associative learning; negative regulation of gene expression; mRNA metabolic process</p>
+<p><b>GO:MF:</b> nucleic acid binding; RNA binding; RNA helicase activity; mRNA binding; helicase activity; protein binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; spliceosomal complex; nucleolus; cytoplasm; cytosol</p>
+<p><b>Pathways:</b> RNA transport - Homo sapiens (human) (kegg); mRNA surveillance pathway - Homo sapiens (human) (kegg); Spliceosome - Homo sapiens (human) (kegg); ISG15 antiviral mechanism (reactome); Antimicrobial mechanism of IFN-stimulated genes (reactome); Developmental Biology (reactome); Cytokine Signaling in Immune system (reactome); Transport of Mature mRNA derived from an Intron-Containing Transcript (reactome)</p>
+<p><b>InterPro:</b> ATP-dependent RNA helicase DEAD-box, conserved site; Helicase, C-terminal domain-like; DEAD/DEAH-box helicase domain; Helicase superfamily 1/2, ATP-binding domain; RNA helicase, DEAD-box type, Q motif; P-loop containing nucleoside triphosphate hydrolase</p>
+</div>
+
+<div class="gene-card">
+<h3>POP4 — POP4 ribonuclease P/MRP subunit</h3>
+<p><b>Summary:</b> This gene encodes one of the protein subunits of the small nucleolar ribonucleoprotein complexes: the endoribonuclease for mitochondrial RNA processing complex and the ribonuclease P complex. The encoded protein is localized to the nucleus and associates directly with the RNA component of these complexes. This protein is involved in processing of precursor RNAs. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Mar 2009].</p>
+<p><b>GO:BP:</b> tRNA 5'-leader removal; rRNA processing; RNA processing; tRNA processing</p>
+<p><b>GO:MF:</b> RNA binding; ribonuclease P activity; protein binding; ribonuclease P RNA binding</p>
+<p><b>GO:CC:</b> ribonuclease MRP complex; nucleus; nucleoplasm; nucleolar ribonuclease P complex; nucleolus; ribonuclease P complex</p>
+<p><b>Pathways:</b> Ribosome biogenesis in eukaryotes - Homo sapiens (human) (kegg); RNA transport - Homo sapiens (human) (kegg); tRNA processing in the nucleus (reactome); tRNA processing (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> Ribonuclease P protein subunit Rpp29/RNP1; Ribonuclease P/MRP subunit Rpp29; Rof/RNase P-like; Ribonuclease P/MRP subunit Rpp29 superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>ERO1A — endoplasmic reticulum oxidoreductase 1 alpha</h3>
+<p><b>Summary:</b> Enables oxidoreductase activity. Involved in chaperone cofactor-dependent protein refolding. Located in endoplasmic reticulum. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> protein folding; response to temperature stimulus; endoplasmic reticulum unfolded protein response; protein folding in endoplasmic reticulum; response to endoplasmic reticulum stress; cell redox homeostasis</p>
+<p><b>GO:MF:</b> protein binding; protein-disulfide reductase activity; oxidoreductase activity; flavin-dependent sulfhydryl oxidase activity; thiol oxidase activity; FAD binding</p>
+<p><b>GO:CC:</b> extracellular region; endoplasmic reticulum; endoplasmic reticulum lumen; endoplasmic reticulum membrane; Golgi lumen; membrane</p>
+<p><b>Pathways:</b> Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Vibrio cholerae infection - Homo sapiens (human) (kegg); Lipid and atherosclerosis - Homo sapiens (human) (kegg); Cellular responses to stress (reactome); Detoxification of Reactive Oxygen Species (reactome); Cellular responses to stimuli (reactome); Cellular response to chemical stress (reactome)</p>
+<p><b>InterPro:</b> Endoplasmic reticulum oxidoreductin 1; ERO1-like superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>CEBPG — CCAAT enhancer binding protein gamma</h3>
+<p><b>Summary:</b> The C/EBP family of transcription factors regulates viral and cellular CCAAT/enhancer element-mediated transcription. C/EBP proteins contain the bZIP region, which is characterized by two motifs in the C-terminal half of the protein: a basic region involved in DNA binding and a leucine zipper motif involved in dimerization. The C/EBP family consist of several related proteins, C/EBP alpha, C/EBP beta, C/EBP gamma, and C/EBP delta, that form homodimers and that form heterodimers with each other. CCAAT/enhancer binding protein gamma may cooperate with Fos to bind PRE-I enhancer elements. Two transcript variants encoding the same protein have been found for this gene. [provided by RefSeq, Nov 2011].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; liver development; DNA-templated transcription; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; immune response</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA binding; DNA-binding transcription factor activity; transcription corepressor activity</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; RNA polymerase II transcription regulator complex</p>
+<p><b>Pathways:</b> Tuberculosis - Homo sapiens (human) (kegg); Cellular responses to stress (reactome); ATF4 activates genes in response to endoplasmic reticulum  stress (reactome); PERK regulates gene expression (reactome); Unfolded Protein Response (UPR) (reactome); Cellular responses to stimuli (reactome); Response of EIF2AK4 (GCN2) to amino acid deficiency (reactome); Response of EIF2AK1 (HRI) to heme deficiency (reactome)</p>
+<p><b>InterPro:</b> Basic-leucine zipper domain; CCAAT/enhancer-binding protein C/EBP; Basic-leucine zipper domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>BAG3 — BAG cochaperone 3</h3>
+<p><b>Summary:</b> BAG proteins compete with Hip for binding to the Hsc70/Hsp70 ATPase domain and promote substrate release. All the BAG proteins have an approximately 45-amino acid BAG domain near the C terminus but differ markedly in their N-terminal regions. The protein encoded by this gene contains a WW domain in the N-terminal region and a BAG domain in the C-terminal region. The BAG domains of BAG1, BAG2, and BAG3 interact specifically with the Hsc70 ATPase domain in vitro and in mammalian cells. All 3 proteins bind with high affinity to the ATPase domain of Hsc70 and inhibit its chaperone activity in a Hip-repressible manner. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> autophagosome assembly; protein folding; extrinsic apoptotic signaling pathway via death domain receptors; negative regulation of striated muscle cell apoptotic process; spinal cord development; cellular response to heat</p>
+<p><b>GO:MF:</b> adenyl-nucleotide exchange factor activity; protein binding; protein-macromolecule adaptor activity; protein-containing complex binding; cadherin binding; dynein intermediate chain binding</p>
+<p><b>GO:CC:</b> stress fiber; nucleus; nucleoplasm; cytoplasm; cytosol; membrane</p>
+<p><b>Pathways:</b> Cellular responses to stress (reactome); Regulation of HSF1-mediated heat shock response (reactome); Cellular response to heat stress (reactome); Cellular responses to stimuli (reactome); Apoptosis Modulation and Signaling (wikipathways)</p>
+<p><b>InterPro:</b> WW domain; BAG domain; WW domain superfamily; BAG domain superfamily; Molecular chaperone regulator BAG; Yes-associated protein 1</p>
+</div>
+
+<div class="gene-card">
+<h3>KDELR3 — KDEL endoplasmic reticulum protein retention receptor 3</h3>
+<p><b>Summary:</b> This gene encodes a member of the KDEL endoplasmic reticulum protein retention receptor family. Retention of resident soluble proteins in the lumen of the endoplasmic reticulum (ER) is achieved in both yeast and animal cells by their continual retrieval from the cis-Golgi, or a pre-Golgi compartment. Sorting of these proteins is dependent on a C-terminal tetrapeptide signal, usually lys-asp-glu-leu (KDEL) in animal cells, and his-asp-glu-leu (HDEL) in S. cerevisiae. This process is mediated by a receptor that recognizes, and binds the tetrapeptide-containing protein, and returns it to the ER. In yeast, the sorting receptor encoded by a single gene, ERD2, is a seven-transmembrane protein. Unlike yeast, several human homologs of the ERD2 gene, constituting the KDEL receptor gene family, have been described. KDELR3 was the third member of the family to be identified. Alternate splicing results in multiple transcript variants. [provided by RefSeq, Jul 2013].</p>
+<p><b>GO:BP:</b> protein retention in ER lumen; retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum</p>
+<p><b>GO:MF:</b> protein binding; ER lumen protein retrieval receptor activity</p>
+<p><b>GO:CC:</b> Golgi membrane; endoplasmic reticulum; endoplasmic reticulum membrane; Golgi apparatus; cis-Golgi network; membrane</p>
+<p><b>Pathways:</b> Vibrio cholerae infection - Homo sapiens (human) (kegg); ER to Golgi Anterograde Transport (reactome); Membrane Trafficking (reactome); Cellular responses to stress (reactome); XBP1(S) activates chaperone genes (reactome); IRE1alpha activates chaperones (reactome); Unfolded Protein Response (UPR) (reactome); Metabolism of proteins (reactome)</p>
+<p><b>InterPro:</b> ER lumen protein retaining receptor; Cytochrome C oxidase subunit II, transmembrane domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>CEBPB — CCAAT enhancer binding protein beta</h3>
+<p><b>Summary:</b> This intronless gene encodes a transcription factor that contains a basic leucine zipper (bZIP) domain. The encoded protein functions as a homodimer but can also form heterodimers with CCAAT/enhancer-binding proteins alpha, delta, and gamma. Activity of this protein is important in the regulation of genes involved in immune and inflammatory responses, among other processes. The use of alternative in-frame AUG start codons results in multiple protein isoforms, each with distinct biological functions. [provided by RefSeq, Oct 2013].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; ovarian follicle development; liver development; granuloma formation; DNA-templated transcription; regulation of DNA-templated transcription</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II transcription regulatory region sequence-specific DNA binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; RNA polymerase II core promoter sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription repressor activity, RNA polymerase II-specific</p>
+<p><b>GO:CC:</b> condensed chromosome, centromeric region; chromatin; nucleus; nucleoplasm; cytoplasm; nuclear matrix</p>
+<p><b>Pathways:</b> IL-17 signaling pathway - Homo sapiens (human) (kegg); TNF signaling pathway - Homo sapiens (human) (kegg); Tuberculosis - Homo sapiens (human) (kegg); Transcriptional misregulation in cancer - Homo sapiens (human) (kegg); Developmental Biology (reactome); Disease (reactome); Generic Transcription Pathway (reactome); Cellular responses to stress (reactome)</p>
+<p><b>InterPro:</b> Basic-leucine zipper domain; CCAAT/enhancer-binding protein, chordates; CCAAT/enhancer-binding protein C/EBP; Basic-leucine zipper domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>CNOT2 — CCR4-NOT transcription complex subunit 2</h3>
+<p><b>Summary:</b> This gene encodes a subunit of the multi-component CCR4-NOT complex. The CCR4-NOT complex regulates mRNA synthesis and degradation and is also thought to be involved in mRNA splicing, transport and localization. The encoded protein interacts with histone deacetylases and functions as a repressor of polymerase II transcription. Alternatively spliced transcript variants have been observed for this gene. [provided by RefSeq, Dec 2010].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; nuclear-transcribed mRNA poly(A) tail shortening; trophectodermal cell differentiation; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; positive regulation of cytoplasmic mRNA processing body assembly</p>
+<p><b>GO:MF:</b> transcription corepressor binding; transcription coregulator activity; poly(A)-specific ribonuclease activity; protein binding</p>
+<p><b>GO:CC:</b> P-body; nucleus; cytoplasm; cytosol; membrane; CCR4-NOT complex</p>
+<p><b>Pathways:</b> RNA degradation - Homo sapiens (human) (kegg); Developmental Biology (reactome); Generic Transcription Pathway (reactome); Transcriptional Regulation by TP53 (reactome); Deadenylation-dependent mRNA decay (reactome); Deadenylation of mRNA (reactome); TP53 Regulates Transcription of Cell Cycle Genes (reactome); TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain (reactome)</p>
+<p><b>InterPro:</b> NOT2/NOT3/NOT5, C-terminal; CCR4-NOT complex subunit 2/3/5, C-terminal domain superfamily; Not2/Not3/Not5</p>
+</div>
+
+<div class="gene-card">
+<h3>SHC1 — SHC adaptor protein 1</h3>
+<p><b>Summary:</b> This gene encodes three main isoforms that differ in activities and subcellular location. While all three are adapter proteins in signal transduction pathways, the longest (p66Shc) may be involved in regulating life span and the effects of reactive oxygen species. The other two isoforms, p52Shc and p46Shc, link activated receptor tyrosine kinases to the Ras pathway by recruitment of the GRB2/SOS complex. p66Shc is not involved in Ras activation. Unlike the other two isoforms, p46Shc is targeted to the mitochondrial matrix. Several transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Feb 2011].</p>
+<p><b>GO:BP:</b> epidermal growth factor receptor signaling pathway; positive regulation of cell population proliferation; insulin receptor signaling pathway; negative regulation of angiogenesis; intracellular signal transduction; defense response to bacterium</p>
+<p><b>GO:MF:</b> phosphotyrosine residue binding; transmembrane receptor protein tyrosine kinase adaptor activity; epidermal growth factor receptor binding; insulin receptor binding; insulin-like growth factor receptor binding; neurotrophin TRKA receptor binding</p>
+<p><b>GO:CC:</b> cytoplasm; mitochondrion; mitochondrial matrix; cytosol; plasma membrane; focal adhesion</p>
+<p><b>Pathways:</b> ErbB signaling pathway - Homo sapiens (human) (kegg); Ras signaling pathway - Homo sapiens (human) (kegg); Chemokine signaling pathway - Homo sapiens (human) (kegg); Phospholipase D signaling pathway - Homo sapiens (human) (kegg); Focal adhesion - Homo sapiens (human) (kegg); Natural killer cell mediated cytotoxicity - Homo sapiens (human) (kegg); Neurotrophin signaling pathway - Homo sapiens (human) (kegg); Insulin signaling pathway - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> SH2 domain; Phosphotyrosine interaction domain, Shc-like; PTB/PI domain; PH-like domain superfamily; SH2 adaptor protein C, SH2 domain; SH2 domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>SPCS3 — signal peptidase complex subunit 3</h3>
+<p><b>Summary:</b> Predicted to enable peptidase activity. Involved in proteolysis and viral protein processing. Located in endoplasmic reticulum. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> proteolysis; protein processing; viral protein processing; protein targeting to ER; protein maturation</p>
+<p><b>GO:MF:</b> protein binding</p>
+<p><b>GO:CC:</b> endoplasmic reticulum; signal peptidase complex; endoplasmic reticulum membrane; membrane</p>
+<p><b>Pathways:</b> Protein export - Homo sapiens (human) (kegg); Cell-Cell communication (reactome); Disease (reactome); SRP-dependent cotranslational protein targeting to membrane (reactome); Peptide hormone metabolism (reactome); Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1) (reactome); Metabolism of proteins (reactome); Incretin synthesis, secretion, and inactivation (reactome)</p>
+<p><b>InterPro:</b> Signal peptidase complex subunit 3</p>
+</div>
+
+<div class="gene-card">
+<h3>H2AX — H2A.X variant histone</h3>
+<p><b>Summary:</b> Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene encodes a replication-independent histone that is a member of the histone H2A family, and generates two transcripts through the use of the conserved stem-loop termination motif, and the polyA addition motif. [provided by RefSeq, Oct 2015].</p>
+<p><b>GO:BP:</b> DNA damage checkpoint signaling; double-strand break repair; nucleosome assembly; DNA damage response; response to ionizing radiation; heterochromatin formation</p>
+<p><b>GO:MF:</b> DNA binding; damaged DNA binding; protein binding; enzyme binding; structural constituent of chromatin; histone binding</p>
+<p><b>GO:CC:</b> chromosome, telomeric region; chromatin; nucleosome; condensed nuclear chromosome; male germ cell nucleus; XY body</p>
+<p><b>Pathways:</b> Necroptosis - Homo sapiens (human) (kegg); Neutrophil extracellular trap formation - Homo sapiens (human) (kegg); Alcoholism - Homo sapiens (human) (kegg); Systemic lupus erythematosus - Homo sapiens (human) (kegg); Recognition and association of DNA glycosylase with site containing an affected pyrimidine (reactome); Cleavage of the damaged pyrimidine  (reactome); Recognition and association of DNA glycosylase with site containing an affected purine (reactome); Cleavage of the damaged purine (reactome)</p>
+<p><b>InterPro:</b> Histone H2A; Histone H2A/H2B/H3; Histone-fold; Histone H2A, C-terminal domain; Histone H2A conserved site</p>
+</div>
+
+<div class="gene-card">
+<h3>SLC1A4 — solute carrier family 1 member 4</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a sodium-dependent neutral amino acid transporter for alanine, serine, cysteine, and threonine. Defects in this gene have been associated with developmental delay, microcephaly, and intellectual disability. [provided by RefSeq, Jan 2017].</p>
+<p><b>GO:BP:</b> amino acid transport; L-alanine transport; L-cystine transport; L-glutamate transmembrane transport; proline transport; L-serine transport</p>
+<p><b>GO:MF:</b> chloride channel activity; L-glutamate transmembrane transporter activity; protein binding; amino acid transmembrane transporter activity; neutral L-amino acid transmembrane transporter activity; L-alanine transmembrane transporter activity</p>
+<p><b>GO:CC:</b> centrosome; intermediate filament; plasma membrane; cell surface; membrane; dendrite</p>
+<p><b>Pathways:</b> Amino acid transport across the plasma membrane (reactome); Transport of small molecules (reactome); SLC-mediated transmembrane transport (reactome); SLC-mediated transport of amino acids (reactome)</p>
+<p><b>InterPro:</b> Sodium:dicarboxylate symporter; Sodium:dicarboxylate symporter, conserved site; Sodium:dicarboxylate symporter superfamily; Dicarboxylate/Amino Acid:Cation Symporter</p>
+</div>
+
+<div class="gene-card">
+<h3>RPS14 — ribosomal protein S14</h3>
+<p><b>Summary:</b> Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 40S subunit. The protein belongs to the S11P family of ribosomal proteins. It is located in the cytoplasm. Transcript variants utilizing alternative transcription initiation sites have been described in the literature. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. In Chinese hamster ovary cells, mutations in this gene can lead to resistance to emetine, a protein synthesis inhibitor. Multiple alternatively spliced transcript variants encoding the same protein have been found for this gene. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> ribosomal small subunit assembly; negative regulation of transcription by RNA polymerase II; cytoplasmic translation; translation; erythrocyte differentiation; maturation of SSU-rRNA</p>
+<p><b>GO:MF:</b> RNA binding; structural constituent of ribosome; protein binding; mRNA 5'-UTR binding</p>
+<p><b>GO:CC:</b> nucleoplasm; nucleolus; cytoplasm; endoplasmic reticulum; cytosol; ribosome</p>
+<p><b>Pathways:</b> Ribosome - Homo sapiens (human) (kegg); Coronavirus disease - COVID-19 - Homo sapiens (human) (kegg); Antimicrobial mechanism of IFN-stimulated genes (reactome); Developmental Biology (reactome); Cytokine Signaling in Immune system (reactome); Metabolism (reactome); L13a-mediated translational silencing of Ceruloplasmin expression (reactome); Eukaryotic Translation Elongation (reactome)</p>
+<p><b>InterPro:</b> Small ribosomal subunit protein uS11; Small ribosomal subunit protein uS11, conserved site; Small ribosomal subunit protein uS11 superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>NPM1 — nucleophosmin 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene is involved in several cellular processes, including centrosome duplication, protein chaperoning, and cell proliferation. The encoded phosphoprotein shuttles between the nucleolus, nucleus, and cytoplasm, chaperoning ribosomal proteins and core histones from the nucleus to the cytoplasm. This protein is also known to sequester the tumor suppressor ARF in the nucleolus, protecting it from degradation until it is needed. Mutations in this gene are associated with acute myeloid leukemia. Dozens of pseudogenes of this gene have been identified. [provided by RefSeq, Aug 2017].</p>
+<p><b>GO:BP:</b> ribosomal large subunit export from nucleus; ribosomal small subunit export from nucleus; DNA repair; nucleosome assembly; chromatin remodeling; protein import into nucleus</p>
+<p><b>GO:MF:</b> core promoter sequence-specific DNA binding; nucleic acid binding; chromatin binding; transcription coactivator activity; RNA binding; protein kinase inhibitor activity</p>
+<p><b>GO:CC:</b> granular component; nucleus; nucleoplasm; nucleolus; cytoplasm; centrosome</p>
+<p><b>Pathways:</b> Antimicrobial mechanism of IFN-stimulated genes (reactome); Cytokine Signaling in Immune system (reactome); HIV Infection (reactome); Host Interactions of HIV factors (reactome); Cell Cycle (reactome); Disease (reactome); Immune System (reactome); Interactions of Rev with host cellular proteins (reactome)</p>
+<p><b>InterPro:</b> Nucleoplasmin family; Nucleoplasmin core domain; Nucleophosmin, C-terminal; Nucleoplasmin core domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>CNOT6 — CCR4-NOT transcription complex subunit 6</h3>
+<p><b>Summary:</b> This gene encodes the catalytic component of the CCR4-NOT core transcriptional regulation complex. The encoded protein has a 3'-5' RNase activity and prefers polyadenylated substrates. The CCR4-NOT complex plays a role in many cellular processes, including miRNA-mediated repression, mRNA degradation, and transcriptional regulation. [provided by RefSeq, Dec 2014].</p>
+<p><b>GO:BP:</b> nuclear-transcribed mRNA poly(A) tail shortening; positive regulation of cell population proliferation; positive regulation of cytoplasmic mRNA processing body assembly; miRNA-mediated gene silencing by mRNA destabilization; positive regulation of DNA-templated transcription; nuclear-transcribed mRNA catabolic process, no-go decay</p>
+<p><b>GO:MF:</b> transcription coactivator activity; catalytic activity; RNA exonuclease activity; poly(A)-specific ribonuclease activity; protein binding</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; cytosol; membrane; CCR4-NOT complex</p>
+<p><b>Pathways:</b> RNA degradation - Homo sapiens (human) (kegg); Developmental Biology (reactome); Generic Transcription Pathway (reactome); Transcriptional Regulation by TP53 (reactome); Deadenylation-dependent mRNA decay (reactome); Deadenylation of mRNA (reactome); Activation of anterior HOX genes in hindbrain development during early embryogenesis (reactome); Activation of HOX genes during differentiation (reactome)</p>
+<p><b>InterPro:</b> Leucine-rich repeat; Leucine-rich repeat, typical subtype; Endonuclease/exonuclease/phosphatase; Leucine-rich repeat domain superfamily; CCR4-NOT transcription complex subunit 6; Endonuclease/exonuclease/phosphatase superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>CKS1B — CDC28 protein kinase regulatory subunit 1B</h3>
+<p><b>Summary:</b> CKS1B protein binds to the catalytic subunit of the cyclin dependent kinases and is essential for their biological function. The CKS1B mRNA is found to be expressed in different patterns through the cell cycle in HeLa cells, which reflects a specialized role for the encoded protein. At least two transcript variants have been identified for this gene, and it appears that only one of them encodes a protein. [provided by RefSeq, Sep 2008].</p>
+<p><b>GO:BP:</b> mitotic cell cycle phase transition</p>
+<p><b>GO:MF:</b> protein binding; cyclin-dependent protein serine/threonine kinase regulator activity; cyclin-dependent protein serine/threonine kinase activator activity</p>
+<p><b>GO:CC:</b> cyclin-dependent protein kinase holoenzyme complex; nucleus; nucleoplasm; SCF ubiquitin ligase complex</p>
+<p><b>Pathways:</b> Pathways in cancer - Homo sapiens (human) (kegg); Small cell lung cancer - Homo sapiens (human) (kegg); Cell Cycle (reactome); SCF(Skp2)-mediated degradation of p27/p21 (reactome); Mitotic G1 phase and G1/S transition (reactome); Cyclin E associated events during G1/S transition  (reactome); G1/S Transition (reactome); Cyclin D associated events in G1 (reactome)</p>
+<p><b>InterPro:</b> Cyclin-dependent kinase, regulatory subunit; Cyclin-dependent kinase, regulatory subunit superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>PSAT1 — phosphoserine aminotransferase 1</h3>
+<p><b>Summary:</b> This gene encodes a member of the class-V pyridoxal-phosphate-dependent aminotransferase family. The encoded protein is a phosphoserine aminotransferase and decreased expression may be associated with schizophrenia. Mutations in this gene are also associated with phosphoserine aminotransferase deficiency. Alternative splicing results in multiple transcript variants. Pseudogenes of this gene have been defined on chromosomes 1, 3, and 8. [provided by RefSeq, Jul 2013].</p>
+<p><b>GO:BP:</b> L-serine biosynthetic process; pyridoxine biosynthetic process; response to mechanical stimulus; negative regulation of ferroptosis</p>
+<p><b>GO:MF:</b> O-phospho-L-serine:2-oxoglutarate transaminase activity; protein binding; pyridoxal phosphate binding; identical protein binding</p>
+<p><b>GO:CC:</b> cytoplasm; cytosol; extracellular exosome</p>
+<p><b>Pathways:</b> Glycine, serine and threonine metabolism - Homo sapiens (human) (kegg); Cysteine and methionine metabolism - Homo sapiens (human) (kegg); Vitamin B6 metabolism - Homo sapiens (human) (kegg); Metabolism (reactome); Metabolism of amino acids and derivatives (reactome); Serine metabolism (reactome); Trans-sulfuration and one-carbon metabolism (wikipathways); Pathways in clear cell renal cell carcinoma (wikipathways)</p>
+<p><b>InterPro:</b> Aminotransferase class V domain; Pyridoxal phosphate-dependent transferase, major domain; Pyridoxal phosphate-dependent transferase, small domain; Pyridoxal phosphate-dependent transferase; Aminotransferase class-V, pyridoxal-phosphate binding site; Phosphoserine aminotransferase</p>
+</div>
+
+<div class="gene-card">
+<h3>EIF4G1 — eukaryotic translation initiation factor 4 gamma 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a component of the multi-subunit protein complex EIF4F. This complex facilitates the recruitment of mRNA to the ribosome, which is a rate-limiting step during the initiation phase of protein synthesis. The recognition of the mRNA cap and the ATP-dependent unwinding of 5'-terminal secondary structure is catalyzed by factors in this complex. The subunit encoded by this gene is a large scaffolding protein that contains binding sites for other members of the EIF4F complex. A domain at its N-terminus can also interact with the poly(A)-binding protein, which may mediate the circularization of mRNA during translation. Alternative splicing results in multiple transcript variants, some of which are derived from alternative promoter usage. [provided by RefSeq, Aug 2010].</p>
+<p><b>GO:BP:</b> cap-dependent translational initiation; translation; translational initiation; regulation of translational initiation; negative regulation of autophagy; positive regulation of cell growth</p>
+<p><b>GO:MF:</b> RNA binding; mRNA binding; translation initiation factor activity; protein binding; ATP binding; translation factor activity, RNA binding</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; cytosol; ribosome; cytoplasmic stress granule; membrane</p>
+<p><b>Pathways:</b> RNA transport - Homo sapiens (human) (kegg); Viral myocarditis - Homo sapiens (human) (kegg); ISG15 antiviral mechanism (reactome); Antimicrobial mechanism of IFN-stimulated genes (reactome); Developmental Biology (reactome); Cytokine Signaling in Immune system (reactome); L13a-mediated translational silencing of Ceruloplasmin expression (reactome); Signal Transduction (reactome)</p>
+<p><b>InterPro:</b> W2 domain; MIF4G-like, type 3; Initiation factor eIF-4 gamma, MA3; Armadillo-type fold</p>
+</div>
+
+<div class="gene-card">
+<h3>YWHAZ — tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta</h3>
+<p><b>Summary:</b> This gene product belongs to the 14-3-3 family of proteins which mediate signal transduction by binding to phosphoserine-containing proteins. This highly conserved protein family is found in both plants and mammals, and this protein is 99% identical to the mouse, rat and sheep orthologs. The encoded protein interacts with IRS1 protein, suggesting a role in regulating insulin sensitivity. Several transcript variants that differ in the 5' UTR but that encode the same protein have been identified for this gene. [provided by RefSeq, Oct 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; angiogenesis; respiratory system process; protein phosphorylation; signal transduction; synaptic target recognition</p>
+<p><b>GO:MF:</b> RNA binding; protein binding; protein kinase binding; protein phosphatase binding; protein domain specific binding; ubiquitin protein ligase binding</p>
+<p><b>GO:CC:</b> extracellular region; nucleus; nucleoplasm; cytoplasm; cytosol; focal adhesion</p>
+<p><b>Pathways:</b> Cell cycle - Homo sapiens (human) (kegg); Oocyte meiosis - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Hepatitis C - Homo sapiens (human) (kegg); Hepatitis B - Homo sapiens (human) (kegg); Viral carcinogenesis - Homo sapiens (human) (kegg); Apoptosis (reactome)</p>
+<p><b>InterPro:</b> 14-3-3 protein; 14-3-3 protein, conserved site; 14-3-3 domain; 14-3-3 domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>SLC30A5 — solute carrier family 30 member 5</h3>
+<p><b>Summary:</b> This gene encodes a member of the SLC30A/ZnT family of zinc transporter proteins. ZnT proteins mediate both cellular zinc efflux and zinc sequestration into membrane-bound organelles. The encoded protein plays a role in the early secretory pathway as a heterodimer with zinc transporter 6, and may also regulate zinc sequestration into secretory granules of pancreatic beta cells. Alternatively spliced transcript variants encoding multiple isoforms have been observed for this gene, and a pseudogene of this gene is located on the long arm of chromosome 19. [provided by RefSeq, Oct 2011].</p>
+<p><b>GO:BP:</b> GPI anchor biosynthetic process; monoatomic cation transport; cobalt ion transport; zinc ion transport; intracellular zinc ion homeostasis; response to zinc ion</p>
+<p><b>GO:MF:</b> zinc ion transmembrane transporter activity; protein binding; monoatomic cation transmembrane transporter activity; cadmium ion transmembrane transporter activity; zinc efflux transmembrane transporter activity; zinc:proton antiporter activity</p>
+<p><b>GO:CC:</b> Golgi membrane; cytoplasm; endoplasmic reticulum membrane; Golgi apparatus; plasma membrane; ER to Golgi transport vesicle membrane</p>
+<p><b>Pathways:</b> Insulin processing (reactome); Peptide hormone metabolism (reactome); Transport of small molecules (reactome); Metabolism of proteins (reactome); SLC-mediated transmembrane transport (reactome); Metal ion SLC transporters (reactome); Zinc transporters (reactome); Zinc efflux and compartmentalization by the SLC30 family (reactome)</p>
+<p><b>InterPro:</b> Cation efflux protein; Cation efflux transmembrane domain superfamily; Zinc transporter Msc2-like</p>
+</div>
+
+<div class="gene-card">
+<h3>MTREX — Mtr4 exosome RNA helicase</h3>
+<p><b>Summary:</b> Enables ATP binding activity and RNA helicase activity. Involved in RNA catabolic process; cellular response to DNA damage stimulus; and maturation of 5.8S rRNA. Located in nucleoplasm. Part of TRAMP complex and catalytic step 2 spliceosome. Colocalizes with nuclear exosome (RNase complex). Biomarker of amyotrophic lateral sclerosis. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> mRNA splicing, via spliceosome; maturation of 5.8S rRNA; rRNA processing; RNA catabolic process; DNA damage response; mRNA metabolic process</p>
+<p><b>GO:MF:</b> nucleic acid binding; RNA binding; RNA helicase activity; protein binding; ATP binding; ATP hydrolysis activity</p>
+<p><b>GO:CC:</b> nuclear exosome (RNase complex); exosome (RNase complex); nucleus; nucleoplasm; nucleolus; nuclear speck</p>
+<p><b>Pathways:</b> RNA degradation - Homo sapiens (human) (kegg); Epigenetic regulation of gene expression (reactome); Major pathway of rRNA processing in the nucleolus and cytosol (reactome); mRNA Splicing - Major Pathway (reactome); mRNA Splicing (reactome); Processing of Capped Intron-Containing Pre-mRNA (reactome); rRNA processing (reactome); Gene expression (Transcription) (reactome)</p>
+<p><b>InterPro:</b> Helicase, C-terminal domain-like; DEAD/DEAH-box helicase domain; ATP-dependent RNA helicase Ski2/MTR4, C-terminal; Helicase superfamily 1/2, ATP-binding domain; ATP-dependent RNA helicase SKI2-like; Exosome RNA helicase MTR4-like, beta-barrel domain</p>
+</div>
+
+<div class="gene-card">
+<h3>KIF5B — kinesin family member 5B</h3>
+<p><b>Summary:</b> Enables identical protein binding activity; microtubule binding activity; and microtubule motor activity. Involved in several processes, including lysosome localization; natural killer cell mediated cytotoxicity; and positive regulation of protein localization to plasma membrane. Located in centriolar satellite; cytosol; and vesicle. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> microtubule-based movement; positive regulation of synaptic transmission, GABAergic; lysosome localization; cytoplasmic stress granule disassembly; natural killer cell mediated cytotoxicity; regulation of membrane potential</p>
+<p><b>GO:MF:</b> microtubule motor activity; protein binding; ATP binding; microtubule binding; plus-end-directed microtubule motor activity; ATP hydrolysis activity</p>
+<p><b>GO:CC:</b> cytoplasm; mitochondrion; lysosomal membrane; cytosol; cytoskeleton; kinesin complex</p>
+<p><b>Pathways:</b> Endocytosis - Homo sapiens (human) (kegg); Dopaminergic synapse - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Parkinson disease - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Huntington disease - Homo sapiens (human) (kegg); Prion disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Kinesin motor domain; Kinesin motor domain, conserved site; P-loop containing nucleoside triphosphate hydrolase; Kinesin-like protein; Kinesin motor domain superfamily; Spindle pole body-associated protein Vik1/Cik1, microtubule binding domain</p>
+</div>
+
+<div class="gene-card">
+<h3>DCP1A — decapping mRNA 1A</h3>
+<p><b>Summary:</b> Decapping is a key step in general and regulated mRNA decay. The protein encoded by this gene is a decapping enzyme. This protein and another decapping enzyme form a decapping complex, which interacts with the nonsense-mediated decay factor hUpf1 and may be recruited to mRNAs containing premature termination codons. This protein also participates in the TGF-beta signaling pathway. Alternative splicing of this gene results in multiple transcript variants. [provided by RefSeq, Feb 2014].</p>
+<p><b>GO:BP:</b> nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay; deadenylation-dependent decapping of nuclear-transcribed mRNA; deadenylation-independent decapping of nuclear-transcribed mRNA; mRNA methylguanosine-cap decapping; protein localization to cytoplasmic stress granule</p>
+<p><b>GO:MF:</b> mRNA binding; protein binding; enzyme activator activity; kinesin binding; identical protein binding; 5'-(N(7)-methylguanosine 5'-triphospho)-[mRNA] hydrolase activity</p>
+<p><b>GO:CC:</b> P-body; nucleus; cytoplasm; cytosol; membrane; dendrite</p>
+<p><b>Pathways:</b> RNA degradation - Homo sapiens (human) (kegg); Deadenylation-dependent mRNA decay (reactome); mRNA decay by 5' to 3' exoribonuclease (reactome); Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA (reactome); Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA (reactome); Regulation of mRNA stability by proteins that bind AU-rich elements (reactome); Metabolism of RNA (reactome); Nonsense-Mediated Decay (NMD) (reactome)</p>
+<p><b>InterPro:</b> mRNA-decapping enzyme subunit 1; PH-like domain superfamily; mRNA-decapping enzyme, C-terminal</p>
+</div>
+
+<div class="gene-card">
+<h3>IFIT1 — interferon induced protein with tetratricopeptide repeats 1</h3>
+<p><b>Summary:</b> This gene encodes a protein containing tetratricopeptide repeats that was originally identified as induced upon treatment with interferon. The encoded protein may inhibit viral replication and translational initiation. This gene is located in a cluster on chromosome 10 with five other closely related genes. There is a pseudogene for this gene on chromosome 13. Alternatively spliced transcript variants encoding multiple isoforms have been observed. [provided by RefSeq, Aug 2012].</p>
+<p><b>GO:BP:</b> response to virus; intracellular transport of viral protein in host cell; positive regulation of viral genome replication; negative regulation of viral genome replication; response to other organism; cellular response to cytokine stimulus</p>
+<p><b>GO:MF:</b> RNA binding; enzyme inhibitor activity; protein binding; RNA sequestering activity</p>
+<p><b>GO:CC:</b> cytoplasm; cytosol; host cell</p>
+<p><b>Pathways:</b> Hepatitis C - Homo sapiens (human) (kegg); ISG15 antiviral mechanism (reactome); Antimicrobial mechanism of IFN-stimulated genes (reactome); Cytokine Signaling in Immune system (reactome); Disease (reactome); Immune System (reactome); Infectious disease (reactome); Interferon alpha/beta signaling (reactome)</p>
+<p><b>InterPro:</b> Tetratricopeptide-like helical domain superfamily; Tetratricopeptide repeat 2; Tetratricopeptide repeat</p>
+</div>
+
+<div class="gene-card">
+<h3>IMP3 — IMP U3 small nucleolar ribonucleoprotein 3</h3>
+<p><b>Summary:</b> This gene encodes the human homolog of the yeast Imp3 protein. The protein localizes to the nucleoli and interacts with the U3 snoRNP complex. The protein contains an S4 domain. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> rRNA processing; maturation of SSU-rRNA; ribosome biogenesis; ribosomal small subunit biogenesis</p>
+<p><b>GO:MF:</b> RNA binding; protein binding; rRNA binding; snoRNA binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; nucleolus; preribosome; small-subunit processome; Mpp10 complex</p>
+<p><b>Pathways:</b> Ribosome biogenesis in eukaryotes - Homo sapiens (human) (kegg); rRNA modification in the nucleus and cytosol (reactome); Major pathway of rRNA processing in the nucleolus and cytosol (reactome); rRNA processing (reactome); rRNA processing in the nucleus and cytosol (reactome); Metabolism of RNA (reactome); IL-18 signaling pathway (wikipathways)</p>
+<p><b>InterPro:</b> Small ribosomal subunit protein uS4, N-terminal; RNA-binding S4 domain; Small ribosomal subunit protein uS4; RNA-binding S4 domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>SPCS1 — signal peptidase complex subunit 1</h3>
+<p><b>Summary:</b> Predicted to enable peptidase activity and ribosome binding activity. Involved in viral protein processing and virion assembly. Is integral component of endoplasmic reticulum membrane. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> proteolysis; protein processing; virion assembly; viral protein processing; protein targeting to ER; protein maturation</p>
+<p><b>GO:MF:</b> protein binding</p>
+<p><b>GO:CC:</b> signal peptidase complex; endoplasmic reticulum membrane; membrane</p>
+<p><b>Pathways:</b> Protein export - Homo sapiens (human) (kegg); Cell-Cell communication (reactome); Disease (reactome); SRP-dependent cotranslational protein targeting to membrane (reactome); Peptide hormone metabolism (reactome); Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1) (reactome); Metabolism of proteins (reactome); Incretin synthesis, secretion, and inactivation (reactome)</p>
+<p><b>InterPro:</b> Signal peptidase complex subunit 1</p>
+</div>
+
+<div class="gene-card">
+<h3>DNAJA4 — DnaJ heat shock protein family (Hsp40) member A4</h3>
+<p><b>Summary:</b> Enables chaperone binding activity and unfolded protein binding activity. Involved in several processes, including negative regulation of endothelial cell migration; negative regulation of inclusion body assembly; and protein refolding. Located in cytosol and membrane. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> protein folding; response to heat; negative regulation of endothelial cell migration; positive regulation of gene expression; cellular response to heat; protein refolding</p>
+<p><b>GO:MF:</b> ATPase activator activity; protein binding; ATP binding; Hsp70 protein binding; heat shock protein binding; protein-folding chaperone binding</p>
+<p><b>GO:CC:</b> cytosol; membrane</p>
+<p><b>Pathways:</b> Cellular responses to stress (reactome); HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand (reactome); Cellular responses to stimuli (reactome)</p>
+<p><b>InterPro:</b> Heat shock protein DnaJ, cysteine-rich domain; DnaJ domain; Chaperone DnaJ, C-terminal; HSP40/DnaJ peptide-binding; Chaperone DnaJ; DnaJ domain, conserved site</p>
+</div>
+
+<div class="gene-card">
+<h3>VEGFA — vascular endothelial growth factor A</h3>
+<p><b>Summary:</b> This gene is a member of the PDGF/VEGF growth factor family. It encodes a heparin-binding protein, which exists as a disulfide-linked homodimer. This growth factor induces proliferation and migration of vascular endothelial cells, and is essential for both physiological and pathological angiogenesis. Disruption of this gene in mice resulted in abnormal embryonic blood vessel formation. This gene is upregulated in many known tumors and its expression is correlated with tumor stage and progression. Elevated levels of this protein are found in patients with POEMS syndrome, also known as Crow-Fukase syndrome. Allelic variants of this gene have been associated with microvascular complications of diabetes 1 (MVCD1) and atherosclerosis. Alternatively spliced transcript variants encoding different isoforms have been described. There is also evidence for alternative translation initiation from upstream non-AUG (CUG) codons resulting in additional isoforms. A recent study showed that a C-terminally extended isoform is produced by use of an alternative in-frame translation termination codon via a stop codon readthrough mechanism, and that this isoform is antiangiogenic. Expression of some isoforms derived from the AUG start codon is regulated by a small upstream open reading frame, which is located within an internal ribosome entry site. The levels of VEGF are increased during infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), thus promoting inflammation by facilitating recruitment of inflammatory cells, and by increasing the level of angiopoietin II (Ang II), one of two products of the SARS-CoV-2 binding target, angiotensin-converting enzyme 2 (ACE2). In turn, Ang II facilitates the elevation of VEGF, thus forming a vicious cycle in the release of inflammatory cytokines. [provided by RefSeq, Jun 2020].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; angiogenesis; ovarian follicle development; branching involved in blood vessel morphogenesis; vasculogenesis; response to hypoxia</p>
+<p><b>GO:MF:</b> fibronectin binding; cytokine activity; platelet-derived growth factor receptor binding; vascular endothelial growth factor receptor binding; protein binding; growth factor activity</p>
+<p><b>GO:CC:</b> extracellular region; nucleus; cytoplasm; endoplasmic reticulum; Golgi apparatus; adherens junction</p>
+<p><b>Pathways:</b> MAPK signaling pathway - Homo sapiens (human) (kegg); Ras signaling pathway - Homo sapiens (human) (kegg); Rap1 signaling pathway - Homo sapiens (human) (kegg); Calcium signaling pathway - Homo sapiens (human) (kegg); HIF-1 signaling pathway - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); VEGF signaling pathway - Homo sapiens (human) (kegg); Focal adhesion - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> PDGF/VEGF domain; Platelet-derived growth factor, conserved site; Vascular endothelial growth factor, heparin-binding domain; Cystine-knot cytokine; Platelet-derived/Vascular endothelial growth factor; Vascular endothelial growth factor, heparin-binding domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>TUBB2A — tubulin beta 2A class IIa</h3>
+<p><b>Summary:</b> Microtubules, key participants in processes such as mitosis and intracellular transport, are composed of heterodimers of alpha- and beta-tubulins. The protein encoded by this gene is a beta-tubulin. Defects in this gene are associated with complex cortical dysplasia with other brain malformations-5. Two transcript variants encoding distinct isoforms have been found for this gene. [provided by RefSeq, Jul 2015].</p>
+<p><b>GO:BP:</b> microtubule cytoskeleton organization; mitotic cell cycle; neuron migration; microtubule-based process; cerebral cortex development</p>
+<p><b>GO:MF:</b> GTPase activity; structural constituent of cytoskeleton; protein binding; GTP binding</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; cytoskeleton; microtubule; cilium; microtubule cytoskeleton</p>
+<p><b>Pathways:</b> Phagosome - Homo sapiens (human) (kegg); Gap junction - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Parkinson disease - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Huntington disease - Homo sapiens (human) (kegg); Prion disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Tubulin; Beta tubulin; Tubulin/FtsZ, GTPase domain; Tubulin/FtsZ, C-terminal; Beta tubulin, autoregulation binding site; Tubulin, conserved site</p>
+</div>
+
+<div class="gene-card">
+<h3>FUS — FUS RNA binding protein</h3>
+<p><b>Summary:</b> This gene encodes a multifunctional protein component of the heterogeneous nuclear ribonucleoprotein (hnRNP) complex. The hnRNP complex is involved in pre-mRNA splicing and the export of fully processed mRNA to the cytoplasm. This protein belongs to the FET family of RNA-binding proteins which have been implicated in cellular processes that include regulation of gene expression, maintenance of genomic integrity and mRNA/microRNA processing. Alternative splicing results in multiple transcript variants. Defects in this gene result in amyotrophic lateral sclerosis type 6. [provided by RefSeq, Sep 2009].</p>
+<p><b>GO:BP:</b> regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; RNA splicing; regulation of RNA splicing; positive regulation of DNA-templated transcription; mRNA stabilization</p>
+<p><b>GO:MF:</b> nucleic acid binding; chromatin binding; transcription coregulator activity; transcription coactivator activity; RNA binding; mRNA 3'-UTR binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm; glutamatergic synapse; GABA-ergic synapse; presynaptic cytosol</p>
+<p><b>Pathways:</b> RNA transport - Homo sapiens (human) (kegg); mRNA surveillance pathway - Homo sapiens (human) (kegg); Spliceosome - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Transcriptional misregulation in cancer - Homo sapiens (human) (kegg); Disease (reactome); Infectious disease (reactome)</p>
+<p><b>InterPro:</b> RNA recognition motif domain; Zinc finger, RanBP2-type; Nucleotide-binding alpha-beta plait domain superfamily; TAF15/EWS/TLS family; RNA-binding domain superfamily; Zinc finger, RanBP2-type superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>EXOSC10 — exosome component 10</h3>
+<p><b>Summary:</b> Enables 3'-5'-exoribonuclease activity. Involved in several processes, including RNA catabolic process; maturation of 5.8S rRNA; and negative regulation of telomere maintenance via telomerase. Located in cytosol; nuclear lumen; and transcriptionally active chromatin. Part of nuclear exosome (RNase complex). [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> maturation of 5.8S rRNA; exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); nuclear-transcribed mRNA catabolic process; rRNA processing; RNA processing; RNA catabolic process</p>
+<p><b>GO:MF:</b> nucleotide binding; 3'-5'-RNA exonuclease activity; nucleic acid binding; RNA binding; single-stranded RNA binding; RNA exonuclease activity</p>
+<p><b>GO:CC:</b> nuclear exosome (RNase complex); cytoplasmic exosome (RNase complex); exosome (RNase complex); euchromatin; nucleus; nucleoplasm</p>
+<p><b>Pathways:</b> RNA degradation - Homo sapiens (human) (kegg); Adaptive Immune System (reactome); Immune System (reactome); Major pathway of rRNA processing in the nucleolus and cytosol (reactome); rRNA processing (reactome); rRNA processing in the nucleus and cytosol (reactome); Metabolism of RNA (reactome); Nuclear RNA decay (reactome)</p>
+<p><b>InterPro:</b> HRDC domain; 3'-5' exonuclease domain; HRDC-like superfamily; Ribonuclease H-like superfamily; Exosome-associated factor Rrp6, N-terminal; Ribonuclease H superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>EEF2 — eukaryotic translation elongation factor 2</h3>
+<p><b>Summary:</b> This gene encodes a member of the GTP-binding translation elongation factor family. This protein is an essential factor for protein synthesis. It promotes the GTP-dependent translocation of the nascent protein chain from the A-site to the P-site of the ribosome. This protein is completely inactivated by EF-2 kinase phosporylation. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> response to ischemia; skeletal muscle contraction; translation; translational elongation; response to xenobiotic stimulus; glial cell proliferation</p>
+<p><b>GO:MF:</b> p53 binding; RNA binding; translation elongation factor activity; GTPase activity; protein binding; GTP binding</p>
+<p><b>GO:CC:</b> extracellular region; nucleus; cytoplasm; cytosol; ribosome; membrane</p>
+<p><b>Pathways:</b> AMPK signaling pathway - Homo sapiens (human) (kegg); Oxytocin signaling pathway - Homo sapiens (human) (kegg); Eukaryotic Translation Elongation (reactome); Peptide chain elongation (reactome); Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation (reactome); Disease (reactome); Innate Immune System (reactome); Immune System (reactome)</p>
+<p><b>InterPro:</b> Elongation factor EFG, domain V-like; Translational (tr)-type GTP-binding domain; Translation elongation factor EFTu-like, domain 2; Small GTP-binding domain; Translation elongation factor EFG/EF2, domain IV; Translation protein, beta-barrel domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>EXOC2 — exocyst complex component 2</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a component of the exocyst complex, a multi-protein complex essential for the polarized targeting of exocytic vesicles to specific docking sites on the plasma membrane. Though best characterized in yeast, the component proteins and the functions of the exocyst complex have been demonstrated to be highly conserved in higher eukaryotes. At least eight components of the exocyst complex, including this protein, are found to interact with the actin cytoskeletal remodeling and vesicle transport machinery. This interaction has been shown to mediate filopodia formation in fibroblasts. This protein has been shown to interact with the Ral subfamily of GTPases and thereby mediate exocytosis by tethering vesicles to the plasma membrane. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jul 2012].</p>
+<p><b>GO:BP:</b> mitotic cytokinesis; exocytosis; Golgi to plasma membrane transport; membrane fission; regulation of entry of bacterium into host cell</p>
+<p><b>GO:MF:</b> protein binding; protein kinase binding; GTP-dependent protein binding; small GTPase binding</p>
+<p><b>GO:CC:</b> exocyst; cytosol; plasma membrane; membrane; cell periphery; Flemming body</p>
+<p><b>Pathways:</b> Ras signaling pathway - Homo sapiens (human) (kegg); Salmonella infection - Homo sapiens (human) (kegg); Translocation of SLC2A4 (GLUT4) to the plasma membrane (reactome); Organelle biogenesis and maintenance (reactome); Membrane Trafficking (reactome); Insulin processing (reactome); Peptide hormone metabolism (reactome); Metabolism of proteins (reactome)</p>
+<p><b>InterPro:</b> IPT domain; Immunoglobulin-like fold; Immunoglobulin E-set; Exocyst complex component EXOC2/Sec5; Exocyst complex component EXOC2/Sec5, N-terminal domain</p>
+</div>
+
+<div class="gene-card">
+<h3>PAIP1 — poly(A) binding protein interacting protein 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene interacts with poly(A)-binding protein and with the cap-binding complex eIF4A. It is involved in translational initiation and protein biosynthesis. Overexpression of this gene in COS7 cells stimulates translation. Alternative splicing occurs at this locus and three transcript variants encoding three distinct isoforms have been identified. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> translational initiation; regulation of translational initiation; host-mediated activation of viral process; mRNA stabilization; CRD-mediated mRNA stabilization; negative regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay</p>
+<p><b>GO:MF:</b> RNA binding; protein binding; translation activator activity</p>
+<p><b>GO:CC:</b> cytoplasm; cytosol; plasma membrane; mCRD-mediated mRNA stability complex</p>
+<p><b>Pathways:</b> RNA transport - Homo sapiens (human) (kegg); Developmental Biology (reactome); Deadenylation-dependent mRNA decay (reactome); Deadenylation of mRNA (reactome); Metabolism of RNA (reactome); Maternal to zygotic transition (MZT) (reactome); M-decay: degradation of maternal mRNAs by maternally stored factors (reactome); Z-decay: degradation of maternal mRNAs by zygotically expressed factors (reactome)</p>
+<p><b>InterPro:</b> MIF4G-like, type 3; PAM2 motif; Armadillo-type fold; mRNA Translation Regulation/Replication-dependent Histone mRNA Translation</p>
+</div>
+
+<div class="gene-card">
+<h3>BANF1 — barrier to autointegration nuclear assembly factor 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene was first identified by its ability to protect retroviruses from intramolecular integration and therefore promote intermolecular integration into the host cell genome. The protein forms a homodimer which localizes to both the nucleus and cytoplasm and is specifically associated with chromosomes during mitosis. This protein binds to double stranded DNA in a non-specific manner and also binds to LEM-domain containing proteins of the nuclear envelope. This protein is thought to facilitate nuclear reassembly by binding with both DNA and inner nuclear membrane proteins and thereby recruit chromatin to the nuclear periphery. Alternative splicing results in multiple transcript variants encoding the same protein.[provided by RefSeq, Jan 2009].</p>
+<p><b>GO:BP:</b> chromatin organization; response to oxidative stress; mitotic nuclear membrane reassembly; response to virus; negative regulation of protein ADP-ribosylation; negative regulation of type I interferon production</p>
+<p><b>GO:MF:</b> DNA binding; double-stranded DNA binding; protein binding; identical protein binding; protein homodimerization activity</p>
+<p><b>GO:CC:</b> chromatin; condensed chromosome; nucleus; nuclear envelope; nucleoplasm; chromosome</p>
+<p><b>Pathways:</b> HIV Life Cycle (reactome); Integration of provirus (reactome); Early Phase of HIV Life Cycle (reactome); HIV Infection (reactome); Host Interactions of HIV factors (reactome); Cell Cycle (reactome); Disease (reactome); 2-LTR circle formation (reactome)</p>
+<p><b>InterPro:</b> Barrier- to-autointegration factor, BAF; Barrier-to-autointegration factor, BAF superfamily; Barrier-to-autointegration factor</p>
+</div>
+
+
+<h2>Provenance</h2>
+<ul>
+<li>PANTHER: pantherdb.org, REST (geneinfo + enrich/overrep)</li>
+<li>Enrichr: maayanlab.cloud/Enrichr, GO_Biological_Process_2025</li>
+<li>g:Profiler: biit.cs.ut.ee/gprofiler, GO/KEGG/REAC</li>
+<li>MyGene.info: mygene.info/v3/query</li>
+</ul>
+</body></html>

@@ -1,0 +1,930 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<title>GroundAnnot report</title>
+<style>
+body { font-family: system-ui, sans-serif; max-width: 1100px; margin: 2em auto; }
+h1 { border-bottom: 2px solid #333; }
+h2 { margin-top: 2em; color: #444; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: 0.9em; }
+th, td { border: 1px solid #ccc; padding: 6px 8px; text-align: left; }
+th { background: #f0f0f0; }
+.gene-card { border: 1px solid #ddd; padding: 1em; margin: 1em 0; border-radius: 6px; }
+.gene-card h3 { margin-top: 0; }
+.small { color: #666; font-size: 0.85em; }
+.section-tag { display: inline-block; background: #eee; padding: 2px 8px;
+               border-radius: 4px; font-size: 0.8em; }
+.closed { background: #e8f4ea; }
+.context { background: #f4f0e8; }
+</style></head><body>
+
+<h1>GroundAnnot report — MYC_TARGETS_V2</h1>
+<p class="small">Run: 2026-09-25T08:22:34 &nbsp;|&nbsp; Organism: human
+&nbsp;|&nbsp; Input genes: 58</p>
+<p class="small">Genes: SLC19A1, MRTO4, TMEM97, RRP9, PES1, TFB2M, EXOSC5, IPO4, NDUFAF4, NOC4L, MYC, SRM, PA2G4, GNL3, NOLC1, WDR43, RABEPK, NOP16, TBRG4, DDX18, NIP7, WDR74, BYSL, HSPD1, PLK4, NOP2, PPAN, NOP56, RCL1, NPM1, AIMP2, RRP12, PPRC1, TCOF1, MCM5, HK2, CBX3, PLK1, PHB, MCM4, CDK4, DUSP2, MYBBP1A, UTP20, PRMT3, FARSA, MAP3K6, LAS1L, PUS1, HSPE1, SLC29A2, DCTPP1, SUPV3L1, SORD, IMP4, GRWD1, UNG, MPHOSPH10</p>
+
+<h2><span class="section-tag closed">Closed vocabulary</span> Enrichment</h2>
+<p>The language model may cite term IDs only from the tables below.</p>
+
+
+<h3>PANTHER</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0042254</td><td>ribosome biogenesis</td>
+<td>1.01e-29</td>
+<td>1.38e-25</td></tr>
+
+<tr><td>GO:0022613</td><td>ribonucleoprotein complex biogenesis</td>
+<td>6.02e-25</td>
+<td>4.14e-21</td></tr>
+
+<tr><td>GO:0016072</td><td>rRNA metabolic process</td>
+<td>1.81e-24</td>
+<td>8.32e-21</td></tr>
+
+<tr><td>GO:0006364</td><td>rRNA processing</td>
+<td>8.65e-23</td>
+<td>2.97e-19</td></tr>
+
+<tr><td>GO:0090304</td><td>nucleic acid metabolic process</td>
+<td>8.40e-20</td>
+<td>2.31e-16</td></tr>
+
+<tr><td>GO:0006139</td><td>nucleobase-containing compound metabolic process</td>
+<td>1.40e-17</td>
+<td>3.21e-14</td></tr>
+
+<tr><td>GO:0006396</td><td>RNA processing</td>
+<td>2.71e-15</td>
+<td>5.33e-12</td></tr>
+
+<tr><td>GO:0016070</td><td>RNA metabolic process</td>
+<td>2.77e-15</td>
+<td>4.76e-12</td></tr>
+
+<tr><td>GO:0042273</td><td>ribosomal large subunit biogenesis</td>
+<td>1.39e-14</td>
+<td>2.12e-11</td></tr>
+
+<tr><td>GO:0032774</td><td>RNA biosynthetic process</td>
+<td>1.45e-13</td>
+<td>1.99e-10</td></tr>
+
+<tr><td>GO:0141187</td><td>nucleic acid biosynthetic process</td>
+<td>5.40e-13</td>
+<td>6.75e-10</td></tr>
+
+<tr><td>GO:0044085</td><td>cellular component biogenesis</td>
+<td>9.27e-13</td>
+<td>1.06e-09</td></tr>
+
+<tr><td>GO:0010467</td><td>gene expression</td>
+<td>1.76e-11</td>
+<td>1.86e-08</td></tr>
+
+<tr><td>GO:0030490</td><td>maturation of SSU-rRNA</td>
+<td>2.03e-11</td>
+<td>2.00e-08</td></tr>
+
+<tr><td>GO:0042274</td><td>ribosomal small subunit biogenesis</td>
+<td>2.17e-11</td>
+<td>1.99e-08</td></tr>
+
+<tr><td>GO:0034654</td><td>nucleobase-containing compound biosynthetic process</td>
+<td>2.92e-11</td>
+<td>2.51e-08</td></tr>
+
+<tr><td>GO:0043170</td><td>macromolecule metabolic process</td>
+<td>5.17e-10</td>
+<td>4.19e-07</td></tr>
+
+<tr><td>GO:0009059</td><td>macromolecule biosynthetic process</td>
+<td>6.27e-10</td>
+<td>4.79e-07</td></tr>
+
+<tr><td>GO:0071840</td><td>cellular component organization or biogenesis</td>
+<td>1.55e-09</td>
+<td>1.12e-06</td></tr>
+
+<tr><td>GO:0000470</td><td>maturation of LSU-rRNA</td>
+<td>3.09e-08</td>
+<td>2.13e-05</td></tr>
+
+<tr><td>GO:0009058</td><td>biosynthetic process</td>
+<td>3.36e-08</td>
+<td>2.20e-05</td></tr>
+
+<tr><td>GO:0044238</td><td>primary metabolic process</td>
+<td>3.68e-08</td>
+<td>2.30e-05</td></tr>
+
+<tr><td>GO:0008152</td><td>metabolic process</td>
+<td>4.78e-08</td>
+<td>2.86e-05</td></tr>
+
+<tr><td>GO:0000463</td><td>maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)</td>
+<td>5.18e-07</td>
+<td>2.97e-04</td></tr>
+
+<tr><td>GO:0000466</td><td>maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)</td>
+<td>1.81e-06</td>
+<td>9.96e-04</td></tr>
+
+</table>
+
+<h3>Enrichr</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0042254</td><td>Ribosome Biogenesis</td>
+<td>5.49e-28</td>
+<td>2.58e-25</td></tr>
+
+<tr><td>GO:0022613</td><td>Ribonucleoprotein Complex Biogenesis</td>
+<td>6.48e-23</td>
+<td>1.52e-20</td></tr>
+
+<tr><td>GO:0006364</td><td>rRNA Processing</td>
+<td>1.16e-21</td>
+<td>1.81e-19</td></tr>
+
+<tr><td>GO:0016072</td><td>rRNA Metabolic Process</td>
+<td>1.49e-20</td>
+<td>1.74e-18</td></tr>
+
+<tr><td>GO:0006396</td><td>RNA Processing</td>
+<td>3.28e-15</td>
+<td>3.08e-13</td></tr>
+
+<tr><td>GO:0042273</td><td>Ribosomal Large Subunit Biogenesis</td>
+<td>8.71e-13</td>
+<td>6.81e-11</td></tr>
+
+<tr><td>GO:0042274</td><td>Ribosomal Small Subunit Biogenesis</td>
+<td>1.23e-10</td>
+<td>8.21e-09</td></tr>
+
+<tr><td>GO:0000470</td><td>Maturation of LSU-rRNA</td>
+<td>5.41e-07</td>
+<td>3.17e-05</td></tr>
+
+<tr><td>GO:0016070</td><td>RNA Metabolic Process</td>
+<td>1.06e-06</td>
+<td>5.54e-05</td></tr>
+
+<tr><td>GO:0000959</td><td>Mitochondrial RNA Metabolic Process</td>
+<td>4.49e-05</td>
+<td>2.10e-03</td></tr>
+
+<tr><td>GO:0006260</td><td>DNA Replication</td>
+<td>5.97e-05</td>
+<td>2.55e-03</td></tr>
+
+<tr><td>GO:0030490</td><td>Maturation of SSU-rRNA</td>
+<td>1.82e-04</td>
+<td>7.10e-03</td></tr>
+
+<tr><td>GO:0006259</td><td>DNA Metabolic Process</td>
+<td>2.36e-04</td>
+<td>8.52e-03</td></tr>
+
+<tr><td>GO:0006325</td><td>Chromatin Organization</td>
+<td>3.38e-04</td>
+<td>1.13e-02</td></tr>
+
+<tr><td>GO:0000727</td><td>Double-Strand Break Repair via Break-Induced Replication</td>
+<td>3.66e-04</td>
+<td>1.14e-02</td></tr>
+
+<tr><td>GO:0006402</td><td>mRNA Catabolic Process</td>
+<td>3.88e-04</td>
+<td>1.14e-02</td></tr>
+
+<tr><td>GO:0000963</td><td>Mitochondrial RNA Processing</td>
+<td>4.47e-04</td>
+<td>1.23e-02</td></tr>
+
+<tr><td>GO:0030174</td><td>Regulation of DNA-templated DNA Replication Initiation</td>
+<td>5.35e-04</td>
+<td>1.35e-02</td></tr>
+
+<tr><td>GO:0006261</td><td>DNA-templated DNA Replication</td>
+<td>5.46e-04</td>
+<td>1.35e-02</td></tr>
+
+<tr><td>GO:0000479</td><td>Endonucleolytic Clvg of Tricistronic rRNA Trnscpt</td>
+<td>6.32e-04</td>
+<td>1.48e-02</td></tr>
+
+<tr><td>GO:0043069</td><td>Negative Regulation of Programmed Cell Death</td>
+<td>8.18e-04</td>
+<td>1.73e-02</td></tr>
+
+<tr><td>GO:0000463</td><td>Maturation of LSU-rRNA Frm Tricistronic rRNA Trnscpt</td>
+<td>8.47e-04</td>
+<td>1.73e-02</td></tr>
+
+<tr><td>GO:0048864</td><td>Stem Cell Development</td>
+<td>8.47e-04</td>
+<td>1.73e-02</td></tr>
+
+<tr><td>GO:0006338</td><td>Chromatin Remodeling</td>
+<td>9.66e-04</td>
+<td>1.89e-02</td></tr>
+
+<tr><td>GO:0006304</td><td>DNA Modification</td>
+<td>1.09e-03</td>
+<td>1.90e-02</td></tr>
+
+</table>
+
+<h3>g:Profiler</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0042254</td><td>ribosome biogenesis</td>
+<td>3.56e-24</td>
+<td>3.56e-24</td></tr>
+
+<tr><td>GO:0016072</td><td>rRNA metabolic process</td>
+<td>7.16e-23</td>
+<td>7.16e-23</td></tr>
+
+<tr><td>GO:0006364</td><td>rRNA processing</td>
+<td>3.05e-21</td>
+<td>3.05e-21</td></tr>
+
+<tr><td>GO:0005730</td><td>nucleolus</td>
+<td>5.13e-21</td>
+<td>5.13e-21</td></tr>
+
+<tr><td>GO:0022613</td><td>ribonucleoprotein complex biogenesis</td>
+<td>1.15e-19</td>
+<td>1.15e-19</td></tr>
+
+<tr><td>GO:0003723</td><td>RNA binding</td>
+<td>5.11e-19</td>
+<td>5.11e-19</td></tr>
+
+<tr><td>GO:0030684</td><td>preribosome</td>
+<td>3.20e-17</td>
+<td>3.20e-17</td></tr>
+
+<tr><td>REAC:R-HSA-8868773</td><td>rRNA processing in the nucleus and cytosol</td>
+<td>1.81e-13</td>
+<td>1.81e-13</td></tr>
+
+<tr><td>REAC:R-HSA-72312</td><td>rRNA processing</td>
+<td>3.89e-13</td>
+<td>3.89e-13</td></tr>
+
+<tr><td>REAC:R-HSA-6791226</td><td>Major pathway of rRNA processing in the nucleolus and cytosol</td>
+<td>2.53e-12</td>
+<td>2.53e-12</td></tr>
+
+<tr><td>GO:0006396</td><td>RNA processing</td>
+<td>1.56e-11</td>
+<td>1.56e-11</td></tr>
+
+<tr><td>GO:0042273</td><td>ribosomal large subunit biogenesis</td>
+<td>2.67e-11</td>
+<td>2.67e-11</td></tr>
+
+<tr><td>GO:0003676</td><td>nucleic acid binding</td>
+<td>3.98e-11</td>
+<td>3.98e-11</td></tr>
+
+<tr><td>GO:0031974</td><td>membrane-enclosed lumen</td>
+<td>2.35e-10</td>
+<td>2.35e-10</td></tr>
+
+<tr><td>GO:0043233</td><td>organelle lumen</td>
+<td>2.35e-10</td>
+<td>2.35e-10</td></tr>
+
+<tr><td>GO:0070013</td><td>intracellular organelle lumen</td>
+<td>2.35e-10</td>
+<td>2.35e-10</td></tr>
+
+<tr><td>REAC:R-HSA-6790901</td><td>rRNA modification in the nucleus and cytosol</td>
+<td>5.17e-10</td>
+<td>5.17e-10</td></tr>
+
+<tr><td>GO:0090304</td><td>nucleic acid metabolic process</td>
+<td>9.35e-10</td>
+<td>9.35e-10</td></tr>
+
+<tr><td>GO:0031981</td><td>nuclear lumen</td>
+<td>1.49e-09</td>
+<td>1.49e-09</td></tr>
+
+<tr><td>GO:0006139</td><td>nucleobase-containing compound metabolic process</td>
+<td>5.74e-09</td>
+<td>5.74e-09</td></tr>
+
+<tr><td>GO:0032040</td><td>small-subunit processome</td>
+<td>2.27e-08</td>
+<td>2.27e-08</td></tr>
+
+<tr><td>GO:1990904</td><td>ribonucleoprotein complex</td>
+<td>1.60e-07</td>
+<td>1.60e-07</td></tr>
+
+<tr><td>REAC:R-HSA-8953854</td><td>Metabolism of RNA</td>
+<td>3.27e-07</td>
+<td>3.27e-07</td></tr>
+
+<tr><td>GO:0043232</td><td>intracellular membraneless organelle</td>
+<td>3.77e-07</td>
+<td>3.77e-07</td></tr>
+
+<tr><td>GO:0043228</td><td>membraneless organelle</td>
+<td>3.77e-07</td>
+<td>3.77e-07</td></tr>
+
+</table>
+
+
+<h2><span class="section-tag context">Context only</span> Per-gene annotations</h2>
+<p>The language model may read these for narrative but must not cite them as enrichment evidence.</p>
+
+
+<div class="gene-card">
+<h3>SLC19A1 — solute carrier family 19 member 1</h3>
+<p><b>Summary:</b> The membrane protein encoded by this gene is a transporter of folate and is involved in the regulation of intracellular concentrations of folate. Three transcript variants encoding different isoforms have been found for this gene.[provided by RefSeq, Mar 2011].</p>
+<p><b>GO:BP:</b> xenobiotic transmembrane transport; female pregnancy; response to xenobiotic stimulus; response to toxic substance; folic acid transport; folic acid metabolic process</p>
+<p><b>GO:MF:</b> protein binding; folic acid binding; folic acid transmembrane transporter activity; folate:monoatomic anion antiporter activity; antiporter activity; methotrexate transmembrane transporter activity</p>
+<p><b>GO:CC:</b> plasma membrane; membrane; basolateral plasma membrane; apical plasma membrane; brush border membrane</p>
+<p><b>Pathways:</b> Vitamin digestion and absorption - Homo sapiens (human) (kegg); Metabolism (reactome); Metabolism of folate and pterines (reactome); Metabolism of water-soluble vitamins and cofactors (reactome); Metabolism of vitamins and cofactors (reactome); Folate Metabolism (wikipathways); Ethanol effects on histone modifications (wikipathways)</p>
+<p><b>InterPro:</b> Reduced folate carrier; Reduced folate transporter SLC19A1; MFS transporter superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>MRTO4 — MRT4 homolog, ribosome maturation factor</h3>
+<p><b>Summary:</b> This gene encodes a protein sharing a low level of sequence similarity with ribosomal protein P0. While the precise function of the encoded protein is currently unknown, it appears to be involved in mRNA turnover and ribosome assembly. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> ribosomal large subunit assembly; nuclear-transcribed mRNA catabolic process; rRNA processing; ribosomal large subunit biogenesis</p>
+<p><b>GO:MF:</b> RNA binding; protein binding</p>
+<p><b>GO:CC:</b> nucleolus; cytoplasm; preribosome, large subunit precursor</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> Large ribosomal subunit protein uL10; Ribosome assembly factor Mrt4; Large ribosomal subunit protein uL10-like, insertion domain; Large ribosomal subunit protein uL10-like domain superfamily; Large ribosomal subunit protein uL10-like, insertion domain superfamily; Ribosomal Assembly Factor uL10</p>
+</div>
+
+<div class="gene-card">
+<h3>TMEM97 — transmembrane protein 97</h3>
+<p><b>Summary:</b> TMEM97 is a conserved integral membrane protein that plays a role in controlling cellular cholesterol levels (Bartz et al., 2009 [PubMed 19583955]).[supplied by OMIM, Aug 2009].</p>
+<p><b>GO:BP:</b> regulation of cell growth; regulation of intracellular lipid transport; regulation of intracellular cholesterol transport; cholesterol homeostasis; positive regulation of wound healing; positive regulation of lipoprotein transport</p>
+<p><b>GO:MF:</b> protein binding; oxysterol binding; cholesterol binding</p>
+<p><b>GO:CC:</b> lysosome; endoplasmic reticulum; rough endoplasmic reticulum; plasma membrane; rough endoplasmic reticulum membrane; nuclear membrane</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> Sigma intracellular receptor 2; EXPERA domain; Sigma-2 receptor-like</p>
+</div>
+
+<div class="gene-card">
+<h3>RRP9 — ribosomal RNA processing 9, U3 small nucleolar RNA binding protein</h3>
+<p><b>Summary:</b> This gene encodes a member of the WD-repeat protein family. The encoded protein is a component of the nucleolar small nuclear ribonucleoprotein particle (snoRNP) and is essential for 18s rRNA processing during ribosome synthesis. It contains seven WD domains required for nucleolar localization and specific interaction with the U3 small nucleolar RNA (U3 snoRNA). [provided by RefSeq, Oct 2012].</p>
+<p><b>GO:BP:</b> endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); rRNA processing; maturation of SSU-rRNA; ribosomal small subunit biogenesis</p>
+<p><b>GO:MF:</b> RNA binding; protein binding; U3 snoRNA binding</p>
+<p><b>GO:CC:</b> nucleoplasm; nucleolus; box C/D methylation guide snoRNP complex; small-subunit processome</p>
+<p><b>Pathways:</b> rRNA modification in the nucleus and cytosol (reactome); Major pathway of rRNA processing in the nucleolus and cytosol (reactome); rRNA processing (reactome); rRNA processing in the nucleus and cytosol (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> WD40 repeat; WD40/YVTN repeat-like-containing domain superfamily; WD40 repeat, conserved site; PAC1/LIS1-like, WD-40 repeat; WD40-repeat-containing domain superfamily; Ribosomal RNA-processing protein Rrp9-like</p>
+</div>
+
+<div class="gene-card">
+<h3>PES1 — pescadillo ribosomal biogenesis factor 1</h3>
+<p><b>Summary:</b> This gene encodes a nuclear protein that contains a breast cancer associated gene 1 (BRCA1) C-terminal interaction domain. The encoded protein interacts with BOP1 and WDR12 to form the PeBoW complex, which plays a critical role in cell proliferation via pre-rRNA processing and 60S ribosomal subunit maturation. Expression of this gene may play an important role in breast cancer proliferation and tumorigenicity. Alternatively spliced transcript variants encoding multiple isoforms have been observed for this gene. Pseudogenes of this gene are located on the long arm of chromosome 4 and the short arm of chromosome 9. [provided by RefSeq, Aug 2011].</p>
+<p><b>GO:BP:</b> maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); rRNA processing; cell population proliferation; ribosome biogenesis; ribosomal large subunit biogenesis</p>
+<p><b>GO:MF:</b> RNA binding; protein binding; ribonucleoprotein complex binding; large ribosomal subunit rRNA binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; chromosome; nucleolus; membrane; preribosome, large subunit precursor</p>
+<p><b>Pathways:</b> Major pathway of rRNA processing in the nucleolus and cytosol (reactome); rRNA processing (reactome); rRNA processing in the nucleus and cytosol (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> BRCT domain; Pescadillo; BRCT domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>TFB2M — transcription factor B2, mitochondrial</h3>
+<p><b>Summary:</b> Enables mitochondrial transcription factor activity. Involved in transcription initiation from mitochondrial promoter. Located in mitochondrial nucleoid. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> rRNA modification; mitochondrial transcription; transcription initiation at mitochondrial promoter; rRNA methylation</p>
+<p><b>GO:MF:</b> rRNA (adenine-N6,N6-)-dimethyltransferase activity; RNA binding; rRNA (adenine-N6-)-methyltransferase activity; mitochondrial transcription factor activity</p>
+<p><b>GO:CC:</b> mitochondrion; mitochondrial matrix; mitochondrial nucleoid</p>
+<p><b>Pathways:</b> Mitochondrial biogenesis (reactome); Mitochondrial transcription initiation (reactome); Organelle biogenesis and maintenance (reactome); Transcriptional activation of mitochondrial biogenesis (reactome); Gene expression (Transcription) (reactome); Transcription from mitochondrial promoters (reactome); Energy Metabolism (wikipathways); Mitochondrial Gene Expression (wikipathways)</p>
+<p><b>InterPro:</b> Ribosomal RNA adenine methyltransferase KsgA/Erm; Ribosomal RNA adenine methylase transferase, N-terminal; S-adenosyl-L-methionine-dependent methyltransferase superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>EXOSC5 — exosome component 5</h3>
+<p><b>Summary:</b> Predicted to enable RNA binding activity. Involved in DNA deamination and exonucleolytic catabolism of deadenylated mRNA. Acts upstream of or within defense response to virus. Located in nucleolus; nucleoplasm; and transcriptionally active chromatin. Part of exosome (RNase complex). [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> rRNA processing; RNA processing; RNA catabolic process; mRNA catabolic process; rRNA catabolic process; U4 snRNA 3'-end processing</p>
+<p><b>GO:MF:</b> 3'-5'-RNA exonuclease activity; RNA binding; RNA exonuclease activity; protein binding</p>
+<p><b>GO:CC:</b> nuclear exosome (RNase complex); cytoplasmic exosome (RNase complex); exosome (RNase complex); euchromatin; nucleus; nucleoplasm</p>
+<p><b>Pathways:</b> RNA degradation - Homo sapiens (human) (kegg); Adaptive Immune System (reactome); Immune System (reactome); Cellular responses to stress (reactome); ATF4 activates genes in response to endoplasmic reticulum  stress (reactome); PERK regulates gene expression (reactome); Unfolded Protein Response (UPR) (reactome); Deadenylation-dependent mRNA decay (reactome)</p>
+<p><b>InterPro:</b> Exoribonuclease, phosphorolytic domain 1; Exoribonuclease, phosphorolytic domain 2; Ribosomal protein uS5 domain 2-type superfamily; PNPase/RNase PH domain superfamily; Exoribonuclease, PH domain 2 superfamily; Ribonuclease PH</p>
+</div>
+
+<div class="gene-card">
+<h3>IPO4 — importin 4</h3>
+<p><b>Summary:</b> Predicted to enable nuclear import signal receptor activity and nuclear localization sequence binding activity. Involved in DNA replication-dependent chromatin assembly; DNA replication-independent chromatin assembly; and protein import into nucleus. Located in chromatin. Part of protein-containing complex. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> protein import into nucleus; intracellular protein transport; protein localization to nucleus</p>
+<p><b>GO:MF:</b> protein binding; small GTPase binding; nuclear import signal receptor activity; nucleocytoplasmic carrier activity</p>
+<p><b>GO:CC:</b> chromatin; nucleus; cytoplasm; membrane; protein-containing complex</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> Importin-beta, N-terminal domain; Armadillo-like helical; Armadillo-type fold; HEAT, type 2; TOG domain; Importin beta family</p>
+</div>
+
+<div class="gene-card">
+<h3>NDUFAF4 — NADH:ubiquinone oxidoreductase complex assembly factor 4</h3>
+<p><b>Summary:</b> NADH:ubiquinone oxidoreductase (complex I) catalyzes the transfer of electrons from NADH to ubiquinone (coenzyme Q) in the first step of the mitochondrial respiratory chain, resulting in the translocation of protons across the inner mitochondrial membrane. This gene encodes a complex I assembly factor. Mutations in this gene are a cause of mitochondrial complex I deficiency. [provided by RefSeq, Oct 2009].</p>
+<p><b>GO:BP:</b> mitochondrial respiratory chain complex I assembly; defense response to virus</p>
+<p><b>GO:MF:</b> protein binding</p>
+<p><b>GO:CC:</b> mitochondrion; mitochondrial inner membrane; membrane; mitochondrial membrane</p>
+<p><b>Pathways:</b> Thermogenesis - Homo sapiens (human) (kegg); Aerobic respiration and respiratory electron transport (reactome); Metabolism (reactome); Respiratory electron transport (reactome); Complex I biogenesis (reactome)</p>
+<p><b>InterPro:</b> NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 4</p>
+</div>
+
+<div class="gene-card">
+<h3>NOC4L — nucleolar complex associated 4 homolog</h3>
+<p><b>Summary:</b> Enables RNA binding activity. Predicted to be involved in rRNA processing. Located in nucleolus and nucleoplasm. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> endonucleolytic cleavage to generate mature 5'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA); rRNA processing; maturation of SSU-rRNA; T cell activation; ribosome biogenesis; ribosomal small subunit biogenesis</p>
+<p><b>GO:MF:</b> RNA binding; protein binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; nucleolus; cytoplasm; early endosome; Noc4p-Nop14p complex</p>
+<p><b>Pathways:</b> rRNA modification in the nucleus and cytosol (reactome); Major pathway of rRNA processing in the nucleolus and cytosol (reactome); rRNA processing (reactome); rRNA processing in the nucleus and cytosol (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> CCAAT-binding factor; Armadillo-type fold; Nucleolar complex protein 4</p>
+</div>
+
+<div class="gene-card">
+<h3>MYC — MYC proto-oncogene, bHLH transcription factor</h3>
+<p><b>Summary:</b> This gene is a proto-oncogene and encodes a nuclear phosphoprotein that plays a role in cell cycle progression, apoptosis and cellular transformation. The encoded protein forms a heterodimer with the related transcription factor MAX. This complex binds to the E box DNA consensus sequence and regulates the transcription of specific target genes. Amplification of this gene is frequently observed in numerous human cancers. Translocations involving this gene are associated with Burkitt lymphoma and multiple myeloma in human patients. There is evidence to show that translation initiates both from an upstream, in-frame non-AUG (CUG) and a downstream AUG start site, resulting in the production of two isoforms with distinct N-termini. [provided by RefSeq, Aug 2017].</p>
+<p><b>GO:BP:</b> G1/S transition of mitotic cell cycle; negative regulation of transcription by RNA polymerase II; MAPK cascade; branching involved in ureteric bud morphogenesis; positive regulation of mesenchymal cell proliferation; chromatin remodeling</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; core promoter sequence-specific DNA binding; transcription coregulator binding; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; chromosome; nucleolus; cytoplasm</p>
+<p><b>Pathways:</b> MAPK signaling pathway - Homo sapiens (human) (kegg); ErbB signaling pathway - Homo sapiens (human) (kegg); Cell cycle - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); Cellular senescence - Homo sapiens (human) (kegg); Wnt signaling pathway - Homo sapiens (human) (kegg); TGF-beta signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Transcription regulator Myc; Leucine zipper, Myc; Myc-type, basic helix-loop-helix (bHLH) domain; Transcription regulator Myc, N-terminal; Helix-loop-helix DNA-binding domain superfamily; Myc family transcription factors</p>
+</div>
+
+<div class="gene-card">
+<h3>SRM — spermidine synthase</h3>
+<p><b>Summary:</b> The polyamines putrescine, spermine, and spermidine are ubiquitous polycationic mediators of cell growth and differentiation. Spermidine synthase is one of four enzymes in the polyamine-biosynthetic pathway and carries out the final step of spermidine biosynthesis. This enzyme catalyzes the conversion of putrescine to spermidine using decarboxylated S-adenosylmethionine as the cofactor. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> polyamine metabolic process; polyamine biosynthetic process; spermine biosynthetic process; spermidine biosynthetic process</p>
+<p><b>GO:MF:</b> catalytic activity; spermidine synthase activity; protein binding; identical protein binding; protein homodimerization activity</p>
+<p><b>GO:CC:</b> cytosol</p>
+<p><b>Pathways:</b> Cysteine and methionine metabolism - Homo sapiens (human) (kegg); Arginine and proline metabolism - Homo sapiens (human) (kegg); Glutathione metabolism - Homo sapiens (human) (kegg); Metabolism (reactome); Metabolism of polyamines (reactome); Metabolism of amino acids and derivatives (reactome); Methionine De Novo and Salvage Pathway (wikipathways); Amino Acid metabolism (wikipathways)</p>
+<p><b>InterPro:</b> Spermidine/spermine synthases; S-adenosyl-L-methionine-dependent methyltransferase superfamily; Polyamine biosynthesis domain, conserved site; Polyamine biosynthesis domain; Spermidine/spermine synthase, eukaryotes; Spermidine synthase, tetramerisation domain</p>
+</div>
+
+<div class="gene-card">
+<h3>PA2G4 — proliferation-associated 2G4</h3>
+<p><b>Summary:</b> This gene encodes an RNA-binding protein that is involved in growth regulation. This protein is present in pre-ribosomal ribonucleoprotein complexes and may be involved in ribosome assembly and the regulation of intermediate and late steps of rRNA processing. This protein can interact with the cytoplasmic domain of the ErbB3 receptor and may contribute to transducing growth regulatory signals. This protein is also a transcriptional co-repressor of androgen receptor-regulated genes and other cell cycle regulatory genes through its interactions with histone deacetylases. This protein has been implicated in growth inhibition and the induction of differentiation of human cancer cells. Six pseudogenes, located on chromosomes 3, 6, 9, 18, 20 and X, have been identified. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of apoptotic process; positive regulation of cell differentiation; negative regulation of DNA-templated transcription</p>
+<p><b>GO:MF:</b> nucleic acid binding; transcription corepressor activity; RNA binding; protein binding; ubiquitin protein ligase binding</p>
+<p><b>GO:CC:</b> extracellular region; nucleus; nucleolus; cytoplasm; cytosol; membrane</p>
+<p><b>Pathways:</b> Innate Immune System (reactome); Immune System (reactome); Neutrophil degranulation (reactome)</p>
+<p><b>InterPro:</b> Peptidase M24; PA2G4 family; Peptidase M24A, methionine aminopeptidase, subfamily 2, binding site; Creatinase/aminopeptidase-like; Winged helix-like DNA-binding domain superfamily; Winged helix DNA-binding domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>GNL3 — G protein nucleolar 3</h3>
+<p><b>Summary:</b> The protein encoded by this gene may interact with p53 and may be involved in tumorigenesis. The encoded protein also appears to be important for stem cell proliferation. This protein is found in both the nucleus and nucleolus. Three transcript variants encoding two different isoforms have been found for this gene. [provided by RefSeq, Nov 2010].</p>
+<p><b>GO:BP:</b> stem cell division; stem cell population maintenance; positive regulation of telomere maintenance; positive regulation of protein sumoylation; regulation of cell population proliferation; positive regulation of miRNA transcription</p>
+<p><b>GO:MF:</b> RNA binding; protein binding; GTP binding; mRNA 5'-UTR binding</p>
+<p><b>GO:CC:</b> extracellular region; nucleus; nucleoplasm; chromosome; nucleolus; membrane</p>
+<p><b>Pathways:</b> Ribosome biogenesis in eukaryotes - Homo sapiens (human) (kegg); Major pathway of rRNA processing in the nucleolus and cytosol (reactome); rRNA processing (reactome); rRNA processing in the nucleus and cytosol (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> GTP binding domain; Guanine nucleotide-binding protein-like 3, N-terminal domain; P-loop containing nucleoside triphosphate hydrolase; Circularly permuted (CP)-type guanine nucleotide-binding (G) domain; TRAFAC YlqF/YawG GTPases, Ribosome Maturation</p>
+</div>
+
+<div class="gene-card">
+<h3>NOLC1 — nucleolar and coiled-body phosphoprotein 1</h3>
+<p><b>Summary:</b> Enables protein heterodimerization activity and protein-macromolecule adaptor activity. Involved in neural crest cell development; neural crest formation; and regulation of translation. Located in fibrillar center. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> mitotic cell cycle; rRNA processing; regulation of translation; neural crest formation; neural crest cell development; ribosome biogenesis</p>
+<p><b>GO:MF:</b> RNA binding; protein kinase inhibitor activity; protein binding; protein-macromolecule adaptor activity; protein heterodimerization activity; molecular function inhibitor activity</p>
+<p><b>GO:CC:</b> fibrillar center; nucleoplasm; nucleolus; cytoplasm</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> LIS1 homology motif; Srp40, C-terminal; Nopp140-like</p>
+</div>
+
+<div class="gene-card">
+<h3>WDR43 — WD repeat domain 43</h3>
+<p><b>Summary:</b> Enables RNA binding activity. Involved in positive regulation of rRNA processing and positive regulation of transcription by RNA polymerase I. Located in fibrillar center. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); regulation of DNA-templated transcription; maturation of SSU-rRNA; regulation of transcription elongation by RNA polymerase II; ribosomal small subunit biogenesis; positive regulation of transcription by RNA polymerase I</p>
+<p><b>GO:MF:</b> RNA polymerase II complex binding; transcription elongation factor activity; RNA binding; protein binding</p>
+<p><b>GO:CC:</b> chromatin; fibrillar center; nucleoplasm; nucleolus; small-subunit processome; t-UTP complex</p>
+<p><b>Pathways:</b> Ribosome biogenesis in eukaryotes - Homo sapiens (human) (kegg); rRNA modification in the nucleus and cytosol (reactome); Major pathway of rRNA processing in the nucleolus and cytosol (reactome); rRNA processing (reactome); rRNA processing in the nucleus and cytosol (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> WD40 repeat; Small-subunit processome, Utp12; WD40/YVTN repeat-like-containing domain superfamily; WD40-repeat-containing domain superfamily; U3 small nucleolar RNA-associated WD repeat-containing protein</p>
+</div>
+
+<div class="gene-card">
+<h3>RABEPK — Rab9 effector protein with kelch motifs</h3>
+<p><b>Summary:</b> Predicted to be involved in receptor-mediated endocytosis and vesicle docking involved in exocytosis. Predicted to be located in cytoplasmic vesicle; cytosol; and trans-Golgi network membrane. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> receptor-mediated endocytosis</p>
+<p><b>GO:MF:</b> protein binding</p>
+<p><b>GO:CC:</b> cytoplasm; endosome; cytosol; endosome membrane; transport vesicle; trans-Golgi network membrane</p>
+<p><b>Pathways:</b> Membrane Trafficking (reactome); Vesicle-mediated transport (reactome); Retrograde transport at the Trans-Golgi-Network (reactome); Intra-Golgi and retrograde Golgi-to-ER traffic (reactome)</p>
+<p><b>InterPro:</b> Kelch-type beta-propeller; Rab9 effector with kelch motifs; Galactose oxidase/kelch, beta-propeller</p>
+</div>
+
+<div class="gene-card">
+<h3>NOP16 — NOP16 nucleolar protein</h3>
+<p><b>Summary:</b> This gene encodes a protein that is localized to the nucleolus. Expression of this gene is induced by estrogens and Myc protein and is a marker of poor patient survival in breast cancer. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Dec 2015].</p>
+<p><b>GO:BP:</b> ribosomal large subunit biogenesis</p>
+<p><b>GO:MF:</b> RNA binding</p>
+<p><b>GO:CC:</b> nucleolus</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> Ribosome biogenesis protein Nop16</p>
+</div>
+
+<div class="gene-card">
+<h3>TBRG4 — transforming growth factor beta regulator 4</h3>
+<p><b>Summary:</b> Enables RNA binding activity. Involved in mitochondrial mRNA processing and regulation of mitochondrial mRNA stability. Located in mitochondrial matrix. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> mitochondrial RNA processing; positive regulation of cell population proliferation; mRNA metabolic process; regulation of mitochondrial mRNA stability; regulation of cell cycle; mitochondrial mRNA processing</p>
+<p><b>GO:MF:</b> RNA binding; protein binding</p>
+<p><b>GO:CC:</b> mitochondrion; mitochondrial matrix; ribonucleoprotein granule</p>
+<p><b>Pathways:</b> Metabolism of RNA (reactome); Mitochondrial RNA degradation (reactome); FASTK family proteins regulate processing and stability of mitochondrial RNAs (reactome)</p>
+<p><b>InterPro:</b> FAST kinase leucine-rich; FAST kinase-like protein, subdomain 2; RAP domain; FAST kinase domain-containing</p>
+</div>
+
+<div class="gene-card">
+<h3>DDX18 — DEAD-box helicase 18</h3>
+<p><b>Summary:</b> DEAD box proteins, characterized by the conserved motif Asp-Glu-Ala-Asp (DEAD), are putative RNA helicases. They are implicated in a number of cellular processes involving alteration of RNA secondary structure such as translation initiation, nuclear and mitochondrial splicing, and ribosome and spliceosome assembly. Based on their distribution patterns, some members of this family are believed to be involved in embryogenesis, spermatogenesis, and cellular growth and division. This gene encodes a DEAD box protein, and it is activated by Myc protein. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); cellular response to estradiol stimulus</p>
+<p><b>GO:MF:</b> nucleic acid binding; RNA binding; RNA helicase activity; protein binding; ATP binding; ATP hydrolysis activity</p>
+<p><b>GO:CC:</b> chromosome; nucleolus; membrane</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> ATP-dependent RNA helicase DEAD-box, conserved site; Helicase, C-terminal domain-like; DEAD/DEAH-box helicase domain; Helicase superfamily 1/2, ATP-binding domain; ATP-dependent rRNA helicase SPB4-like, C-terminal extension; P-loop containing nucleoside triphosphate hydrolase</p>
+</div>
+
+<div class="gene-card">
+<h3>NIP7 — nucleolar pre-rRNA processing protein NIP7</h3>
+<p><b>Summary:</b> Enables RNA binding activity. Predicted to be involved in ribosomal large subunit biogenesis. Located in cytosol; nucleolus; and nucleoplasm. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> ribosome assembly; ribosomal large subunit biogenesis</p>
+<p><b>GO:MF:</b> RNA binding; protein binding</p>
+<p><b>GO:CC:</b> nucleus; nucleolus; preribosome, large subunit precursor</p>
+<p><b>Pathways:</b> Major pathway of rRNA processing in the nucleolus and cytosol (reactome); rRNA processing (reactome); rRNA processing in the nucleus and cytosol (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> PUA domain; UPF0113, PUA domain; PUA-like superfamily; Ribosome biogenesis factor, NIP7; PUA domain superfamily; 60S ribosome subunit biogenesis protein NIP7, pre-PUA domain</p>
+</div>
+
+<div class="gene-card">
+<h3>WDR74 — WD repeat domain 74</h3>
+<p><b>Summary:</b> Involved in rRNA processing and ribosomal large subunit biogenesis. Located in nucleoplasm. Colocalizes with nuclear exosome (RNase complex) and nucleolus. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> blastocyst formation; rRNA processing; RNA metabolic process; ribosomal large subunit biogenesis</p>
+<p><b>GO:MF:</b> protein binding</p>
+<p><b>GO:CC:</b> nuclear exosome (RNase complex); nucleus; nucleolus; preribosome, large subunit precursor</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> WD40 repeat; WD40/YVTN repeat-like-containing domain superfamily; WD40-repeat-containing domain superfamily; WDR74/Nsa1</p>
+</div>
+
+<div class="gene-card">
+<h3>BYSL — bystin like</h3>
+<p><b>Summary:</b> Bystin is expressed as a 2-kb major transcript and a 3.6-kb minor transcript in SNG-M cells and in human trophoblastic teratocarcinoma HT-H cells. Protein binding assays determined that bystin binds directly to trophinin and tastin, and that binding is enhanced when cytokeratins 8 and 18 are present. Immunocytochemistry of HT-H cells showed that bystin colocalizes with trophinin, tastin, and the cytokeratins, suggesting that these molecules form a complex in trophectoderm cells at the time of implantation. Using immunohistochemistry it was determined that trophinin and bystin are found in the placenta from the sixth week of pregnancy. Both proteins were localized in the cytoplasm of the syncytiotrophoblast in the chorionic villi and in endometrial decidual cells at the uteroplacental interface. After week 10, the levels of trophinin, tastin, and bystin decreased and then disappeared from placental villi. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> rRNA processing; ribosome biogenesis; regulation of protein localization to nucleolus</p>
+<p><b>GO:MF:</b> RNA binding; protein binding; snoRNA binding</p>
+<p><b>GO:CC:</b> nucleoplasm; chromosome; nucleolus; cytoplasm; cytosol; membrane</p>
+<p><b>Pathways:</b> Major pathway of rRNA processing in the nucleolus and cytosol (reactome); rRNA processing (reactome); rRNA processing in the nucleus and cytosol (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> Bystin</p>
+</div>
+
+<div class="gene-card">
+<h3>HSPD1 — heat shock protein family D (Hsp60) member 1</h3>
+<p><b>Summary:</b> This gene encodes a member of the chaperonin family. The encoded mitochondrial protein may function as a signaling molecule in the innate immune system. This protein is essential for the folding and assembly of newly imported proteins in the mitochondria. This gene is adjacent to a related family member and the region between the 2 genes functions as a bidirectional promoter. Several pseudogenes have been associated with this gene. Two transcript variants encoding the same protein have been identified for this gene. Mutations associated with this gene cause autosomal recessive spastic paraplegia 13. [provided by RefSeq, Jun 2010].</p>
+<p><b>GO:BP:</b> positive regulation of cytokine production; MyD88-dependent toll-like receptor signaling pathway; positive regulation of T cell mediated immune response to tumor cell; protein folding; 'de novo' protein folding; response to unfolded protein</p>
+<p><b>GO:MF:</b> lipopolysaccharide binding; p53 binding; DNA replication origin binding; single-stranded DNA binding; RNA binding; double-stranded RNA binding</p>
+<p><b>GO:CC:</b> extracellular region; cytoplasm; mitochondrion; mitochondrial inner membrane; mitochondrial matrix; early endosome</p>
+<p><b>Pathways:</b> RNA degradation - Homo sapiens (human) (kegg); Type I diabetes mellitus - Homo sapiens (human) (kegg); Legionellosis - Homo sapiens (human) (kegg); Tuberculosis - Homo sapiens (human) (kegg); Lipid and atherosclerosis - Homo sapiens (human) (kegg); Mitochondrial protein import (reactome); Generic Transcription Pathway (reactome); Cellular responses to stress (reactome)</p>
+<p><b>InterPro:</b> Chaperonin Cpn60/GroEL; Chaperonin Cpn60/GroEL/TCP-1 family; Chaperone tailless complex polypeptide 1 (TCP-1); Chaperonin Cpn60, conserved site; GroEL-like apical domain superfamily; TCP-1-like chaperonin intermediate domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>PLK4 — polo like kinase 4</h3>
+<p><b>Summary:</b> This gene encodes a member of the polo family of serine/threonine protein kinases. The protein localizes to centrioles, complex microtubule-based structures found in centrosomes, and regulates centriole duplication during the cell cycle. Three alternatively spliced transcript variants that encode different protein isoforms have been found for this gene. [provided by RefSeq, Jun 2010].</p>
+<p><b>GO:BP:</b> centriole replication; regulation of cell cycle process; positive regulation of centriole replication; cilium assembly; trophoblast giant cell differentiation; de novo centriole assembly involved in multi-ciliated epithelial cell differentiation</p>
+<p><b>GO:MF:</b> protein kinase activity; protein serine/threonine kinase activity; protein binding; ATP binding; identical protein binding; protein serine kinase activity</p>
+<p><b>GO:CC:</b> XY body; nucleus; nucleolus; centrosome; centriole; cytosol</p>
+<p><b>Pathways:</b> FoxO signaling pathway - Homo sapiens (human) (kegg); Cell Cycle (reactome); Organelle biogenesis and maintenance (reactome); Regulation of PLK1 Activity at G2/M Transition (reactome); Loss of Nlp from mitotic centrosomes (reactome); Recruitment of mitotic centrosome proteins and complexes (reactome); Loss of proteins required for interphase microtubule organization from the centrosome (reactome); Centrosome maturation (reactome)</p>
+<p><b>InterPro:</b> Protein kinase domain; POLO box domain; Tyrosine-protein kinase, active site; Protein kinase-like domain superfamily; Protein kinase, ATP binding site; Plk4, C-terminal polo-box domain</p>
+</div>
+
+<div class="gene-card">
+<h3>NOP2 — NOP2 nucleolar protein</h3>
+<p><b>Summary:</b> Enables RNA binding activity. Involved in positive regulation of cell population proliferation; regulation of signal transduction by p53 class mediator; and ribosomal large subunit assembly. Located in nucleolus. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> ribosomal large subunit assembly; maturation of LSU-rRNA; rRNA processing; RNA processing; positive regulation of cell population proliferation; ribosomal large subunit biogenesis</p>
+<p><b>GO:MF:</b> RNA binding; protein binding; methyltransferase activity; RNA methyltransferase activity; S-adenosylmethionine-dependent methyltransferase activity; rRNA (cytosine-C5-)-methyltransferase activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; nucleolus</p>
+<p><b>Pathways:</b> Generic Transcription Pathway (reactome); rRNA modification in the nucleus and cytosol (reactome); rRNA processing (reactome); RNA Polymerase II Transcription (reactome); Gene expression (Transcription) (reactome); Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors (reactome); rRNA processing in the nucleus and cytosol (reactome); TFAP2A acts as a transcriptional repressor during retinoic acid induced cell differentiation (reactome)</p>
+<p><b>InterPro:</b> SAM-dependent methyltransferase RsmB-F/NOP2-type domain; Nop2p; 28S rRNA (cytosine-C(5))-methyltransferase repeat; RsmB/NOL1/NOP2-like, conserved site; RNA (C5-cytosine) methyltransferase; RNA (C5-cytosine) methyltransferase, NOP2</p>
+</div>
+
+<div class="gene-card">
+<h3>PPAN — peter pan homolog</h3>
+<p><b>Summary:</b> The protein encoded by this gene is an evolutionarily conserved protein similar to yeast SSF1 as well as to the gene product of the Drosophila gene peter pan (ppan). SSF1 is known to be involved in the second step of mRNA splicing. Both SSF1 and ppan are essential for cell growth and proliferation. Exogenous expression of this gene was reported to reduce the anchorage-independent growth of some tumor cells. Read-through transcription of this gene with P2RY11/P2Y(11), an adjacent downstream gene that encodes an ATP receptor, has been found. These read-through transcripts are ubiquitously present and up-regulated during granulocyte differentiation. [provided by RefSeq, Nov 2010].</p>
+<p><b>GO:BP:</b> maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); rRNA processing</p>
+<p><b>GO:MF:</b> RNA binding; rRNA binding</p>
+<p><b>GO:CC:</b> nucleus; nucleolus; preribosome, large subunit precursor</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> Brix domain; Protein Peter Pan-like</p>
+</div>
+
+<div class="gene-card">
+<h3>NOP56 — NOP56 ribonucleoprotein</h3>
+<p><b>Summary:</b> Nop56p is a yeast nucleolar protein that is part of a complex with the nucleolar proteins Nop58p and fibrillarin. Nop56p is required for assembly of the 60S ribosomal subunit and is involved in pre-rRNA processing. The protein encoded by this gene is similar in sequence to Nop56p and is also found in the nucleolus. Expansion of a GGCCTG repeat from 3-8 copies to 1500-2500 copies in an intron of this gene results in spinocerebellar ataxia 36. Multiple transcript variants encoding several different isoforms have been found for this gene, but the full-length nature of most of them has not been determined. [provided by RefSeq, Jul 2016].</p>
+<p><b>GO:BP:</b> rRNA 2'-O-methylation; rRNA processing; mRNA modification; neuron differentiation; maturation of SSU-rRNA; ribosomal small subunit biogenesis</p>
+<p><b>GO:MF:</b> RNA binding; protein binding; snoRNA binding; cadherin binding; histone methyltransferase binding</p>
+<p><b>GO:CC:</b> fibrillar center; nucleoplasm; nucleolus; sno(s)RNA-containing ribonucleoprotein complex; cytoplasm; membrane</p>
+<p><b>Pathways:</b> Ribosome biogenesis in eukaryotes - Homo sapiens (human) (kegg); Spinocerebellar ataxia - Homo sapiens (human) (kegg); Chaperonin-mediated protein folding (reactome); Association of TriC/CCT with target proteins during biosynthesis (reactome); Protein folding (reactome); Metabolism of proteins (reactome); rRNA modification in the nucleus and cytosol (reactome); Major pathway of rRNA processing in the nucleolus and cytosol (reactome)</p>
+<p><b>InterPro:</b> Nop domain; Nucleolar protein 58/56, N-terminal; NOSIC; Nop domain superfamily; Nop, C-terminal domain; Nucleolar protein Nop56/Nop58</p>
+</div>
+
+<div class="gene-card">
+<h3>RCL1 — RNA terminal phosphate cyclase like 1</h3>
+<p><b>Summary:</b> Predicted to enable endoribonuclease activity. Predicted to be involved in endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA). Predicted to act upstream of or within endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) and endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA). Predicted to be located in nucleoplasm. Predicted to be active in nucleolus. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); RNA processing; maturation of SSU-rRNA; ribosome biogenesis; ribosomal small subunit biogenesis</p>
+<p><b>GO:MF:</b> catalytic activity; RNA endonuclease activity; protein binding</p>
+<p><b>GO:CC:</b> nucleoplasm; nucleolus; small-subunit processome</p>
+<p><b>Pathways:</b> Ribosome biogenesis in eukaryotes - Homo sapiens (human) (kegg); rRNA modification in the nucleus and cytosol (reactome); Major pathway of rRNA processing in the nucleolus and cytosol (reactome); rRNA processing (reactome); rRNA processing in the nucleus and cytosol (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> RNA 3'-terminal phosphate cyclase; RNA 3'-terminal phosphate cyclase, insert domain; RNA 3'-terminal phosphate cyclase/enolpyruvate transferase, alpha/beta; RNA 3'-terminal phosphate cyclase type 2; RNA 3'-terminal phosphate cyclase-like, conserved site; RNA 3'-terminal phosphate cyclase domain</p>
+</div>
+
+<div class="gene-card">
+<h3>NPM1 — nucleophosmin 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene is involved in several cellular processes, including centrosome duplication, protein chaperoning, and cell proliferation. The encoded phosphoprotein shuttles between the nucleolus, nucleus, and cytoplasm, chaperoning ribosomal proteins and core histones from the nucleus to the cytoplasm. This protein is also known to sequester the tumor suppressor ARF in the nucleolus, protecting it from degradation until it is needed. Mutations in this gene are associated with acute myeloid leukemia. Dozens of pseudogenes of this gene have been identified. [provided by RefSeq, Aug 2017].</p>
+<p><b>GO:BP:</b> ribosomal large subunit export from nucleus; ribosomal small subunit export from nucleus; DNA repair; nucleosome assembly; chromatin remodeling; protein import into nucleus</p>
+<p><b>GO:MF:</b> core promoter sequence-specific DNA binding; nucleic acid binding; chromatin binding; transcription coactivator activity; RNA binding; protein kinase inhibitor activity</p>
+<p><b>GO:CC:</b> granular component; nucleus; nucleoplasm; nucleolus; cytoplasm; centrosome</p>
+<p><b>Pathways:</b> Antimicrobial mechanism of IFN-stimulated genes (reactome); Cytokine Signaling in Immune system (reactome); HIV Infection (reactome); Host Interactions of HIV factors (reactome); Cell Cycle (reactome); Disease (reactome); Immune System (reactome); Interactions of Rev with host cellular proteins (reactome)</p>
+<p><b>InterPro:</b> Nucleoplasmin family; Nucleoplasmin core domain; Nucleophosmin, C-terminal; Nucleoplasmin core domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>AIMP2 — aminoacyl tRNA synthetase complex interacting multifunctional protein 2</h3>
+<p><b>Summary:</b> The protein encoded by this gene is part of the aminoacyl-tRNA synthetase complex, which contains nine different aminoacyl-tRNA synthetases and three non-enzymatic factors. The encoded protein is one of the non-enzymatic factors and is required for assembly and stability of the complex. [provided by RefSeq, May 2016].</p>
+<p><b>GO:BP:</b> tRNA aminoacylation for protein translation; protein-containing complex assembly</p>
+<p><b>GO:MF:</b> protein binding; protein-macromolecule adaptor activity; molecular adaptor activity</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; cytosol; membrane; aminoacyl-tRNA synthetase multienzyme complex</p>
+<p><b>Pathways:</b> Developmental Biology (reactome); Metabolism (reactome); Selenoamino acid metabolism (reactome); Cytosolic tRNA aminoacylation (reactome); tRNA Aminoacylation (reactome); Metabolism of proteins (reactome); Metabolism of amino acids and derivatives (reactome); Translation (reactome)</p>
+<p><b>InterPro:</b> Glutathione S-transferase, C-terminal; AIMP2, lysyl-tRNA synthetase binding domain; Glutathione S-transferase, C-terminal domain superfamily; AIMP2, thioredoxin-like domain; Aminoacyl tRNA synthase complex-interacting multifunctional protein 2</p>
+</div>
+
+<div class="gene-card">
+<h3>RRP12 — ribosomal RNA processing 12 homolog</h3>
+<p><b>Summary:</b> Enables RNA binding activity. Predicted to be involved in rRNA processing. Located in cytosol; nucleolus; and plasma membrane. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> —</p>
+<p><b>GO:MF:</b> RNA binding</p>
+<p><b>GO:CC:</b> nucleolus; plasma membrane; nuclear membrane</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> Armadillo-like helical; RRP12, HEAT domain; Armadillo-type fold; Ribosomal RNA-processing protein RRP12; RRP12, N-terminal HEAT domain</p>
+</div>
+
+<div class="gene-card">
+<h3>PPRC1 — PPARG related coactivator 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene is similar to PPAR-gamma coactivator 1 (PPARGC1/PGC-1), a protein that can activate mitochondrial biogenesis in part through a direct interaction with nuclear respiratory factor 1 (NRF1). This protein has been shown to interact with NRF1. It is thought to be a functional relative of PPAR-gamma coactivator 1 that activates mitochondrial biogenesis through NRF1 in response to proliferative signals. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Dec 2013].</p>
+<p><b>GO:BP:</b> positive regulation of transcription by RNA polymerase II; energy homeostasis</p>
+<p><b>GO:MF:</b> nucleic acid binding; transcription coregulator activity; transcription coactivator activity; RNA binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm</p>
+<p><b>Pathways:</b> Mitochondrial biogenesis (reactome); Organelle biogenesis and maintenance (reactome); Transcriptional activation of mitochondrial biogenesis (reactome); Energy Metabolism (wikipathways); Mitochondrial Gene Expression (wikipathways)</p>
+<p><b>InterPro:</b> RNA recognition motif domain; Nucleotide-binding alpha-beta plait domain superfamily; PGC-1; PGC-1-related coactivator, RNA recognition motif; RNA-binding domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>TCOF1 — treacle ribosome biogenesis factor 1</h3>
+<p><b>Summary:</b> This gene encodes a nucleolar protein with a LIS1 homology domain. The protein is involved in ribosomal DNA gene transcription through its interaction with upstream binding factor (UBF). Mutations in this gene have been associated with Treacher Collins syndrome, a disorder which includes abnormal craniofacial development. Multiple transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Sep 2008].</p>
+<p><b>GO:BP:</b> skeletal system development; regulation of translation; neural crest formation; neural crest cell development; ribosome biogenesis; nucleolar large rRNA transcription by RNA polymerase I</p>
+<p><b>GO:MF:</b> RNA binding; protein binding; protein-macromolecule adaptor activity; protein heterodimerization activity; scaffold protein binding</p>
+<p><b>GO:CC:</b> fibrillar center; nucleolus</p>
+<p><b>Pathways:</b> Ribosome biogenesis in eukaryotes - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Treacle protein domain; LIS1 homology motif; Treacle protein</p>
+</div>
+
+<div class="gene-card">
+<h3>MCM5 — minichromosome maintenance complex component 5</h3>
+<p><b>Summary:</b> The protein encoded by this gene is structurally very similar to the CDC46 protein from S. cerevisiae, a protein involved in the initiation of DNA replication. The encoded protein is a member of the MCM family of chromatin-binding proteins and can interact with at least two other members of this family. The encoded protein is upregulated in the transition from the G0 to G1/S phase of the cell cycle and may actively participate in cell cycle regulation. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> double-strand break repair via break-induced replication; DNA replication; DNA replication initiation; regulation of DNA-templated DNA replication initiation</p>
+<p><b>GO:MF:</b> DNA binding; DNA helicase activity; DNA replication origin binding; single-stranded DNA binding; protein binding; ATP binding</p>
+<p><b>GO:CC:</b> chromosome, telomeric region; nucleus; nucleoplasm; chromosome; membrane; MCM complex</p>
+<p><b>Pathways:</b> DNA replication - Homo sapiens (human) (kegg); Cell cycle - Homo sapiens (human) (kegg); Developmental Biology (reactome); Cell Cycle (reactome); Activation of ATR in response to replication stress (reactome); Unwinding of DNA (reactome); Mitotic G1 phase and G1/S transition (reactome); Assembly of the pre-replicative complex (reactome)</p>
+<p><b>InterPro:</b> MCM domain; DNA replication licensing factor Mcm5; Nucleic acid-binding, OB-fold; Mini-chromosome maintenance, conserved site; P-loop containing nucleoside triphosphate hydrolase; MCM, N-terminal domain</p>
+</div>
+
+<div class="gene-card">
+<h3>HK2 — hexokinase 2</h3>
+<p><b>Summary:</b> Hexokinases phosphorylate glucose to produce glucose-6-phosphate, the first step in most glucose metabolism pathways. This gene encodes hexokinase 2, the predominant form found in skeletal muscle. It localizes to the outer membrane of mitochondria. Expression of this gene is insulin-responsive, and studies in rat suggest that it is involved in the increased rate of glycolysis seen in rapidly growing cancer cells. [provided by RefSeq, Apr 2009].</p>
+<p><b>GO:BP:</b> intracellular glucose homeostasis; carbohydrate metabolic process; fructose 6-phosphate metabolic process; glucose metabolic process; glycolytic process; apoptotic mitochondrial changes</p>
+<p><b>GO:MF:</b> glucokinase activity; hexokinase activity; protein binding; ATP binding; D-glucose binding; fructokinase activity</p>
+<p><b>GO:CC:</b> mitochondrion; mitochondrial outer membrane; cytosol; membrane; cytoplasmic side of mitochondrial outer membrane</p>
+<p><b>Pathways:</b> Glycolysis / Gluconeogenesis - Homo sapiens (human) (kegg); Fructose and mannose metabolism - Homo sapiens (human) (kegg); Galactose metabolism - Homo sapiens (human) (kegg); Starch and sucrose metabolism - Homo sapiens (human) (kegg); Amino sugar and nucleotide sugar metabolism - Homo sapiens (human) (kegg); Neomycin, kanamycin and gentamicin biosynthesis - Homo sapiens (human) (kegg); HIF-1 signaling pathway - Homo sapiens (human) (kegg); Insulin signaling pathway - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Hexokinase; Hexokinase, binding site; Hexokinase, N-terminal; Hexokinase, C-terminal; ATPase, nucleotide binding domain</p>
+</div>
+
+<div class="gene-card">
+<h3>CBX3 — chromobox 3</h3>
+<p><b>Summary:</b> At the nuclear envelope, the nuclear lamina and heterochromatin are adjacent to the inner nuclear membrane. The protein encoded by this gene binds DNA and is a component of heterochromatin. This protein also can bind lamin B receptor, an integral membrane protein found in the inner nuclear membrane. The dual binding functions of the encoded protein may explain the association of heterochromatin with the inner nuclear membrane. This protein binds histone H3 tails methylated at Lys-9 sites. This protein is also recruited to sites of ultraviolet-induced DNA damage and double-strand breaks. Two transcript variants encoding the same protein but differing in the 5' UTR, have been found for this gene.[provided by RefSeq, Mar 2011].</p>
+<p><b>GO:BP:</b> chromatin remodeling; DNA damage response; heterochromatin formation; negative regulation of DNA-templated transcription</p>
+<p><b>GO:MF:</b> transcription coregulator binding; chromatin binding; protein binding; enzyme binding; protein domain specific binding; identical protein binding</p>
+<p><b>GO:CC:</b> chromosome, centromeric region; condensed chromosome, centromeric region; chromosome, telomeric region; chromatin; euchromatin; heterochromatin</p>
+<p><b>Pathways:</b> Shigellosis - Homo sapiens (human) (kegg); Epigenetic regulation of gene expression (reactome); Generic Transcription Pathway (reactome); ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression (reactome); Chromatin organization (reactome); Positive epigenetic regulation of rRNA expression (reactome); RNA Polymerase I Promoter Escape (reactome); RNA Polymerase II Transcription (reactome)</p>
+<p><b>InterPro:</b> Chromo/chromo shadow domain; Chromo shadow domain; Chromo-like domain superfamily; Chromo domain subgroup; Chromo domain, conserved site; Chromo domain</p>
+</div>
+
+<div class="gene-card">
+<h3>PLK1 — polo like kinase 1</h3>
+<p><b>Summary:</b> The Ser/Thr protein kinase encoded by this gene belongs to the CDC5/Polo subfamily. It is highly expressed during mitosis and elevated levels are found in many different types of cancer. Depletion of this protein in cancer cells dramatically inhibited cell proliferation and induced apoptosis; hence, it is a target for cancer therapy. [provided by RefSeq, Sep 2015].</p>
+<p><b>GO:BP:</b> mitotic sister chromatid segregation; G2/M transition of mitotic cell cycle; negative regulation of transcription by RNA polymerase II; mitotic cell cycle; nuclear division; mitotic cytokinesis</p>
+<p><b>GO:MF:</b> magnesium ion binding; protein kinase activity; protein serine/threonine kinase activity; protein binding; ATP binding; microtubule binding</p>
+<p><b>GO:CC:</b> chromosome, centromeric region; kinetochore; condensed chromosome, centromeric region; chromatin; synaptonemal complex; spindle pole</p>
+<p><b>Pathways:</b> FoxO signaling pathway - Homo sapiens (human) (kegg); Cell cycle - Homo sapiens (human) (kegg); Oocyte meiosis - Homo sapiens (human) (kegg); Progesterone-mediated oocyte maturation - Homo sapiens (human) (kegg); Developmental Biology (reactome); Amplification of signal from the kinetochores (reactome); Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal (reactome); Polo-like kinase mediated events (reactome)</p>
+<p><b>InterPro:</b> Protein kinase domain; POLO box domain; Serine/threonine-protein kinase, active site; Protein kinase-like domain superfamily; Protein kinase, ATP binding site; Second polo-box domain</p>
+</div>
+
+<div class="gene-card">
+<h3>MCM4 — minichromosome maintenance complex component 4</h3>
+<p><b>Summary:</b> The protein encoded by this gene is one of the highly conserved mini-chromosome maintenance proteins (MCM) that are essential for the initiation of eukaryotic genome replication. The hexameric protein complex formed by MCM proteins is a key component of the pre-replication complex (pre_RC) and may be involved in the formation of replication forks and in the recruitment of other DNA replication related proteins. The MCM complex consisting of this protein and MCM2, 6 and 7 proteins possesses DNA helicase activity, and may act as a DNA unwinding enzyme. The phosphorylation of this protein by CDC2 kinase reduces the DNA helicase activity and chromatin binding of the MCM complex. This gene is mapped to a region on the chromosome 8 head-to-head next to the PRKDC/DNA-PK, a DNA-activated protein kinase involved in the repair of DNA double-strand breaks. Alternatively spliced transcript variants encoding the same protein have been reported. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> double-strand break repair via break-induced replication; DNA metabolic process; DNA replication; DNA replication initiation; DNA strand elongation involved in DNA replication; regulation of DNA-templated DNA replication initiation</p>
+<p><b>GO:MF:</b> DNA binding; DNA helicase activity; single-stranded DNA binding; protein binding; ATP binding; ATP hydrolysis activity</p>
+<p><b>GO:CC:</b> chromosome, telomeric region; nucleus; nucleoplasm; chromosome; membrane; MCM complex</p>
+<p><b>Pathways:</b> DNA replication - Homo sapiens (human) (kegg); Cell cycle - Homo sapiens (human) (kegg); Cell Cycle (reactome); Activation of ATR in response to replication stress (reactome); Unwinding of DNA (reactome); Mitotic G1 phase and G1/S transition (reactome); Assembly of the pre-replicative complex (reactome); Orc1 removal from chromatin (reactome)</p>
+<p><b>InterPro:</b> MCM domain; Mini-chromosome maintenance complex protein 4; Nucleic acid-binding, OB-fold; Mini-chromosome maintenance, conserved site; P-loop containing nucleoside triphosphate hydrolase; MCM, N-terminal domain</p>
+</div>
+
+<div class="gene-card">
+<h3>CDK4 — cyclin dependent kinase 4</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the Ser/Thr protein kinase family. This protein is highly similar to the gene products of S. cerevisiae cdc28 and S. pombe cdc2. It is a catalytic subunit of the protein kinase complex that is important for cell cycle G1 phase progression. The activity of this kinase is restricted to the G1-S phase, which is controlled by the regulatory subunits D-type cyclins and CDK inhibitor p16(INK4a). This kinase was shown to be responsible for the phosphorylation of retinoblastoma gene product (Rb). Mutations in this gene as well as in its related proteins including D-type cyclins, p16(INK4a) and Rb were all found to be associated with tumorigenesis of a variety of cancers. Multiple polyadenylation sites of this gene have been reported. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> G1/S transition of mitotic cell cycle; G2/M transition of mitotic cell cycle; signal transduction; positive regulation of cell population proliferation; response to xenobiotic stimulus; regulation of gene expression</p>
+<p><b>GO:MF:</b> protein kinase activity; cyclin-dependent protein serine/threonine kinase activity; protein binding; ATP binding; kinase activity; cyclin-dependent protein serine/threonine kinase regulator activity</p>
+<p><b>GO:CC:</b> cyclin-dependent protein kinase holoenzyme complex; chromatin; nucleus; nucleoplasm; transcription regulator complex; nucleolus</p>
+<p><b>Pathways:</b> Cell cycle - Homo sapiens (human) (kegg); p53 signaling pathway - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); Cellular senescence - Homo sapiens (human) (kegg); Tight junction - Homo sapiens (human) (kegg); T cell receptor signaling pathway - Homo sapiens (human) (kegg); AGE-RAGE signaling pathway in diabetic complications - Homo sapiens (human) (kegg); Cushing syndrome - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Protein kinase domain; Serine/threonine-protein kinase, active site; Protein kinase-like domain superfamily; Protein kinase, ATP binding site; Cyclin-dependent kinase</p>
+</div>
+
+<div class="gene-card">
+<h3>DUSP2 — dual specificity phosphatase 2</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the dual specificity protein phosphatase subfamily.  These phosphatases inactivate their target kinases by dephosphorylating both the phosphoserine/threonine and phosphotyrosine residues.  They negatively regulate members of the mitogen-activated protein (MAP) kinase superfamily (MAPK/ERK, SAPK/JNK, p38), which are associated with cellular proliferation and differentiation.  Different members of the family of dual specificity phosphatases show distinct substrate specificities for various MAP kinases, different tissue distribution and subcellular localization, and different modes of inducibility of their expression by extracellular stimuli.  This gene product inactivates ERK1 and ERK2, is predominantly expressed in hematopoietic tissues, and is localized in the nucleus. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> endoderm formation; protein dephosphorylation; signal transduction; negative regulation of MAPK cascade</p>
+<p><b>GO:MF:</b> phosphoprotein phosphatase activity; protein serine/threonine phosphatase activity; protein tyrosine phosphatase activity; protein binding; protein tyrosine/threonine phosphatase activity; MAP kinase tyrosine/serine/threonine phosphatase activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm; nuclear membrane</p>
+<p><b>Pathways:</b> MAPK signaling pathway - Homo sapiens (human) (kegg); RAF-independent MAPK1/3 activation (reactome); Signal Transduction (reactome); RAF/MAP kinase cascade (reactome); Negative regulation of MAPK pathway (reactome); MAPK family signaling cascades (reactome); MAPK1/MAPK3 signaling (reactome); Endoderm differentiation (wikipathways)</p>
+<p><b>InterPro:</b> Dual specificity phosphatase, catalytic domain; Tyrosine-specific protein phosphatases domain; Rhodanese-like domain; Protein-tyrosine phosphatase, catalytic; Mitogen-activated protein (MAP) kinase phosphatase; Protein-tyrosine phosphatase, active site</p>
+</div>
+
+<div class="gene-card">
+<h3>MYBBP1A — MYB binding protein 1a</h3>
+<p><b>Summary:</b> This gene encodes a nucleolar transcriptional regulator that was first identified by its ability to bind specifically to the Myb proto-oncogene protein. The encoded protein is thought to play a role in many cellular processes including response to nucleolar stress, tumor suppression and synthesis of ribosomal DNA. Alternate splicing results in multiple transcript variants. [provided by RefSeq, Sep 2013].</p>
+<p><b>GO:BP:</b> osteoblast differentiation; chromatin remodeling; regulation of DNA-templated transcription; circadian regulation of gene expression; cellular response to glucose starvation; negative regulation of DNA-templated transcription</p>
+<p><b>GO:MF:</b> DNA binding; transcription corepressor activity; RNA binding; sequence-specific DNA binding; E-box binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; nucleolus; cytoplasm; membrane; NLS-dependent protein nuclear import complex</p>
+<p><b>Pathways:</b> Epigenetic regulation of gene expression (reactome); Positive epigenetic regulation of rRNA expression (reactome); B-WICH complex positively regulates rRNA expression (reactome); Gene expression (Transcription) (reactome); Energy Metabolism (wikipathways)</p>
+<p><b>InterPro:</b> DNA polymerase V/Myb-binding protein 1A; Armadillo-like helical; Armadillo-type fold</p>
+</div>
+
+<div class="gene-card">
+<h3>UTP20 — UTP20 small subunit processome component</h3>
+<p><b>Summary:</b> UTP20 is a component of the U3 small nucleolar RNA (snoRNA) (SNORD3A; MIM 180710) protein complex (U3 snoRNP) and is involved in 18S rRNA processing (Wang et al., 2007 [PubMed 17498821]).[supplied by OMIM, Jun 2009].</p>
+<p><b>GO:BP:</b> endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); endonucleolytic cleavage to generate mature 5'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA); endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); rRNA processing; negative regulation of cell population proliferation; maturation of SSU-rRNA</p>
+<p><b>GO:MF:</b> RNA binding; mRNA binding; protein binding</p>
+<p><b>GO:CC:</b> nucleoplasm; nucleolus; cytoplasm; 90S preribosome; preribosome, small subunit precursor; small-subunit processome</p>
+<p><b>Pathways:</b> rRNA modification in the nucleus and cytosol (reactome); Major pathway of rRNA processing in the nucleolus and cytosol (reactome); rRNA processing (reactome); rRNA processing in the nucleus and cytosol (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> U3 small nucleolar RNA-associated protein 20, N-terminal; Armadillo-type fold; U3 small nucleolar RNA-associated protein 20 domain; Small subunit processome component 20; U3 small nucleolar RNA-associated protein 20, C-terminal</p>
+</div>
+
+<div class="gene-card">
+<h3>PRMT3 — protein arginine methyltransferase 3</h3>
+<p><b>Summary:</b> This gene belongs to the protein arginine methyltransferase (PRMT) family. The encoded enzyme catalyzes the methylation of guanidino nitrogens of arginyl residues of proteins. The enzyme acts on 40S ribosomal protein S2 (rpS2), which is its major in-vivo substrate, and is involved in the proper maturation of the 80S ribosome. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Aug 2013].</p>
+<p><b>GO:BP:</b> chromatin remodeling; regulation of DNA-templated transcription; negative regulation of protein ubiquitination; ribosome biogenesis; positive regulation of osteoblast differentiation; transcription initiation-coupled chromatin remodeling</p>
+<p><b>GO:MF:</b> protein binding; methyltransferase activity; protein-arginine N-methyltransferase activity; protein-arginine omega-N monomethyltransferase activity; protein-arginine omega-N asymmetric methyltransferase activity; histone methyltransferase activity</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; cytosol</p>
+<p><b>Pathways:</b> RMTs methylate histone arginines (reactome); Chromatin modifying enzymes (reactome); Metabolism of proteins (reactome); Chromatin organization (reactome); Post-translational protein modification (reactome); Protein methylation (reactome); NO metabolism in cystic fibrosis (wikipathways)</p>
+<p><b>InterPro:</b> Zinc finger C2H2-type; Protein arginine N-methyltransferase; S-adenosyl-L-methionine-dependent methyltransferase superfamily; Zinc finger C2H2 superfamily; Protein arginine N-methyltransferase 3, C2H2 zinc finger; Protein arginine N-methyltransferase 3-like, C2H2 zinc finger domain</p>
+</div>
+
+<div class="gene-card">
+<h3>FARSA — phenylalanyl-tRNA synthetase subunit alpha</h3>
+<p><b>Summary:</b> Aminoacyl-tRNA synthetases are a class of enzymes that charge tRNAs with their cognate amino acids. This gene encodes a product which is similar to the catalytic subunit of prokaryotic and Saccharomyces cerevisiae phenylalanyl-tRNA synthetases (PheRS). This gene product has been shown to be expressed in a tumor-selective and cell cycle stage- and differentiation-dependent manner, the first member of the tRNA synthetase gene family shown to exhibit this type of regulated expression [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> phenylalanyl-tRNA aminoacylation; tRNA aminoacylation; protein heterotetramerization</p>
+<p><b>GO:MF:</b> tRNA binding; nucleotide binding; magnesium ion binding; RNA binding; aminoacyl-tRNA ligase activity; phenylalanine-tRNA ligase activity</p>
+<p><b>GO:CC:</b> cytoplasm; cytosol; phenylalanine-tRNA ligase complex; membrane</p>
+<p><b>Pathways:</b> Aminoacyl-tRNA biosynthesis - Homo sapiens (human) (kegg); Cytosolic tRNA aminoacylation (reactome); tRNA Aminoacylation (reactome); Metabolism of proteins (reactome); Translation (reactome)</p>
+<p><b>InterPro:</b> Phenylalanyl-tRNA synthetase; Phenylalanyl-tRNA synthetase, class IIc, alpha subunit; Aminoacyl-tRNA synthetase, class II; Winged helix DNA-binding domain superfamily; PheRS DNA binding domain 2; PheRS, DNA binding domain 1</p>
+</div>
+
+<div class="gene-card">
+<h3>MAP3K6 — mitogen-activated protein kinase kinase kinase 6</h3>
+<p><b>Summary:</b> This gene encodes a serine/threonine protein kinase that forms a component of protein kinase-mediated signal transduction cascades. The encoded kinase participates in the regulation of vascular endothelial growth factor (VEGF) expression. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jul 2014].</p>
+<p><b>GO:BP:</b> MAPK cascade; protein phosphorylation; signal transduction; JNK cascade; p38MAPK cascade</p>
+<p><b>GO:MF:</b> magnesium ion binding; protein kinase activity; MAP kinase kinase kinase activity; protein binding; ATP binding; protein serine kinase activity</p>
+<p><b>GO:CC:</b> —</p>
+<p><b>Pathways:</b> MAPK signaling pathway - Homo sapiens (human) (kegg); MAPK Signaling Pathway (wikipathways); Angiopoietin Like Protein 8 Regulatory Pathway (wikipathways); Insulin Signaling (wikipathways)</p>
+<p><b>InterPro:</b> Protein kinase domain; Serine/threonine-protein kinase, active site; Protein kinase-like domain superfamily; Sterile alpha motif/pointed domain superfamily; Protein kinase, ATP binding site; MAP3K, TRAFs-binding domain</p>
+</div>
+
+<div class="gene-card">
+<h3>LAS1L — LAS1 like ribosome biogenesis factor</h3>
+<p><b>Summary:</b> Enables RNA binding activity. Predicted to be involved in maturation of 5.8S rRNA and maturation of LSU-rRNA. Located in membrane. Part of MLL1 complex. Implicated in Wilson-Turner syndrome. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> cleavage in ITS2 between 5.8S rRNA and LSU-rRNA of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA); maturation of 5.8S rRNA; maturation of LSU-rRNA; rRNA processing</p>
+<p><b>GO:MF:</b> RNA binding; endonuclease activity; RNA endonuclease activity; protein binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; nucleolus; cytoplasm; membrane; MLL1 complex</p>
+<p><b>Pathways:</b> Major pathway of rRNA processing in the nucleolus and cytosol (reactome); rRNA processing (reactome); rRNA processing in the nucleus and cytosol (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> Las1</p>
+</div>
+
+<div class="gene-card">
+<h3>PUS1 — pseudouridine synthase 1</h3>
+<p><b>Summary:</b> This gene encodes a pseudouridine synthase that converts uridine to pseudouridine once it has been incorporated into an RNA molecule. The encoded enzyme may play an essential role in tRNA function and in stabilizing the secondary and tertiary structure of many RNAs. A mutation in this gene has been linked to mitochondrial myopathy and sideroblastic anemia. Alternate splicing results in multiple transcript variants.[provided by RefSeq, Sep 2009].</p>
+<p><b>GO:BP:</b> pseudouridine synthesis; RNA modification; tRNA pseudouridine synthesis; positive regulation of DNA-templated transcription; mitochondrial tRNA pseudouridine synthesis; mRNA pseudouridine synthesis</p>
+<p><b>GO:MF:</b> tRNA binding; steroid receptor RNA activator RNA binding; chromatin binding; transcription coactivator activity; RNA binding; pseudouridine synthase activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; transcription regulator complex; nucleolus; cytoplasm; mitochondrion</p>
+<p><b>Pathways:</b> tRNA modification in the nucleus and cytosol (reactome); tRNA modification in the mitochondrion (reactome); tRNA processing (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> Pseudouridine synthase I, TruA; Pseudouridine synthase TruA/RsuA/RluB/E/F, N-terminal; Pseudouridine synthase I, TruA, C-terminal; Pseudouridine synthase I, TruA, alpha/beta domain; Pseudouridine synthase, catalytic domain superfamily; Pseudouridine synthase PUS1/ PUS2-like</p>
+</div>
+
+<div class="gene-card">
+<h3>HSPE1 — heat shock protein family E (Hsp10) member 1</h3>
+<p><b>Summary:</b> This gene encodes a major heat shock protein which functions as a chaperonin. Its structure consists of a heptameric ring which binds to another heat shock protein in order to form a symmetric, functional heterodimer which enhances protein folding in an ATP-dependent manner. This gene and its co-chaperonin, HSPD1, are arranged in a head-to-head orientation on chromosome 2. Naturally occurring read-through transcription occurs between this locus and the neighboring locus MOBKL3.[provided by RefSeq, Feb 2011].</p>
+<p><b>GO:BP:</b> osteoblast differentiation; protein folding; response to unfolded protein; intrinsic apoptotic signaling pathway</p>
+<p><b>GO:MF:</b> RNA binding; protein binding; ATP binding; protein folding chaperone; metal ion binding; protein-folding chaperone binding</p>
+<p><b>GO:CC:</b> mitochondrion; mitochondrial matrix; membrane; extracellular exosome</p>
+<p><b>Pathways:</b> Signal Transduction (reactome); Signaling by Rho GTPases (reactome); Cellular responses to stress (reactome); Cellular responses to stimuli (reactome); RHO GTPase cycle (reactome); RHOG GTPase cycle (reactome); Signaling by Rho GTPases, Miro GTPases and RHOBTB3 (reactome); Mitochondrial unfolded protein response (UPRmt) (reactome)</p>
+<p><b>InterPro:</b> GroES-like superfamily; Chaperonin GroES, conserved site; GroES chaperonin family; GroES chaperonin superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>SLC29A2 — solute carrier family 29 member 2</h3>
+<p><b>Summary:</b> The uptake of nucleosides by transporters, such as SLC29A2, is essential for nucleotide synthesis by salvage pathways in cells that lack de novo biosynthetic pathways. Nucleoside transport also plays a key role in the regulation of many physiologic processes through its effect on adenosine concentration at the cell surface (Griffiths et al., 1997 [PubMed 9396714]).[supplied by OMIM, Nov 2008].</p>
+<p><b>GO:BP:</b> neurotransmitter uptake; neurotransmitter transport; xenobiotic transmembrane transport; urate transport; nucleobase transport; adenine transport</p>
+<p><b>GO:MF:</b> neurotransmitter transmembrane transporter activity; nucleoside transmembrane transporter activity; nucleobase transmembrane transporter activity; adenine transmembrane transporter activity; guanine transmembrane transporter activity; uracil transmembrane transporter activity</p>
+<p><b>GO:CC:</b> nucleolus; plasma membrane; membrane; basolateral plasma membrane; apical plasma membrane</p>
+<p><b>Pathways:</b> Alcoholism - Homo sapiens (human) (kegg); Transport of small molecules (reactome); Transport of vitamins, nucleosides, and related molecules (reactome); SLC-mediated transmembrane transport (reactome); Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane (reactome); Drug ADME (reactome); Azathioprine ADME (reactome)</p>
+<p><b>InterPro:</b> Equilibrative nucleoside transporter; Nucleoside transporter ENT1/ENT2; MFS transporter superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>DCTPP1 — dCTP pyrophosphatase 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene is dCTP pyrophosphatase, which converts dCTP to dCMP and inorganic pyrophosphate. The encoded protein also displays weak activity against dTTP and dATP, but none against dGTP. This protein may be responsible for eliminating excess dCTP after DNA synthesis and may prevent overmethylation of CpG islands. Three transcript variants, one protein-coding and the other two non-protein coding, have been found for this gene. [provided by RefSeq, Dec 2015].</p>
+<p><b>GO:BP:</b> dCTP catabolic process; nucleoside triphosphate catabolic process; DNA protection; dTTP catabolic process</p>
+<p><b>GO:MF:</b> magnesium ion binding; protein binding; pyrophosphatase activity; pyrimidine deoxyribonucleotide binding; identical protein binding; nucleoside triphosphate diphosphatase activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; mitochondrion; cytosol</p>
+<p><b>Pathways:</b> Pyrimidine metabolism - Homo sapiens (human) (kegg); Metabolism (reactome); Metabolism of nucleotides (reactome); Interconversion of nucleotide di- and triphosphates (reactome); Pyrimidine metabolism (wikipathways)</p>
+<p><b>InterPro:</b> dCTP pyrophosphatase 1; dCTP Pyrophosphatase</p>
+</div>
+
+<div class="gene-card">
+<h3>SUPV3L1 — Suv3 like RNA helicase</h3>
+<p><b>Summary:</b> Enables helicase activity; nucleic acid binding activity; and protein homodimerization activity. Involved in several processes, including mitochondrial RNA metabolic process; mitochondrion morphogenesis; and positive regulation of mitochondrial RNA catabolic process. Located in mitochondrial nucleoid and nucleus. Part of mitochondrial degradosome. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> mitochondrial RNA catabolic process; mitochondrial mRNA catabolic process; positive regulation of mitochondrial RNA catabolic process; mitochondrial RNA 3'-end processing; DNA recombination; RNA catabolic process</p>
+<p><b>GO:MF:</b> 3'-5'-RNA exonuclease activity; DNA binding; DNA helicase activity; RNA binding; RNA helicase activity; double-stranded RNA binding</p>
+<p><b>GO:CC:</b> nucleus; mitochondrion; mitochondrial matrix; mitochondrial nucleoid; mitochondrial degradosome</p>
+<p><b>Pathways:</b> Metabolism of RNA (reactome); Mitochondrial RNA degradation (reactome)</p>
+<p><b>InterPro:</b> Helicase, C-terminal domain-like; ATP-dependent RNA helicase SUV3, C-terminal domain; P-loop containing nucleoside triphosphate hydrolase; Suv3, C-terminal domain 1; Suv3, N-terminal; Suv3, DEXQ-box helicase domain</p>
+</div>
+
+<div class="gene-card">
+<h3>SORD — sorbitol dehydrogenase</h3>
+<p><b>Summary:</b> Sorbitol dehydrogenase (SORD; EC 1.1.1.14) catalyzes the interconversion of polyols and their corresponding ketoses, and together with aldose reductase (ALDR1; MIM 103880), makes up the sorbitol pathway that is believed to play an important role in the development of diabetic complications (summarized by Carr and Markham, 1995 [PubMed 8535074]). The first reaction of the pathway (also called the polyol pathway) is the reduction of glucose to sorbitol by ALDR1 with NADPH as the cofactor. SORD then oxidizes the sorbitol to fructose using NAD(+) cofactor.[supplied by OMIM, Jul 2010].</p>
+<p><b>GO:BP:</b> glucose metabolic process; D-sorbitol catabolic process; flagellated sperm motility; D-glucuronate catabolic process; fructose biosynthetic process; xylitol catabolic process</p>
+<p><b>GO:MF:</b> (R,R)-butanediol dehydrogenase activity; L-iditol 2-dehydrogenase (NAD+) activity; alcohol dehydrogenase (NAD+) activity; zinc ion binding; oxidoreductase activity; oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor</p>
+<p><b>GO:CC:</b> extracellular region; mitochondrion; cytosol; membrane; motile cilium; mitochondrial membrane</p>
+<p><b>Pathways:</b> Pentose and glucuronate interconversions - Homo sapiens (human) (kegg); Fructose and mannose metabolism - Homo sapiens (human) (kegg); Metabolism (reactome); Fructose metabolism (reactome); Fructose biosynthesis (reactome); Formation of xylulose-5-phosphate (reactome); Metabolism of carbohydrates and carbohydrate derivatives (reactome); Polyol Pathway (wikipathways)</p>
+<p><b>InterPro:</b> Alcohol dehydrogenase, zinc-type, conserved site; GroES-like superfamily; Alcohol dehydrogenase-like, C-terminal; Alcohol dehydrogenase-like, N-terminal; Enoylreductase domain; NAD(P)-binding domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>IMP4 — IMP U3 small nucleolar ribonucleoprotein 4</h3>
+<p><b>Summary:</b> The protein encoded by this gene, along with IMP3 and MPP10, is part of the 60-80S U3 small nucleolar ribonucleoprotein (U3 snoRNP) complex. This complex is necessary for the early cleavage steps of pre-18S ribosomal RNA processing. Several transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Feb 2016].</p>
+<p><b>GO:BP:</b> rRNA processing; maturation of SSU-rRNA; RNA folding; ribosomal small subunit biogenesis</p>
+<p><b>GO:MF:</b> protein binding; rRNA binding; snoRNA binding; rRNA primary transcript binding; RNA folding chaperone</p>
+<p><b>GO:CC:</b> nucleoplasm; nucleolus; preribosome; small-subunit processome; Mpp10 complex</p>
+<p><b>Pathways:</b> Ribosome biogenesis in eukaryotes - Homo sapiens (human) (kegg); rRNA modification in the nucleus and cytosol (reactome); Major pathway of rRNA processing in the nucleolus and cytosol (reactome); rRNA processing (reactome); rRNA processing in the nucleus and cytosol (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> Brix domain; U3 snoRNP protein/Ribosome production factor 1</p>
+</div>
+
+<div class="gene-card">
+<h3>GRWD1 — glutamate rich WD repeat containing 1</h3>
+<p><b>Summary:</b> This gene encodes a glutamate-rich protein that contains five WD-repeat motifs. The encoded protein may play a critical role in ribosome biogenesis and may also play a role in histone methylation through interactions with CUL4-DDB1 ubiquitin E3 ligase. [provided by RefSeq, Feb 2012].</p>
+<p><b>GO:BP:</b> DNA replication; nucleosome assembly; nucleosome disassembly; ribosome biogenesis</p>
+<p><b>GO:MF:</b> chromatin binding; DNA replication origin binding; RNA binding; protein binding; histone binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; chromosome; nucleolus; protein-containing complex</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> WD40 repeat; WD40/YVTN repeat-like-containing domain superfamily; WD40 repeat, conserved site; PAC1/LIS1-like, WD-40 repeat; Histone-binding protein RBBP4-like, N-terminal; WD40-repeat-containing domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>UNG — uracil DNA glycosylase</h3>
+<p><b>Summary:</b> This gene encodes one of several uracil-DNA glycosylases. One important function of uracil-DNA glycosylases is to prevent mutagenesis by eliminating uracil from DNA molecules by cleaving the N-glycosylic bond and initiating the base-excision repair (BER) pathway. Uracil bases occur from cytosine deamination or misincorporation of dUMP residues. Alternative promoter usage and splicing of this gene leads to two different isoforms: the mitochondrial UNG1 and the nuclear UNG2. The UNG2 term was used as a previous symbol for the CCNO gene (GeneID 10309), which has been confused with this gene, in the literature and some databases. [provided by RefSeq, Nov 2010].</p>
+<p><b>GO:BP:</b> single strand break repair; DNA repair; base-excision repair; negative regulation of apoptotic process; depyrimidination; base-excision repair, AP site formation via deaminated base removal</p>
+<p><b>GO:MF:</b> damaged DNA binding; uracil DNA N-glycosylase activity; protein binding; hydrolase activity, hydrolyzing N-glycosyl compounds; ribosomal small subunit binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; mitochondrion</p>
+<p><b>Pathways:</b> Base excision repair - Homo sapiens (human) (kegg); Primary immunodeficiency - Homo sapiens (human) (kegg); Recognition and association of DNA glycosylase with site containing an affected pyrimidine (reactome); Cleavage of the damaged pyrimidine  (reactome); Displacement of DNA glycosylase by APEX1 (reactome); Developmental Biology (reactome); Adaptive Immune System (reactome); Immune System (reactome)</p>
+<p><b>InterPro:</b> Uracil-DNA glycosylase family 1; Uracil-DNA glycosylase-like; Uracil-DNA glycosylase, active site; Uracil-DNA glycosylase-like domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>MPHOSPH10 — M-phase phosphoprotein 10</h3>
+<p><b>Summary:</b> This gene encodes a protein that is phosphorylated during mitosis. The protein localizes to the nucleolus during interphase and to the chromosomes during M phase. The protein associates with the U3 small nucleolar ribonucleoprotein 60-80S complexes and may be involved in pre-rRNA processing. [provided by RefSeq, Dec 2010].</p>
+<p><b>GO:BP:</b> RNA splicing, via transesterification reactions; rRNA processing; RNA processing; RNA splicing; maturation of SSU-rRNA; ribosomal small subunit biogenesis</p>
+<p><b>GO:MF:</b> RNA binding; protein binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; chromosome; nucleolus; sno(s)RNA-containing ribonucleoprotein complex; small-subunit processome</p>
+<p><b>Pathways:</b> Ribosome biogenesis in eukaryotes - Homo sapiens (human) (kegg); rRNA modification in the nucleus and cytosol (reactome); Major pathway of rRNA processing in the nucleolus and cytosol (reactome); rRNA processing (reactome); rRNA processing in the nucleus and cytosol (reactome); Metabolism of RNA (reactome)</p>
+<p><b>InterPro:</b> U3 small nucleolar ribonucleoprotein complex, subunit Mpp10</p>
+</div>
+
+
+<h2>Provenance</h2>
+<ul>
+<li>PANTHER: pantherdb.org, REST (geneinfo + enrich/overrep)</li>
+<li>Enrichr: maayanlab.cloud/Enrichr, GO_Biological_Process_2025</li>
+<li>g:Profiler: biit.cs.ut.ee/gprofiler, GO/KEGG/REAC</li>
+<li>MyGene.info: mygene.info/v3/query</li>
+</ul>
+</body></html>

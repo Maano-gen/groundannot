@@ -1,0 +1,850 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<title>GroundAnnot report</title>
+<style>
+body { font-family: system-ui, sans-serif; max-width: 1100px; margin: 2em auto; }
+h1 { border-bottom: 2px solid #333; }
+h2 { margin-top: 2em; color: #444; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: 0.9em; }
+th, td { border: 1px solid #ccc; padding: 6px 8px; text-align: left; }
+th { background: #f0f0f0; }
+.gene-card { border: 1px solid #ddd; padding: 1em; margin: 1em 0; border-radius: 6px; }
+.gene-card h3 { margin-top: 0; }
+.small { color: #666; font-size: 0.85em; }
+.section-tag { display: inline-block; background: #eee; padding: 2px 8px;
+               border-radius: 4px; font-size: 0.8em; }
+.closed { background: #e8f4ea; }
+.context { background: #f4f0e8; }
+</style></head><body>
+
+<h1>GroundAnnot report — REACTIVE_OXYGEN_SPECIES_PATHWAY</h1>
+<p class="small">Run: 2026-09-25T08:24:42 &nbsp;|&nbsp; Organism: human
+&nbsp;|&nbsp; Input genes: 49</p>
+<p class="small">Genes: GSR, PRDX2, TXNRD1, SOD1, GCLC, CAT, GPX4, MPO, PRDX1, PRDX6, GCLM, TXN, SOD2, PRDX4, SELENOS, PDLIM1, TXNRD2, LAMTOR5, G6PD, MSRA, MBP, SRXN1, NQO1, OXSR1, GLRX2, HMOX2, FES, PFKP, NDUFB4, GPX3, SCAF4, CDKN2D, MGST1, ABCC1, FTL, ATOX1, STK25, EGLN2, ERCC2, SBNO2, JUNB, PTPA, LSP1, NDUFA6, HHEX, GLRX, NDUFS2, PRNP, IPCEF1</p>
+
+<h2><span class="section-tag closed">Closed vocabulary</span> Enrichment</h2>
+<p>The language model may cite term IDs only from the tables below.</p>
+
+
+<h3>PANTHER</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0006979</td><td>response to oxidative stress</td>
+<td>2.70e-39</td>
+<td>3.71e-35</td></tr>
+
+<tr><td>GO:0098869</td><td>cellular oxidant detoxification</td>
+<td>7.50e-34</td>
+<td>5.16e-30</td></tr>
+
+<tr><td>GO:1990748</td><td>cellular detoxification</td>
+<td>2.35e-30</td>
+<td>1.08e-26</td></tr>
+
+<tr><td>GO:0097237</td><td>cellular response to toxic substance</td>
+<td>1.57e-29</td>
+<td>5.40e-26</td></tr>
+
+<tr><td>GO:0098754</td><td>detoxification</td>
+<td>9.51e-28</td>
+<td>2.62e-24</td></tr>
+
+<tr><td>GO:0009636</td><td>response to toxic substance</td>
+<td>6.97e-26</td>
+<td>1.60e-22</td></tr>
+
+<tr><td>GO:0070887</td><td>cellular response to chemical stimulus</td>
+<td>1.13e-20</td>
+<td>2.23e-17</td></tr>
+
+<tr><td>GO:0042743</td><td>hydrogen peroxide metabolic process</td>
+<td>4.25e-20</td>
+<td>7.31e-17</td></tr>
+
+<tr><td>GO:0034599</td><td>cellular response to oxidative stress</td>
+<td>5.58e-20</td>
+<td>8.53e-17</td></tr>
+
+<tr><td>GO:0062197</td><td>cellular response to chemical stress</td>
+<td>7.23e-20</td>
+<td>9.95e-17</td></tr>
+
+<tr><td>GO:0045454</td><td>cell redox homeostasis</td>
+<td>1.26e-18</td>
+<td>1.57e-15</td></tr>
+
+<tr><td>GO:0006950</td><td>response to stress</td>
+<td>2.80e-17</td>
+<td>3.21e-14</td></tr>
+
+<tr><td>GO:0072593</td><td>reactive oxygen species metabolic process</td>
+<td>5.51e-17</td>
+<td>5.84e-14</td></tr>
+
+<tr><td>GO:0042744</td><td>hydrogen peroxide catabolic process</td>
+<td>3.15e-15</td>
+<td>3.10e-12</td></tr>
+
+<tr><td>GO:0042221</td><td>response to chemical</td>
+<td>7.09e-15</td>
+<td>6.51e-12</td></tr>
+
+<tr><td>GO:0019725</td><td>cellular homeostasis</td>
+<td>1.99e-13</td>
+<td>1.71e-10</td></tr>
+
+<tr><td>GO:1901700</td><td>response to oxygen-containing compound</td>
+<td>1.06e-12</td>
+<td>8.60e-10</td></tr>
+
+<tr><td>GO:0050896</td><td>response to stimulus</td>
+<td>3.28e-12</td>
+<td>2.50e-09</td></tr>
+
+<tr><td>GO:0000305</td><td>response to oxygen radical</td>
+<td>3.95e-12</td>
+<td>2.86e-09</td></tr>
+
+<tr><td>GO:0033554</td><td>cellular response to stress</td>
+<td>4.43e-12</td>
+<td>3.05e-09</td></tr>
+
+<tr><td>GO:0000302</td><td>response to reactive oxygen species</td>
+<td>1.45e-10</td>
+<td>9.49e-08</td></tr>
+
+<tr><td>GO:0051716</td><td>cellular response to stimulus</td>
+<td>1.73e-10</td>
+<td>1.08e-07</td></tr>
+
+<tr><td>GO:0019430</td><td>removal of superoxide radicals</td>
+<td>1.84e-10</td>
+<td>1.10e-07</td></tr>
+
+<tr><td>GO:0071451</td><td>cellular response to superoxide</td>
+<td>2.75e-10</td>
+<td>1.58e-07</td></tr>
+
+<tr><td>GO:0071450</td><td>cellular response to oxygen radical</td>
+<td>2.75e-10</td>
+<td>1.51e-07</td></tr>
+
+</table>
+
+<h3>Enrichr</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0042743</td><td>Hydrogen Peroxide Metabolic Process</td>
+<td>5.69e-11</td>
+<td>1.64e-08</td></tr>
+
+<tr><td>GO:0019430</td><td>Removal of Superoxide Radicals</td>
+<td>9.07e-11</td>
+<td>1.64e-08</td></tr>
+
+<tr><td>GO:0062197</td><td>Cellular Response to Chemical Stress</td>
+<td>1.12e-10</td>
+<td>1.64e-08</td></tr>
+
+<tr><td>GO:0071451</td><td>Cellular Response to Superoxide</td>
+<td>1.41e-10</td>
+<td>1.64e-08</td></tr>
+
+<tr><td>GO:0034599</td><td>Cellular Response to Oxidative Stress</td>
+<td>5.20e-10</td>
+<td>4.84e-08</td></tr>
+
+<tr><td>GO:0042744</td><td>Hydrogen Peroxide Catabolic Process</td>
+<td>1.08e-09</td>
+<td>8.36e-08</td></tr>
+
+<tr><td>GO:0006801</td><td>Superoxide Metabolic Process</td>
+<td>2.94e-08</td>
+<td>1.95e-06</td></tr>
+
+<tr><td>GO:0006749</td><td>Glutathione Metabolic Process</td>
+<td>3.38e-08</td>
+<td>1.96e-06</td></tr>
+
+<tr><td>GO:0006120</td><td>Mitochondrial Electron Transport, NADH to Ubiquinone</td>
+<td>7.84e-05</td>
+<td>4.05e-03</td></tr>
+
+<tr><td>GO:0006750</td><td>Glutathione Biosynthetic Process</td>
+<td>8.76e-05</td>
+<td>4.08e-03</td></tr>
+
+<tr><td>GO:0019184</td><td>Nonribosomal Peptide Biosynthetic Process</td>
+<td>1.23e-04</td>
+<td>5.18e-03</td></tr>
+
+<tr><td>GO:0110076</td><td>Negative Regulation of Ferroptosis</td>
+<td>1.63e-04</td>
+<td>5.83e-03</td></tr>
+
+<tr><td>GO:0033280</td><td>Response to Vitamin D</td>
+<td>1.63e-04</td>
+<td>5.83e-03</td></tr>
+
+<tr><td>GO:0008015</td><td>Blood Circulation</td>
+<td>2.21e-04</td>
+<td>7.35e-03</td></tr>
+
+<tr><td>GO:0043523</td><td>Regulation of Neuron Apoptotic Process</td>
+<td>2.80e-04</td>
+<td>8.16e-03</td></tr>
+
+<tr><td>GO:0042776</td><td>Proton Motive Force-Driven Mitochondrial ATP Synthesis</td>
+<td>2.81e-04</td>
+<td>8.16e-03</td></tr>
+
+<tr><td>GO:0110075</td><td>Regulation of Ferroptosis</td>
+<td>3.19e-04</td>
+<td>8.43e-03</td></tr>
+
+<tr><td>GO:0043069</td><td>Negative Regulation of Programmed Cell Death</td>
+<td>3.26e-04</td>
+<td>8.43e-03</td></tr>
+
+<tr><td>GO:0003018</td><td>Vascular Process in Circulatory System</td>
+<td>3.82e-04</td>
+<td>8.67e-03</td></tr>
+
+<tr><td>GO:0035296</td><td>Regulation of Tube Diameter</td>
+<td>3.82e-04</td>
+<td>8.67e-03</td></tr>
+
+<tr><td>GO:0015986</td><td>Proton Motive Force-Driven ATP Synthesis</td>
+<td>4.08e-04</td>
+<td>8.67e-03</td></tr>
+
+<tr><td>GO:2001243</td><td>Negative Regulation of Intrinsic Apoptotic Signaling Pathway</td>
+<td>4.29e-04</td>
+<td>8.67e-03</td></tr>
+
+<tr><td>GO:0006119</td><td>Oxidative Phosphorylation</td>
+<td>4.29e-04</td>
+<td>8.67e-03</td></tr>
+
+<tr><td>GO:0042398</td><td>Modified Amino Acid Biosynthetic Process</td>
+<td>4.51e-04</td>
+<td>8.73e-03</td></tr>
+
+<tr><td>GO:0019646</td><td>Aerobic Electron Transport Chain</td>
+<td>5.18e-04</td>
+<td>9.64e-03</td></tr>
+
+</table>
+
+<h3>g:Profiler</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0006979</td><td>response to oxidative stress</td>
+<td>5.73e-39</td>
+<td>5.73e-39</td></tr>
+
+<tr><td>GO:0016209</td><td>antioxidant activity</td>
+<td>1.03e-28</td>
+<td>1.03e-28</td></tr>
+
+<tr><td>GO:0016491</td><td>oxidoreductase activity</td>
+<td>1.98e-21</td>
+<td>1.98e-21</td></tr>
+
+<tr><td>GO:0045454</td><td>cell redox homeostasis</td>
+<td>4.50e-21</td>
+<td>4.50e-21</td></tr>
+
+<tr><td>REAC:R-HSA-9711123</td><td>Cellular response to chemical stress</td>
+<td>3.04e-19</td>
+<td>3.04e-19</td></tr>
+
+<tr><td>REAC:R-HSA-3299685</td><td>Detoxification of Reactive Oxygen Species</td>
+<td>2.29e-17</td>
+<td>2.29e-17</td></tr>
+
+<tr><td>GO:0004601</td><td>peroxidase activity</td>
+<td>5.10e-16</td>
+<td>5.10e-16</td></tr>
+
+<tr><td>GO:0016684</td><td>oxidoreductase activity, acting on peroxide as acceptor</td>
+<td>1.02e-15</td>
+<td>1.02e-15</td></tr>
+
+<tr><td>GO:0062197</td><td>cellular response to chemical stress</td>
+<td>3.05e-15</td>
+<td>3.05e-15</td></tr>
+
+<tr><td>GO:0034599</td><td>cellular response to oxidative stress</td>
+<td>3.74e-15</td>
+<td>3.74e-15</td></tr>
+
+<tr><td>GO:0006950</td><td>response to stress</td>
+<td>1.26e-12</td>
+<td>1.26e-12</td></tr>
+
+<tr><td>GO:0019725</td><td>cellular homeostasis</td>
+<td>2.10e-12</td>
+<td>2.10e-12</td></tr>
+
+<tr><td>REAC:R-HSA-2262752</td><td>Cellular responses to stress</td>
+<td>2.28e-12</td>
+<td>2.28e-12</td></tr>
+
+<tr><td>REAC:R-HSA-8953897</td><td>Cellular responses to stimuli</td>
+<td>3.24e-12</td>
+<td>3.24e-12</td></tr>
+
+<tr><td>GO:0098869</td><td>cellular oxidant detoxification</td>
+<td>5.09e-12</td>
+<td>5.09e-12</td></tr>
+
+<tr><td>REAC:R-HSA-9818027</td><td>NFE2L2 regulating anti-oxidant/detoxification enzymes</td>
+<td>3.54e-11</td>
+<td>3.54e-11</td></tr>
+
+<tr><td>GO:0016667</td><td>oxidoreductase activity, acting on a sulfur group of donors</td>
+<td>8.94e-10</td>
+<td>8.94e-10</td></tr>
+
+<tr><td>GO:0042743</td><td>hydrogen peroxide metabolic process</td>
+<td>9.62e-10</td>
+<td>9.62e-10</td></tr>
+
+<tr><td>GO:1990748</td><td>cellular detoxification</td>
+<td>4.89e-09</td>
+<td>4.89e-09</td></tr>
+
+<tr><td>REAC:R-HSA-9759194</td><td>Nuclear events mediated by NFE2L2</td>
+<td>8.35e-09</td>
+<td>8.35e-09</td></tr>
+
+<tr><td>KEGG:00480</td><td>Glutathione metabolism</td>
+<td>8.93e-09</td>
+<td>8.93e-09</td></tr>
+
+<tr><td>GO:0097237</td><td>cellular response to toxic substance</td>
+<td>1.06e-08</td>
+<td>1.06e-08</td></tr>
+
+<tr><td>GO:0042221</td><td>response to chemical</td>
+<td>1.76e-08</td>
+<td>1.76e-08</td></tr>
+
+<tr><td>GO:0042592</td><td>homeostatic process</td>
+<td>2.24e-08</td>
+<td>2.24e-08</td></tr>
+
+<tr><td>GO:0000305</td><td>response to oxygen radical</td>
+<td>3.90e-08</td>
+<td>3.90e-08</td></tr>
+
+</table>
+
+
+<h2><span class="section-tag context">Context only</span> Per-gene annotations</h2>
+<p>The language model may read these for narrative but must not cite them as enrichment evidence.</p>
+
+
+<div class="gene-card">
+<h3>GSR — glutathione-disulfide reductase</h3>
+<p><b>Summary:</b> This gene encodes a member of the class-I pyridine nucleotide-disulfide oxidoreductase family. This enzyme is a homodimeric flavoprotein. It is a central enzyme of cellular antioxidant defense, and reduces oxidized glutathione disulfide (GSSG) to the sulfhydryl form GSH, which is an important cellular antioxidant. Rare mutations in this gene result in hereditary glutathione reductase deficiency. Multiple alternatively spliced transcript variants encoding different isoforms have been found. [provided by RefSeq, Aug 2010].</p>
+<p><b>GO:BP:</b> glutathione metabolic process; cellular response to oxidative stress; cell redox homeostasis; cellular oxidant detoxification</p>
+<p><b>GO:MF:</b> glutathione-disulfide reductase (NADPH) activity; electron transfer activity; oxidoreductase activity; oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor; flavin adenine dinucleotide binding; NADP binding</p>
+<p><b>GO:CC:</b> cytoplasm; mitochondrion; mitochondrial matrix; cytosol; external side of plasma membrane; extracellular exosome</p>
+<p><b>Pathways:</b> Glutathione metabolism - Homo sapiens (human) (kegg); Thyroid hormone synthesis - Homo sapiens (human) (kegg); Diabetic cardiomyopathy - Homo sapiens (human) (kegg); Metabolism (reactome); Metabolism of nucleotides (reactome); Generic Transcription Pathway (reactome); Cellular responses to stress (reactome); Selenoamino acid metabolism (reactome)</p>
+<p><b>InterPro:</b> Pyridine nucleotide-disulphide oxidoreductase, class I; Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain; Glutathione reductase, eukaryote/bacterial; Pyridine nucleotide-disulphide oxidoreductase, class I, active site; FAD/NAD-linked reductase, dimerisation domain superfamily; FAD/NAD(P)-binding domain</p>
+</div>
+
+<div class="gene-card">
+<h3>PRDX2 — peroxiredoxin 2</h3>
+<p><b>Summary:</b> This gene encodes a member of the peroxiredoxin family of antioxidant enzymes, which reduce hydrogen peroxide and alkyl hydroperoxides. The encoded protein plays an antioxidant protective role in cells, and it may contribute to the antiviral activity of CD8(+) T-cells. The crystal structure of this protein has been resolved to 2.7 angstroms. This protein prevents hemolytic anemia from oxidative stress by stabilizing hemoglobin, thus making this gene a therapeutic target for patients with hemolytic anemia. This protein may have a proliferative effect and play a role in cancer development or progression. Related pseudogenes have been identified on chromosomes 5, 6, 10 and 13. [provided by RefSeq, Mar 2013].</p>
+<p><b>GO:BP:</b> defense response to tumor cell; response to oxidative stress; removal of superoxide radicals; positive regulation of blood coagulation; cellular response to oxidative stress; hydrogen peroxide catabolic process</p>
+<p><b>GO:MF:</b> peroxidase activity; protein binding; thioredoxin peroxidase activity; antioxidant activity; oxidoreductase activity; peroxiredoxin activity</p>
+<p><b>GO:CC:</b> cytoplasm; cytosol; extracellular exosome</p>
+<p><b>Pathways:</b> Disease (reactome); Generic Transcription Pathway (reactome); Cellular responses to stress (reactome); Detoxification of Reactive Oxygen Species (reactome); Transcriptional Regulation by TP53 (reactome); TP53 Regulates Metabolic Genes (reactome); RNA Polymerase II Transcription (reactome); Gene expression (Transcription) (reactome)</p>
+<p><b>InterPro:</b> Alkyl hydroperoxide reductase subunit C/ Thiol specific antioxidant; Thioredoxin domain; Peroxiredoxin, C-terminal; Peroxiredoxin, AhpC-type; Thioredoxin-like superfamily; Thiol-specific antioxidant peroxiredoxin</p>
+</div>
+
+<div class="gene-card">
+<h3>TXNRD1 — thioredoxin reductase 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene belongs to the pyridine nucleotide-disulfide oxidoreductase family, and is a member of the thioredoxin (Trx) system. Three thioredoxin reductase (TrxR) isozymes are found in mammals. TrxRs are selenocysteine-containing flavoenzymes, which reduce thioredoxins, as well as other substrates, and play a key role in redox homoeostasis. This gene encodes an ubiquitously expressed, cytosolic form of TrxR, which functions as a homodimer containing FAD, and selenocysteine (Sec) at the active site. Sec is encoded by UGA codon that normally signals translation termination. The 3' UTRs of selenoprotein mRNAs contain a conserved stem-loop structure, the Sec insertion sequence (SECIS) element, which is necessary for the recognition of UGA as a Sec codon rather than as a stop signal. Alternative splicing, primarily at the 5' end, results in transcript variants encoding same or different isoforms, including a glutaredoxin-containing isoform that is predominantly expressed in testis. [provided by RefSeq, May 2017].</p>
+<p><b>GO:BP:</b> selenium compound metabolic process; signal transduction; cell redox homeostasis; cellular oxidant detoxification</p>
+<p><b>GO:MF:</b> thioredoxin-disulfide reductase (NADPH) activity; protein binding; oxidoreductase activity; oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor; identical protein binding; NADPH peroxidase activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm; mitochondrion; cytosol; extracellular exosome</p>
+<p><b>Pathways:</b> Selenocompound metabolism - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Hepatocellular carcinoma - Homo sapiens (human) (kegg); Metabolism (reactome); Metabolism of nucleotides (reactome); Disease (reactome); PPARA activates gene expression (reactome); Generic Transcription Pathway (reactome)</p>
+<p><b>InterPro:</b> Glutaredoxin; Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain; Thioredoxin/glutathione reductase selenoprotein; Pyridine nucleotide-disulphide oxidoreductase, class I, active site; FAD/NAD-linked reductase, dimerisation domain superfamily; FAD/NAD(P)-binding domain</p>
+</div>
+
+<div class="gene-card">
+<h3>SOD1 — superoxide dismutase 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene binds copper and zinc ions and is one of two isozymes responsible for destroying free superoxide radicals in the body. The encoded isozyme is a soluble cytoplasmic protein, acting as a homodimer to convert naturally-occuring but harmful superoxide radicals to molecular oxygen and hydrogen peroxide. The other isozyme is a mitochondrial protein. In addition, this protein contains an antimicrobial peptide that displays antibacterial, antifungal, and anti-MRSA activity against E. coli, E. faecalis, S. aureus, S. aureus MRSA LPV+, S. agalactiae, and yeast C. krusei. Mutations in this gene have been implicated as causes of familial amyotrophic lateral sclerosis. Rare transcript variants have been reported for this gene. [provided by RefSeq, Jul 2020].</p>
+<p><b>GO:BP:</b> response to superoxide; ovarian follicle development; positive regulation of cytokine production; placenta development; retina homeostasis; response to amphetamine</p>
+<p><b>GO:MF:</b> superoxide dismutase activity; copper ion binding; protein binding; zinc ion binding; enzyme binding; protein phosphatase 2B binding</p>
+<p><b>GO:CC:</b> extracellular region; nucleus; nucleoplasm; cytoplasm; mitochondrion; mitochondrial intermembrane space</p>
+<p><b>Pathways:</b> Peroxisome - Homo sapiens (human) (kegg); Longevity regulating pathway - multiple species - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Huntington disease - Homo sapiens (human) (kegg); Prion disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Hemostasis (reactome); Platelet degranulation  (reactome)</p>
+<p><b>InterPro:</b> Superoxide dismutase, copper/zinc binding domain; Superoxide dismutase, copper/zinc, binding site; Superoxide dismutase (Cu/Zn) / superoxide dismutase copper chaperone; Superoxide dismutase-like, copper/zinc binding domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>GCLC — glutamate-cysteine ligase catalytic subunit</h3>
+<p><b>Summary:</b> Glutamate-cysteine ligase, also known as gamma-glutamylcysteine synthetase is the first rate-limiting enzyme of glutathione synthesis. The enzyme consists of two subunits, a heavy catalytic subunit and a light regulatory subunit. This locus encodes the catalytic subunit, while the regulatory subunit is derived from a different gene located on chromosome 1p22-p21. Mutations at this locus have been associated with hemolytic anemia due to deficiency of gamma-glutamylcysteine synthetase and susceptibility to myocardial infarction.[provided by RefSeq, Oct 2010].</p>
+<p><b>GO:BP:</b> glutamate metabolic process; glutathione biosynthetic process; response to oxidative stress; response to nutrient; response to heat; response to hormone</p>
+<p><b>GO:MF:</b> magnesium ion binding; catalytic activity; glutamate-cysteine ligase activity; protein binding; glutamate binding; ADP binding</p>
+<p><b>GO:CC:</b> cytosol; glutamate-cysteine ligase complex</p>
+<p><b>Pathways:</b> Cysteine and methionine metabolism - Homo sapiens (human) (kegg); Glutathione metabolism - Homo sapiens (human) (kegg); Ferroptosis - Homo sapiens (human) (kegg); Metabolism (reactome); Phase II - Conjugation of compounds (reactome); Glutathione conjugation (reactome); Disease (reactome); Glutathione synthesis and recycling (reactome)</p>
+<p><b>InterPro:</b> Glutamate-cysteine ligase catalytic subunit; Glutamine synthetase/guanido kinase, catalytic domain</p>
+</div>
+
+<div class="gene-card">
+<h3>CAT — catalase</h3>
+<p><b>Summary:</b> This gene encodes catalase, a key antioxidant enzyme in the bodies defense against oxidative stress. Catalase is a heme enzyme that is present in the peroxisome of nearly all aerobic cells. Catalase converts the reactive oxygen species hydrogen peroxide to water and oxygen and thereby mitigates the toxic effects of hydrogen peroxide. Oxidative stress is hypothesized to play a role in the development of many chronic or late-onset diseases such as diabetes, asthma, Alzheimer's disease, systemic lupus erythematosus, rheumatoid arthritis, and cancers. Polymorphisms in this gene have been associated with decreases in catalase activity but, to date, acatalasemia is the only disease known to be caused by this gene. [provided by RefSeq, Oct 2009].</p>
+<p><b>GO:BP:</b> response to reactive oxygen species; osteoblast differentiation; ureteric bud development; response to hypoxia; kidney development; response to oxidative stress</p>
+<p><b>GO:MF:</b> aminoacylase activity; catalase activity; antioxidant activity; oxidoreductase activity, acting on peroxide as acceptor; enzyme binding; heme binding</p>
+<p><b>GO:CC:</b> extracellular region; cytoplasm; mitochondrion; peroxisome; peroxisomal membrane; peroxisomal matrix</p>
+<p><b>Pathways:</b> Tryptophan metabolism - Homo sapiens (human) (kegg); Glyoxylate and dicarboxylate metabolism - Homo sapiens (human) (kegg); FoxO signaling pathway - Homo sapiens (human) (kegg); Peroxisome - Homo sapiens (human) (kegg); Longevity regulating pathway - Homo sapiens (human) (kegg); Longevity regulating pathway - multiple species - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Catalase haem-binding site; Catalase immune-responsive domain; Catalase core domain; Catalase, mono-functional, haem-containing; Catalase superfamily; Catalase active site</p>
+</div>
+
+<div class="gene-card">
+<h3>GPX4 — glutathione peroxidase 4</h3>
+<p><b>Summary:</b> The protein encoded by this gene belongs to the glutathione peroxidase family, members of which catalyze the reduction of hydrogen peroxide, organic hydroperoxides and lipid hydroperoxides, and thereby protect cells against oxidative damage. Several isozymes of this gene family exist in vertebrates, which vary in cellular location and substrate specificity. This isozyme has a high preference for lipid hydroperoxides and protects cells against membrane lipid peroxidation and cell death. It is also required for normal sperm development; thus, it has been identified as a 'moonlighting' protein because of its ability to serve dual functions as a peroxidase, as well as a structural protein in mature spermatozoa. Mutations in this gene are associated with Sedaghatian type of spondylometaphyseal dysplasia (SMDS). This isozyme is also a selenoprotein, containing the rare amino acid selenocysteine (Sec) at its active site. Sec is encoded by the UGA codon, which normally signals translation termination. The 3' UTRs of selenoprotein mRNAs contain a conserved stem-loop structure, designated the Sec insertion sequence (SECIS) element, that is necessary for the recognition of UGA as a Sec codon, rather than as a stop signal. Transcript variants resulting from alternative splicing or use of alternate promoters have been described to encode isoforms with different subcellular localization. [provided by RefSeq, Dec 2018].</p>
+<p><b>GO:BP:</b> phospholipid metabolic process; response to oxidative stress; spermatogenesis; arachidonate metabolic process; lipoxygenase pathway; response to estradiol</p>
+<p><b>GO:MF:</b> peroxidase activity; glutathione peroxidase activity; protein binding; selenium binding; identical protein binding; phospholipid-hydroperoxide glutathione peroxidase activity</p>
+<p><b>GO:CC:</b> nucleus; nuclear envelope; cytoplasm; mitochondrion; cytosol; protein-containing complex</p>
+<p><b>Pathways:</b> Glutathione metabolism - Homo sapiens (human) (kegg); Ferroptosis - Homo sapiens (human) (kegg); Metabolism (reactome); Synthesis of 5-eicosatetraenoic acids (reactome); Synthesis of 12-eicosatetraenoic acid derivatives (reactome); Arachidonate metabolism (reactome); Synthesis of 15-eicosatetraenoic acid derivatives (reactome); Metabolism of lipids (reactome)</p>
+<p><b>InterPro:</b> Glutathione peroxidase; Glutathione peroxidase active site; Glutathione peroxidase conserved site; Thioredoxin-like superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>MPO — myeloperoxidase</h3>
+<p><b>Summary:</b> Myeloperoxidase (MPO) is a heme protein synthesized during myeloid differentiation that constitutes the major component of neutrophil azurophilic granules. Produced as a single chain precursor, myeloperoxidase is subsequently cleaved into a light and heavy chain. The mature myeloperoxidase is a tetramer composed of 2 light chains and 2 heavy chains. This enzyme produces hypohalous acids central to the microbicidal activity of neutrophils. [provided by RefSeq, Nov 2014].</p>
+<p><b>GO:BP:</b> immune effector process; nucleosome disassembly; defense response; response to oxidative stress; response to mechanical stimulus; thiocyanate metabolic process</p>
+<p><b>GO:MF:</b> chromatin binding; peroxidase activity; protein binding; heparin binding; heme binding; nucleosome binding</p>
+<p><b>GO:CC:</b> extracellular region; nucleus; chromosome; lysosome; secretory granule; azurophil granule lumen</p>
+<p><b>Pathways:</b> Drug metabolism - other enzymes - Homo sapiens (human) (kegg); Phagosome - Homo sapiens (human) (kegg); Neutrophil extracellular trap formation - Homo sapiens (human) (kegg); Transcriptional misregulation in cancer - Homo sapiens (human) (kegg); Acute myeloid leukemia - Homo sapiens (human) (kegg); ROS and RNS production in phagocytes (reactome); Innate Immune System (reactome); Immune System (reactome)</p>
+<p><b>InterPro:</b> Haem peroxidase superfamily; Haem peroxidase, animal-type; Haem peroxidase domain superfamily, animal type</p>
+</div>
+
+<div class="gene-card">
+<h3>PRDX1 — peroxiredoxin 1</h3>
+<p><b>Summary:</b> This gene encodes a member of the peroxiredoxin family of antioxidant enzymes, which reduce hydrogen peroxide and alkyl hydroperoxides. The encoded protein may play an antioxidant protective role in cells, and may contribute to the antiviral activity of CD8(+) T-cells. This protein may have a proliferative effect and play a role in cancer development or progression. Four transcript variants encoding the same protein have been identified for this gene. [provided by RefSeq, Jan 2011].</p>
+<p><b>GO:BP:</b> skeletal system development; response to oxidative stress; cell population proliferation; removal of superoxide radicals; natural killer cell activation; hydrogen peroxide catabolic process</p>
+<p><b>GO:MF:</b> RNA binding; peroxidase activity; protein binding; thioredoxin peroxidase activity; antioxidant activity; oxidoreductase activity</p>
+<p><b>GO:CC:</b> extracellular region; nucleus; cytoplasm; cytosol; melanosome; extracellular exosome</p>
+<p><b>Pathways:</b> Peroxisome - Homo sapiens (human) (kegg); Amoebiasis - Homo sapiens (human) (kegg); Disease (reactome); Generic Transcription Pathway (reactome); Binding and Uptake of Ligands by Scavenger Receptors (reactome); Cellular responses to stress (reactome); Scavenging by Class B Receptors (reactome); Detoxification of Reactive Oxygen Species (reactome)</p>
+<p><b>InterPro:</b> Alkyl hydroperoxide reductase subunit C/ Thiol specific antioxidant; Thioredoxin domain; Peroxiredoxin, C-terminal; Peroxiredoxin, AhpC-type; Thioredoxin-like superfamily; Thiol-specific antioxidant peroxiredoxin</p>
+</div>
+
+<div class="gene-card">
+<h3>PRDX6 — peroxiredoxin 6</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the thiol-specific antioxidant protein family. This protein is a bifunctional enzyme with two distinct active sites. It is involved in redox regulation of the cell; it can reduce H(2)O(2) and short chain organic, fatty acid, and phospholipid hydroperoxides. It may play a role in the regulation of phospholipid turnover as well as in protection against oxidative injury. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> response to oxidative stress; hydrogen peroxide catabolic process; cell redox homeostasis; glycerophospholipid catabolic process; positive regulation of mRNA splicing, via spliceosome; cellular oxidant detoxification</p>
+<p><b>GO:MF:</b> peroxidase activity; glutathione peroxidase activity; A2-type glycerophospholipase activity; protein binding; antioxidant activity; oxidoreductase activity</p>
+<p><b>GO:CC:</b> extracellular region; nucleus; cytoplasm; lysosome; cytosol; membrane</p>
+<p><b>Pathways:</b> Glutathione metabolism - Homo sapiens (human) (kegg); Innate Immune System (reactome); Immune System (reactome); Cellular responses to stress (reactome); Detoxification of Reactive Oxygen Species (reactome); Neutrophil degranulation (reactome); Cellular responses to stimuli (reactome); Cellular response to chemical stress (reactome)</p>
+<p><b>InterPro:</b> Alkyl hydroperoxide reductase subunit C/ Thiol specific antioxidant; Thioredoxin domain; Peroxiredoxin, C-terminal; Peroxiredoxin, AhpC-type; Thioredoxin-like superfamily; 1-Cys peroxiredoxin</p>
+</div>
+
+<div class="gene-card">
+<h3>GCLM — glutamate-cysteine ligase modifier subunit</h3>
+<p><b>Summary:</b> Glutamate-cysteine ligase, also known as gamma-glutamylcysteine synthetase, is the first rate limiting enzyme of glutathione synthesis. The enzyme consists of two subunits, a heavy catalytic subunit and a light regulatory subunit. Gamma glutamylcysteine synthetase deficiency has been implicated in some forms of hemolytic anemia. Alternative splicing results in multiple transcript variants encoding different isoforms. [provided by RefSeq, Apr 2015].</p>
+<p><b>GO:BP:</b> glutamate metabolic process; glutathione biosynthetic process; response to oxidative stress; response to nutrient; response to xenobiotic stimulus; response to activity</p>
+<p><b>GO:MF:</b> glutamate-cysteine ligase activity; protein binding; glutamate-cysteine ligase catalytic subunit binding; protein heterodimerization activity; glutamate-cysteine ligase regulator activity</p>
+<p><b>GO:CC:</b> cytosol; glutamate-cysteine ligase complex</p>
+<p><b>Pathways:</b> Cysteine and methionine metabolism - Homo sapiens (human) (kegg); Glutathione metabolism - Homo sapiens (human) (kegg); Ferroptosis - Homo sapiens (human) (kegg); Metabolism (reactome); Phase II - Conjugation of compounds (reactome); Glutathione conjugation (reactome); Disease (reactome); Glutathione synthesis and recycling (reactome)</p>
+<p><b>InterPro:</b> NADP-dependent oxidoreductase domain; Glutamate--cysteine ligase regulatory subunit; NAD(P)-dependent oxidoreductase domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>TXN — thioredoxin</h3>
+<p><b>Summary:</b> The protein encoded by this gene acts as a homodimer and is involved in many redox reactions. The encoded protein is active in the reversible S-nitrosylation of cysteines in certain proteins, which is part of the response to intracellular nitric oxide. This protein is found in the cytoplasm. Two transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Oct 2011].</p>
+<p><b>GO:BP:</b> response to radiation; cellular homeostasis; positive regulation of DNA binding; cell redox homeostasis; positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction; cellular detoxification of hydrogen peroxide</p>
+<p><b>GO:MF:</b> RNA binding; thioredoxin-disulfide reductase (NADPH) activity; protein binding; protein-disulfide reductase activity; protein homodimerization activity; protein-disulfide reductase [NAD(P)H] activity</p>
+<p><b>GO:CC:</b> extracellular region; nucleus; nucleoplasm; cytoplasm; cytosol; extracellular exosome</p>
+<p><b>Pathways:</b> NOD-like receptor signaling pathway - Homo sapiens (human) (kegg); Parkinson disease - Homo sapiens (human) (kegg); Salmonella infection - Homo sapiens (human) (kegg); Fluid shear stress and atherosclerosis - Homo sapiens (human) (kegg); Metabolism (reactome); Metabolism of nucleotides (reactome); Disease (reactome); Innate Immune System (reactome)</p>
+<p><b>InterPro:</b> Thioredoxin; Thioredoxin domain; Thioredoxin, conserved site; Thioredoxin-like superfamily; Thioredoxin H-type-like</p>
+</div>
+
+<div class="gene-card">
+<h3>SOD2 — superoxide dismutase 2</h3>
+<p><b>Summary:</b> This gene is a member of the iron/manganese superoxide dismutase family. It encodes a mitochondrial protein that forms a homotetramer and binds one manganese ion per subunit. This protein binds to the superoxide byproducts of oxidative phosphorylation and converts them to hydrogen peroxide and diatomic oxygen. Mutations in this gene have been associated with idiopathic cardiomyopathy (IDC), premature aging, sporadic motor neuron disease, and cancer. Alternative splicing of this gene results in multiple transcript variants. A related pseudogene has been identified on chromosome 1. [provided by RefSeq, Apr 2016].</p>
+<p><b>GO:BP:</b> response to superoxide; response to hypoxia; release of cytochrome c from mitochondria; acetylcholine-mediated vasodilation involved in regulation of systemic arterial blood pressure; regulation of transcription by RNA polymerase II; superoxide metabolic process</p>
+<p><b>GO:MF:</b> DNA binding; superoxide dismutase activity; protein binding; oxidoreductase activity; oxygen binding; enzyme binding</p>
+<p><b>GO:CC:</b> cytoplasm; mitochondrion; mitochondrial matrix; mitochondrial nucleoid; extracellular exosome</p>
+<p><b>Pathways:</b> FoxO signaling pathway - Homo sapiens (human) (kegg); Peroxisome - Homo sapiens (human) (kegg); Longevity regulating pathway - Homo sapiens (human) (kegg); Longevity regulating pathway - multiple species - Homo sapiens (human) (kegg); Huntington disease - Homo sapiens (human) (kegg); Lipid and atherosclerosis - Homo sapiens (human) (kegg); Cytokine Signaling in Immune system (reactome); Mitochondrial biogenesis (reactome)</p>
+<p><b>InterPro:</b> Manganese/iron superoxide dismutase; Manganese/iron superoxide dismutase, N-terminal; Manganese/iron superoxide dismutase, C-terminal; Manganese/iron superoxide dismutase, binding site; Manganese/iron superoxide dismutase, C-terminal domain superfamily; Manganese/iron superoxide dismutase, N-terminal domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>PRDX4 — peroxiredoxin 4</h3>
+<p><b>Summary:</b> The protein encoded by this gene is an antioxidant enzyme and belongs to the peroxiredoxin family. The protein is localized to the cytoplasm. Peroxidases of the peroxiredoxin family reduce hydrogen peroxide and alkyl hydroperoxides to water and alcohol with the use of reducing equivalents derived from thiol-containing donor molecules. This protein has been found to play a regulatory role in the activation of the transcription factor NF-kappaB. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> response to oxidative stress; I-kappaB phosphorylation; hydrogen peroxide catabolic process; cell redox homeostasis; cellular oxidant detoxification</p>
+<p><b>GO:MF:</b> peroxidase activity; protein binding; thioredoxin peroxidase activity; antioxidant activity; oxidoreductase activity; identical protein binding</p>
+<p><b>GO:CC:</b> extracellular region; nucleus; cytoplasm; endoplasmic reticulum; cytosol; secretory granule lumen</p>
+<p><b>Pathways:</b> Innate Immune System (reactome); Immune System (reactome); Neutrophil degranulation (reactome); Selenium Micronutrient Network (wikipathways)</p>
+<p><b>InterPro:</b> Alkyl hydroperoxide reductase subunit C/ Thiol specific antioxidant; Thioredoxin domain; Peroxiredoxin, C-terminal; Thioredoxin-like superfamily; Thiol-specific antioxidant peroxiredoxin; Peroxiredoxin, AhpC-type</p>
+</div>
+
+<div class="gene-card">
+<h3>SELENOS — selenoprotein S</h3>
+<p><b>Summary:</b> This gene encodes a transmembrane protein that is localized in the endoplasmic reticulum (ER). It is involved in the degradation process of misfolded proteins in the ER, and may also have a role in inflammation control. This protein is a selenoprotein, containing the rare amino acid selenocysteine (Sec). Sec is encoded by the UGA codon, which normally signals translation termination. The 3' UTRs of selenoprotein mRNAs contain a conserved stem-loop structure, designated the Sec insertion sequence (SECIS) element, that is necessary for the recognition of UGA as a Sec codon, rather than as a stop signal. Two additional phylogenetically conserved stem-loop structures (Stem-loop 1 and Stem-loop 2) in the 3' UTR of this mRNA have been shown to function as modulators of Sec insertion. An alternatively spliced transcript variant, lacking the SECIS element and encoding a non-Sec containing shorter isoform, has been described for this gene (PMID:23614019). [provided by RefSeq, Jul 2017].</p>
+<p><b>GO:BP:</b> negative regulation of acute inflammatory response to antigenic stimulus; regulation of gluconeogenesis; intracellular protein transport; ER overload response; response to glucose; endoplasmic reticulum unfolded protein response</p>
+<p><b>GO:MF:</b> protein binding; antioxidant activity; enzyme binding; signaling receptor activity; ATPase binding; ubiquitin-specific protease binding</p>
+<p><b>GO:CC:</b> cytoplasm; endoplasmic reticulum; endoplasmic reticulum membrane; cytoplasmic microtubule; plasma membrane; very-low-density lipoprotein particle</p>
+<p><b>Pathways:</b> Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Metabolism of proteins (reactome); Post-translational protein modification (reactome); Protein ubiquitination (reactome); E3 ubiquitin ligases ubiquitinate target proteins (reactome); Selenium Micronutrient Network (wikipathways)</p>
+<p><b>InterPro:</b> Selenoprotein S</p>
+</div>
+
+<div class="gene-card">
+<h3>PDLIM1 — PDZ and LIM domain 1</h3>
+<p><b>Summary:</b> This gene encodes a member of the enigma protein family. The protein contains two protein interacting domains, a PDZ domain at the amino terminal end and one to three LIM domains at the carboxyl terminal. It is a cytoplasmic protein associated with the cytoskeleton. The protein may function as an adapter to bring other LIM-interacting proteins to the cytoskeleton. Pseudogenes associated with this gene are located on chromosomes 3, 14 and 17. [provided by RefSeq, Oct 2012].</p>
+<p><b>GO:BP:</b> response to hypoxia; response to oxidative stress; heart development; fibroblast migration; maintenance of cell polarity; actin cytoskeleton organization</p>
+<p><b>GO:MF:</b> transcription coactivator activity; actin binding; protein binding; muscle alpha-actinin binding; cadherin binding involved in cell-cell adhesion</p>
+<p><b>GO:CC:</b> stress fiber; transcription regulator complex; cytoplasm; cytoskeleton; adherens junction; focal adhesion</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> PDZ domain; Zinc finger, LIM-type; Zasp-like motif; PDZ and LIM domain protein 1, LIM domain; PDZ and LIM domain protein 1-4/Zasp-like, middle domain; PDZ superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>TXNRD2 — thioredoxin reductase 2</h3>
+<p><b>Summary:</b> The protein encoded by this gene belongs to the pyridine nucleotide-disulfide oxidoreductase family, and is a member of the thioredoxin (Trx) system. Three thioredoxin reductase (TrxR) isozymes are found in mammals. TrxRs are selenocysteine-containing flavoenzymes, which reduce thioredoxins, as well as other substrates, and play a key role in redox homoeostasis. This gene encodes a mitochondrial form important for scavenging reactive oxygen species in mitochondria. It functions as a homodimer containing FAD, and selenocysteine (Sec) at the active site. Sec is encoded by UGA codon that normally signals translation termination. The 3' UTRs of selenoprotein mRNAs contain a conserved stem-loop structure, the Sec insertion sequence (SECIS) element, which is necessary for the recognition of UGA as a Sec codon rather than as a stop signal. Alternatively spliced transcript variants encoding different isoforms, including a few localized in the cytosol and some lacking the C-terminal Sec residue, have been found for this gene. [provided by RefSeq, Jun 2017].</p>
+<p><b>GO:BP:</b> response to oxygen radical; response to selenium ion; cell redox homeostasis; response to hyperoxia; cellular oxidant detoxification</p>
+<p><b>GO:MF:</b> thioredoxin-disulfide reductase (NADPH) activity; protein binding; oxidoreductase activity; oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor; protein homodimerization activity; protein-containing complex binding</p>
+<p><b>GO:CC:</b> cytoplasm; mitochondrion; mitochondrial matrix; cytosol; axon; dendrite</p>
+<p><b>Pathways:</b> Selenocompound metabolism - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Hepatocellular carcinoma - Homo sapiens (human) (kegg); Cellular responses to stress (reactome); Detoxification of Reactive Oxygen Species (reactome); Cellular responses to stimuli (reactome); Cellular response to chemical stress (reactome); Selenium Micronutrient Network (wikipathways)</p>
+<p><b>InterPro:</b> Pyridine nucleotide-disulphide oxidoreductase, class I; Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain; Thioredoxin/glutathione reductase selenoprotein; Pyridine nucleotide-disulphide oxidoreductase, class I, active site; FAD/NAD-linked reductase, dimerisation domain superfamily; FAD/NAD(P)-binding domain</p>
+</div>
+
+<div class="gene-card">
+<h3>LAMTOR5 — late endosomal/lysosomal adaptor, MAPK and MTOR activator 5</h3>
+<p><b>Summary:</b> This gene encodes a protein that specifically complexes with the C-terminus of hepatitis B virus X protein (HBx). The function of this protein is to negatively regulate HBx activity and thus to alter the replication life cycle of the virus. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> regulation of cell size; response to virus; positive regulation of gene expression; viral genome replication; cellular response to nutrient levels; positive regulation of TOR signaling</p>
+<p><b>GO:MF:</b> guanyl-nucleotide exchange factor activity; protein binding; molecular adaptor activity</p>
+<p><b>GO:CC:</b> cytoplasm; lysosome; lysosomal membrane; cytosol; late endosome membrane; protein-containing complex</p>
+<p><b>Pathways:</b> mTOR signaling pathway - Homo sapiens (human) (kegg); PIP3 activates AKT signaling (reactome); Signal Transduction (reactome); Macroautophagy (reactome); MTOR signalling (reactome); mTORC1-mediated signalling (reactome); Generic Transcription Pathway (reactome); Cellular responses to stress (reactome)</p>
+<p><b>InterPro:</b> Ragulator complex protein LAMTOR5</p>
+</div>
+
+<div class="gene-card">
+<h3>G6PD — glucose-6-phosphate dehydrogenase</h3>
+<p><b>Summary:</b> This gene encodes glucose-6-phosphate dehydrogenase. This protein is a cytosolic enzyme encoded by a housekeeping X-linked gene whose main function is to produce NADPH, a key electron donor in the defense against oxidizing agents and in reductive biosynthetic reactions. G6PD is remarkable for its genetic diversity. Many variants of G6PD, mostly produced from missense mutations, have been described with wide ranging levels of enzyme activity and associated clinical symptoms. G6PD deficiency may cause neonatal jaundice, acute hemolysis, or severe chronic non-spherocytic hemolytic anemia. Two transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> glucose metabolic process; pentose-phosphate shunt; lipid metabolic process; cholesterol biosynthetic process; NADP+ metabolic process; glutathione metabolic process</p>
+<p><b>GO:MF:</b> glucose-6-phosphate dehydrogenase activity; protein binding; D-glucose binding; oxidoreductase activity, acting on CH-OH group of donors; carbohydrate binding; identical protein binding</p>
+<p><b>GO:CC:</b> cytoplasm; cytosol; cytoplasmic side of plasma membrane; membrane; extracellular exosome</p>
+<p><b>Pathways:</b> Pentose phosphate pathway - Homo sapiens (human) (kegg); Glutathione metabolism - Homo sapiens (human) (kegg); Central carbon metabolism in cancer - Homo sapiens (human) (kegg); Diabetic cardiomyopathy - Homo sapiens (human) (kegg); Metabolism (reactome); Generic Transcription Pathway (reactome); Cellular responses to stress (reactome); Transcriptional Regulation by TP53 (reactome)</p>
+<p><b>InterPro:</b> Glucose-6-phosphate dehydrogenase; Glucose-6-phosphate dehydrogenase, active site; Glucose-6-phosphate dehydrogenase, NAD-binding; Glucose-6-phosphate dehydrogenase, C-terminal; NAD(P)-binding domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>MSRA — methionine sulfoxide reductase A</h3>
+<p><b>Summary:</b> This gene encodes a ubiquitous and highly conserved protein that carries out the enzymatic reduction of methionine sulfoxide to methionine. Human and animal studies have shown the highest levels of expression in kidney and nervous tissue. The protein functions in the repair of oxidatively damaged proteins to restore biological activity. Alternative splicing results in multiple transcript variants. [provided by RefSeq, May 2014].</p>
+<p><b>GO:BP:</b> response to oxidative stress; protein repair; cellular response to oxidative stress</p>
+<p><b>GO:MF:</b> protein binding; peptide-methionine (S)-S-oxide reductase activity; L-methionine (S)-S-oxide reductase activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm; mitochondrion; mitochondrial matrix; cytosol</p>
+<p><b>Pathways:</b> Metabolism of proteins (reactome); Protein repair (reactome); Sulindac Metabolic Pathway (wikipathways); Methionine De Novo and Salvage Pathway (wikipathways)</p>
+<p><b>InterPro:</b> Peptide methionine sulphoxide reductase MsrA domain; Peptide methionine sulphoxide reductase MsrA superfamily; Methionine Sulfoxide Reductase A</p>
+</div>
+
+<div class="gene-card">
+<h3>MBP — myelin basic protein</h3>
+<p><b>Summary:</b> The protein encoded by the classic MBP gene is a major constituent of the myelin sheath of oligodendrocytes and Schwann cells in the nervous system. However, MBP-related transcripts are also present in the bone marrow and the immune system. These mRNAs arise from the long MBP gene (otherwise called 'Golli-MBP') that contains 3 additional exons located upstream of the classic MBP exons. Alternative splicing from the Golli and the MBP transcription start sites gives rise to 2 sets of MBP-related transcripts and gene products. The Golli mRNAs contain 3 exons unique to Golli-MBP, spliced in-frame to 1 or more MBP exons. They encode hybrid proteins that have N-terminal Golli aa sequence linked to MBP aa sequence. The second family of transcripts contain only MBP exons and produce the well characterized myelin basic proteins. This complex gene structure is conserved among species suggesting that the MBP transcription unit is an integral part of the Golli transcription unit and that this arrangement is important for the function and/or regulation of these genes. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> immune response; chemical synaptic transmission; central nervous system development; axon ensheathment; myelin assembly; myelination</p>
+<p><b>GO:MF:</b> protein binding; calmodulin binding; lipid binding; structural constituent of myelin sheath</p>
+<p><b>GO:CC:</b> nucleus; cytosol; cell surface; protein-containing complex; internode region of axon; neuronal cell body</p>
+<p><b>Pathways:</b> Developmental Biology (reactome); EGR2 and SOX10-mediated initiation of Schwann cell myelination (reactome); Nervous system development (reactome); Neural Crest Differentiation (wikipathways); Glial Cell Differentiation (wikipathways); Spinal Cord Injury (wikipathways); Structural Pathway of Interleukin 1 (IL-1) (wikipathways); MECP2 and Associated Rett Syndrome (wikipathways)</p>
+<p><b>InterPro:</b> Myelin basic protein</p>
+</div>
+
+<div class="gene-card">
+<h3>SRXN1 — sulfiredoxin 1</h3>
+<p><b>Summary:</b> Enables oxidoreductase activity, acting on a sulfur group of donors. Involved in response to oxidative stress. Located in cytosol. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> response to oxidative stress; cellular response to oxidative stress; cellular oxidant detoxification</p>
+<p><b>GO:MF:</b> protein binding; oxidoreductase activity, acting on a sulfur group of donors; sulfiredoxin activity</p>
+<p><b>GO:CC:</b> cytoplasm; endoplasmic reticulum membrane; cytosol</p>
+<p><b>Pathways:</b> Cellular responses to stress (reactome); Cellular responses to stimuli (reactome); Cellular response to chemical stress (reactome); KEAP1-NFE2L2 pathway (reactome); Nuclear events mediated by NFE2L2 (reactome); NFE2L2 regulating anti-oxidant/detoxification enzymes (reactome); Nuclear Receptors Meta-Pathway (wikipathways); NRF2 pathway (wikipathways)</p>
+<p><b>InterPro:</b> ParB-like, N-terminal domain; Sulfiredoxin; ParB/Sulfiredoxin superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>NQO1 — NAD(P)H quinone dehydrogenase 1</h3>
+<p><b>Summary:</b> This gene is a member of the NAD(P)H dehydrogenase (quinone) family and encodes a cytoplasmic 2-electron reductase. This FAD-binding protein forms homodimers and reduces quinones to hydroquinones. This protein's enzymatic activity prevents the one electron reduction of quinones that results in the production of radical species. Mutations in this gene have been associated with tardive dyskinesia (TD), an increased risk of hematotoxicity after exposure to benzene, and susceptibility to various forms of cancer. Altered expression of this protein has been seen in many tumors and is also associated with Alzheimer's disease (AD). Alternate transcriptional splice variants, encoding different isoforms, have been characterized. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> protein polyubiquitination; ubiquinone metabolic process; xenobiotic metabolic process; nitric oxide biosynthetic process; response to oxidative stress; synaptic transmission, cholinergic</p>
+<p><b>GO:MF:</b> RNA binding; NAD(P)H dehydrogenase (quinone) activity; cytochrome-b5 reductase activity, acting on NAD(P)H; protein binding; NADPH dehydrogenase (quinone) activity; identical protein binding</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; cytosol; synapse</p>
+<p><b>Pathways:</b> Ubiquinone and other terpenoid-quinone biosynthesis - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Hepatocellular carcinoma - Homo sapiens (human) (kegg); Fluid shear stress and atherosclerosis - Homo sapiens (human) (kegg); Metabolism (reactome); Cellular responses to stress (reactome); Regulation of ornithine decarboxylase (ODC) (reactome); Metabolism of polyamines (reactome)</p>
+<p><b>InterPro:</b> Flavodoxin-like fold; Flavoprotein-like superfamily; NAD(P)H dehydrogenase (quinone)</p>
+</div>
+
+<div class="gene-card">
+<h3>OXSR1 — oxidative stress responsive kinase 1</h3>
+<p><b>Summary:</b> The product of this gene belongs to the Ser/Thr protein kinase family of proteins. It regulates downstream kinases in response to environmental stress, and may play a role in regulating the actin cytoskeleton. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> protein phosphorylation; cell volume homeostasis; response to oxidative stress; signal transduction; osmosensory signaling pathway; response to xenobiotic stimulus</p>
+<p><b>GO:MF:</b> magnesium ion binding; protein kinase activity; protein serine/threonine kinase activity; protein binding; ATP binding; protein kinase binding</p>
+<p><b>GO:CC:</b> cytoplasm; cytosol; extracellular exosome</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> Protein kinase domain; Protein kinase-like domain superfamily; Protein kinase, ATP binding site; Serine/threonine-protein kinase OSR1/WNK, CCT domain; STE20/SPS1-related Proline-Alanine-rich Kinase</p>
+</div>
+
+<div class="gene-card">
+<h3>GLRX2 — glutaredoxin 2</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the glutaredoxin family of proteins, which maintain cellular thiol homeostasis. These proteins are thiol-disulfide oxidoreductases that use a glutathione-binding site and one or two active cysteines in their active site. This gene undergoes alternative splicing to produce multiple isoforms, one of which is ubiquitously expressed and localizes to mitochondria, where it functions in mitochondrial redox homeostasis and is important for the protection against and recovery from oxidative stress. Other isoforms, which have more restrictive expression patterns, show cytosolic and nuclear localization, and are thought to function in cellular differentiation and transformation, possibly with a role in tumor progression. [provided by RefSeq, Aug 2011].</p>
+<p><b>GO:BP:</b> regulation of DNA-templated transcription; glutathione metabolic process; apoptotic process; response to temperature stimulus; regulation of signal transduction; cell differentiation</p>
+<p><b>GO:MF:</b> protein disulfide isomerase activity; protein binding; arsenate reductase (glutaredoxin) activity; electron transfer activity; protein-disulfide reductase activity; glutathione disulfide oxidoreductase activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; mitochondrion</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> Glutaredoxin; Glutaredoxin, eukaryotic/virial; Glutaredoxin subgroup; Thioredoxin-like superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>HMOX2 — heme oxygenase 2</h3>
+<p><b>Summary:</b> Heme oxygenase, an essential enzyme in heme catabolism, cleaves heme to form biliverdin, which is subsequently converted to bilirubin by biliverdin reductase, and carbon monoxide, a putative neurotransmitter. Heme oxygenase activity is induced by its substrate heme and by various nonheme substances. Heme oxygenase occurs as 2 isozymes, an inducible heme oxygenase-1 and a constitutive heme oxygenase-2. HMOX1 and HMOX2 belong to the heme oxygenase family. Several alternatively spliced transcript variants encoding three different isoforms have been found for this gene. [provided by RefSeq, Oct 2013].</p>
+<p><b>GO:BP:</b> response to hypoxia; heme oxidation; response to oxidative stress; heme catabolic process</p>
+<p><b>GO:MF:</b> heme oxygenase (decyclizing) activity; protein binding; heme binding</p>
+<p><b>GO:CC:</b> endoplasmic reticulum membrane; plasma membrane; membrane; specific granule membrane</p>
+<p><b>Pathways:</b> Porphyrin and chlorophyll metabolism - Homo sapiens (human) (kegg); Mineral absorption - Homo sapiens (human) (kegg); Metabolism (reactome); Signal Transduction (reactome); Innate Immune System (reactome); Immune System (reactome); Metabolism of porphyrins (reactome); Heme degradation (reactome)</p>
+<p><b>InterPro:</b> Haem oxygenase; Haem oxygenase-like; Haem oxygenase-like, multi-helical; Haem oxygenase conserved site</p>
+</div>
+
+<div class="gene-card">
+<h3>FES — FES proto-oncogene, tyrosine kinase</h3>
+<p><b>Summary:</b> This gene encodes the human cellular counterpart of a feline sarcoma retrovirus protein with transforming capabilities. The gene product has tyrosine-specific protein kinase activity and that activity is required for maintenance of cellular transformation. Its chromosomal location has linked it to a specific translocation event identified in patients with acute promyelocytic leukemia but it is also involved in normal hematopoiesis as well as growth factor and cytokine receptor signaling. Alternative splicing results in multiple variants encoding different isoforms.[provided by RefSeq, Jan 2009].</p>
+<p><b>GO:BP:</b> chemotaxis; cell adhesion; regulation of cell shape; positive regulation of neuron projection development; peptidyl-tyrosine phosphorylation; regulation of cell adhesion</p>
+<p><b>GO:MF:</b> protein kinase activity; protein tyrosine kinase activity; non-membrane spanning protein tyrosine kinase activity; protein binding; ATP binding; microtubule binding</p>
+<p><b>GO:CC:</b> cytoplasm; Golgi apparatus; cytosol; cytoskeleton; plasma membrane; focal adhesion</p>
+<p><b>Pathways:</b> Axon guidance - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signaling by SCF-KIT (reactome); Signal Transduction (reactome); Semaphorin interactions (reactome); Sema3A PAK dependent Axon repulsion (reactome); SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion (reactome); CRMPs in Sema3A signaling (reactome)</p>
+<p><b>InterPro:</b> Protein kinase domain; SH2 domain; FCH domain; Serine-threonine/tyrosine-protein kinase, catalytic domain; Tyrosine-protein kinase, active site; Protein kinase-like domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>PFKP — phosphofructokinase, platelet</h3>
+<p><b>Summary:</b> This gene encodes a member of the phosphofructokinase A protein family. The encoded enzyme is the platelet-specific isoform of phosphofructokinase and plays a key role in glycolysis regulation. This gene may play a role in metabolic reprogramming in some cancers, including clear cell renal cell carcinomas, and cancer of the bladder, breast, and lung. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Sep 2016].</p>
+<p><b>GO:BP:</b> fructose 6-phosphate metabolic process; glycolytic process; fructose 1,6-bisphosphate metabolic process; canonical glycolysis</p>
+<p><b>GO:MF:</b> 6-phosphofructokinase activity; protein binding; ATP binding; identical protein binding; protein-containing complex binding; cadherin binding</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; cytosol; 6-phosphofructokinase complex; membrane; extracellular exosome</p>
+<p><b>Pathways:</b> Glycolysis / Gluconeogenesis - Homo sapiens (human) (kegg); Pentose phosphate pathway - Homo sapiens (human) (kegg); Fructose and mannose metabolism - Homo sapiens (human) (kegg); Galactose metabolism - Homo sapiens (human) (kegg); RNA degradation - Homo sapiens (human) (kegg); HIF-1 signaling pathway - Homo sapiens (human) (kegg); AMPK signaling pathway - Homo sapiens (human) (kegg); Thyroid hormone signaling pathway - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Phosphofructokinase domain; ATP-dependent 6-phosphofructokinase, eukaryotic-type; Phosphofructokinase, conserved site; ATP-dependent 6-phosphofructokinase; Phosphofructokinase superfamily; ATP-dependent 6-phosphofructokinase, vertebrate-type</p>
+</div>
+
+<div class="gene-card">
+<h3>NDUFB4 — NADH:ubiquinone oxidoreductase subunit B4</h3>
+<p><b>Summary:</b> This gene encodes a non-catalytic subunit of the multisubunit NADH:ubiquinone oxidoreductase, the first enzyme complex in the mitochondrial electron transport chain (complex I). Mammalian complex I is composed of 45 different subunits and transfers electrons from NADH to ubiquinone. [provided by RefSeq, Dec 2009].</p>
+<p><b>GO:BP:</b> mitochondrial electron transport, NADH to ubiquinone; aerobic respiration; proton motive force-driven mitochondrial ATP synthesis; proton transmembrane transport</p>
+<p><b>GO:MF:</b> NADH dehydrogenase (ubiquinone) activity</p>
+<p><b>GO:CC:</b> mitochondrion; mitochondrial inner membrane; respiratory chain complex I</p>
+<p><b>Pathways:</b> Oxidative phosphorylation - Homo sapiens (human) (kegg); Thermogenesis - Homo sapiens (human) (kegg); Retrograde endocannabinoid signaling - Homo sapiens (human) (kegg); Non-alcoholic fatty liver disease - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Parkinson disease - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Huntington disease - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> NADH:ubiquinone oxidoreductase, subunit NDUFB4</p>
+</div>
+
+<div class="gene-card">
+<h3>GPX3 — glutathione peroxidase 3</h3>
+<p><b>Summary:</b> The protein encoded by this gene belongs to the glutathione peroxidase family, members of which catalyze the reduction of organic hydroperoxides and hydrogen peroxide (H2O2) by glutathione, and thereby protect cells against oxidative damage. Several isozymes of this gene family exist in vertebrates, which vary in cellular location and substrate specificity. This isozyme is secreted, and is abundantly found in plasma. Downregulation of expression of this gene by promoter hypermethylation has been observed in a wide spectrum of human malignancies, including thyroid cancer, hepatocellular carcinoma and chronic myeloid leukemia. This isozyme is also a selenoprotein, containing the rare amino acid selenocysteine (Sec) at its active site. Sec is encoded by the UGA codon, which normally signals translation termination. The 3' UTRs of selenoprotein mRNAs contain a conserved stem-loop structure, designated the Sec insertion sequence (SECIS) element, that is necessary for the recognition of UGA as a Sec codon, rather than as a stop signal. Alternatively spliced transcript variants have been found for this gene. [provided by RefSeq, Jul 2016].</p>
+<p><b>GO:BP:</b> response to oxidative stress; response to lipid hydroperoxide; cellular response to oxidative stress; hydrogen peroxide catabolic process; cellular oxidant detoxification</p>
+<p><b>GO:MF:</b> peroxidase activity; glutathione peroxidase activity; protein binding; selenium binding; identical protein binding</p>
+<p><b>GO:CC:</b> extracellular region; extracellular exosome</p>
+<p><b>Pathways:</b> Glutathione metabolism - Homo sapiens (human) (kegg); Arachidonic acid metabolism - Homo sapiens (human) (kegg); Thyroid hormone synthesis - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Huntington disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Cellular responses to stress (reactome); Detoxification of Reactive Oxygen Species (reactome)</p>
+<p><b>InterPro:</b> Glutathione peroxidase; Glutathione peroxidase active site; Glutathione peroxidase conserved site; Thioredoxin-like superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>SCAF4 — SR-related CTD associated factor 4</h3>
+<p><b>Summary:</b> This gene likely encodes a member of the arginine/serine-rich splicing factor family. A similar protein in Rat appears to bind the large subunit of RNA polymerase II and provide a link between transcription and pre-mRNA splicing. Alternatively spliced transcript variants have been described. [provided by RefSeq, Feb 2009].</p>
+<p><b>GO:BP:</b> negative regulation of termination of RNA polymerase II transcription, poly(A)-coupled</p>
+<p><b>GO:MF:</b> nucleic acid binding; RNA binding; RNA polymerase II C-terminal domain phosphoserine binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> RNA recognition motif domain; CID domain; ENTH/VHS; Nucleotide-binding alpha-beta plait domain superfamily; SCAF4, RNA recognition motif; RNA-binding domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>CDKN2D — cyclin dependent kinase inhibitor 2D</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the INK4 family of cyclin-dependent kinase inhibitors. This protein has been shown to form a stable complex with CDK4 or CDK6, and prevent the activation of the CDK kinases, thus function as a cell growth regulator that controls cell cycle G1 progression. The abundance of the transcript of this gene was found to oscillate in a cell-cycle dependent manner with the lowest expression at mid G1 and a maximal expression during S phase. The negative regulation of the cell cycle involved in this protein was shown to participate in repressing neuronal proliferation, as well as spermatogenesis. Two alternatively spliced variants of this gene, which encode an identical protein, have been reported. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> DNA synthesis involved in DNA repair; negative regulation of cell population proliferation; response to UV; negative regulation of cell growth; response to retinoic acid; response to vitamin D</p>
+<p><b>GO:MF:</b> cyclin-dependent protein serine/threonine kinase inhibitor activity; protein binding; protein kinase binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm; cytosol; cyclin D2-CDK4 complex</p>
+<p><b>Pathways:</b> FoxO signaling pathway - Homo sapiens (human) (kegg); Cell cycle - Homo sapiens (human) (kegg); Cell Cycle (reactome); Cellular responses to stress (reactome); Oxidative Stress Induced Senescence (reactome); Senescence-Associated Secretory Phenotype (SASP) (reactome); Cellular Senescence (reactome); Oncogene Induced Senescence (reactome)</p>
+<p><b>InterPro:</b> Ankyrin repeat; Ankyrin repeat-containing domain superfamily; Ankyrin Repeat and Cyclin-Dependent Kinase Inhibitor</p>
+</div>
+
+<div class="gene-card">
+<h3>MGST1 — microsomal glutathione S-transferase 1</h3>
+<p><b>Summary:</b> The MAPEG (Membrane Associated Proteins in Eicosanoid and Glutathione metabolism) family consists of six human proteins, two of which are involved in the production of leukotrienes and prostaglandin E, important mediators of inflammation. Other family members, demonstrating glutathione S-transferase and peroxidase activities, are involved in cellular defense against toxic, carcinogenic, and pharmacologically active electrophilic compounds. This gene encodes a protein that catalyzes the conjugation of glutathione to electrophiles and the reduction of lipid hydroperoxides. This protein is localized to the endoplasmic reticulum and outer mitochondrial membrane where it is thought to protect these membranes from oxidative stress. Several transcript variants, some non-protein coding and some protein coding, have been found for this gene. [provided by RefSeq, May 2012].</p>
+<p><b>GO:BP:</b> glutathione transport; cellular response to lipid hydroperoxide; cellular oxidant detoxification</p>
+<p><b>GO:MF:</b> glutathione transferase activity; glutathione peroxidase activity; protein binding</p>
+<p><b>GO:CC:</b> mitochondrion; mitochondrial outer membrane; peroxisomal membrane; endoplasmic reticulum; endoplasmic reticulum membrane; plasma membrane</p>
+<p><b>Pathways:</b> Glutathione metabolism - Homo sapiens (human) (kegg); Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human) (kegg); Drug metabolism - cytochrome P450 - Homo sapiens (human) (kegg); Drug metabolism - other enzymes - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Chemical carcinogenesis - Homo sapiens (human) (kegg); Hepatocellular carcinoma - Homo sapiens (human) (kegg); Fluid shear stress and atherosclerosis - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Membrane-associated, eicosanoid/glutathione metabolism (MAPEG) protein; Membrane associated eicosanoid/glutathione metabolism-like domain superfamily; Microsomal glutathione S-transferase 1-like</p>
+</div>
+
+<div class="gene-card">
+<h3>ABCC1 — ATP binding cassette subfamily C member 1 (ABCC1 blood group)</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the superfamily of ATP-binding cassette (ABC) transporters. ABC proteins transport various molecules across extra-and intra-cellular membranes. ABC genes are divided into seven distinct subfamilies (ABC1, MDR/TAP, MRP, ALD, OABP, GCN20, White). This full transporter is a member of the MRP subfamily which is involved in multi-drug resistance. This protein functions as a multispecific organic anion transporter, with oxidized glutatione, cysteinyl leukotrienes, and activated aflatoxin B1 as substrates. This protein also transports glucuronides and sulfate conjugates of steroid hormones and bile salts. Alternatively spliced variants of this gene have been described but their full-length nature is unknown. [provided by RefSeq, Apr 2012].</p>
+<p><b>GO:BP:</b> leukotriene metabolic process; xenobiotic metabolic process; response to xenobiotic stimulus; cobalamin transport; sphingolipid biosynthetic process; cellular response to oxidative stress</p>
+<p><b>GO:MF:</b> ATP binding; ABC-type xenobiotic transporter activity; ABC-type vitamin B12 transporter activity; ABC-type glutathione S-conjugate transporter activity; efflux transmembrane transporter activity; ATP hydrolysis activity</p>
+<p><b>GO:CC:</b> plasma membrane; basal plasma membrane; membrane; basolateral plasma membrane; apical plasma membrane; lateral plasma membrane</p>
+<p><b>Pathways:</b> ABC transporters - Homo sapiens (human) (kegg); Sphingolipid signaling pathway - Homo sapiens (human) (kegg); Vitamin digestion and absorption - Homo sapiens (human) (kegg); MicroRNAs in cancer - Homo sapiens (human) (kegg); Metabolism (reactome); Sphingolipid de novo biosynthesis (reactome); Metabolism of porphyrins (reactome); Heme degradation (reactome)</p>
+<p><b>InterPro:</b> ABC transporter-like, ATP-binding domain; AAA+ ATPase domain; Multi drug resistance-associated protein; ABC transporter type 1, transmembrane domain; ABC transporter-like, conserved site; P-loop containing nucleoside triphosphate hydrolase</p>
+</div>
+
+<div class="gene-card">
+<h3>FTL — ferritin light chain</h3>
+<p><b>Summary:</b> This gene encodes the light subunit of the ferritin protein. Ferritin is the major intracellular iron storage protein in prokaryotes and eukaryotes. It is composed of 24 subunits of the heavy and light ferritin chains. Variation in ferritin subunit composition may affect the rates of iron uptake and release in different tissues. A major function of ferritin is the storage of iron in a soluble and nontoxic state. Defects in this light chain ferritin gene are associated with several neurodegenerative diseases and hyperferritinemia-cataract syndrome. This gene has multiple pseudogenes. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> iron ion transport; intracellular iron ion homeostasis; autophagy; erythrocyte differentiation</p>
+<p><b>GO:MF:</b> iron ion binding; protein binding; ferrous iron binding; ferric iron binding; identical protein binding</p>
+<p><b>GO:CC:</b> extracellular region; cytoplasm; autophagosome; cytosol; membrane; azurophil granule lumen</p>
+<p><b>Pathways:</b> Ferroptosis - Homo sapiens (human) (kegg); Necroptosis - Homo sapiens (human) (kegg); Mineral absorption - Homo sapiens (human) (kegg); Innate Immune System (reactome); Immune System (reactome); Membrane Trafficking (reactome); trans-Golgi Network Vesicle Budding (reactome); Binding and Uptake of Ligands by Scavenger Receptors (reactome)</p>
+<p><b>InterPro:</b> Ferritin; Ferritin/DPS domain; Ferritin-like diiron domain; Ferritin-like superfamily; Ferritin-like; Ferritin, conserved site</p>
+</div>
+
+<div class="gene-card">
+<h3>ATOX1 — antioxidant 1 copper chaperone</h3>
+<p><b>Summary:</b> This gene encodes a copper chaperone that plays a role in copper homeostasis by binding and transporting cytosolic copper to ATPase proteins in the trans-Golgi network for later incorporation to the ceruloplasmin. This protein also functions as an antioxidant against superoxide and hydrogen peroxide, and therefore, may play a significant role in cancer carcinogenesis. Because of its cytogenetic location, this gene represents a candidate gene for 5q-syndrome. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> copper ion transport; intracellular copper ion homeostasis; response to oxidative stress; negative regulation of apoptotic process; positive regulation of transcription by RNA polymerase II; protein maturation</p>
+<p><b>GO:MF:</b> DNA-binding transcription activator activity, RNA polymerase II-specific; copper ion binding; protein binding; metallochaperone activity; copper chaperone activity; copper-dependent protein binding</p>
+<p><b>GO:CC:</b> nucleus; cytosol</p>
+<p><b>Pathways:</b> Mineral absorption - Homo sapiens (human) (kegg); Innate Immune System (reactome); Immune System (reactome); Cellular responses to stress (reactome); Detoxification of Reactive Oxygen Species (reactome); Antimicrobial peptides (reactome); Ion influx/efflux at host-pathogen interface (reactome); Cellular responses to stimuli (reactome)</p>
+<p><b>InterPro:</b> Heavy metal-associated domain, HMA; Heavy-metal-associated, conserved site; Heavy metal-associated domain superfamily; Copper transport ATOX1-like</p>
+</div>
+
+<div class="gene-card">
+<h3>STK25 — serine/threonine kinase 25</h3>
+<p><b>Summary:</b> This gene encodes a member of the germinal centre kinase III (GCK III) subfamily of the sterile 20 superfamily of kinases. The encoded enzyme plays a role in serine-threonine liver kinase B1 (LKB1) signaling pathway to regulate neuronal polarization and morphology of the Golgi apparatus. The protein is translocated from the Golgi apparatus to the nucleus in response to chemical anoxia and plays a role in regulation of cell death. A pseudogene associated with this gene is located on chromosome 18. Multiple alternatively spliced transcript variants have been observed for this gene. [provided by RefSeq, Dec 2012].</p>
+<p><b>GO:BP:</b> protein phosphorylation; response to oxidative stress; signal transduction; positive regulation of stress-activated MAPK cascade; cellular response to oxidative stress; intracellular signal transduction</p>
+<p><b>GO:MF:</b> protein kinase activity; protein serine/threonine kinase activity; protein binding; ATP binding; protein homodimerization activity; protein serine kinase activity</p>
+<p><b>GO:CC:</b> cytoplasm; Golgi apparatus; extracellular exosome; FAR/SIP/STRIPAK complex</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> Protein kinase domain; Protein kinase-like domain superfamily; Protein kinase, ATP binding site; Serine/threonine kinase 25, catalytic domain; Programmed cell death protein 10, dimerisation domain superfamily; Programmed cell death protein 10, dimerisation domain</p>
+</div>
+
+<div class="gene-card">
+<h3>EGLN2 — egl-9 family hypoxia inducible factor 2</h3>
+<p><b>Summary:</b> The hypoxia inducible factor (HIF) is a transcriptional complex that is involved in oxygen homeostasis. At normal oxygen levels, the alpha subunit of HIF is targeted for degration by prolyl hydroxylation. This gene encodes an enzyme responsible for this post-translational modification. Alternative splicing results in multiple transcript variants. Read-through transcription also exists between this gene and the upstream RAB4B (RAB4B, member RAS oncogene family) gene. [provided by RefSeq, Feb 2011].</p>
+<p><b>GO:BP:</b> regulation of cell growth; response to hypoxia; peptidyl-proline hydroxylation to 4-hydroxy-L-proline; estrogen receptor signaling pathway; regulation of neuron apoptotic process; cell redox homeostasis</p>
+<p><b>GO:MF:</b> iron ion binding; protein binding; ferrous iron binding; oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen; 2-oxoglutarate-dependent dioxygenase activity; oxygen sensor activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm</p>
+<p><b>Pathways:</b> HIF-1 signaling pathway - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Renal cell carcinoma - Homo sapiens (human) (kegg); Cellular response to hypoxia (reactome); Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha (reactome); Cellular responses to stress (reactome); Cellular responses to stimuli (reactome); Photodynamic therapy-induced NF-kB survival signaling (wikipathways)</p>
+<p><b>InterPro:</b> Oxoglutarate/iron-dependent dioxygenase domain; Prolyl 4-hydroxylase, alpha subunit; Prolyl 4-hydroxylase alpha subunit, Fe(2+) 2OG dioxygenase domain; Hypoxia-inducible factor prolyl hydroxylases</p>
+</div>
+
+<div class="gene-card">
+<h3>ERCC2 — ERCC excision repair 2, TFIIH core complex helicase subunit</h3>
+<p><b>Summary:</b> The nucleotide excision repair pathway is a mechanism to repair damage to DNA. The protein encoded by this gene is involved in transcription-coupled nucleotide excision repair and is an integral member of the basal transcription factor BTF2/TFIIH complex. The gene product has ATP-dependent DNA helicase activity and belongs to the RAD3/XPD subfamily of helicases. Defects in this gene can result in three different disorders, the cancer-prone syndrome xeroderma pigmentosum complementation group D, trichothiodystrophy, and Cockayne syndrome. Alternatively spliced transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Aug 2008].</p>
+<p><b>GO:BP:</b> response to hypoxia; transcription-coupled nucleotide-excision repair; nucleotide-excision repair; regulation of transcription by RNA polymerase II; transcription by RNA polymerase II; transcription initiation at RNA polymerase II promoter</p>
+<p><b>GO:MF:</b> nucleic acid binding; DNA binding; DNA helicase activity; damaged DNA binding; helicase activity; protein binding</p>
+<p><b>GO:CC:</b> transcription factor TFIIH core complex; nucleus; nucleoplasm; transcription factor TFIID complex; transcription factor TFIIH holo complex; cytoplasm</p>
+<p><b>Pathways:</b> Basal transcription factors - Homo sapiens (human) (kegg); Nucleotide excision repair - Homo sapiens (human) (kegg); Formation of RNA Pol II elongation complex  (reactome); Formation of the Early Elongation Complex (reactome); Metabolism (reactome); HIV Life Cycle (reactome); Late Phase of HIV Life Cycle (reactome); HIV Infection (reactome)</p>
+<p><b>InterPro:</b> RAD3/XPD; DNA/RNA helicase, ATP-dependent, DEAH-box type, conserved site; Helicase-like, DEXD box c2 type; ATP-dependent helicase, C-terminal; RAD3-like helicase, DEAD; Helical and beta-bridge domain</p>
+</div>
+
+<div class="gene-card">
+<h3>SBNO2 — strawberry notch homolog 2</h3>
+<p><b>Summary:</b> Predicted to enable chromatin DNA binding activity and histone binding activity. Involved in several processes, including cellular response to interleukin-6; macrophage activation involved in immune response; and negative regulation of transcription, DNA-templated. Predicted to be active in nucleus. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> macrophage activation involved in immune response; regulation of DNA-templated transcription; osteoclast differentiation; negative regulation of DNA-templated transcription; positive regulation of transcription by RNA polymerase II; regulation of inflammatory response</p>
+<p><b>GO:MF:</b> chromatin DNA binding; histone binding</p>
+<p><b>GO:CC:</b> nucleus</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> Protein strawberry notch; Strawberry notch, helicase C domain; P-loop containing nucleoside triphosphate hydrolase; Strawberry notch, AAA domain; SBNO, alpha/beta domain</p>
+</div>
+
+<div class="gene-card">
+<h3>JUNB — JunB proto-oncogene, AP-1 transcription factor subunit</h3>
+<p><b>Summary:</b> Enables sequence-specific double-stranded DNA binding activity. Involved in positive regulation of transcription by RNA polymerase II. Located in nucleoplasm. Part of transcription factor AP-1 complex. Biomarker of Hodgkin's lymphoma and anaplastic large cell lymphoma. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; gene expression; regulation of cell population proliferation; positive regulation of transcription by RNA polymerase II; response to steroid hormone</p>
+<p><b>GO:MF:</b> RNA polymerase II transcription regulatory region sequence-specific DNA binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA binding; double-stranded DNA binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; transcription regulator complex; transcription factor AP-1 complex; RNA polymerase II transcription regulator complex</p>
+<p><b>Pathways:</b> Osteoclast differentiation - Homo sapiens (human) (kegg); TNF signaling pathway - Homo sapiens (human) (kegg); Growth hormone synthesis, secretion and action - Homo sapiens (human) (kegg); Cytokine Signaling in Immune system (reactome); Signal Transduction (reactome); Disease (reactome); Signaling by NTRKs (reactome); Immune System (reactome)</p>
+<p><b>InterPro:</b> Transcription factor Jun; Basic-leucine zipper domain; Jun-like transcription factor; Transcription factor, Skn-1-like, DNA-binding domain superfamily; Basic-leucine zipper domain superfamily; AP-1 Transcription Factor bZIP</p>
+</div>
+
+<div class="gene-card">
+<h3>PTPA — protein phosphatase 2 phosphatase activator</h3>
+<p><b>Summary:</b> Protein phosphatase 2A (PP2A) is one of the four major Ser/Thr phosphatases and is implicated in the negative control of cell growth and division. The core PP2A holoenzyme is a heterotrimer of a structural A subunit, a catalytic C subunit, and one of several regulatory B subunits, which are grouped into distinct families (B/PR55, B'/PR61, B''/PR72) that confer different substrate specificities and localizations. This gene, PTPA, does not encode one of these conventional B-type regulatory subunits. Rather, this PTPA gene encodes a peptidyl-prolyl cis-trans isomerase that acts as a Mg-ion and ATP-dependent activation chaperone, transiently engaging the PP2A A-C core dimer to restore its catalytic activity, including a distinct phosphotyrosyl phosphatase activity. Unlike classic B-family subunits, which dock stably onto the holoenzyme to alter its specificity, PTPA dissociates after activation rather than remaining a permanent structural component. PTPA was historically classified within the B' family, but this reflects an older nomenclature scheme rather than its actual mechanism, which is now understood to be that of a dedicated activator rather than a structural regulatory subunit. Note that PP2A was used as a symbol for this gene in early publications when its distinct chaperone function was not yet clearly distinguished from the holoenzyme it regulates. Alternative splicing results in multiple transcript variants encoding different isoforms. [provided by RefSeq, Aug 2026].</p>
+<p><b>GO:BP:</b> mitotic spindle organization; positive regulation of apoptotic process</p>
+<p><b>GO:MF:</b> peptidyl-prolyl cis-trans isomerase activity; phosphoprotein phosphatase activity; signaling receptor binding; protein binding; ATP binding; protein tyrosine phosphatase activator activity</p>
+<p><b>GO:CC:</b> protein phosphatase type 2A complex; nucleus; nucleoplasm; cytoplasm; cytosol; calcium channel complex</p>
+<p><b>Pathways:</b> Insulin resistance - Homo sapiens (human) (kegg); Diabetic cardiomyopathy - Homo sapiens (human) (kegg); Interleukin-11 Signaling Pathway (wikipathways); Constitutive Androstane Receptor Pathway (wikipathways); Nuclear Receptors Meta-Pathway (wikipathways); ATM Signaling Network in Development and Disease (wikipathways); Wnt signaling pathway and pluripotency (wikipathways); Netrin-UNC5B signaling pathway (wikipathways)</p>
+<p><b>InterPro:</b> Phosphotyrosyl phosphatase activator, PTPA; PTPA superfamily; Phosphotyrosyl phosphatase activator, C-terminal lid domain</p>
+</div>
+
+<div class="gene-card">
+<h3>LSP1 — lymphocyte specific protein 1</h3>
+<p><b>Summary:</b> This gene encodes an intracellular F-actin binding protein. The protein is expressed in lymphocytes, neutrophils, macrophages, and endothelium and may regulate neutrophil motility, adhesion to fibrinogen matrix proteins, and transendothelial migration. Alternative splicing results in multiple transcript variants encoding different isoforms. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> cellular defense response; signal transduction</p>
+<p><b>GO:MF:</b> actin binding; protein binding; cytoskeletal protein binding</p>
+<p><b>GO:CC:</b> plasma membrane; actin cytoskeleton; membrane; extracellular exosome</p>
+<p><b>Pathways:</b> C-type lectin receptor signaling pathway - Homo sapiens (human) (kegg); Tuberculosis - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Lymphocyte-specific protein; Caldesmon/lymphocyte specific protein; Caldesmon</p>
+</div>
+
+<div class="gene-card">
+<h3>NDUFA6 — NADH:ubiquinone oxidoreductase subunit A6</h3>
+<p><b>Summary:</b> This gene encodes a member of the LYR family of proteins that contain a highly conserved tripeptide (LYR) motif near the N-terminus. The encoded protein is an accessory subunit of NADH: ubiquinone oxidorerductase (Complex I), which is the largest enzyme of the mitochondrial membrane respiratory chain. Complex I functions in electron transfer from NADH to the respiratory chain. [provided by RefSeq, Oct 2016].</p>
+<p><b>GO:BP:</b> mitochondrial electron transport, NADH to ubiquinone; aerobic respiration; mitochondrial respiratory chain complex I assembly; proton motive force-driven mitochondrial ATP synthesis; proton transmembrane transport</p>
+<p><b>GO:MF:</b> NADH dehydrogenase (ubiquinone) activity</p>
+<p><b>GO:CC:</b> mitochondrion; mitochondrial inner membrane; mitochondrial membrane; respiratory chain complex I</p>
+<p><b>Pathways:</b> Oxidative phosphorylation - Homo sapiens (human) (kegg); Thermogenesis - Homo sapiens (human) (kegg); Retrograde endocannabinoid signaling - Homo sapiens (human) (kegg); Non-alcoholic fatty liver disease - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Parkinson disease - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Huntington disease - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> NADH dehydrogenase [ubiquinone] (complex I), alpha subcomplex, subunit 6; NDUFA6, LYR domain</p>
+</div>
+
+<div class="gene-card">
+<h3>HHEX — hematopoietically expressed homeobox</h3>
+<p><b>Summary:</b> This gene encodes a member of the homeobox family of transcription factors, many of which are involved in developmental processes. Expression in specific hematopoietic lineages suggests that this protein may play a role in hematopoietic differentiation. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; anterior/posterior pattern specification; regulation of mRNA export from nucleus; negative regulation of angiogenesis</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; cytoplasm; nuclear body; protein-DNA complex</p>
+<p><b>Pathways:</b> Maturity onset diabetes of the young - Homo sapiens (human) (kegg); Transcriptional misregulation in cancer - Homo sapiens (human) (kegg); Developmental Biology (reactome); Developmental Cell Lineages (reactome); Developmental Cell Lineages of the Exocrine Pancreas (reactome); Developmental Lineage of Multipotent Pancreatic Progenitor Cells (reactome); Endoderm differentiation (wikipathways)</p>
+<p><b>InterPro:</b> Homeodomain; Homedomain-like superfamily; Homeobox, conserved site; Homeodomain, metazoa; Homeobox DNA-binding; Homeobox domain-containing transcription factors</p>
+</div>
+
+<div class="gene-card">
+<h3>GLRX — glutaredoxin</h3>
+<p><b>Summary:</b> This gene encodes a member of the glutaredoxin family. The encoded protein is a cytoplasmic enzyme catalyzing the reversible reduction of glutathione-protein mixed disulfides. This enzyme highly contributes to the antioxidant defense system. It is crucial for several signalling pathways by controlling the S-glutathionylation status of signalling mediators. It is involved in beta-amyloid toxicity and Alzheimer's disease. Multiple alternatively spliced transcript variants encoding the same protein have been identified. [provided by RefSeq, Aug 2011].</p>
+<p><b>GO:BP:</b> nucleobase-containing small molecule interconversion; positive regulation of membrane potential</p>
+<p><b>GO:MF:</b> protein binding; disulfide oxidoreductase activity; glutathione disulfide oxidoreductase activity; sodium channel regulator activity</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; cytosol; extracellular exosome</p>
+<p><b>Pathways:</b> Metabolism (reactome); Metabolism of nucleotides (reactome); Interconversion of nucleotide di- and triphosphates (reactome); One-carbon metabolism (wikipathways)</p>
+<p><b>InterPro:</b> Glutaredoxin; Glutaredoxin active site; Glutaredoxin, eukaryotic/virial; Glutaredoxin subgroup; Thioredoxin-like superfamily; Glutaredoxin-1</p>
+</div>
+
+<div class="gene-card">
+<h3>NDUFS2 — NADH:ubiquinone oxidoreductase core subunit S2</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a core subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (complex I). Mammalian mitochondrial complex I is composed of at least 43 different subunits, 7 of which are encoded by the mitochondrial genome, and the rest are the products of nuclear genes. The iron-sulfur protein fraction of complex I is made up of 7 subunits, including this gene product. Complex I catalyzes the NADH oxidation with concomitant ubiquinone reduction and proton ejection out of the mitochondria. Mutations in this gene are associated with mitochondrial complex I deficiency. Alternatively spliced transcript variants encoding different isoforms have been found for this gene.[provided by RefSeq, Oct 2009].</p>
+<p><b>GO:BP:</b> mitochondrial electron transport, NADH to ubiquinone; aerobic respiration; neurogenesis; mitochondrial respiratory chain complex I assembly; gliogenesis; mitochondrial ATP synthesis coupled electron transport</p>
+<p><b>GO:MF:</b> NADH dehydrogenase activity; protein binding; NADH dehydrogenase (ubiquinone) activity; electron transfer activity; oxidoreductase activity, acting on NAD(P)H; oxygen sensor activity</p>
+<p><b>GO:CC:</b> mitochondrion; mitochondrial inner membrane; mitochondrial matrix; respiratory chain complex I</p>
+<p><b>Pathways:</b> Oxidative phosphorylation - Homo sapiens (human) (kegg); Thermogenesis - Homo sapiens (human) (kegg); Retrograde endocannabinoid signaling - Homo sapiens (human) (kegg); Non-alcoholic fatty liver disease - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Parkinson disease - Homo sapiens (human) (kegg); Amyotrophic lateral sclerosis - Homo sapiens (human) (kegg); Huntington disease - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> NADH-quinone oxidoreductase, subunit D; NADH:ubiquinone oxidoreductase, 49kDa subunit, conserved site; NAD(P)H-quinone oxidoreductase subunit D/H; [NiFe]-hydrogenase, large subunit</p>
+</div>
+
+<div class="gene-card">
+<h3>PRNP — prion protein (Kanno blood group)</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a membrane glycosylphosphatidylinositol-anchored glycoprotein that tends to aggregate into rod-like structures. The encoded protein contains a highly unstable region of five tandem octapeptide repeats. This gene is found on chromosome 20, approximately 20 kbp upstream of a gene which encodes a biochemically and structurally similar protein to the one encoded by this gene. Mutations in the repeat region as well as elsewhere in this gene have been associated with Creutzfeldt-Jakob disease, fatal familial insomnia, Gerstmann-Straussler disease, Huntington disease-like 1, and kuru. An overlapping open reading frame has been found for this gene that encodes a smaller, structurally unrelated protein, AltPrp. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Nov 2014].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; response to reactive oxygen species; maternal placenta development; regulation of acute inflammatory response; response to ischemia; intracellular copper ion homeostasis</p>
+<p><b>GO:MF:</b> amyloid-beta binding; protease binding; copper ion binding; protein binding; lamin binding; glycosaminoglycan binding</p>
+<p><b>GO:CC:</b> cytoplasm; mitochondrial outer membrane; endoplasmic reticulum; Golgi apparatus; cytosol; plasma membrane</p>
+<p><b>Pathways:</b> Ferroptosis - Homo sapiens (human) (kegg); Prion disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Developmental Biology (reactome); NCAM signaling for neurite out-growth (reactome); NCAM1 interactions (reactome); Axon guidance (reactome); Protein localization (reactome)</p>
+<p><b>InterPro:</b> Prion protein; Prion, copper binding octapeptide repeat region; Prion/Doppel protein, beta-ribbon domain; Major prion protein N-terminal; Prion/Doppel beta-ribbon domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>IPCEF1 — interaction protein for cytohesin exchange factors 1</h3>
+<p><b>Summary:</b> Predicted to enable peroxidase activity. Predicted to be involved in response to oxidative stress. Predicted to be located in cytosol and plasma membrane. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> response to oxidative stress; enzyme-linked receptor protein signaling pathway; oxygen transport; cellular oxidant detoxification</p>
+<p><b>GO:MF:</b> peroxidase activity; oxygen carrier activity; protein binding; protein-macromolecule adaptor activity</p>
+<p><b>GO:CC:</b> cytoplasm; plasma membrane</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> Pleckstrin homology domain; PH-like domain superfamily; Connector enhancer of kinase suppressor of Ras</p>
+</div>
+
+
+<h2>Provenance</h2>
+<ul>
+<li>PANTHER: pantherdb.org, REST (geneinfo + enrich/overrep)</li>
+<li>Enrichr: maayanlab.cloud/Enrichr, GO_Biological_Process_2025</li>
+<li>g:Profiler: biit.cs.ut.ee/gprofiler, GO/KEGG/REAC</li>
+<li>MyGene.info: mygene.info/v3/query</li>
+</ul>
+</body></html>

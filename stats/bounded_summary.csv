@@ -1,0 +1,4 @@
+model,n_runs,mean_llm_n,mean_kept,mean_dropped,mean_coverage,zero_kept_runs,zero_kept_pct
+groq-gpt-oss-120b,522,9.97,3.49,6.48,0.350,87,0.167
+groq-qwen3.8-27b,552,9.26,1.86,7.40,0.188,92,0.167
+qwen2.5-7b,216,9.83,1.50,8.33,0.154,72,0.333

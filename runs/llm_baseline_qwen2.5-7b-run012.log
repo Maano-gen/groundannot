@@ -1,0 +1,44 @@
+[2026-09-23T19:15:47] data_dir = /home/maano.malima/Method_API
+[2026-09-23T19:15:47] provider = local
+[2026-09-23T19:15:47] model    = /home/maano.malima/llm-models/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf
+[2026-09-23T19:15:47] tag      = qwen2.5-7b-run012
+[2026-09-23T19:15:50] client ready
+[2026-09-23T19:15:50] querying alzheimers_disease (15 genes) | allowed=13824 enriched=794
+[2026-09-23T19:16:04]   LLM 10 IDs | unsupported 2 | allowed_not_enriched 6 | valid_enriched 2
+[2026-09-23T19:16:04]     WRONG_BIOLOGY    GO:0007615  anesthesia-resistant memory
+[2026-09-23T19:16:04]     WRONG_BIOLOGY    GO:0007619  courtship behavior
+[2026-09-23T19:16:04] querying hereditary_cancer (28 genes) | allowed=13806 enriched=557
+[2026-09-23T19:16:17]   LLM 10 IDs | unsupported 2 | allowed_not_enriched 7 | valid_enriched 1
+[2026-09-23T19:16:17]     OBSOLETE         GO:0007261  obsolete JAK-induced STAT protein dimerization
+[2026-09-23T19:16:17]     OBSOLETE         GO:0007568  obsolete aging
+[2026-09-23T19:16:17] querying hypertrophic_cardiomyopathy (20 genes) | allowed=13809 enriched=230
+[2026-09-23T19:16:31]   LLM 10 IDs | unsupported 2 | allowed_not_enriched 8 | valid_enriched 0
+[2026-09-23T19:16:31]     WRONG_BIOLOGY    GO:0007184  regulation of SMAD protein signal transduction
+[2026-09-23T19:16:31]     WRONG_BIOLOGY    GO:0007615  anesthesia-resistant memory
+[2026-09-23T19:16:31] querying parkinsons_disease (16 genes) | allowed=13807 enriched=684
+[2026-09-23T19:16:46]   LLM 9 IDs | unsupported 3 | allowed_not_enriched 4 | valid_enriched 2
+[2026-09-23T19:16:46]     OBSOLETE         GO:0007048  obsolete oncogenesis
+[2026-09-23T19:16:46]     WRONG_BRANCH     GO:0009885  transmembrane histidine kinase cytokinin receptor activity
+[2026-09-23T19:16:46]     WRONG_BRANCH     GO:0016021  membrane
+[2026-09-23T19:16:46] querying primary_immunodeficiency (24 genes) | allowed=13793 enriched=354
+[2026-09-23T19:17:02]   LLM 10 IDs | unsupported 3 | allowed_not_enriched 3 | valid_enriched 4
+[2026-09-23T19:17:02]     WRONG_BIOLOGY    GO:0002256  regulation of kinin cascade
+[2026-09-23T19:17:02]     WRONG_BIOLOGY    GO:0002257  negative regulation of kinin cascade
+[2026-09-23T19:17:02]     WRONG_BRANCH     GO:0019211  phosphatase activator activity
+[2026-09-23T19:17:02] querying type2_diabetes (18 genes) | allowed=13776 enriched=303
+[2026-09-23T19:17:17]   LLM 10 IDs | unsupported 6 | allowed_not_enriched 4 | valid_enriched 0
+[2026-09-23T19:17:17]     WRONG_BIOLOGY    GO:0007067  mitotic cell cycle
+[2026-09-23T19:17:17]     WRONG_BIOLOGY    GO:0007225  patched ligand maturation
+[2026-09-23T19:17:17]     WRONG_BIOLOGY    GO:0007226  regulation of smoothened signaling pathway
+[2026-09-23T19:17:17]     OBSOLETE         GO:0007227  obsolete signal transduction downstream of smoothened
+[2026-09-23T19:17:17]     OBSOLETE         GO:0007228  obsolete positive regulation of hh target transcription factor activity
+[2026-09-23T19:17:17]     OBSOLETE         GO:0007230  obsolete calcium-o-sensing receptor pathway
+[2026-09-23T19:17:17] ==================================================
+[2026-09-23T19:17:17] provider=local model=/home/maano.malima/llm-models/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf
+[2026-09-23T19:17:17] TOTAL: 59 LLM IDs across 6 disease lists
+[2026-09-23T19:17:17]   Contract A unsupported (not in allowed):     18
+[2026-09-23T19:17:17]   Contract B allowed but not enriched:         32
+[2026-09-23T19:17:17]   Contract A+B violated (not in enriched):     50
+[2026-09-23T19:17:17]   Valid enriched hits:                         9
+[2026-09-23T19:17:17]   QuickGO breakdown: {'WRONG_BIOLOGY': 9, 'OBSOLETE': 6, 'WRONG_BRANCH': 3}
+[2026-09-23T19:17:17] wrote llm_baseline_qwen2.5-7b-run012.json

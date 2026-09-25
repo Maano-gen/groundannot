@@ -1,0 +1,2888 @@
+{
+  "PANTHER": [
+    {
+      "id": "GO:0060047",
+      "label": "heart contraction",
+      "fdr": 2.586029185846534e-18,
+      "p_value": 3.758490205430614e-22,
+      "fold": 136.3734939759036,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048644",
+      "label": "muscle organ morphogenesis",
+      "fdr": 3.1844818660597585e-18,
+      "p_value": 1.1570677516386013e-21,
+      "fold": 190.55555555555554,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003015",
+      "label": "heart process",
+      "fdr": 3.242476556553291e-18,
+      "p_value": 1.4137678467640248e-21,
+      "fold": 121.70967741935485,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048738",
+      "label": "cardiac muscle tissue development",
+      "fdr": 3.3479384241778604e-18,
+      "p_value": 7.298753922341095e-22,
+      "fold": 88.20000000000002,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055008",
+      "label": "cardiac muscle tissue morphogenesis",
+      "fdr": 3.4559451445558214e-18,
+      "p_value": 2.51140552616512e-22,
+      "fold": 218.93617021276594,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060415",
+      "label": "muscle tissue morphogenesis",
+      "fdr": 3.980602332574698e-18,
+      "p_value": 1.1570677516386013e-21,
+      "fold": 190.55555555555554,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060048",
+      "label": "cardiac muscle contraction",
+      "fdr": 4.35592284490769e-17,
+      "p_value": 2.215788090571458e-20,
+      "fold": 144.92957746478874,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0014706",
+      "label": "striated muscle tissue development",
+      "fdr": 1.0295607258620207e-16,
+      "p_value": 5.985383189372985e-20,
+      "fold": 61.739999999999995,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060537",
+      "label": "muscle tissue development",
+      "fdr": 2.486804217989151e-16,
+      "p_value": 1.6264252570236435e-19,
+      "fold": 56.903225806451616,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007517",
+      "label": "muscle organ development",
+      "fdr": 2.645803540859504e-15,
+      "p_value": 1.9226826109000103e-18,
+      "fold": 64.67999999999999,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033275",
+      "label": "actin-myosin filament sliding",
+      "fdr": 6.05201334651539e-15,
+      "p_value": 4.837740484824453e-18,
+      "fold": 423.7058823529412,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055010",
+      "label": "ventricular cardiac muscle tissue morphogenesis",
+      "fdr": 8.72696729283903e-15,
+      "p_value": 7.610174225279294e-18,
+      "fold": 216.63157894736844,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061061",
+      "label": "muscle structure development",
+      "fdr": 2.6149418166388374e-14,
+      "p_value": 2.4703323607517538e-17,
+      "fold": 37.646341463414636,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003229",
+      "label": "ventricular cardiac muscle tissue development",
+      "fdr": 4.7875011332895234e-14,
+      "p_value": 4.870650088369546e-17,
+      "fold": 175.14893617021275,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006941",
+      "label": "striated muscle contraction",
+      "fdr": 6.089369313025692e-14,
+      "p_value": 6.637638230897854e-17,
+      "fold": 67.25490196078431,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008015",
+      "label": "blood circulation",
+      "fdr": 7.4672321276096e-14,
+      "p_value": 8.682197081734873e-17,
+      "fold": 33.92307692307692,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030048",
+      "label": "actin filament-based movement",
+      "fdr": 1.1251102603217352e-13,
+      "p_value": 1.389933465988627e-16,
+      "fold": 94.49999999999999,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006937",
+      "label": "regulation of muscle contraction",
+      "fdr": 1.1680633232992398e-13,
+      "p_value": 1.5278787747537472e-16,
+      "fold": 61.98795180722892,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007507",
+      "label": "heart development",
+      "fdr": 1.235653441704276e-13,
+      "p_value": 1.7060835253528992e-16,
+      "fold": 32.07272727272728,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003208",
+      "label": "cardiac ventricle morphogenesis",
+      "fdr": 1.9344171928645547e-13,
+      "p_value": 2.9520210050254814e-16,
+      "fold": 141.9310344827586,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003007",
+      "label": "heart morphogenesis",
+      "fdr": 2.022244801457634e-13,
+      "p_value": 2.9390957073724786e-16,
+      "fold": 58.13559322033899,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010927",
+      "label": "cellular component assembly involved in morphogenesis",
+      "fdr": 2.2410632830292725e-13,
+      "p_value": 3.7456911205343556e-16,
+      "fold": 84.96330275229359,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032989",
+      "label": "cellular anatomical entity morphogenesis",
+      "fdr": 2.342929795894239e-13,
+      "p_value": 3.7456911205343556e-16,
+      "fold": 84.96330275229359,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003012",
+      "label": "muscle system process",
+      "fdr": 2.973594047750095e-13,
+      "p_value": 5.402212861983314e-16,
+      "fold": 39.03103448275862,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030239",
+      "label": "myofibril assembly",
+      "fdr": 2.9794570879449365e-13,
+      "p_value": 5.196349837270437e-16,
+      "fold": 132.7741935483871,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008016",
+      "label": "regulation of heart contraction",
+      "fdr": 3.952825192965783e-13,
+      "p_value": 7.468458325493086e-16,
+      "fold": 53.04123711340206,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003013",
+      "label": "circulatory system process",
+      "fdr": 6.635519988771776e-13,
+      "p_value": 1.3019332875287986e-15,
+      "fold": 27.07894736842105,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030049",
+      "label": "muscle filament sliding",
+      "fdr": 8.994477789234868e-13,
+      "p_value": 1.8301386388967102e-15,
+      "fold": 411.6,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090257",
+      "label": "regulation of muscle system process",
+      "fdr": 2.167712034362104e-12,
+      "p_value": 4.5682471474820875e-15,
+      "fold": 44.35344827586207,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903522",
+      "label": "regulation of blood circulation",
+      "fdr": 3.3438580489069777e-12,
+      "p_value": 7.289858401802872e-15,
+      "fold": 42.34567901234568,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006936",
+      "label": "muscle contraction",
+      "fdr": 3.662024088163664e-12,
+      "p_value": 8.24960008233948e-15,
+      "fold": 41.829268292682926,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003231",
+      "label": "cardiac ventricle development",
+      "fdr": 4.1910686037581225e-12,
+      "p_value": 9.745962889343791e-15,
+      "fold": 93.54545454545455,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003206",
+      "label": "cardiac chamber morphogenesis",
+      "fdr": 5.3651267120151485e-12,
+      "p_value": 1.2866011299796518e-14,
+      "fold": 90.46153846153845,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030029",
+      "label": "actin filament-based process",
+      "fdr": 9.315238099353693e-12,
+      "p_value": 2.3015630795583575e-14,
+      "fold": 21.28965517241379,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055002",
+      "label": "striated muscle cell development",
+      "fdr": 1.2978274837008814e-11,
+      "p_value": 3.300920131497046e-14,
+      "fold": 80.70588235294119,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072359",
+      "label": "circulatory system development",
+      "fdr": 1.73216083102766e-11,
+      "p_value": 4.531486804519713e-14,
+      "fold": 20.110749185667753,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003205",
+      "label": "cardiac chamber development",
+      "fdr": 2.2240060902833554e-11,
+      "p_value": 6.141430959288388e-14,
+      "fold": 74.83636363636364,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031032",
+      "label": "actomyosin structure organization",
+      "fdr": 2.2841143629937162e-11,
+      "p_value": 6.141430959288388e-14,
+      "fold": 74.83636363636364,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055001",
+      "label": "muscle cell development",
+      "fdr": 4.731698651058856e-11,
+      "p_value": 1.3410089920158082e-13,
+      "fold": 68.03305785123968,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009653",
+      "label": "anatomical structure morphogenesis",
+      "fdr": 5.0084061359897614e-11,
+      "p_value": 1.4558262149523322e-13,
+      "fold": 9.951644100580273,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048729",
+      "label": "tissue morphogenesis",
+      "fdr": 1.161340858032484e-10,
+      "p_value": 3.5445328128307773e-13,
+      "fold": 28.743016759776538,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044057",
+      "label": "regulation of system process",
+      "fdr": 1.1794972221264598e-10,
+      "p_value": 3.5142348744411636e-13,
+      "fold": 21.642447418738048,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070252",
+      "label": "actin-mediated cell contraction",
+      "fdr": 1.6844052513486299e-10,
+      "p_value": 5.263383897099853e-13,
+      "fold": 94.77631578947368,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051146",
+      "label": "striated muscle cell differentiation",
+      "fdr": 2.413791855438034e-10,
+      "p_value": 7.717959569745912e-13,
+      "fold": 54.88000000000001,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009887",
+      "label": "animal organ morphogenesis",
+      "fdr": 3.3726053294714155e-10,
+      "p_value": 1.1028794406381347e-12,
+      "fold": 19.481927710843376,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045214",
+      "label": "sarcomere organization",
+      "fdr": 3.519281788084676e-10,
+      "p_value": 1.1764185905958512e-12,
+      "fold": 158.3076923076923,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006942",
+      "label": "regulation of striated muscle contraction",
+      "fdr": 1.1134583116950169e-09,
+      "p_value": 3.802960587869035e-12,
+      "fold": 72.03,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002026",
+      "label": "regulation of the force of heart contraction",
+      "fdr": 1.2287565335315385e-09,
+      "p_value": 4.286048514607503e-12,
+      "fold": 285.8333333333333,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009888",
+      "label": "tissue development",
+      "fdr": 1.53043504735276e-09,
+      "p_value": 5.449554343455072e-12,
+      "fold": 10.973748974569318,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042692",
+      "label": "muscle cell differentiation",
+      "fdr": 1.6976327529350888e-09,
+      "p_value": 6.168275390360762e-12,
+      "fold": 42.43298969072165,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032780",
+      "label": "negative regulation of ATP-dependent activity",
+      "fdr": 8.617336635567676e-08,
+      "p_value": 3.193693542721833e-10,
+      "fold": 343,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030036",
+      "label": "actin cytoskeleton organization",
+      "fdr": 9.966486427274151e-08,
+      "p_value": 3.7661310531084644e-10,
+      "fold": 18.44820717131474,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0140694",
+      "label": "membraneless organelle assembly",
+      "fdr": 1.578819004107291e-07,
+      "p_value": 6.080765003828676e-10,
+      "fold": 23.860869565217392,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0097435",
+      "label": "supramolecular fiber organization",
+      "fdr": 1.6010310476199465e-07,
+      "p_value": 6.282659441281673e-10,
+      "fold": 17.407894736842106,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055013",
+      "label": "cardiac muscle cell development",
+      "fdr": 1.6866683679925118e-07,
+      "p_value": 6.741280447611958e-10,
+      "fold": 111.84782608695653,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055003",
+      "label": "cardiac myofibril assembly",
+      "fdr": 2.160089765561605e-07,
+      "p_value": 8.790424160413478e-10,
+      "fold": 274.40000000000003,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055006",
+      "label": "cardiac cell development",
+      "fdr": 3.39267898664001e-07,
+      "p_value": 1.4052954163104467e-09,
+      "fold": 97.07547169811322,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048646",
+      "label": "anatomical structure formation involved in morphogenesis",
+      "fdr": 5.635706988611663e-07,
+      "p_value": 2.375343400475812e-09,
+      "fold": 14.961227786752827,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048513",
+      "label": "animal organ development",
+      "fdr": 6.759273466796979e-07,
+      "p_value": 2.8980243771602484e-09,
+      "fold": 6.645305514157973,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055007",
+      "label": "cardiac muscle cell differentiation",
+      "fdr": 8.506232628392126e-07,
+      "p_value": 3.708843526658873e-09,
+      "fold": 80.390625,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048731",
+      "label": "system development",
+      "fdr": 1.98903837368006e-06,
+      "p_value": 8.817043877224304e-09,
+      "fold": 5.282728272827283,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003008",
+      "label": "system process",
+      "fdr": 2.7435193962812002e-06,
+      "p_value": 1.236088965696057e-08,
+      "fold": 6.867630700778643,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035051",
+      "label": "cardiocyte differentiation",
+      "fdr": 4.860623681274148e-06,
+      "p_value": 2.22526918043944e-08,
+      "fold": 56.538461538461526,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043462",
+      "label": "regulation of ATP-dependent activity",
+      "fdr": 5.516752952985498e-06,
+      "p_value": 2.6058349098470852e-08,
+      "fold": 124.72727272727273,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003009",
+      "label": "skeletal muscle contraction",
+      "fdr": 5.602952217875897e-06,
+      "p_value": 2.6058349098470852e-08,
+      "fold": 124.72727272727273,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007275",
+      "label": "multicellular organism development",
+      "fdr": 5.696296457009477e-06,
+      "p_value": 2.7320366700285263e-08,
+      "fold": 4.847240915208614,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070925",
+      "label": "organelle assembly",
+      "fdr": 7.44453159258518e-06,
+      "p_value": 3.624617518372263e-08,
+      "fold": 10.933884297520661,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050881",
+      "label": "musculoskeletal movement",
+      "fdr": 8.4900610902625e-06,
+      "p_value": 4.195364829139234e-08,
+      "fold": 111.24324324324324,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050879",
+      "label": "multicellular organismal movement",
+      "fdr": 9.34555151856508e-06,
+      "p_value": 4.686018856049636e-08,
+      "fold": 108.31578947368422,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048856",
+      "label": "anatomical structure development",
+      "fdr": 3.663904650010406e-05,
+      "p_value": 1.863769533469431e-07,
+      "fold": 3.7363834422657947,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007010",
+      "label": "cytoskeleton organization",
+      "fdr": 0.00013707592984601156,
+      "p_value": 7.072444603638413e-07,
+      "fold": 7.717500000000001,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032502",
+      "label": "developmental process",
+      "fdr": 0.0001400717207693569,
+      "p_value": 7.32880160990749e-07,
+      "fold": 3.3833844804910123,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032970",
+      "label": "regulation of actin filament-based process",
+      "fdr": 0.00016858937471296798,
+      "p_value": 8.943408439827529e-07,
+      "fold": 17.055248618784532,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055117",
+      "label": "regulation of cardiac muscle contraction",
+      "fdr": 0.000183769783615796,
+      "p_value": 1.0282881577222797e-06,
+      "fold": 50.81481481481482,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030154",
+      "label": "cell differentiation",
+      "fdr": 0.00018391030439092584,
+      "p_value": 9.889806354864118e-07,
+      "fold": 4.6368757040931285,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048869",
+      "label": "cellular developmental process",
+      "fdr": 0.0001852223609603742,
+      "p_value": 1.0094961901045029e-06,
+      "fold": 4.628185907046476,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050905",
+      "label": "neuromuscular process",
+      "fdr": 0.00018618780708442488,
+      "p_value": 1.0282881577222797e-06,
+      "fold": 50.81481481481482,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048468",
+      "label": "cell development",
+      "fdr": 0.00019139938238136618,
+      "p_value": 1.0848885855494923e-06,
+      "fold": 6.135957066189625,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0065008",
+      "label": "regulation of biological quality",
+      "fdr": 0.00020608516211115512,
+      "p_value": 1.1831064462452768e-06,
+      "fold": 4.561507203546362,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044092",
+      "label": "negative regulation of molecular function",
+      "fdr": 0.0002917682388535568,
+      "p_value": 1.6962036994611255e-06,
+      "fold": 23.70967741935484,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032971",
+      "label": "regulation of muscle filament sliding",
+      "fdr": 0.00045703226221280904,
+      "p_value": 2.690183361618889e-06,
+      "fold": 686,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032501",
+      "label": "multicellular organismal process",
+      "fdr": 0.0008090156392949402,
+      "p_value": 4.820818430505421e-06,
+      "fold": 2.945610687022901,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903115",
+      "label": "regulation of actin filament-based movement",
+      "fdr": 0.0013548273610808474,
+      "p_value": 8.171693261369837e-06,
+      "fold": 75.29268292682927,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051239",
+      "label": "regulation of multicellular organismal process",
+      "fdr": 0.0016634811334324507,
+      "p_value": 1.0154234082430482e-05,
+      "fold": 4.203119197920535,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030240",
+      "label": "skeletal muscle thin filament assembly",
+      "fdr": 0.0021738171816978596,
+      "p_value": 1.342740065724279e-05,
+      "fold": 343,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035995",
+      "label": "detection of muscle stretch",
+      "fdr": 0.0030062025081204905,
+      "p_value": 1.8787400312358272e-05,
+      "fold": 294,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0014866",
+      "label": "skeletal myofibril assembly",
+      "fdr": 0.005088316023171891,
+      "p_value": 3.216942765903311e-05,
+      "fold": 228.66666666666666,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055074",
+      "label": "calcium ion homeostasis",
+      "fdr": 0.005692134049454528,
+      "p_value": 3.640053748651976e-05,
+      "fold": 20.683417085427134,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055080",
+      "label": "monoatomic cation homeostasis",
+      "fdr": 0.009611592757779366,
+      "p_value": 6.216348778739651e-05,
+      "fold": 11.258205689277899,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050801",
+      "label": "monoatomic ion homeostasis",
+      "fdr": 0.010746556384870931,
+      "p_value": 7.028486844258294e-05,
+      "fold": 10.970149253731343,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032386",
+      "label": "regulation of intracellular transport",
+      "fdr": 0.014210014014386638,
+      "p_value": 9.396928096135339e-05,
+      "fold": 16.20472440944882,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007015",
+      "label": "actin filament organization",
+      "fdr": 0.014488104682042827,
+      "p_value": 9.686110244516679e-05,
+      "fold": 16.078125,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002027",
+      "label": "regulation of heart rate",
+      "fdr": 0.016653255587745604,
+      "p_value": 0.00011254652784393148,
+      "fold": 31.499999999999996,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006996",
+      "label": "organelle organization",
+      "fdr": 0.019490594489398657,
+      "p_value": 0.0001331382807937994,
+      "fold": 3.582869080779944,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003300",
+      "label": "cardiac muscle hypertrophy",
+      "fdr": 0.019495391520320794,
+      "p_value": 0.0001360044753979214,
+      "fold": 114.33333333333333,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035994",
+      "label": "response to muscle stretch",
+      "fdr": 0.019700606167903117,
+      "p_value": 0.0001360044753979214,
+      "fold": 114.33333333333333,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0014897",
+      "label": "striated muscle hypertrophy",
+      "fdr": 0.021551770659820963,
+      "p_value": 0.00015191641261555364,
+      "fold": 108.31578947368422,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0014896",
+      "label": "muscle hypertrophy",
+      "fdr": 0.0259021815545335,
+      "p_value": 0.0001863466298887302,
+      "fold": 97.99999999999999,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050789",
+      "label": "regulation of biological process",
+      "fdr": 0.026045565746248334,
+      "p_value": 0.0001854854620399925,
+      "fold": 1.6905317769131,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010038",
+      "label": "response to metal ion",
+      "fdr": 0.027143670455712678,
+      "p_value": 0.00019725071183571456,
+      "fold": 13.363636363636363,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0022607",
+      "label": "cellular component assembly",
+      "fdr": 0.04217322702634293,
+      "p_value": 0.0003095338950411043,
+      "fold": 3.640330188679245,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051049",
+      "label": "regulation of transport",
+      "fdr": 0.04234662438736643,
+      "p_value": 0.0003138838520101283,
+      "fold": 4.906675749318802,
+      "source": "PANTHER"
+    }
+  ],
+  "Enrichr": [
+    {
+      "id": "GO:0060047",
+      "label": "Heart Contraction",
+      "fdr": 1.82564889031042e-20,
+      "p_value": 7.244638453612777e-23,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060048",
+      "label": "Cardiac Muscle Contraction",
+      "fdr": 7.776386056974979e-19,
+      "p_value": 6.1717349658531584e-21,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006941",
+      "label": "Striated Muscle Contraction",
+      "fdr": 6.220739387374336e-17,
+      "p_value": 7.405642127826591e-19,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0055008",
+      "label": "Cardiac Muscle Tissue Morphogenesis",
+      "fdr": 7.234600317037596e-17,
+      "p_value": 1.1483492566726342e-18,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003229",
+      "label": "Ventricular Cardiac Muscle Tissue Development",
+      "fdr": 5.275262219175765e-15,
+      "p_value": 1.0466790117412232e-16,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0055010",
+      "label": "Ventricular Cardiac Muscle Tissue Morphogenesis",
+      "fdr": 5.39887235072596e-14,
+      "p_value": 1.2854457977918953e-15,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003208",
+      "label": "Cardiac Ventricle Morphogenesis",
+      "fdr": 2.9075935927619877e-13,
+      "p_value": 8.0766488687833e-15,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030239",
+      "label": "Myofibril Assembly",
+      "fdr": 1.0862589926568805e-12,
+      "p_value": 3.4484412465297794e-14,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030049",
+      "label": "Muscle Filament Sliding",
+      "fdr": 2.0849434777285938e-11,
+      "p_value": 7.446226706173549e-13,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033275",
+      "label": "Actin-Myosin Filament Sliding",
+      "fdr": 4.373004366746806e-11,
+      "p_value": 1.7353191931534946e-12,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006937",
+      "label": "Regulation of Muscle Contraction",
+      "fdr": 1.8690870152243354e-09,
+      "p_value": 8.158713161693527e-11,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045214",
+      "label": "Sarcomere Organization",
+      "fdr": 3.3371181260985194e-09,
+      "p_value": 1.5891038695707234e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0031032",
+      "label": "Actomyosin Structure Organization",
+      "fdr": 3.5271525550492516e-09,
+      "p_value": 1.819562826017471e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032781",
+      "label": "Positive Regulation of ATP-dependent Activity",
+      "fdr": 4.0461422785293846e-07,
+      "p_value": 2.2478568214052138e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006936",
+      "label": "Muscle Contraction",
+      "fdr": 5.94458880767309e-07,
+      "p_value": 3.53844571885303e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008015",
+      "label": "Blood Circulation",
+      "fdr": 2.1657188152444334e-06,
+      "p_value": 1.3750595652345608e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032780",
+      "label": "Negative Regulation of ATP-dependent Activity",
+      "fdr": 4.581321120633133e-06,
+      "p_value": 3.0905737718556846e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0055003",
+      "label": "Cardiac Myofibril Assembly",
+      "fdr": 5.405072733612647e-06,
+      "p_value": 3.860766238294748e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003015",
+      "label": "Heart Process",
+      "fdr": 6.298270994953351e-06,
+      "p_value": 4.7486963850838756e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007507",
+      "label": "Heart Development",
+      "fdr": 7.586124084764484e-06,
+      "p_value": 6.020733400606734e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003009",
+      "label": "Skeletal Muscle Contraction",
+      "fdr": 9.841553666600381e-06,
+      "p_value": 8.201294722166984e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0055013",
+      "label": "Cardiac Muscle Cell Development",
+      "fdr": 2.2213002696231167e-05,
+      "p_value": 1.939230394115419e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006942",
+      "label": "Regulation of Striated Muscle Contraction",
+      "fdr": 3.0205714907085723e-05,
+      "p_value": 2.756870805011792e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0055074",
+      "label": "Calcium Ion Homeostasis",
+      "fdr": 3.4198865211125943e-05,
+      "p_value": 3.257034782011995e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903522",
+      "label": "Regulation of Blood Circulation",
+      "fdr": 6.025865521226295e-05,
+      "p_value": 5.978041191692753e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030240",
+      "label": "Skeletal Muscle Thin Filament Assembly",
+      "fdr": 9.190999731310262e-05,
+      "p_value": 9.482777500558207e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035995",
+      "label": "Detection of Muscle Stretch",
+      "fdr": 0.0001326798096573951,
+      "p_value": 1.4215693891863761e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007015",
+      "label": "Actin Filament Organization",
+      "fdr": 0.00014813560259587107,
+      "p_value": 1.645951139954123e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003300",
+      "label": "Cardiac Muscle Hypertrophy",
+      "fdr": 0.00016707684395842203,
+      "p_value": 1.9890100471240717e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0014866",
+      "label": "Skeletal Myofibril Assembly",
+      "fdr": 0.00016707684395842203,
+      "p_value": 1.9890100471240717e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903115",
+      "label": "Regulation of Actin Filament-Based Movement",
+      "fdr": 0.0002768471837526994,
+      "p_value": 3.405659800132413e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090257",
+      "label": "Regulation of Muscle System Process",
+      "fdr": 0.0003350442402286685,
+      "p_value": 4.2545300346497585e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008016",
+      "label": "Regulation of Heart Contraction",
+      "fdr": 0.0003424875008070778,
+      "p_value": 4.484955367711733e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035994",
+      "label": "Response to Muscle Stretch",
+      "fdr": 0.00063615440817523,
+      "p_value": 8.583035665856277e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901019",
+      "label": "Regulation of Calcium Ion Transmembrane Transporter Activity",
+      "fdr": 0.0010365331238872965,
+      "p_value": 0.00014396293387323563,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050982",
+      "label": "Detection of Mechanical Stimulus",
+      "fdr": 0.00112562383798553,
+      "p_value": 0.0001608034054265043,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006874",
+      "label": "Intracellular Calcium Ion Homeostasis",
+      "fdr": 0.002388619586612275,
+      "p_value": 0.0003507100186692626,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0055117",
+      "label": "Regulation of Cardiac Muscle Contraction",
+      "fdr": 0.0034671783266724144,
+      "p_value": 0.0005228284778315545,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030003",
+      "label": "Intracellular Monoatomic Cation Homeostasis",
+      "fdr": 0.0073674436507184275,
+      "p_value": 0.0011401996126111852,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048738",
+      "label": "Cardiac Muscle Tissue Development",
+      "fdr": 0.0074101091163949,
+      "p_value": 0.0011762077962531588,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003007",
+      "label": "Heart Morphogenesis",
+      "fdr": 0.009017019526270237,
+      "p_value": 0.0014670547641947606,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046034",
+      "label": "ATP Metabolic Process",
+      "fdr": 0.010398149958424344,
+      "p_value": 0.001733024993070724,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051592",
+      "label": "Response to Calcium Ion",
+      "fdr": 0.023512099722098063,
+      "p_value": 0.004011985270040543,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901897",
+      "label": "Regulation of Relaxation of Cardiac Muscle",
+      "fdr": 0.025460989264872624,
+      "p_value": 0.00499044069595166,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0017038",
+      "label": "Protein Import",
+      "fdr": 0.025460989264872624,
+      "p_value": 0.00499044069595166,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071211",
+      "label": "Protein Targeting to Vacuole Involved in Autophagy",
+      "fdr": 0.025460989264872624,
+      "p_value": 0.00499044069595166,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901894",
+      "label": "Regulation of ATPase-coupled Calcium Transmembrane Transporter Activity",
+      "fdr": 0.025460989264872624,
+      "p_value": 0.00499044069595166,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042491",
+      "label": "Inner Ear Auditory Receptor Cell Differentiation",
+      "fdr": 0.025460989264872624,
+      "p_value": 0.00499044069595166,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0014897",
+      "label": "Striated Muscle Hypertrophy",
+      "fdr": 0.025460989264872624,
+      "p_value": 0.00499044069595166,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010557",
+      "label": "Positive Regulation of Macromolecule Biosynthetic Process",
+      "fdr": 0.025460989264872624,
+      "p_value": 0.005051783584300124,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901077",
+      "label": "Regulation of Relaxation of Muscle",
+      "fdr": 0.026935608900353267,
+      "p_value": 0.0059856908667451705,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032107",
+      "label": "Regulation of Response to Nutrient Levels",
+      "fdr": 0.026935608900353267,
+      "p_value": 0.0059856908667451705,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1905146",
+      "label": "Lysosomal Protein Catabolic Process",
+      "fdr": 0.026935608900353267,
+      "p_value": 0.0059856908667451705,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010459",
+      "label": "Negative Regulation of Heart Rate",
+      "fdr": 0.026935608900353267,
+      "p_value": 0.0059856908667451705,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060113",
+      "label": "Inner Ear Receptor Cell Differentiation",
+      "fdr": 0.026935608900353267,
+      "p_value": 0.0059856908667451705,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0086036",
+      "label": "Regulation of Cardiac Muscle Cell Membrane Potential",
+      "fdr": 0.026935608900353267,
+      "p_value": 0.0059856908667451705,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000145",
+      "label": "Regulation of Cell Motility",
+      "fdr": 0.029315982755559303,
+      "p_value": 0.0069461182181489774,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035315",
+      "label": "Hair Cell Differentiation",
+      "fdr": 0.029315982755559303,
+      "p_value": 0.006979995894180786,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060316",
+      "label": "Positive Regulation of Ryanodine-Sensitive Calcium-Release Channel Activity",
+      "fdr": 0.029315982755559303,
+      "p_value": 0.006979995894180786,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045475",
+      "label": "Locomotor Rhythm",
+      "fdr": 0.029315982755559303,
+      "p_value": 0.006979995894180786,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072359",
+      "label": "Circulatory System Development",
+      "fdr": 0.03091208987064473,
+      "p_value": 0.0075988978232358175,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060402",
+      "label": "Calcium Ion Transport Into Cytosol",
+      "fdr": 0.03091208987064473,
+      "p_value": 0.0079733565142536,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007039",
+      "label": "Protein Catabolic Process in the Vacuole",
+      "fdr": 0.03091208987064473,
+      "p_value": 0.0079733565142536,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006144",
+      "label": "Purine Nucleobase Metabolic Process",
+      "fdr": 0.03091208987064473,
+      "p_value": 0.0079733565142536,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007512",
+      "label": "Adult Heart Development",
+      "fdr": 0.03091208987064473,
+      "p_value": 0.0079733565142536,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009267",
+      "label": "Cellular Response to Starvation",
+      "fdr": 0.032744564073507114,
+      "p_value": 0.008628173315752068,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030155",
+      "label": "Regulation of Cell Adhesion",
+      "fdr": 0.032744564073507114,
+      "p_value": 0.008746210464336586,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010628",
+      "label": "Positive Regulation of Gene Expression",
+      "fdr": 0.032744564073507114,
+      "p_value": 0.008902480263565752,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0031103",
+      "label": "Axon Regeneration",
+      "fdr": 0.032744564073507114,
+      "p_value": 0.008965773496317424,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045722",
+      "label": "Positive Regulation of Gluconeogenesis",
+      "fdr": 0.03390846488304488,
+      "p_value": 0.009957247624386196,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0044042",
+      "label": "Glucan Metabolic Process",
+      "fdr": 0.03390846488304488,
+      "p_value": 0.009957247624386196,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042693",
+      "label": "Muscle Cell Fate Commitment",
+      "fdr": 0.03390846488304488,
+      "p_value": 0.009957247624386196,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0038166",
+      "label": "Angiotensin-Activated Signaling Pathway",
+      "fdr": 0.03390846488304488,
+      "p_value": 0.009957247624386196,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090281",
+      "label": "Negative Regulation of Calcium Ion Import",
+      "fdr": 0.03390846488304488,
+      "p_value": 0.009957247624386196,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045822",
+      "label": "Negative Regulation of Heart Contraction",
+      "fdr": 0.03536974980922702,
+      "p_value": 0.010947779702855981,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032387",
+      "label": "Negative Regulation of Intracellular Transport",
+      "fdr": 0.03536974980922702,
+      "p_value": 0.010947779702855981,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009206",
+      "label": "Purine Ribonucleoside Triphosphate Biosynthetic Process",
+      "fdr": 0.03536974980922702,
+      "p_value": 0.010947779702855981,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033121",
+      "label": "Regulation of Purine Nucleotide Catabolic Process",
+      "fdr": 0.03536974980922702,
+      "p_value": 0.010947779702855981,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030334",
+      "label": "Regulation of Cell Migration",
+      "fdr": 0.035812111621003034,
+      "p_value": 0.011493311752149226,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010737",
+      "label": "Protein Kinase A Signaling",
+      "fdr": 0.035812111621003034,
+      "p_value": 0.011937370540334344,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0055119",
+      "label": "Relaxation of Cardiac Muscle",
+      "fdr": 0.035812111621003034,
+      "p_value": 0.011937370540334344,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008542",
+      "label": "Visual Learning",
+      "fdr": 0.035812111621003034,
+      "p_value": 0.011937370540334344,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010565",
+      "label": "Regulation of Ketone Metabolic Process",
+      "fdr": 0.035812111621003034,
+      "p_value": 0.011937370540334344,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060537",
+      "label": "Muscle Tissue Development",
+      "fdr": 0.035812111621003034,
+      "p_value": 0.011937370540334344,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0055006",
+      "label": "Cardiac Cell Development",
+      "fdr": 0.03744088827734776,
+      "p_value": 0.01292602095289387,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904752",
+      "label": "Regulation of Vascular Associated Smooth Muscle Cell Migration",
+      "fdr": 0.03744088827734776,
+      "p_value": 0.01292602095289387,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043470",
+      "label": "Regulation of Carbohydrate Catabolic Process",
+      "fdr": 0.03744088827734776,
+      "p_value": 0.01292602095289387,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010460",
+      "label": "Positive Regulation of Heart Rate",
+      "fdr": 0.038530334106886235,
+      "p_value": 0.013913731760820029,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090075",
+      "label": "Relaxation of Muscle",
+      "fdr": 0.038530334106886235,
+      "p_value": 0.013913731760820029,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0014912",
+      "label": "Negative Regulation of Smooth Muscle Cell Migration",
+      "fdr": 0.038530334106886235,
+      "p_value": 0.013913731760820029,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070593",
+      "label": "Dendrite Self-Avoidance",
+      "fdr": 0.038530334106886235,
+      "p_value": 0.013913731760820029,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046320",
+      "label": "Regulation of Fatty Acid Oxidation",
+      "fdr": 0.039946031434068524,
+      "p_value": 0.014900503788898576,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903578",
+      "label": "Regulation of ATP Metabolic Process",
+      "fdr": 0.039946031434068524,
+      "p_value": 0.014900503788898576,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1900226",
+      "label": "Negative Regulation of NLRP3 Inflammasome Complex Assembly",
+      "fdr": 0.039946031434068524,
+      "p_value": 0.014900503788898576,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060314",
+      "label": "Regulation of Ryanodine-Sensitive Calcium-Release Channel Activity",
+      "fdr": 0.04003357141901786,
+      "p_value": 0.015886337864689626,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043271",
+      "label": "Negative Regulation of Monoatomic Ion Transport",
+      "fdr": 0.04003357141901786,
+      "p_value": 0.015886337864689626,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045662",
+      "label": "Negative Regulation of Myoblast Differentiation",
+      "fdr": 0.04003357141901786,
+      "p_value": 0.015886337864689626,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007076",
+      "label": "Mitotic Chromosome Condensation",
+      "fdr": 0.04003357141901786,
+      "p_value": 0.015886337864689626,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0031529",
+      "label": "Ruffle Organization",
+      "fdr": 0.04003357141901786,
+      "p_value": 0.015886337864689626,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051926",
+      "label": "Negative Regulation of Calcium Ion Transport",
+      "fdr": 0.04003357141901786,
+      "p_value": 0.015886337864689626,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051046",
+      "label": "Regulation of Secretion",
+      "fdr": 0.04010897333917579,
+      "p_value": 0.016871234817272356,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032413",
+      "label": "Negative Regulation of Ion Transmembrane Transporter Activity",
+      "fdr": 0.04010897333917579,
+      "p_value": 0.016871234817272356,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010827",
+      "label": "Regulation of D-glucose Transmembrane Transport",
+      "fdr": 0.04010897333917579,
+      "p_value": 0.016871234817272356,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0055001",
+      "label": "Muscle Cell Development",
+      "fdr": 0.04010897333917579,
+      "p_value": 0.016871234817272356,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060415",
+      "label": "Muscle Tissue Morphogenesis",
+      "fdr": 0.04010897333917579,
+      "p_value": 0.016871234817272356,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904706",
+      "label": "Negative Regulation of Vascular Associated Smooth Muscle Cell Proliferation",
+      "fdr": 0.04010897333917579,
+      "p_value": 0.016871234817272356,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010907",
+      "label": "Positive Regulation of Glucose Metabolic Process",
+      "fdr": 0.041662122778430996,
+      "p_value": 0.017855195476470426,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901021",
+      "label": "Positive Regulation of Calcium Ion Transmembrane Transporter Activity",
+      "fdr": 0.041662122778430996,
+      "p_value": 0.017855195476470426,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0141086",
+      "label": "Negative Regulation of Inflammasome-Mediated Signaling Pathway",
+      "fdr": 0.043057917517538694,
+      "p_value": 0.018838220672014273,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901020",
+      "label": "Negative Regulation of Calcium Ion Transmembrane Transporter Activity",
+      "fdr": 0.043057917517538694,
+      "p_value": 0.018838220672014273,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006112",
+      "label": "Energy Reserve Metabolic Process",
+      "fdr": 0.043057917517538694,
+      "p_value": 0.019820311238232097,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007042",
+      "label": "Lysosomal Lumen Acidification",
+      "fdr": 0.043057917517538694,
+      "p_value": 0.019820311238232097,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019217",
+      "label": "Regulation of Fatty Acid Metabolic Process",
+      "fdr": 0.043057917517538694,
+      "p_value": 0.019820311238232097,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0005977",
+      "label": "Glycogen Metabolic Process",
+      "fdr": 0.043057917517538694,
+      "p_value": 0.019820311238232097,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007528",
+      "label": "Neuromuscular Junction Development",
+      "fdr": 0.043057917517538694,
+      "p_value": 0.019820311238232097,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008306",
+      "label": "Associative Learning",
+      "fdr": 0.043057917517538694,
+      "p_value": 0.019820311238232097,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001558",
+      "label": "Regulation of Cell Growth",
+      "fdr": 0.04401154998987196,
+      "p_value": 0.020433933923869125,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043467",
+      "label": "Regulation of Generation of Precursor Metabolites and Energy",
+      "fdr": 0.04405016755269595,
+      "p_value": 0.020801468010995312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903170",
+      "label": "Negative Regulation of Calcium Ion Transmembrane Transport",
+      "fdr": 0.04405016755269595,
+      "p_value": 0.020801468010995312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048041",
+      "label": "Focal Adhesion Assembly",
+      "fdr": 0.04499169128984325,
+      "p_value": 0.02178169181492411,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090279",
+      "label": "Regulation of Calcium Ion Import",
+      "fdr": 0.04499169128984325,
+      "p_value": 0.02178169181492411,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010882",
+      "label": "Regulation of Cardiac Muscle Contraction by Calcium Ion Signaling",
+      "fdr": 0.04499169128984325,
+      "p_value": 0.02178169181492411,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006754",
+      "label": "ATP Biosynthetic Process",
+      "fdr": 0.04785851723485845,
+      "p_value": 0.023739343866497245,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006622",
+      "label": "Protein Targeting to Lysosome",
+      "fdr": 0.04785851723485845,
+      "p_value": 0.023739343866497245,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042471",
+      "label": "Ear Morphogenesis",
+      "fdr": 0.04785851723485845,
+      "p_value": 0.023739343866497245,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043086",
+      "label": "Negative Regulation of Catalytic Activity",
+      "fdr": 0.04904430702504067,
+      "p_value": 0.02471677377849272,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006694",
+      "label": "Steroid Biosynthetic Process",
+      "fdr": 0.04904430702504067,
+      "p_value": 0.02471677377849272,
+      "fold": null,
+      "source": "Enrichr"
+    }
+  ],
+  "g:Profiler": [
+    {
+      "id": "GO:0030017",
+      "label": "sarcomere",
+      "fdr": 1.0696909929577097e-20,
+      "p_value": 1.0696909929577097e-20,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0030016",
+      "label": "myofibril",
+      "fdr": 4.6264537342805873e-20,
+      "p_value": 4.6264537342805873e-20,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-390522",
+      "label": "Striated Muscle Contraction",
+      "fdr": 8.826158751996418e-20,
+      "p_value": 8.826158751996418e-20,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0043292",
+      "label": "contractile muscle fiber",
+      "fdr": 9.435712861442221e-20,
+      "p_value": 9.435712861442221e-20,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0055008",
+      "label": "cardiac muscle tissue morphogenesis",
+      "fdr": 1.8484711753590974e-18,
+      "p_value": 1.8484711753590974e-18,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0048644",
+      "label": "muscle organ morphogenesis",
+      "fdr": 6.104839872792624e-18,
+      "p_value": 6.104839872792624e-18,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0060415",
+      "label": "muscle tissue morphogenesis",
+      "fdr": 6.104839872792624e-18,
+      "p_value": 6.104839872792624e-18,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0033275",
+      "label": "actin-myosin filament sliding",
+      "fdr": 1.1288710453421649e-16,
+      "p_value": 1.1288710453421649e-16,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0060048",
+      "label": "cardiac muscle contraction",
+      "fdr": 3.498330445242523e-16,
+      "p_value": 3.498330445242523e-16,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:05410",
+      "label": "Hypertrophic cardiomyopathy",
+      "fdr": 4.551487313648465e-16,
+      "p_value": 4.551487313648465e-16,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0060047",
+      "label": "heart contraction",
+      "fdr": 7.807643091457409e-16,
+      "p_value": 7.807643091457409e-16,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:05414",
+      "label": "Dilated cardiomyopathy",
+      "fdr": 8.023888016910724e-16,
+      "p_value": 8.023888016910724e-16,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0003015",
+      "label": "heart process",
+      "fdr": 1.0737908937637669e-15,
+      "p_value": 1.0737908937637669e-15,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0048738",
+      "label": "cardiac muscle tissue development",
+      "fdr": 2.531387039037285e-15,
+      "p_value": 2.531387039037285e-15,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006941",
+      "label": "striated muscle contraction",
+      "fdr": 5.179874911883598e-15,
+      "p_value": 5.179874911883598e-15,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0008307",
+      "label": "structural constituent of muscle",
+      "fdr": 1.7029954793677762e-14,
+      "p_value": 1.7029954793677762e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0055010",
+      "label": "ventricular cardiac muscle tissue morphogenesis",
+      "fdr": 3.478296076832377e-14,
+      "p_value": 3.478296076832377e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030049",
+      "label": "muscle filament sliding",
+      "fdr": 3.614470316288282e-14,
+      "p_value": 3.614470316288282e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0007517",
+      "label": "muscle organ development",
+      "fdr": 6.111574386942758e-14,
+      "p_value": 6.111574386942758e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030048",
+      "label": "actin filament-based movement",
+      "fdr": 6.963144357669139e-14,
+      "p_value": 6.963144357669139e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-397014",
+      "label": "Muscle contraction",
+      "fdr": 8.087624979432132e-14,
+      "p_value": 8.087624979432132e-14,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:04820",
+      "label": "Cytoskeleton in muscle cells",
+      "fdr": 1.0771839682314338e-13,
+      "p_value": 1.0771839682314338e-13,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0099081",
+      "label": "supramolecular polymer",
+      "fdr": 1.313706220874289e-13,
+      "p_value": 1.313706220874289e-13,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0099512",
+      "label": "supramolecular fiber",
+      "fdr": 1.313706220874289e-13,
+      "p_value": 1.313706220874289e-13,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0003229",
+      "label": "ventricular cardiac muscle tissue development",
+      "fdr": 1.4064951908695868e-13,
+      "p_value": 1.4064951908695868e-13,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0014706",
+      "label": "striated muscle tissue development",
+      "fdr": 2.561931631252422e-13,
+      "p_value": 2.561931631252422e-13,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0060537",
+      "label": "muscle tissue development",
+      "fdr": 5.569910235427596e-13,
+      "p_value": 5.569910235427596e-13,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003208",
+      "label": "cardiac ventricle morphogenesis",
+      "fdr": 1.2943823791368516e-12,
+      "p_value": 1.2943823791368516e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0070252",
+      "label": "actin-mediated cell contraction",
+      "fdr": 1.82856857434319e-12,
+      "p_value": 1.82856857434319e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0008015",
+      "label": "blood circulation",
+      "fdr": 1.8297989719417553e-12,
+      "p_value": 1.8297989719417553e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003007",
+      "label": "heart morphogenesis",
+      "fdr": 2.4549531236426487e-12,
+      "p_value": 2.4549531236426487e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0015629",
+      "label": "actin cytoskeleton",
+      "fdr": 2.526152204472558e-12,
+      "p_value": 2.526152204472558e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0008092",
+      "label": "cytoskeletal protein binding",
+      "fdr": 2.526803681747016e-12,
+      "p_value": 2.526803681747016e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0006936",
+      "label": "muscle contraction",
+      "fdr": 3.3379491852942694e-12,
+      "p_value": 3.3379491852942694e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003779",
+      "label": "actin binding",
+      "fdr": 4.367372238105975e-12,
+      "p_value": 4.367372238105975e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0061061",
+      "label": "muscle structure development",
+      "fdr": 9.50309389872151e-12,
+      "p_value": 9.50309389872151e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003013",
+      "label": "circulatory system process",
+      "fdr": 2.0822397784745087e-11,
+      "p_value": 2.0822397784745087e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003012",
+      "label": "muscle system process",
+      "fdr": 2.3818243963664084e-11,
+      "p_value": 2.3818243963664084e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003231",
+      "label": "cardiac ventricle development",
+      "fdr": 2.712124003373087e-11,
+      "p_value": 2.712124003373087e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0036379",
+      "label": "myofilament",
+      "fdr": 4.21823724030223e-11,
+      "p_value": 4.21823724030223e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0003206",
+      "label": "cardiac chamber morphogenesis",
+      "fdr": 5.64706143180745e-11,
+      "p_value": 5.64706143180745e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0007507",
+      "label": "heart development",
+      "fdr": 6.31370088585148e-11,
+      "p_value": 6.31370088585148e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030029",
+      "label": "actin filament-based process",
+      "fdr": 1.7812412764144606e-10,
+      "p_value": 1.7812412764144606e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04260",
+      "label": "Cardiac muscle contraction",
+      "fdr": 1.904084250586077e-10,
+      "p_value": 1.904084250586077e-10,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0003205",
+      "label": "cardiac chamber development",
+      "fdr": 2.2307314741360625e-10,
+      "p_value": 2.2307314741360625e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0010927",
+      "label": "cellular component assembly involved in morphogenesis",
+      "fdr": 2.425232202785993e-10,
+      "p_value": 2.425232202785993e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032989",
+      "label": "cellular anatomical entity morphogenesis",
+      "fdr": 2.425232202785993e-10,
+      "p_value": 2.425232202785993e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04261",
+      "label": "Adrenergic signaling in cardiomyocytes",
+      "fdr": 3.5317635147561974e-10,
+      "p_value": 3.5317635147561974e-10,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0030239",
+      "label": "myofibril assembly",
+      "fdr": 6.96358359900636e-10,
+      "p_value": 6.96358359900636e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006937",
+      "label": "regulation of muscle contraction",
+      "fdr": 1.0233038412684e-09,
+      "p_value": 1.0233038412684e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0097512",
+      "label": "cardiac myofibril",
+      "fdr": 1.1375985984173095e-09,
+      "p_value": 1.1375985984173095e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0048729",
+      "label": "tissue morphogenesis",
+      "fdr": 2.4735985974379158e-09,
+      "p_value": 2.4735985974379158e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0099080",
+      "label": "supramolecular complex",
+      "fdr": 2.885969411021436e-09,
+      "p_value": 2.885969411021436e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "KEGG:04814",
+      "label": "Motor proteins",
+      "fdr": 3.030326597839469e-09,
+      "p_value": 3.030326597839469e-09,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0051015",
+      "label": "actin filament binding",
+      "fdr": 5.416494134293506e-09,
+      "p_value": 5.416494134293506e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005865",
+      "label": "striated muscle thin filament",
+      "fdr": 5.524987021613574e-09,
+      "p_value": 5.524987021613574e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0009887",
+      "label": "animal organ morphogenesis",
+      "fdr": 6.237872402497493e-09,
+      "p_value": 6.237872402497493e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0090257",
+      "label": "regulation of muscle system process",
+      "fdr": 1.0958973662888309e-08,
+      "p_value": 1.0958973662888309e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0044057",
+      "label": "regulation of system process",
+      "fdr": 1.1035046260001869e-08,
+      "p_value": 1.1035046260001869e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0008016",
+      "label": "regulation of heart contraction",
+      "fdr": 1.341036947415479e-08,
+      "p_value": 1.341036947415479e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002026",
+      "label": "regulation of the force of heart contraction",
+      "fdr": 1.9777994066053725e-08,
+      "p_value": 1.9777994066053725e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0043462",
+      "label": "regulation of ATP-dependent activity",
+      "fdr": 3.325552292376439e-08,
+      "p_value": 3.325552292376439e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0055002",
+      "label": "striated muscle cell development",
+      "fdr": 3.4657099820982627e-08,
+      "p_value": 3.4657099820982627e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1903522",
+      "label": "regulation of blood circulation",
+      "fdr": 4.443891388169642e-08,
+      "p_value": 4.443891388169642e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009653",
+      "label": "anatomical structure morphogenesis",
+      "fdr": 8.507480238578656e-08,
+      "p_value": 8.507480238578656e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0055001",
+      "label": "muscle cell development",
+      "fdr": 9.12475748081359e-08,
+      "p_value": 9.12475748081359e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031674",
+      "label": "I band",
+      "fdr": 1.5171341668846044e-07,
+      "p_value": 1.5171341668846044e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:1990584",
+      "label": "cardiac Troponin complex",
+      "fdr": 2.2971207704941752e-07,
+      "p_value": 2.2971207704941752e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0072359",
+      "label": "circulatory system development",
+      "fdr": 2.925041416039235e-07,
+      "p_value": 2.925041416039235e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006942",
+      "label": "regulation of striated muscle contraction",
+      "fdr": 5.264505192843282e-07,
+      "p_value": 5.264505192843282e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045214",
+      "label": "sarcomere organization",
+      "fdr": 8.581977721701886e-07,
+      "p_value": 8.581977721701886e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0051146",
+      "label": "striated muscle cell differentiation",
+      "fdr": 1.3546299852383264e-06,
+      "p_value": 1.3546299852383264e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031032",
+      "label": "actomyosin structure organization",
+      "fdr": 1.3546299852383264e-06,
+      "p_value": 1.3546299852383264e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009888",
+      "label": "tissue development",
+      "fdr": 5.165556154726749e-06,
+      "p_value": 5.165556154726749e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0055003",
+      "label": "cardiac myofibril assembly",
+      "fdr": 5.552987434261345e-06,
+      "p_value": 5.552987434261345e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042692",
+      "label": "muscle cell differentiation",
+      "fdr": 1.5250960056717395e-05,
+      "p_value": 1.5250960056717395e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016459",
+      "label": "myosin complex",
+      "fdr": 1.638550959787168e-05,
+      "p_value": 1.638550959787168e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0003008",
+      "label": "system process",
+      "fdr": 1.895630310769006e-05,
+      "p_value": 1.895630310769006e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005861",
+      "label": "troponin complex",
+      "fdr": 1.9209908216664017e-05,
+      "p_value": 1.9209908216664017e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0000146",
+      "label": "microfilament motor activity",
+      "fdr": 2.4312956608095055e-05,
+      "p_value": 2.4312956608095055e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005856",
+      "label": "cytoskeleton",
+      "fdr": 5.0141164224503604e-05,
+      "p_value": 5.0141164224503604e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0032036",
+      "label": "myosin heavy chain binding",
+      "fdr": 8.414008749137788e-05,
+      "p_value": 8.414008749137788e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005198",
+      "label": "structural molecule activity",
+      "fdr": 9.441362415499172e-05,
+      "p_value": 9.441362415499172e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0065009",
+      "label": "regulation of molecular function",
+      "fdr": 0.00010978724382878705,
+      "p_value": 0.00010978724382878705,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003009",
+      "label": "skeletal muscle contraction",
+      "fdr": 0.00016938372531631694,
+      "p_value": 0.00016938372531631694,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0048513",
+      "label": "animal organ development",
+      "fdr": 0.000189461662695297,
+      "p_value": 0.000189461662695297,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0017022",
+      "label": "myosin binding",
+      "fdr": 0.00021510966024981064,
+      "p_value": 0.00021510966024981064,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0050879",
+      "label": "multicellular organismal movement",
+      "fdr": 0.0002560339153619998,
+      "p_value": 0.0002560339153619998,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050881",
+      "label": "musculoskeletal movement",
+      "fdr": 0.0002560339153619998,
+      "p_value": 0.0002560339153619998,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0140694",
+      "label": "membraneless organelle assembly",
+      "fdr": 0.00025740166537824527,
+      "p_value": 0.00025740166537824527,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0055013",
+      "label": "cardiac muscle cell development",
+      "fdr": 0.00031003160079448794,
+      "p_value": 0.00031003160079448794,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031672",
+      "label": "A band",
+      "fdr": 0.00040081421240127966,
+      "p_value": 0.00040081421240127966,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0030018",
+      "label": "Z disc",
+      "fdr": 0.000413837545031424,
+      "p_value": 0.000413837545031424,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0055006",
+      "label": "cardiac cell development",
+      "fdr": 0.0004819748864049606,
+      "p_value": 0.0004819748864049606,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030036",
+      "label": "actin cytoskeleton organization",
+      "fdr": 0.0005698981339385533,
+      "p_value": 0.0005698981339385533,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042802",
+      "label": "identical protein binding",
+      "fdr": 0.000675604853221256,
+      "p_value": 0.000675604853221256,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005884",
+      "label": "actin filament",
+      "fdr": 0.0008646404972435958,
+      "p_value": 0.0008646404972435958,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0032780",
+      "label": "negative regulation of ATP-dependent activity",
+      "fdr": 0.0010110460333324534,
+      "p_value": 0.0010110460333324534,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030172",
+      "label": "troponin C binding",
+      "fdr": 0.0011126314419144816,
+      "p_value": 0.0011126314419144816,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0097435",
+      "label": "supramolecular fiber organization",
+      "fdr": 0.0014460828679320492,
+      "p_value": 0.0014460828679320492,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0055007",
+      "label": "cardiac muscle cell differentiation",
+      "fdr": 0.0015207262004937753,
+      "p_value": 0.0015207262004937753,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003774",
+      "label": "cytoskeletal motor activity",
+      "fdr": 0.0017378459253517904,
+      "p_value": 0.0017378459253517904,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0031014",
+      "label": "troponin T binding",
+      "fdr": 0.0022237240411310875,
+      "p_value": 0.0022237240411310875,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0031013",
+      "label": "troponin I binding",
+      "fdr": 0.0022237240411310875,
+      "p_value": 0.0022237240411310875,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0032970",
+      "label": "regulation of actin filament-based process",
+      "fdr": 0.0022617773285878357,
+      "p_value": 0.0022617773285878357,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050905",
+      "label": "neuromuscular process",
+      "fdr": 0.002298021491888211,
+      "p_value": 0.002298021491888211,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0048731",
+      "label": "system development",
+      "fdr": 0.0024619826827070547,
+      "p_value": 0.0024619826827070547,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0120544",
+      "label": "polypeptide conformation or assembly isomerase activity",
+      "fdr": 0.0024864155516723815,
+      "p_value": 0.0024864155516723815,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0044877",
+      "label": "protein-containing complex binding",
+      "fdr": 0.0030078089374396045,
+      "p_value": 0.0030078089374396045,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0048646",
+      "label": "anatomical structure formation involved in morphogenesis",
+      "fdr": 0.0032603131054750813,
+      "p_value": 0.0032603131054750813,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0035051",
+      "label": "cardiocyte differentiation",
+      "fdr": 0.0051431263967260535,
+      "p_value": 0.0051431263967260535,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032971",
+      "label": "regulation of muscle filament sliding",
+      "fdr": 0.006043936683462779,
+      "p_value": 0.006043936683462779,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031433",
+      "label": "telethonin binding",
+      "fdr": 0.007766900030361767,
+      "p_value": 0.007766900030361767,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0070925",
+      "label": "organelle assembly",
+      "fdr": 0.00867563878017138,
+      "p_value": 0.00867563878017138,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032781",
+      "label": "positive regulation of ATP-dependent activity",
+      "fdr": 0.008915577666829686,
+      "p_value": 0.008915577666829686,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0048856",
+      "label": "anatomical structure development",
+      "fdr": 0.010732385945954902,
+      "p_value": 0.010732385945954902,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1903115",
+      "label": "regulation of actin filament-based movement",
+      "fdr": 0.01087477651206711,
+      "p_value": 0.01087477651206711,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0007010",
+      "label": "cytoskeleton organization",
+      "fdr": 0.017842675323676106,
+      "p_value": 0.017842675323676106,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0007275",
+      "label": "multicellular organism development",
+      "fdr": 0.018260407263517228,
+      "p_value": 0.018260407263517228,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0065008",
+      "label": "regulation of biological quality",
+      "fdr": 0.02175098241415346,
+      "p_value": 0.02175098241415346,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005859",
+      "label": "muscle myosin complex",
+      "fdr": 0.02277535086778157,
+      "p_value": 0.02277535086778157,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0031430",
+      "label": "M band",
+      "fdr": 0.02601077225890489,
+      "p_value": 0.02601077225890489,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0005737",
+      "label": "cytoplasm",
+      "fdr": 0.026195011772560187,
+      "p_value": 0.026195011772560187,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0031432",
+      "label": "titin binding",
+      "fdr": 0.02872902814634297,
+      "p_value": 0.02872902814634297,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0030240",
+      "label": "skeletal muscle thin filament assembly",
+      "fdr": 0.03015249335025559,
+      "p_value": 0.03015249335025559,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0043228",
+      "label": "membraneless organelle",
+      "fdr": 0.03708820686268662,
+      "p_value": 0.03708820686268662,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043232",
+      "label": "intracellular membraneless organelle",
+      "fdr": 0.03708820686268662,
+      "p_value": 0.03708820686268662,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0032502",
+      "label": "developmental process",
+      "fdr": 0.039172285501190444,
+      "p_value": 0.039172285501190444,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032982",
+      "label": "myosin filament",
+      "fdr": 0.04106866911003534,
+      "p_value": 0.04106866911003534,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0035995",
+      "label": "detection of muscle stretch",
+      "fdr": 0.042182184738215896,
+      "p_value": 0.042182184738215896,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0120543",
+      "label": "macromolecular conformation isomerase activity",
+      "fdr": 0.047699250816265394,
+      "p_value": 0.047699250816265394,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    }
+  ]
+}

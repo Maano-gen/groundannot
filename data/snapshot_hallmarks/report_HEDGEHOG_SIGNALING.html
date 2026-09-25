@@ -1,0 +1,720 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<title>GroundAnnot report</title>
+<style>
+body { font-family: system-ui, sans-serif; max-width: 1100px; margin: 2em auto; }
+h1 { border-bottom: 2px solid #333; }
+h2 { margin-top: 2em; color: #444; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: 0.9em; }
+th, td { border: 1px solid #ccc; padding: 6px 8px; text-align: left; }
+th { background: #f0f0f0; }
+.gene-card { border: 1px solid #ddd; padding: 1em; margin: 1em 0; border-radius: 6px; }
+.gene-card h3 { margin-top: 0; }
+.small { color: #666; font-size: 0.85em; }
+.section-tag { display: inline-block; background: #eee; padding: 2px 8px;
+               border-radius: 4px; font-size: 0.8em; }
+.closed { background: #e8f4ea; }
+.context { background: #f4f0e8; }
+</style></head><body>
+
+<h1>GroundAnnot report — HEDGEHOG_SIGNALING</h1>
+<p class="small">Run: 2026-09-25T08:19:19 &nbsp;|&nbsp; Organism: human
+&nbsp;|&nbsp; Input genes: 36</p>
+<p class="small">Genes: SHH, PTCH1, NRCAM, NRP1, SCG2, AMOT, UNC5C, ADGRG1, HEY1, GLI1, THY1, SLIT1, CDK6, HEY2, NRP2, TLE3, TLE1, L1CAM, PLG, NKX6-1, NF1, RASA1, ETS2, RTN1, CRMP1, MYH9, VEGFA, CELSR1, CNTFR, ACHE, PML, CDK5R1, VLDLR, OPHN1, LDB1, DPYSL2</p>
+
+<h2><span class="section-tag closed">Closed vocabulary</span> Enrichment</h2>
+<p>The language model may cite term IDs only from the tables below.</p>
+
+
+<h3>PANTHER</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0048731</td><td>system development</td>
+<td>3.49e-25</td>
+<td>4.80e-21</td></tr>
+
+<tr><td>GO:0007275</td><td>multicellular organism development</td>
+<td>6.19e-24</td>
+<td>4.26e-20</td></tr>
+
+<tr><td>GO:0048856</td><td>anatomical structure development</td>
+<td>3.32e-22</td>
+<td>1.52e-18</td></tr>
+
+<tr><td>GO:0032502</td><td>developmental process</td>
+<td>1.11e-20</td>
+<td>3.82e-17</td></tr>
+
+<tr><td>GO:0009653</td><td>anatomical structure morphogenesis</td>
+<td>1.63e-20</td>
+<td>4.49e-17</td></tr>
+
+<tr><td>GO:0035239</td><td>tube morphogenesis</td>
+<td>1.75e-19</td>
+<td>4.01e-16</td></tr>
+
+<tr><td>GO:0007399</td><td>nervous system development</td>
+<td>3.74e-19</td>
+<td>7.36e-16</td></tr>
+
+<tr><td>GO:0032501</td><td>multicellular organismal process</td>
+<td>1.46e-18</td>
+<td>2.52e-15</td></tr>
+
+<tr><td>GO:0035295</td><td>tube development</td>
+<td>1.75e-17</td>
+<td>2.68e-14</td></tr>
+
+<tr><td>GO:0048514</td><td>blood vessel morphogenesis</td>
+<td>3.07e-17</td>
+<td>4.23e-14</td></tr>
+
+<tr><td>GO:0030154</td><td>cell differentiation</td>
+<td>4.71e-17</td>
+<td>5.90e-14</td></tr>
+
+<tr><td>GO:0048869</td><td>cellular developmental process</td>
+<td>4.96e-17</td>
+<td>5.68e-14</td></tr>
+
+<tr><td>GO:0001568</td><td>blood vessel development</td>
+<td>1.98e-16</td>
+<td>2.10e-13</td></tr>
+
+<tr><td>GO:0022008</td><td>neurogenesis</td>
+<td>3.65e-16</td>
+<td>3.59e-13</td></tr>
+
+<tr><td>GO:0007411</td><td>axon guidance</td>
+<td>3.85e-16</td>
+<td>3.53e-13</td></tr>
+
+<tr><td>GO:0097485</td><td>neuron projection guidance</td>
+<td>4.12e-16</td>
+<td>3.54e-13</td></tr>
+
+<tr><td>GO:0001944</td><td>vasculature development</td>
+<td>4.40e-16</td>
+<td>3.56e-13</td></tr>
+
+<tr><td>GO:0007409</td><td>axonogenesis</td>
+<td>2.24e-15</td>
+<td>1.71e-12</td></tr>
+
+<tr><td>GO:0001525</td><td>angiogenesis</td>
+<td>2.54e-15</td>
+<td>1.84e-12</td></tr>
+
+<tr><td>GO:0048646</td><td>anatomical structure formation involved in morphogenesis</td>
+<td>7.36e-15</td>
+<td>5.06e-12</td></tr>
+
+<tr><td>GO:0061564</td><td>axon development</td>
+<td>1.68e-14</td>
+<td>1.10e-11</td></tr>
+
+<tr><td>GO:0048667</td><td>cell morphogenesis involved in neuron differentiation</td>
+<td>1.82e-14</td>
+<td>1.14e-11</td></tr>
+
+<tr><td>GO:0050793</td><td>regulation of developmental process</td>
+<td>9.26e-14</td>
+<td>5.54e-11</td></tr>
+
+<tr><td>GO:0048812</td><td>neuron projection morphogenesis</td>
+<td>1.29e-13</td>
+<td>7.38e-11</td></tr>
+
+<tr><td>GO:0120039</td><td>plasma membrane bounded cell projection morphogenesis</td>
+<td>1.42e-13</td>
+<td>7.83e-11</td></tr>
+
+</table>
+
+<h3>Enrichr</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0007411</td><td>Axon Guidance</td>
+<td>5.26e-12</td>
+<td>3.96e-09</td></tr>
+
+<tr><td>GO:0097485</td><td>Neuron Projection Guidance</td>
+<td>7.53e-11</td>
+<td>2.83e-08</td></tr>
+
+<tr><td>GO:0007399</td><td>Nervous System Development</td>
+<td>4.75e-10</td>
+<td>1.19e-07</td></tr>
+
+<tr><td>GO:0048699</td><td>Generation of Neurons</td>
+<td>1.50e-09</td>
+<td>2.82e-07</td></tr>
+
+<tr><td>GO:0007409</td><td>Axonogenesis</td>
+<td>2.07e-09</td>
+<td>3.11e-07</td></tr>
+
+<tr><td>GO:0048514</td><td>Blood Vessel Morphogenesis</td>
+<td>3.13e-08</td>
+<td>3.84e-06</td></tr>
+
+<tr><td>GO:0007417</td><td>Central Nervous System Development</td>
+<td>3.58e-08</td>
+<td>3.84e-06</td></tr>
+
+<tr><td>GO:0001764</td><td>Neuron Migration</td>
+<td>7.19e-08</td>
+<td>6.76e-06</td></tr>
+
+<tr><td>GO:0048844</td><td>Artery Morphogenesis</td>
+<td>2.69e-07</td>
+<td>2.24e-05</td></tr>
+
+<tr><td>GO:0001570</td><td>Vasculogenesis</td>
+<td>3.48e-07</td>
+<td>2.62e-05</td></tr>
+
+<tr><td>GO:0048745</td><td>Smooth Muscle Tissue Development</td>
+<td>4.47e-07</td>
+<td>2.88e-05</td></tr>
+
+<tr><td>GO:0001936</td><td>Regulation of Endothelial Cell Proliferation</td>
+<td>4.70e-07</td>
+<td>2.88e-05</td></tr>
+
+<tr><td>GO:0010595</td><td>Positive Regulation of Endothelial Cell Migration</td>
+<td>4.98e-07</td>
+<td>2.88e-05</td></tr>
+
+<tr><td>GO:0007420</td><td>Brain Development</td>
+<td>5.44e-07</td>
+<td>2.92e-05</td></tr>
+
+<tr><td>GO:0051151</td><td>Negative Regulation of Smooth Muscle Cell Differentiation</td>
+<td>6.37e-07</td>
+<td>3.19e-05</td></tr>
+
+<tr><td>GO:0061548</td><td>Ganglion Development</td>
+<td>8.75e-07</td>
+<td>4.11e-05</td></tr>
+
+<tr><td>GO:0045892</td><td>Negative Regulation of DNA-templated Transcription</td>
+<td>9.29e-07</td>
+<td>4.11e-05</td></tr>
+
+<tr><td>GO:0001569</td><td>Branching Involved in Blood Vessel Morphogenesis</td>
+<td>1.17e-06</td>
+<td>4.47e-05</td></tr>
+
+<tr><td>GO:0060537</td><td>Muscle Tissue Development</td>
+<td>1.17e-06</td>
+<td>4.47e-05</td></tr>
+
+<tr><td>GO:0043542</td><td>Endothelial Cell Migration</td>
+<td>1.25e-06</td>
+<td>4.47e-05</td></tr>
+
+<tr><td>GO:0001954</td><td>Positive Regulation of Cell-Matrix Adhesion</td>
+<td>1.25e-06</td>
+<td>4.47e-05</td></tr>
+
+<tr><td>GO:0045595</td><td>Regulation of Cell Differentiation</td>
+<td>1.45e-06</td>
+<td>4.95e-05</td></tr>
+
+<tr><td>GO:0051093</td><td>Negative Regulation of Developmental Process</td>
+<td>1.58e-06</td>
+<td>5.17e-05</td></tr>
+
+<tr><td>GO:0048485</td><td>Sympathetic Nervous System Development</td>
+<td>2.40e-06</td>
+<td>7.52e-05</td></tr>
+
+<tr><td>GO:0043535</td><td>Regulation of Blood Vessel Endothelial Cell Migration</td>
+<td>3.26e-06</td>
+<td>9.81e-05</td></tr>
+
+</table>
+
+<h3>g:Profiler</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0048731</td><td>system development</td>
+<td>1.24e-19</td>
+<td>1.24e-19</td></tr>
+
+<tr><td>GO:0007275</td><td>multicellular organism development</td>
+<td>3.40e-17</td>
+<td>3.40e-17</td></tr>
+
+<tr><td>GO:0048856</td><td>anatomical structure development</td>
+<td>2.31e-16</td>
+<td>2.31e-16</td></tr>
+
+<tr><td>GO:0032502</td><td>developmental process</td>
+<td>6.85e-15</td>
+<td>6.85e-15</td></tr>
+
+<tr><td>GO:0009653</td><td>anatomical structure morphogenesis</td>
+<td>3.71e-14</td>
+<td>3.71e-14</td></tr>
+
+<tr><td>GO:0007399</td><td>nervous system development</td>
+<td>1.34e-13</td>
+<td>1.34e-13</td></tr>
+
+<tr><td>GO:0035295</td><td>tube development</td>
+<td>3.11e-13</td>
+<td>3.11e-13</td></tr>
+
+<tr><td>GO:0032501</td><td>multicellular organismal process</td>
+<td>7.59e-13</td>
+<td>7.59e-13</td></tr>
+
+<tr><td>GO:0035239</td><td>tube morphogenesis</td>
+<td>9.87e-13</td>
+<td>9.87e-13</td></tr>
+
+<tr><td>GO:0022008</td><td>neurogenesis</td>
+<td>2.63e-12</td>
+<td>2.63e-12</td></tr>
+
+<tr><td>GO:0048699</td><td>generation of neurons</td>
+<td>3.02e-12</td>
+<td>3.02e-12</td></tr>
+
+<tr><td>GO:0048514</td><td>blood vessel morphogenesis</td>
+<td>2.58e-11</td>
+<td>2.58e-11</td></tr>
+
+<tr><td>GO:0048869</td><td>cellular developmental process</td>
+<td>3.65e-11</td>
+<td>3.65e-11</td></tr>
+
+<tr><td>GO:0030154</td><td>cell differentiation</td>
+<td>3.65e-11</td>
+<td>3.65e-11</td></tr>
+
+<tr><td>GO:0001568</td><td>blood vessel development</td>
+<td>6.54e-11</td>
+<td>6.54e-11</td></tr>
+
+<tr><td>GO:0001944</td><td>vasculature development</td>
+<td>1.25e-10</td>
+<td>1.25e-10</td></tr>
+
+<tr><td>GO:0009887</td><td>animal organ morphogenesis</td>
+<td>1.75e-10</td>
+<td>1.75e-10</td></tr>
+
+<tr><td>GO:0048513</td><td>animal organ development</td>
+<td>7.30e-10</td>
+<td>7.30e-10</td></tr>
+
+<tr><td>GO:0072359</td><td>circulatory system development</td>
+<td>1.85e-09</td>
+<td>1.85e-09</td></tr>
+
+<tr><td>GO:0007411</td><td>axon guidance</td>
+<td>2.37e-09</td>
+<td>2.37e-09</td></tr>
+
+<tr><td>GO:0097485</td><td>neuron projection guidance</td>
+<td>2.52e-09</td>
+<td>2.52e-09</td></tr>
+
+<tr><td>GO:0001525</td><td>angiogenesis</td>
+<td>3.67e-09</td>
+<td>3.67e-09</td></tr>
+
+<tr><td>GO:0048646</td><td>anatomical structure formation involved in morphogenesis</td>
+<td>4.61e-09</td>
+<td>4.61e-09</td></tr>
+
+<tr><td>GO:0050793</td><td>regulation of developmental process</td>
+<td>1.51e-08</td>
+<td>1.51e-08</td></tr>
+
+<tr><td>GO:0007417</td><td>central nervous system development</td>
+<td>2.47e-08</td>
+<td>2.47e-08</td></tr>
+
+</table>
+
+
+<h2><span class="section-tag context">Context only</span> Per-gene annotations</h2>
+<p>The language model may read these for narrative but must not cite them as enrichment evidence.</p>
+
+
+<div class="gene-card">
+<h3>SHH — sonic hedgehog signaling molecule</h3>
+<p><b>Summary:</b> This gene encodes a protein that is instrumental in patterning the early embryo. It has been implicated as the key inductive signal in patterning of the ventral neural tube, the anterior-posterior limb axis, and the ventral somites. Of three human proteins showing sequence and functional similarity to the sonic hedgehog protein of Drosophila, this protein is the most similar. The protein is made as a precursor that is autocatalytically cleaved; the N-terminal portion is soluble and contains the signalling activity while the C-terminal portion is involved in precursor processing. More importantly, the C-terminal product covalently attaches a cholesterol moiety to the N-terminal product, restricting the N-terminal product to the cell surface and preventing it from freely diffusing throughout the developing embryo. Defects in this protein or in its signalling pathway are a cause of holoprosencephaly (HPE), a disorder in which the developing forebrain fails to correctly separate into right and left hemispheres. HPE is manifested by facial deformities. It is also thought that mutations in this gene or in its signalling pathway may be responsible for VACTERL syndrome, which is characterized by vertebral defects, anal atresia, tracheoesophageal fistula with esophageal atresia, radial and renal dysplasia, cardiac anomalies, and limb abnormalities. Additionally, mutations in a long range enhancer located approximately 1 megabase upstream of this gene disrupt limb patterning and can result in preaxial polydactyly. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; branching involved in blood vessel morphogenesis; vasculogenesis; metanephros development; branching involved in ureteric bud morphogenesis; cell fate specification</p>
+<p><b>GO:MF:</b> endopeptidase activity; patched binding; calcium ion binding; protein binding; glycosaminoglycan binding; zinc ion binding</p>
+<p><b>GO:CC:</b> Golgi membrane; extracellular region; endoplasmic reticulum; endoplasmic reticulum lumen; endoplasmic reticulum membrane; Golgi apparatus</p>
+<p><b>Pathways:</b> Hedgehog signaling pathway - Homo sapiens (human) (kegg); Axon guidance - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Proteoglycans in cancer - Homo sapiens (human) (kegg); Basal cell carcinoma - Homo sapiens (human) (kegg); Gastric cancer - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signal Transduction (reactome)</p>
+<p><b>InterPro:</b> Hedgehog, N-terminal signalling domain; Hedgehog protein; Peptidase M74/Hedgehog-like, zinc-binding domain superfamily; Hedgehog Signaling; Hedgehog protein, Hint domain; Hint domain C-terminal</p>
+</div>
+
+<div class="gene-card">
+<h3>PTCH1 — patched 1</h3>
+<p><b>Summary:</b> This gene encodes a member of the patched family of proteins and a component of the hedgehog signaling pathway. Hedgehog signaling is important in embryonic development and tumorigenesis. The encoded protein is the receptor for the secreted hedgehog ligands, which include sonic hedgehog, indian hedgehog and desert hedgehog. Following binding by one of the hedgehog ligands, the encoded protein is trafficked away from the primary cilium, relieving inhibition of the G-protein-coupled receptor smoothened, which results in activation of downstream signaling. Mutations of this gene have been associated with basal cell nevus syndrome and holoprosencephaly. [provided by RefSeq, Aug 2017].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; neural tube formation; signal transduction; spermatid development; brain development; regulation of smoothened signaling pathway</p>
+<p><b>GO:MF:</b> patched binding; smoothened binding; protein binding; hedgehog receptor activity; heparin binding; cholesterol binding</p>
+<p><b>GO:CC:</b> Golgi apparatus; plasma membrane; caveola; cilium; membrane; midbody</p>
+<p><b>Pathways:</b> cAMP signaling pathway - Homo sapiens (human) (kegg); Hedgehog signaling pathway - Homo sapiens (human) (kegg); Axon guidance - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Proteoglycans in cancer - Homo sapiens (human) (kegg); Basal cell carcinoma - Homo sapiens (human) (kegg); Signal Transduction (reactome); Signaling by GPCR (reactome)</p>
+<p><b>InterPro:</b> Sterol-sensing domain; HMGCR/SNAP/NPC1-like, sterol-sensing domain; Transmembrane receptor, patched</p>
+</div>
+
+<div class="gene-card">
+<h3>NRCAM — neuronal cell adhesion molecule</h3>
+<p><b>Summary:</b> Cell adhesion molecules (CAMs) are members of the immunoglobulin superfamily. This gene encodes a neuronal cell adhesion molecule with multiple immunoglobulin-like C2-type domains and fibronectin type-III domains. This ankyrin-binding protein is involved in neuron-neuron adhesion and promotes directional signaling during axonal cone growth. This gene is also expressed in non-neural tissues and may play a general role in cell-cell communication via signaling from its intracellular domain to the actin cytoskeleton during directional cell migration. Allelic variants of this gene have been associated with autism and addiction vulnerability. Alternative splicing results in multiple transcript variants encoding different isoforms. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> angiogenesis; neuron migration; axonogenesis; axon guidance; axonal fasciculation; synapse assembly</p>
+<p><b>GO:MF:</b> protein binding; ankyrin binding; cell-cell adhesion mediator activity</p>
+<p><b>GO:CC:</b> extracellular region; nucleoplasm; plasma membrane; cilium; external side of plasma membrane; axon</p>
+<p><b>Pathways:</b> Cell adhesion molecules - Homo sapiens (human) (kegg); Developmental Biology (reactome); L1CAM interactions (reactome); Axon guidance (reactome); Interaction between L1 and Ankyrins (reactome); NrCAM interactions (reactome); Neurofascin interactions (reactome); Nervous system development (reactome)</p>
+<p><b>InterPro:</b> Immunoglobulin/major histocompatibility complex, conserved site; Immunoglobulin subtype 2; Immunoglobulin domain subtype; Fibronectin type III; Immunoglobulin-like domain; Immunoglobulin I-set</p>
+</div>
+
+<div class="gene-card">
+<h3>NRP1 — neuropilin 1</h3>
+<p><b>Summary:</b> This gene encodes one of two neuropilins, which contain specific protein domains which allow them to participate in several different types of signaling pathways that control cell migration. Neuropilins contain a large N-terminal extracellular domain, made up of complement-binding, coagulation factor V/VIII, and meprin domains. These proteins also contains a short membrane-spanning domain and a small cytoplasmic domain. Neuropilins bind many ligands and various types of co-receptors; they affect cell survival, migration, and attraction. Some of the ligands and co-receptors bound by neuropilins are vascular endothelial growth factor (VEGF) and semaphorin family members. This protein has also been determined to act as a co-receptor for SARS-CoV-2 (which causes COVID-19) to infect host cells. [provided by RefSeq, Nov 2020].</p>
+<p><b>GO:BP:</b> angiogenesis; branching involved in blood vessel morphogenesis; vasculogenesis; neural crest cell migration; neuron migration; positive regulation of endothelial cell proliferation</p>
+<p><b>GO:MF:</b> vascular endothelial growth factor receptor activity; GTPase activator activity; protein binding; coreceptor activity; semaphorin receptor activity; growth factor binding</p>
+<p><b>GO:CC:</b> semaphorin receptor complex; extracellular region; cytoplasm; early endosome; cytosol; neurofilament</p>
+<p><b>Pathways:</b> Axon guidance - Homo sapiens (human) (kegg); Human T-cell leukemia virus 1 infection - Homo sapiens (human) (kegg); Coronavirus disease - COVID-19 - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signal Transduction (reactome); Disease (reactome); Signaling by VEGF (reactome); Neuropilin interactions with VEGF and VEGFR (reactome)</p>
+<p><b>InterPro:</b> Coagulation factor 5/8, C-terminal domain; CUB domain; MAM domain; Galactose-binding-like domain superfamily; Concanavalin A-like lectin/glucanase domain superfamily; Neuropilin</p>
+</div>
+
+<div class="gene-card">
+<h3>SCG2 — secretogranin II</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the chromogranin/secretogranin family of neuroendocrine secretory proteins. Studies in rodents suggest that the full-length protein, secretogranin II, is involved in the packaging or sorting of peptide hormones and neuropeptides into secretory vesicles. The full-length protein is cleaved to produce the active peptide secretoneurin, which exerts chemotaxic effects on specific cell types, and EM66, whose function is unknown. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> MAPK cascade; angiogenesis; negative regulation of endothelial cell proliferation; positive regulation of endothelial cell proliferation; inflammatory response; protein secretion</p>
+<p><b>GO:MF:</b> cytokine activity; protein binding; chemoattractant activity</p>
+<p><b>GO:CC:</b> extracellular region; endoplasmic reticulum lumen; secretory granule; dense core granule; neuronal dense core vesicle</p>
+<p><b>Pathways:</b> Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs) (reactome); Metabolism of proteins (reactome); Post-translational protein modification (reactome); Post-translational protein phosphorylation (reactome)</p>
+<p><b>InterPro:</b> Chromogranin A/B/C; Chromogranin, conserved site; Secretogranin-2</p>
+</div>
+
+<div class="gene-card">
+<h3>AMOT — angiomotin</h3>
+<p><b>Summary:</b> This gene belongs to the motin family of angiostatin binding proteins characterized by conserved coiled-coil domains and C-terminal PDZ binding motifs. The encoded protein is expressed predominantly in endothelial cells of capillaries as well as larger vessels of the placenta where it may mediate the inhibitory effect of angiostatin on tube formation and the migration of endothelial cells toward growth factors during the formation of new blood vessels. Alternative splicing results in multiple transcript variants encoding different isoforms. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; angiogenesis; establishment of cell polarity involved in ameboidal cell migration; cell-cell junction assembly; negative regulation of angiogenesis; actin cytoskeleton organization</p>
+<p><b>GO:MF:</b> protein binding; signaling receptor activity; angiostatin binding</p>
+<p><b>GO:CC:</b> stress fiber; ruffle; cytoplasm; cytosol; actin filament; plasma membrane</p>
+<p><b>Pathways:</b> Hippo signaling pathway - Homo sapiens (human) (kegg); Tight junction - Homo sapiens (human) (kegg); Cell-Cell communication (reactome); Signal Transduction (reactome); Signaling by Hippo (reactome); Adherens junctions interactions (reactome); Cell-cell junction organization (reactome); Cell junction organization (reactome)</p>
+<p><b>InterPro:</b> Angiomotin; Angiomotin, C-terminal; Angiomotin-like</p>
+</div>
+
+<div class="gene-card">
+<h3>UNC5C — unc-5 netrin receptor C</h3>
+<p><b>Summary:</b> This gene product belongs to the UNC-5 family of netrin receptors. Netrins are secreted proteins that direct axon extension and cell migration during neural development. They are bifunctional proteins that act as attractants for some cell types and as repellents for others, and these opposite actions are thought to be mediated by two classes of receptors. The UNC-5 family of receptors mediate the repellent response to netrin; they are transmembrane proteins containing 2 immunoglobulin (Ig)-like domains and 2 type I thrombospondin motifs in the extracellular region. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> signal transduction; axon guidance; brain development; netrin-activated signaling pathway; chemorepulsion of axon; dorsal root ganglion development</p>
+<p><b>GO:MF:</b> netrin receptor activity; netrin receptor activity involved in chemorepulsion; protein binding; tubulin binding; protein kinase binding</p>
+<p><b>GO:CC:</b> plasma membrane; cell surface; membrane; lamellipodium; filopodium; axon</p>
+<p><b>Pathways:</b> Axon guidance - Homo sapiens (human) (kegg); Developmental Biology (reactome); Netrin-1 signaling (reactome); Netrin mediated repulsion signals (reactome); Axon guidance (reactome); Nervous system development (reactome)</p>
+<p><b>InterPro:</b> Death domain; Thrombospondin type-1 (TSP1) repeat; ZU5 domain; Immunoglobulin subtype 2; Immunoglobulin domain subtype; Immunoglobulin-like domain</p>
+</div>
+
+<div class="gene-card">
+<h3>ADGRG1 — adhesion G protein-coupled receptor G1</h3>
+<p><b>Summary:</b> This gene encodes a member of the G protein-coupled receptor family and regulates brain cortical patterning. The encoded protein binds specifically to transglutaminase 2, a component of tissue and tumor stroma implicated as an inhibitor of tumor progression. Mutations in this gene are associated with a brain malformation known as bilateral frontoparietal polymicrogyria. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Feb 2014].</p>
+<p><b>GO:BP:</b> angiogenesis; cell adhesion; cell surface receptor signaling pathway; G protein-coupled receptor signaling pathway; phospholipase C-activating G protein-coupled receptor signaling pathway; Rho protein signal transduction</p>
+<p><b>GO:MF:</b> phosphatidylserine binding; transmembrane signaling receptor activity; G protein-coupled receptor activity; protein binding; collagen binding; heparin binding</p>
+<p><b>GO:CC:</b> extracellular region; plasma membrane; membrane; membrane raft; extracellular exosome; glial limiting end-foot</p>
+<p><b>Pathways:</b> GPCRs, Other (wikipathways)</p>
+<p><b>InterPro:</b> GPS motif; GPCR, family 2, secretin-like; GPCR, family 2, orphan receptor, GPR1/GPR3/GPR5; GPCR, family 2-like, 7TM; PTX/LNS-Like (PLL) domain; ADGRG1, GAIN subdomain A</p>
+</div>
+
+<div class="gene-card">
+<h3>HEY1 — hes related family bHLH transcription factor with YRPW motif 1</h3>
+<p><b>Summary:</b> This gene encodes a nuclear protein belonging to the hairy and enhancer of split-related (HESR) family of basic helix-loop-helix (bHLH)-type transcriptional repressors. Expression of this gene is induced by the Notch and c-Jun signal transduction pathways. Two similar and redundant genes in mouse are required for embryonic cardiovascular development, and are also implicated in neurogenesis and somitogenesis. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; angiogenesis; cardiac conduction system development; aortic valve morphogenesis; pulmonary valve morphogenesis; atrioventricular valve formation</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; cis-regulatory region sequence-specific DNA binding; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA binding; DNA-binding transcription factor activity</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; cytoplasm</p>
+<p><b>Pathways:</b> Notch signaling pathway - Homo sapiens (human) (kegg); Human papillomavirus infection - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Breast cancer - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signaling by NOTCH (reactome); Signal Transduction (reactome); Disease (reactome)</p>
+<p><b>InterPro:</b> Orange domain; Myc-type, basic helix-loop-helix (bHLH) domain; Helix-loop-helix DNA-binding domain superfamily; Hairy and Enhancer of Split/HEY-related</p>
+</div>
+
+<div class="gene-card">
+<h3>GLI1 — GLI family zinc finger 1</h3>
+<p><b>Summary:</b> This gene encodes a member of the Kruppel family of zinc finger proteins. The encoded transcription factor is activated by the sonic hedgehog signal transduction cascade and regulates stem cell proliferation. The activity and nuclear localization of this protein is negatively regulated by p53 in an inhibitory loop. Multiple transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, May 2009].</p>
+<p><b>GO:BP:</b> osteoblast differentiation; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; smoothened signaling pathway; spermatid development; positive regulation of cell population proliferation</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II transcription regulatory region sequence-specific DNA binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm; cytosol; cilium; axoneme</p>
+<p><b>Pathways:</b> cAMP signaling pathway - Homo sapiens (human) (kegg); Hedgehog signaling pathway - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Basal cell carcinoma - Homo sapiens (human) (kegg); Signal Transduction (reactome); Signaling by Hedgehog (reactome); Degradation of GLI1 by the proteasome (reactome); Hedgehog 'off' state (reactome)</p>
+<p><b>InterPro:</b> Zinc finger C2H2-type; Zinc finger C2H2 superfamily; C2H2-type zinc-finger protein GLI-like; ZIC1-5/GLI1-3like, C2H2 zinc finger</p>
+</div>
+
+<div class="gene-card">
+<h3>THY1 — Thy-1 cell surface antigen</h3>
+<p><b>Summary:</b> This gene encodes a cell surface glycoprotein and member of the immunoglobulin superfamily of proteins. The encoded protein is involved in cell adhesion and cell communication in numerous cell types, but particularly in cells of the immune and nervous systems. The encoded protein is widely used as a marker for hematopoietic stem cells. This gene may function as a tumor suppressor in nasopharyngeal carcinoma. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jul 2015].</p>
+<p><b>GO:BP:</b> angiogenesis; regulation of cell-matrix adhesion; regulation of immune system process; positive regulation of cellular extravasation; negative regulation of protein kinase activity; cytoskeleton organization</p>
+<p><b>GO:MF:</b> GTPase activator activity; integrin binding; protein binding; GPI anchor binding</p>
+<p><b>GO:CC:</b> extracellular region; endoplasmic reticulum; plasma membrane; focal adhesion; external side of plasma membrane; cell surface</p>
+<p><b>Pathways:</b> Leukocyte transendothelial migration - Homo sapiens (human) (kegg); Post-translational modification: synthesis of GPI-anchored proteins (reactome); Metabolism of proteins (reactome); Post-translational protein modification (reactome); Cardiac Progenitor Differentiation (wikipathways)</p>
+<p><b>InterPro:</b> Immunoglobulin-like domain; Immunoglobulin V-set domain; Immunoglobulin-like beta-sandwich domain; Immunoglobulin-like fold; Thy-1 membrane glycoprotein; Immunoglobulin-like domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>SLIT1 — slit guidance ligand 1</h3>
+<p><b>Summary:</b> Enables Roundabout binding activity. Involved in axon extension involved in axon guidance; motor neuron axon guidance; and negative chemotaxis. Predicted to be located in extracellular region. Predicted to be active in extracellular space. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> axon guidance; motor neuron axon guidance; spinal cord development; chemorepulsion involved in embryonic olfactory bulb interneuron precursor migration; negative regulation of axon extension involved in axon guidance; axon extension involved in axon guidance</p>
+<p><b>GO:MF:</b> calcium ion binding; protein binding; heparin binding; heparan sulfate proteoglycan binding; Roundabout binding</p>
+<p><b>GO:CC:</b> extracellular region; non-collagenous component of interstitial matrix</p>
+<p><b>Pathways:</b> Axon guidance - Homo sapiens (human) (kegg); Developmental Biology (reactome); Netrin-1 signaling (reactome); Signaling by ROBO receptors (reactome); Axon guidance (reactome); Regulation of commissural axon pathfinding by SLIT and ROBO (reactome); Regulation of cortical dendrite branching (reactome); Regulation of expression of SLITs and ROBOs (reactome)</p>
+<p><b>InterPro:</b> EGF-type aspartate/asparagine hydroxylation site; Leucine-rich repeat N-terminal domain; Cysteine-rich flanking region, C-terminal; EGF-like domain; Leucine-rich repeat; Laminin G domain</p>
+</div>
+
+<div class="gene-card">
+<h3>CDK6 — cyclin dependent kinase 6</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the CMGC family of serine/threonine protein kinases. This kinase is a catalytic subunit of the protein kinase complex that is important for cell cycle G1 phase progression and G1/S transition. The activity of this kinase first appears in mid-G1 phase, which is controlled by the regulatory subunits including D-type cyclins and members of INK4 family of CDK inhibitors. This kinase, as well as CDK4, has been shown to phosphorylate, and thus regulate the activity of, tumor suppressor protein Rb. Altered expression of this gene has been observed in multiple human cancers. A mutation in this gene resulting in reduced cell proliferation, and impaired cell motility and polarity, and has been identified in patients with primary microcephaly. [provided by RefSeq, Aug 2017].</p>
+<p><b>GO:BP:</b> G1/S transition of mitotic cell cycle; G2/M transition of mitotic cell cycle; positive regulation of cell-matrix adhesion; type B pancreatic cell development; DNA damage response; signal transduction</p>
+<p><b>GO:MF:</b> protein kinase activity; cyclin-dependent protein serine/threonine kinase activity; protein binding; ATP binding; kinase activity; cyclin binding</p>
+<p><b>GO:CC:</b> cyclin-dependent protein kinase holoenzyme complex; ruffle; nucleus; nucleoplasm; cytoplasm; centrosome</p>
+<p><b>Pathways:</b> Cell cycle - Homo sapiens (human) (kegg); p53 signaling pathway - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); Cellular senescence - Homo sapiens (human) (kegg); Cushing syndrome - Homo sapiens (human) (kegg); Hepatitis C - Homo sapiens (human) (kegg); Measles - Homo sapiens (human) (kegg); Human cytomegalovirus infection - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Protein kinase domain; Serine/threonine-protein kinase, active site; Protein kinase-like domain superfamily; Protein kinase, ATP binding site; Cyclin-dependent kinase 6; Cyclin-dependent kinase</p>
+</div>
+
+<div class="gene-card">
+<h3>HEY2 — hes related family bHLH transcription factor with YRPW motif 2</h3>
+<p><b>Summary:</b> This gene encodes a member of the hairy and enhancer of split-related (HESR) family of basic helix-loop-helix (bHLH)-type transcription factors. The encoded protein forms homo- or hetero-dimers that localize to the nucleus and interact with a histone deacetylase complex to repress transcription. Expression of this gene is induced by the Notch signal transduction pathway. Two similar and redundant genes in mouse are required for embryonic cardiovascular development, and are also implicated in neurogenesis and somitogenesis. Alternatively spliced transcript variants have been found, but their biological validity has not been determined. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; vasculogenesis; muscular septum morphogenesis; outflow tract morphogenesis; cardiac conduction system development; aortic valve morphogenesis</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; cis-regulatory region sequence-specific DNA binding; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA binding; DNA-binding transcription factor activity</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; cytoplasm; transcription repressor complex</p>
+<p><b>Pathways:</b> Notch signaling pathway - Homo sapiens (human) (kegg); Human papillomavirus infection - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Breast cancer - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signaling by NOTCH (reactome); Signal Transduction (reactome); Disease (reactome)</p>
+<p><b>InterPro:</b> Orange domain; Myc-type, basic helix-loop-helix (bHLH) domain; Helix-loop-helix DNA-binding domain superfamily; Hairy and Enhancer of Split/HEY-related</p>
+</div>
+
+<div class="gene-card">
+<h3>NRP2 — neuropilin 2</h3>
+<p><b>Summary:</b> This gene encodes a member of the neuropilin family of receptor proteins. The encoded transmembrane protein binds to SEMA3C protein {sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3C} and SEMA3F protein {sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3F}, and interacts with vascular endothelial growth factor (VEGF). This protein may play a role in cardiovascular development, axon guidance, and tumorigenesis. This protein has also been determined to act as a co-receptor for SARS-CoV-2 (which causes COVID-19) to infect host cells. [provided by RefSeq, Jul 2021].</p>
+<p><b>GO:BP:</b> angiogenesis; neuron migration; positive regulation of endothelial cell proliferation; outflow tract septum morphogenesis; cell adhesion; axon guidance</p>
+<p><b>GO:MF:</b> vascular endothelial growth factor receptor activity; protein binding; semaphorin receptor activity; growth factor binding; cytokine binding; signaling receptor activity</p>
+<p><b>GO:CC:</b> semaphorin receptor complex; extracellular region; plasma membrane; membrane; axon; postsynaptic membrane</p>
+<p><b>Pathways:</b> Developmental Biology (reactome); Signal Transduction (reactome); Signaling by VEGF (reactome); Neuropilin interactions with VEGF and VEGFR (reactome); L1CAM interactions (reactome); Axon guidance (reactome); NrCAM interactions (reactome); Signaling by Receptor Tyrosine Kinases (reactome)</p>
+<p><b>InterPro:</b> Coagulation factor 5/8, C-terminal domain; CUB domain; MAM domain; Galactose-binding-like domain superfamily; Concanavalin A-like lectin/glucanase domain superfamily; Neuropilin</p>
+</div>
+
+<div class="gene-card">
+<h3>TLE3 — TLE family member 3, transcriptional corepressor</h3>
+<p><b>Summary:</b> This gene encodes a transcriptional co-repressor protein that belongs to the transducin-like enhancer family of proteins. The members of this family function in the Notch signaling pathway that regulates determination of cell fate during development. Expression of this gene has been associated with a favorable outcome to chemotherapy with taxanes for ovarian carcinoma. Alternate splicing results in multiple transcript variants. Additional alternatively spliced transcript variants of this gene have been described, but their full-length nature is not known. [provided by RefSeq, Sep 2013].</p>
+<p><b>GO:BP:</b> regulation of DNA-templated transcription; signal transduction; animal organ morphogenesis; fat cell differentiation; negative regulation of DNA-templated transcription; positive regulation of DNA-templated transcription</p>
+<p><b>GO:MF:</b> transcription coactivator activity; transcription corepressor activity; protein binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; transcription regulator complex; chromosome; beta-catenin-TCF complex</p>
+<p><b>Pathways:</b> Wnt signaling pathway - Homo sapiens (human) (kegg); Notch signaling pathway - Homo sapiens (human) (kegg); Signaling by NOTCH (reactome); Signal Transduction (reactome); Degradation of beta-catenin by the destruction complex (reactome); Signaling by WNT (reactome); Signaling by NOTCH1 (reactome); TCF dependent signaling in response to WNT (reactome)</p>
+<p><b>InterPro:</b> WD40 repeat; Groucho/TLE, N-terminal Q-rich domain; Groucho/transducin-like enhancer; WD40/YVTN repeat-like-containing domain superfamily; WD40 repeat, conserved site; WD40-repeat-containing domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>TLE1 — TLE family member 1, transcriptional corepressor</h3>
+<p><b>Summary:</b> Enables identical protein binding activity and transcription corepressor activity. Involved in negative regulation of I-kappaB kinase/NF-kappaB signaling; negative regulation of anoikis; and regulation of gene expression. Located in cytosol and nucleoplasm. Part of beta-catenin-TCF complex. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> regulation of DNA-templated transcription; signal transduction; animal organ morphogenesis; positive regulation of gene expression; negative regulation of Wnt signaling pathway; negative regulation of canonical NF-kappaB signal transduction</p>
+<p><b>GO:MF:</b> transcription corepressor activity; protein binding; identical protein binding; DNA-binding transcription factor binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; transcription regulator complex; cytosol; beta-catenin-TCF complex</p>
+<p><b>Pathways:</b> Wnt signaling pathway - Homo sapiens (human) (kegg); Notch signaling pathway - Homo sapiens (human) (kegg); Cell-Cell communication (reactome); Signaling by NOTCH (reactome); Signal Transduction (reactome); Degradation of beta-catenin by the destruction complex (reactome); Signaling by WNT (reactome); Signaling by NOTCH1 (reactome)</p>
+<p><b>InterPro:</b> WD40 repeat; Groucho/TLE, N-terminal Q-rich domain; Groucho/transducin-like enhancer; WD40/YVTN repeat-like-containing domain superfamily; WD40 repeat, conserved site; WD40-repeat-containing domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>L1CAM — L1 cell adhesion molecule</h3>
+<p><b>Summary:</b> The protein encoded by this gene is an axonal glycoprotein belonging to the immunoglobulin supergene family. The ectodomain, consisting of several immunoglobulin-like domains and fibronectin-like repeats (type III), is linked via a single transmembrane sequence to a conserved cytoplasmic domain. This cell adhesion molecule plays an important role in nervous system development, including neuronal migration and differentiation. Mutations in the gene cause X-linked neurological syndromes known as CRASH (corpus callosum hypoplasia, retardation, aphasia, spastic paraplegia and hydrocephalus). Alternative splicing of this gene results in multiple transcript variants, some of which include an alternate exon that is considered to be specific to neurons. [provided by RefSeq, May 2013].</p>
+<p><b>GO:BP:</b> chemotaxis; cell adhesion; homophilic cell-cell adhesion; cell-matrix adhesion; nervous system development; axon guidance</p>
+<p><b>GO:MF:</b> protein binding; axon guidance receptor activity; protein domain specific binding</p>
+<p><b>GO:CC:</b> plasma membrane; focal adhesion; cell surface; axon; dendrite; growth cone</p>
+<p><b>Pathways:</b> Axon guidance - Homo sapiens (human) (kegg); Cell adhesion molecules - Homo sapiens (human) (kegg); Hemostasis (reactome); Developmental Biology (reactome); Cell surface interactions at the vascular wall (reactome); Basigin interactions (reactome); L1CAM interactions (reactome); Axon guidance (reactome)</p>
+<p><b>InterPro:</b> Immunoglobulin subtype 2; Immunoglobulin domain subtype; Fibronectin type III; Immunoglobulin-like domain; Immunoglobulin I-set; Immunoglobulin-like fold</p>
+</div>
+
+<div class="gene-card">
+<h3>PLG — plasminogen</h3>
+<p><b>Summary:</b> The plasminogen protein encoded by this gene is a serine protease that circulates in blood plasma as an inactive zymogen and is converted to the active protease, plasmin, by several plasminogen activators such as tissue plasminogen activator (tPA), urokinase plasminogen activator (uPA), kallikrein, and factor XII (Hageman factor). The conversion of plasminogen to plasmin involves the cleavage of the peptide bond between Arg-561 and Val-562. Plasmin cleavage also releases the angiostatin protein which inhibits angiogenesis. Plasmin degrades many blood plasma proteins, including fibrin-containing blood clots. As a serine protease, plasmin cleaves many products in addition to fibrin such as fibronectin, thrombospondin, laminin, and von Willebrand factor. Plasmin is inactivated by proteins such as alpha-2-macroglobulin and alpha-2-antiplasmin in addition to inhibitors of the various plasminogen activators. Plasminogen also interacts with plasminogen receptors which results in the retention of plasmin on cell surfaces and in plasmin-induced cell signaling. The localization of plasminogen on cell surfaces plays a role in the degradation of extracellular matrices, cell migration, inflamation, wound healing, oncogenesis, metastasis, myogenesis, muscle regeneration, neurite outgrowth, and fibrinolysis. This protein may also play a role in acute respiratory distress syndrome (ARDS) which, in part, is caused by enhanced clot formation and the suppression of fibrinolysis. Compared to other mammals, the cluster of plasminogen-like genes to which this gene belongs has been rearranged in catarrhine primates. [provided by RefSeq, May 2020].</p>
+<p><b>GO:BP:</b> proteolysis; blood coagulation; negative regulation of cell-substrate adhesion; extracellular matrix disassembly; collagen catabolic process; fibrinolysis</p>
+<p><b>GO:MF:</b> protease binding; endopeptidase activity; serine-type endopeptidase activity; signaling receptor binding; protein binding; serine-type peptidase activity</p>
+<p><b>GO:CC:</b> extracellular region; plasma membrane; external side of plasma membrane; cell surface; extracellular matrix; platelet alpha granule lumen</p>
+<p><b>Pathways:</b> Neuroactive ligand-receptor interaction - Homo sapiens (human) (kegg); Complement and coagulation cascades - Homo sapiens (human) (kegg); Staphylococcus aureus infection - Homo sapiens (human) (kegg); Influenza A - Homo sapiens (human) (kegg); Hemostasis (reactome); Platelet degranulation  (reactome); Degradation of the extracellular matrix (reactome); Extracellular matrix organization (reactome)</p>
+<p><b>InterPro:</b> Kringle; Serine proteases, trypsin domain; Peptidase S1A, chymotrypsin family; PAN/Apple domain; Peptidase S1, PA clan; Kringle-like fold</p>
+</div>
+
+<div class="gene-card">
+<h3>NKX6-1 — NK6 homeobox 1</h3>
+<p><b>Summary:</b> In the pancreas, NKX6.1 is required for the development of beta cells and is a potent bifunctional transcription regulator that binds to AT-rich sequences within the promoter region of target genes Iype et al. (2004) [PubMed 15056733].[supplied by OMIM, Mar 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; type B pancreatic cell development; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; transcription by RNA polymerase II; response to xenobiotic stimulus</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA binding; chromatin binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; extracellular exosome</p>
+<p><b>Pathways:</b> Maturity onset diabetes of the young - Homo sapiens (human) (kegg); Developmental Biology (reactome); Regulation of beta-cell development (reactome); Regulation of gene expression in beta cells (reactome); Regulation of gene expression in early pancreatic precursor cells (reactome); Developmental Cell Lineages (reactome); Developmental Cell Lineages of the Exocrine Pancreas (reactome); Developmental Lineage of Pancreatic Acinar Cells (reactome)</p>
+<p><b>InterPro:</b> Helix-turn-helix motif; Homeodomain; Homedomain-like superfamily; Homeobox, conserved site; Homeodomain, metazoa; Homeobox NK-like transcription regulators</p>
+</div>
+
+<div class="gene-card">
+<h3>NF1 — neurofibromin 1</h3>
+<p><b>Summary:</b> This gene product appears to function as a negative regulator of the ras signal transduction pathway. Mutations in this gene have been linked to neurofibromatosis type 1, juvenile myelomonocytic leukemia and Watson syndrome. The mRNA for this gene is subject to RNA editing (CGA>UGA->Arg1306Term) resulting in premature translation termination. Alternatively spliced transcript variants encoding different isoforms have also been described for this gene. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> MAPK cascade; osteoblast differentiation; metanephros development; response to hypoxia; liver development; negative regulation of endothelial cell proliferation</p>
+<p><b>GO:MF:</b> GTPase activator activity; protein binding; phosphatidylethanolamine binding; phosphatidylcholine binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; nucleolus; cytoplasm; cytosol; plasma membrane</p>
+<p><b>Pathways:</b> MAPK signaling pathway - Homo sapiens (human) (kegg); Ras signaling pathway - Homo sapiens (human) (kegg); Signal Transduction (reactome); Disease (reactome); Regulation of RAS by GAPs (reactome); Diseases of signal transduction by growth factor receptors and second messengers (reactome); RAF/MAP kinase cascade (reactome); MAPK family signaling cascades (reactome)</p>
+<p><b>InterPro:</b> CRAL-TRIO lipid binding domain; Ras GTPase-activating domain; Rho GTPase activation protein; PH-like domain superfamily; Armadillo-type fold; Ras GTPase-activating protein, conserved site</p>
+</div>
+
+<div class="gene-card">
+<h3>RASA1 — RAS p21 protein activator 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene is located in the cytoplasm and is part of the GAP1 family of GTPase-activating proteins. The gene product stimulates the GTPase activity of normal RAS p21 but not its oncogenic counterpart. Acting as a suppressor of RAS function, the protein enhances the weak intrinsic GTPase activity of RAS proteins resulting in the inactive GDP-bound form of RAS, thereby allowing control of cellular proliferation and differentiation. Mutations leading to changes in the binding sites of either protein are associated with basal cell carcinomas. Mutations also have been associated with hereditary capillary malformations (CM) with or without arteriovenous malformations (AVM) and Parkes Weber syndrome. Alternative splicing results in two isoforms where the shorter isoform, lacking the N-terminal hydrophobic region but retaining the same activity, appears to be abundantly expressed in placental but not adult tissues. [provided by RefSeq, May 2012].</p>
+<p><b>GO:BP:</b> mitotic cytokinesis; angiogenesis; vasculogenesis; negative regulation of cell-matrix adhesion; negative regulation of cell adhesion; signal transduction</p>
+<p><b>GO:MF:</b> phosphotyrosine residue binding; GTPase activity; GTPase activator activity; signaling receptor binding; protein binding; potassium channel inhibitor activity</p>
+<p><b>GO:CC:</b> ruffle; cytoplasm; cytosol; plasma membrane</p>
+<p><b>Pathways:</b> MAPK signaling pathway - Homo sapiens (human) (kegg); Ras signaling pathway - Homo sapiens (human) (kegg); Axon guidance - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signal Transduction (reactome); Downstream signal transduction (reactome); Signaling by PDGF (reactome); Signaling by VEGF (reactome)</p>
+<p><b>InterPro:</b> C2 domain; SH2 domain; SH3 domain; Pleckstrin homology domain; Ras GTPase-activating domain; Rho GTPase activation protein</p>
+</div>
+
+<div class="gene-card">
+<h3>ETS2 — ETS proto-oncogene 2, transcription factor</h3>
+<p><b>Summary:</b> This gene encodes a transcription factor which regulates genes involved in development and apoptosis. The encoded protein is also a protooncogene and shown to be involved in regulation of telomerase. A pseudogene of this gene is located on the X chromosome. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jan 2012].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; skeletal system development; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; cell differentiation; positive regulation of transcription by RNA polymerase II</p>
+<p><b>GO:MF:</b> RNA polymerase II transcription regulatory region sequence-specific DNA binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA binding; DNA-binding transcription factor activity</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm</p>
+<p><b>Pathways:</b> Ras signaling pathway - Homo sapiens (human) (kegg); Human T-cell leukemia virus 1 infection - Homo sapiens (human) (kegg); Cellular responses to stress (reactome); Cellular Senescence (reactome); Oncogene Induced Senescence (reactome); Cellular responses to stimuli (reactome); Myometrial relaxation and contraction pathways (wikipathways); Ras signaling (wikipathways)</p>
+<p><b>InterPro:</b> Ets domain; Pointed domain; Sterile alpha motif/pointed domain superfamily; Transforming protein C-ets; Transforming protein C-ets-2; Winged helix-like DNA-binding domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>RTN1 — reticulon 1</h3>
+<p><b>Summary:</b> This gene belongs to the family of reticulon encoding genes. Reticulons are associated with the endoplasmic reticulum, and are involved in neuroendocrine secretion or in membrane trafficking in neuroendocrine cells. This gene is considered to be a specific marker for neurological diseases and cancer, and is a potential molecular target for therapy. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jul 2011].</p>
+<p><b>GO:BP:</b> brain development; neuron differentiation; endoplasmic reticulum tubular network formation; negative regulation of amyloid-beta formation; endoplasmic reticulum tubular network membrane organization</p>
+<p><b>GO:MF:</b> protein binding</p>
+<p><b>GO:CC:</b> Golgi membrane; endoplasmic reticulum; endoplasmic reticulum membrane; postsynaptic density; dendrite; neuron projection</p>
+<p><b>Pathways:</b> —</p>
+<p><b>InterPro:</b> Reticulon; Reticulon 1-4</p>
+</div>
+
+<div class="gene-card">
+<h3>CRMP1 — collapsin response mediator protein 1</h3>
+<p><b>Summary:</b> This gene encodes a member of a family of cytosolic phosphoproteins expressed exclusively in the nervous system. The encoded protein is thought to be a part of the semaphorin signal transduction pathway implicated in semaphorin-induced growth cone collapse during neural development. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> nucleobase-containing compound metabolic process; pyrimidine nucleobase catabolic process; nervous system development; negative regulation of neuron projection development; semaphorin-plexin signaling pathway; regulation of postsynapse assembly</p>
+<p><b>GO:MF:</b> dihydropyrimidinase activity; protein binding; hydrolase activity; hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds; hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides; filamin binding</p>
+<p><b>GO:CC:</b> cytoplasm; centrosome; spindle; cytosol; cytoskeleton; actin cytoskeleton</p>
+<p><b>Pathways:</b> Developmental Biology (reactome); Semaphorin interactions (reactome); CRMPs in Sema3A signaling (reactome); Axon guidance (reactome); Nervous system development (reactome)</p>
+<p><b>InterPro:</b> Amidohydrolase-related; Metal-dependent hydrolase, composite domain superfamily; Hydantoinase/dihydropyrimidinase; Metal-dependent hydrolase; Metallo-dependent Hydrolases Superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>MYH9 — myosin heavy chain 9</h3>
+<p><b>Summary:</b> This gene encodes a conventional non-muscle myosin; this protein should not be confused with the unconventional myosin-9a or 9b (MYO9A or MYO9B). The encoded protein is a myosin IIA heavy chain that contains an IQ domain and a myosin head-like domain which is involved in several important functions, including cytokinesis, cell motility and maintenance of cell shape. Defects in this gene have been associated with non-syndromic sensorineural deafness autosomal dominant type 17, Epstein syndrome, Alport syndrome with macrothrombocytopenia, Sebastian syndrome, Fechtner syndrome and macrothrombocytopenia with progressive sensorineural deafness. [provided by RefSeq, Dec 2011].</p>
+<p><b>GO:BP:</b> cell morphogenesis; angiogenesis; plasma membrane repair; membrane protein ectodomain proteolysis; phagocytosis, engulfment; integrin-mediated signaling pathway</p>
+<p><b>GO:MF:</b> microfilament motor activity; virus receptor activity; RNA binding; cytoskeletal motor activity; actin binding; integrin binding</p>
+<p><b>GO:CC:</b> stress fiber; ruffle; immunological synapse; uropod; nucleus; cytoplasm</p>
+<p><b>Pathways:</b> Vascular smooth muscle contraction - Homo sapiens (human) (kegg); Tight junction - Homo sapiens (human) (kegg); Regulation of actin cytoskeleton - Homo sapiens (human) (kegg); Pathogenic Escherichia coli infection - Homo sapiens (human) (kegg); Developmental Biology (reactome); Adaptive Immune System (reactome); Translocation of SLC2A4 (GLUT4) to the plasma membrane (reactome); Signal Transduction (reactome)</p>
+<p><b>InterPro:</b> IQ motif, EF-hand binding site; Myosin head, motor domain-like; Myosin tail; Myosin, SH3 domain; Myosin S1 fragment, N-terminal; P-loop containing nucleoside triphosphate hydrolase</p>
+</div>
+
+<div class="gene-card">
+<h3>VEGFA — vascular endothelial growth factor A</h3>
+<p><b>Summary:</b> This gene is a member of the PDGF/VEGF growth factor family. It encodes a heparin-binding protein, which exists as a disulfide-linked homodimer. This growth factor induces proliferation and migration of vascular endothelial cells, and is essential for both physiological and pathological angiogenesis. Disruption of this gene in mice resulted in abnormal embryonic blood vessel formation. This gene is upregulated in many known tumors and its expression is correlated with tumor stage and progression. Elevated levels of this protein are found in patients with POEMS syndrome, also known as Crow-Fukase syndrome. Allelic variants of this gene have been associated with microvascular complications of diabetes 1 (MVCD1) and atherosclerosis. Alternatively spliced transcript variants encoding different isoforms have been described. There is also evidence for alternative translation initiation from upstream non-AUG (CUG) codons resulting in additional isoforms. A recent study showed that a C-terminally extended isoform is produced by use of an alternative in-frame translation termination codon via a stop codon readthrough mechanism, and that this isoform is antiangiogenic. Expression of some isoforms derived from the AUG start codon is regulated by a small upstream open reading frame, which is located within an internal ribosome entry site. The levels of VEGF are increased during infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), thus promoting inflammation by facilitating recruitment of inflammatory cells, and by increasing the level of angiopoietin II (Ang II), one of two products of the SARS-CoV-2 binding target, angiotensin-converting enzyme 2 (ACE2). In turn, Ang II facilitates the elevation of VEGF, thus forming a vicious cycle in the release of inflammatory cytokines. [provided by RefSeq, Jun 2020].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; angiogenesis; ovarian follicle development; branching involved in blood vessel morphogenesis; vasculogenesis; response to hypoxia</p>
+<p><b>GO:MF:</b> fibronectin binding; cytokine activity; platelet-derived growth factor receptor binding; vascular endothelial growth factor receptor binding; protein binding; growth factor activity</p>
+<p><b>GO:CC:</b> extracellular region; nucleus; cytoplasm; endoplasmic reticulum; Golgi apparatus; adherens junction</p>
+<p><b>Pathways:</b> MAPK signaling pathway - Homo sapiens (human) (kegg); Ras signaling pathway - Homo sapiens (human) (kegg); Rap1 signaling pathway - Homo sapiens (human) (kegg); Calcium signaling pathway - Homo sapiens (human) (kegg); HIF-1 signaling pathway - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); VEGF signaling pathway - Homo sapiens (human) (kegg); Focal adhesion - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> PDGF/VEGF domain; Platelet-derived growth factor, conserved site; Vascular endothelial growth factor, heparin-binding domain; Cystine-knot cytokine; Platelet-derived/Vascular endothelial growth factor; Vascular endothelial growth factor, heparin-binding domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>CELSR1 — cadherin EGF LAG seven-pass G-type receptor 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the flamingo subfamily, part of the cadherin superfamily. The flamingo subfamily consists of nonclassic-type cadherins; a subpopulation that does not interact with catenins. The flamingo cadherins are located at the plasma membrane and have nine cadherin domains, seven epidermal growth factor-like repeats and two laminin A G-type repeats in their ectodomain. They also have seven transmembrane domains, a characteristic unique to this subfamily. It is postulated that these proteins are receptors involved in contact-mediated communication, with cadherin domains acting as homophilic binding regions and the EGF-like domains involved in cell adhesion and receptor-ligand interactions. This particular member is a developmentally regulated, neural-specific gene which plays an unspecified role in early embryogenesis. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> establishment of planar polarity; neuron migration; neural tube closure; cell adhesion; homophilic cell-cell adhesion; cell surface receptor signaling pathway</p>
+<p><b>GO:MF:</b> transmembrane signaling receptor activity; G protein-coupled receptor activity; calcium ion binding</p>
+<p><b>GO:CC:</b> plasma membrane; adherens junction; membrane</p>
+<p><b>Pathways:</b> GPCRs, Other (wikipathways); Development of ureteric collection system (wikipathways)</p>
+<p><b>InterPro:</b> Cadherin-like; Cadherin-like superfamily; Cadherin conserved site; CELSR1-3-like, ninth cadherin domain; EGF-like domain; EGF-type aspartate/asparagine hydroxylation site</p>
+</div>
+
+<div class="gene-card">
+<h3>CNTFR — ciliary neurotrophic factor receptor</h3>
+<p><b>Summary:</b> This gene encodes a member of the type 1 cytokine receptor family. The encoded protein is the ligand-specific component of a tripartite receptor for ciliary neurotrophic factor, which plays a critical role in neuronal cell survival, differentiation and gene expression. Binding of ciliary neurotrophic factor to the encoded protein recruits the transmembrane components of the receptor, gp130 and leukemia inhibitory factor receptor, facilitating signal transduction. Single nucleotide polymorphisms in this gene may be associated with variations in muscle strength, as well as early onset of eating disorders. Alternatively spliced transcript variants have been observed for this gene. [provided by RefSeq, May 2011].</p>
+<p><b>GO:BP:</b> signal transduction; nervous system development; positive regulation of cell population proliferation; cytokine-mediated signaling pathway; interleukin-11-mediated signaling pathway; negative regulation of neuron apoptotic process</p>
+<p><b>GO:MF:</b> cytokine receptor activity; ciliary neurotrophic factor receptor activity; interleukin-11 receptor activity; signaling receptor binding; cytokine activity; protein binding</p>
+<p><b>GO:CC:</b> extracellular region; plasma membrane; external side of plasma membrane; membrane; apical plasma membrane; extrinsic component of membrane</p>
+<p><b>Pathways:</b> Cytokine-cytokine receptor interaction - Homo sapiens (human) (kegg); JAK-STAT signaling pathway - Homo sapiens (human) (kegg); Cytokine Signaling in Immune system (reactome); Immune System (reactome); Signaling by Interleukins (reactome); Interleukin-6 family signaling (reactome); IL-6-type cytokine receptor ligand interactions (reactome); Adipogenesis (wikipathways)</p>
+<p><b>InterPro:</b> Long hematopoietin receptor, soluble alpha chain, conserved site; Immunoglobulin subtype 2; Immunoglobulin domain subtype; Fibronectin type III; Immunoglobulin-like domain; Immunoglobulin-like fold</p>
+</div>
+
+<div class="gene-card">
+<h3>ACHE — acetylcholinesterase (Yt blood group)</h3>
+<p><b>Summary:</b> Acetylcholinesterase hydrolyzes the neurotransmitter, acetylcholine at neuromuscular junctions and brain cholinergic synapses, and thus terminates signal transmission. It is also found on the red blood cell membranes, where it constitutes the Yt blood group antigen. Acetylcholinesterase exists in multiple molecular forms which possess similar catalytic properties, but differ in their oligomeric assembly and mode of cell attachment to the cell surface. It is encoded by the single ACHE gene, and the structural diversity in the gene products arises from alternative mRNA splicing, and post-translational associations of catalytic and structural subunits. The major form of acetylcholinesterase found in brain, muscle and other tissues is the hydrophilic species, which forms disulfide-linked oligomers with collagenous, or lipid-containing structural subunits. The other, alternatively spliced form, expressed primarily in the erythroid tissues, differs at the C-terminal end, and contains a cleavable hydrophobic peptide with a GPI-anchor site. It associates with the membranes through the phosphoinositide (PI) moieties added post-translationally. AChE activity may constitute a sensitive biomarker of RBC ageing in vivo, and thus, may be of aid in understanding the effects of transfusion[provided by RefSeq, Sep 2019].</p>
+<p><b>GO:BP:</b> acetylcholine catabolic process in synaptic cleft; osteoblast development; acetylcholine catabolic process; cell adhesion; nervous system development; synapse assembly</p>
+<p><b>GO:MF:</b> amyloid-beta binding; acetylcholinesterase activity; cholinesterase activity; protein binding; collagen binding; hydrolase activity</p>
+<p><b>GO:CC:</b> extracellular region; basement membrane; nucleus; Golgi apparatus; plasma membrane; cell surface</p>
+<p><b>Pathways:</b> Glycerophospholipid metabolism - Homo sapiens (human) (kegg); Cholinergic synapse - Homo sapiens (human) (kegg); Neurotransmitter clearance (reactome); Transmission across Chemical Synapses (reactome); Neuronal System (reactome); Metabolism (reactome); Synthesis of PC (reactome); Glycerophospholipid biosynthesis (reactome)</p>
+<p><b>InterPro:</b> Cholinesterase; Carboxylesterase, type B; Carboxylesterase type B, conserved site; Carboxylesterase type B, active site; Alpha/Beta hydrolase fold; Acetylcholinesterase-related enzymes</p>
+</div>
+
+<div class="gene-card">
+<h3>PML — PML nuclear body scaffold</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a member of the tripartite motif (TRIM) family. The TRIM motif includes three zinc-binding domains, a RING, a B-box type 1 and a B-box type 2, and a coiled-coil region. This phosphoprotein localizes to nuclear bodies where it functions as a transcription factor and tumor suppressor. Its expression is cell-cycle related and it regulates the p53 response to oncogenic signals. The gene is often involved in the translocation with the retinoic acid receptor alpha gene associated with acute promyelocytic leukemia (APL). Extensive alternative splicing of this gene results in several variations of the protein's central and C-terminal regions; all variants encode the same N-terminus. Alternatively spliced transcript variants encoding different isoforms have been identified. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> response to hypoxia; positive regulation of defense response to virus by host; chromatin remodeling; regulation of DNA-templated transcription; protein targeting; apoptotic process</p>
+<p><b>GO:MF:</b> transcription coactivator activity; protein binding; zinc ion binding; SUMO transferase activity; ubiquitin protein ligase binding; SUMO binding</p>
+<p><b>GO:CC:</b> chromosome, telomeric region; nucleus; nucleoplasm; nucleolus; cytoplasm; endoplasmic reticulum membrane</p>
+<p><b>Pathways:</b> Ubiquitin mediated proteolysis - Homo sapiens (human) (kegg); Endocytosis - Homo sapiens (human) (kegg); Influenza A - Homo sapiens (human) (kegg); Herpes simplex virus 1 infection - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Transcriptional misregulation in cancer - Homo sapiens (human) (kegg); Acute myeloid leukemia - Homo sapiens (human) (kegg); PIP3 activates AKT signaling (reactome)</p>
+<p><b>InterPro:</b> B-box-type zinc finger; Zinc finger, RING-type; Zinc finger, RING/FYVE/PHD-type; Zinc finger, RING-type, conserved site; Zinc finger, C3HC4 RING-type; PML-like, coiled-coil</p>
+</div>
+
+<div class="gene-card">
+<h3>CDK5R1 — cyclin dependent kinase 5 regulatory subunit 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene (p35) is a neuron-specific activator of cyclin-dependent kinase 5 (CDK5); the activation of CDK5 is required for proper development of the central nervous system. The p35 form of this protein is proteolytically cleaved by calpain, generating a p25 form. The cleavage of p35 into p25 results in relocalization of the protein from the cell periphery to nuclear and perinuclear regions. P25 deregulates CDK5 activity by prolonging its activation and changing its cellular location. The p25 form accumulates in the brain neurons of patients with Alzheimer's disease. This accumulation correlates with an increase in CDK5 kinase activity, and may lead to aberrantly phosphorylated forms of the microtubule-associated protein tau, which contributes to Alzheimer's disease. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> regulation of cyclin-dependent protein serine/threonine kinase activity; microtubule cytoskeleton organization; neuron migration; neuron cell-cell adhesion; G protein-coupled acetylcholine receptor signaling pathway; axon guidance</p>
+<p><b>GO:MF:</b> protease binding; actin binding; protein kinase activity; calcium ion binding; protein binding; kinase activity</p>
+<p><b>GO:CC:</b> cyclin-dependent protein kinase holoenzyme complex; nucleus; nucleoplasm; cytoplasm; cytosol; plasma membrane</p>
+<p><b>Pathways:</b> Alzheimer disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Cocaine addiction - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signal Transduction (reactome); Disease (reactome); Signaling by NTRKs (reactome); Signaling by NTRK1 (TRKA) (reactome)</p>
+<p><b>InterPro:</b> Cyclin-dependent kinase 5 activator; Cyclin-like superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>VLDLR — very low density lipoprotein receptor</h3>
+<p><b>Summary:</b> The low density lipoprotein receptor (LDLR) gene family consists of cell surface proteins involved in receptor-mediated endocytosis of specific ligands. This gene encodes a lipoprotein receptor that is a member of the LDLR family and plays important roles in VLDL-triglyceride metabolism and the reelin signaling pathway. Mutations in this gene cause VLDLR-associated cerebellar hypoplasia. Alternative splicing generates multiple transcript variants encoding distinct isoforms for this gene. [provided by RefSeq, Aug 2009].</p>
+<p><b>GO:BP:</b> endocytosis; receptor-mediated endocytosis; signal transduction; nervous system development; memory; glycoprotein transport</p>
+<p><b>GO:MF:</b> virus receptor activity; low-density lipoprotein particle receptor activity; calcium ion binding; protein binding; very-low-density lipoprotein particle receptor activity; apolipoprotein binding</p>
+<p><b>GO:CC:</b> lysosomal membrane; plasma membrane; clathrin-coated pit; membrane; signaling receptor complex</p>
+<p><b>Pathways:</b> Spinocerebellar ataxia - Homo sapiens (human) (kegg); Lipid and atherosclerosis - Homo sapiens (human) (kegg); Developmental Biology (reactome); Plasma lipoprotein assembly, remodeling, and clearance (reactome); Transport of small molecules (reactome); Axon guidance (reactome); Reelin signalling pathway (reactome); VLDLR internalisation and degradation (reactome)</p>
+<p><b>InterPro:</b> LDLR class B repeat; EGF-type aspartate/asparagine hydroxylation site; EGF-like domain; EGF-like calcium-binding domain; Low-density lipoprotein (LDL) receptor class A repeat; Six-bladed beta-propeller, TolB-like</p>
+</div>
+
+<div class="gene-card">
+<h3>OPHN1 — oligophrenin 1</h3>
+<p><b>Summary:</b> This gene encodes a Rho-GTPase-activating protein that promotes GTP hydrolysis of Rho subfamily members. Rho proteins are important mediators of intracellular signal transduction, which affects cell migration and cell morphogenesis. Mutations in this gene are responsible for OPHN1-related X-linked cognitive disability with cerebellar hypoplasia and distinctive facial dysmorhphism. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> substrate-dependent cell migration, cell extension; signal transduction; nervous system development; axon guidance; cerebellar granule cell differentiation; cerebral cortex neuron differentiation</p>
+<p><b>GO:MF:</b> actin binding; GTPase activator activity; phospholipid binding; ionotropic glutamate receptor binding</p>
+<p><b>GO:CC:</b> cytoplasm; actin cytoskeleton; axon; dendrite; terminal bouton; dendritic spine</p>
+<p><b>Pathways:</b> Signal Transduction (reactome); Signaling by Rho GTPases (reactome); RHOA GTPase cycle (reactome); RHO GTPase cycle (reactome); RHOB GTPase cycle (reactome); RHOC GTPase cycle (reactome); CDC42 GTPase cycle (reactome); RAC1 GTPase cycle (reactome)</p>
+<p><b>InterPro:</b> Rho GTPase-activating protein domain; Pleckstrin homology domain; BAR domain; Rho GTPase activation protein; PH-like domain superfamily; AH/BAR domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>LDB1 — LIM domain binding 1</h3>
+<p><b>Summary:</b> Enables LIM domain binding activity; RNA polymerase II-specific DNA-binding transcription factor binding activity; and enzyme binding activity. Involved in negative regulation of transcription, DNA-templated and positive regulation of transcription by RNA polymerase II. Located in chromatin. Part of beta-catenin-TCF complex. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; transcription-dependent tethering of RNA polymerase II gene DNA at nuclear periphery; transcription by RNA polymerase II; nervous system development; neuron differentiation; regulation of cell migration</p>
+<p><b>GO:MF:</b> DNA binding; chromatin binding; transcription coregulator activity; transcription coactivator activity; protein binding; enzyme binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; transcription regulator complex; cell leading edge; protein-containing complex</p>
+<p><b>Pathways:</b> Transcriptional misregulation in cancer - Homo sapiens (human) (kegg); Developmental Biology (reactome); Generic Transcription Pathway (reactome); Signaling by ROBO receptors (reactome); Olfactory Signaling Pathway (reactome); Axon guidance (reactome); RNA Polymerase II Transcription (reactome); Gene expression (Transcription) (reactome)</p>
+<p><b>InterPro:</b> LIM-domain binding protein/SEUSS; LIM interaction domain</p>
+</div>
+
+<div class="gene-card">
+<h3>DPYSL2 — dihydropyrimidinase like 2</h3>
+<p><b>Summary:</b> This gene encodes a member of the collapsin response mediator protein family. Collapsin response mediator proteins form homo- and hetero-tetramers and facilitate neuron guidance, growth and polarity. The encoded protein promotes microtubule assembly and is required for Sema3A-mediated growth cone collapse, and also plays a role in synaptic signaling through interactions with calcium channels. This gene has been implicated in multiple neurological disorders, and hyperphosphorylation of the encoded protein may play a key role in the development of Alzheimer's disease. Alternatively spliced transcript variants encoding multiple isoforms have been observed for this gene. [provided by RefSeq, Sep 2011].</p>
+<p><b>GO:BP:</b> nucleobase-containing compound metabolic process; pyrimidine nucleobase catabolic process; endocytosis; cytoskeleton organization; signal transduction; nervous system development</p>
+<p><b>GO:MF:</b> dihydropyrimidinase activity; protein binding; hydrolase activity; hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds; hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides; identical protein binding</p>
+<p><b>GO:CC:</b> cytoplasm; cytosol; cytoskeleton; microtubule; microtubule cytoskeleton; membrane</p>
+<p><b>Pathways:</b> Axon guidance - Homo sapiens (human) (kegg); Developmental Biology (reactome); Semaphorin interactions (reactome); L1CAM interactions (reactome); CRMPs in Sema3A signaling (reactome); Axon guidance (reactome); Recycling pathway of L1 (reactome); Nervous system development (reactome)</p>
+<p><b>InterPro:</b> Amidohydrolase-related; Metal-dependent hydrolase, composite domain superfamily; Hydantoinase/dihydropyrimidinase; Metal-dependent hydrolase; Metallo-dependent Hydrolases Superfamily</p>
+</div>
+
+
+<h2>Provenance</h2>
+<ul>
+<li>PANTHER: pantherdb.org, REST (geneinfo + enrich/overrep)</li>
+<li>Enrichr: maayanlab.cloud/Enrichr, GO_Biological_Process_2025</li>
+<li>g:Profiler: biit.cs.ut.ee/gprofiler, GO/KEGG/REAC</li>
+<li>MyGene.info: mygene.info/v3/query</li>
+</ul>
+</body></html>

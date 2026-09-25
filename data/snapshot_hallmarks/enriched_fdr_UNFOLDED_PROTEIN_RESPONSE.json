@@ -1,0 +1,4816 @@
+{
+  "PANTHER": [
+    {
+      "id": "GO:0010467",
+      "label": "gene expression",
+      "fdr": 5.963536684181925e-19,
+      "p_value": 4.333650667961576e-23,
+      "fold": 4.330228198703112,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034976",
+      "label": "response to endoplasmic reticulum stress",
+      "fdr": 8.756298615429155e-18,
+      "p_value": 1.2726253347037505e-21,
+      "fold": 17.97736748064324,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009059",
+      "label": "macromolecule biosynthetic process",
+      "fdr": 5.047538594983246e-17,
+      "p_value": 1.100400827334477e-20,
+      "fold": 3.7746008351756326,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010608",
+      "label": "post-transcriptional regulation of gene expression",
+      "fdr": 3.4399420907508324e-16,
+      "p_value": 9.999104980018407e-20,
+      "fold": 10.024535450117266,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043170",
+      "label": "macromolecule metabolic process",
+      "fdr": 1.1633307245130724e-14,
+      "p_value": 4.226912014072642e-18,
+      "fold": 2.558044384597457,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009058",
+      "label": "biosynthetic process",
+      "fdr": 9.761145024767578e-14,
+      "p_value": 4.96533792408786e-17,
+      "fold": 2.9409453038476654,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006402",
+      "label": "mRNA catabolic process",
+      "fdr": 1.0575509462811264e-13,
+      "p_value": 4.6110789024683954e-17,
+      "fold": 21.053708439897697,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000956",
+      "label": "nuclear-transcribed mRNA catabolic process",
+      "fdr": 1.0847052215575104e-13,
+      "p_value": 6.305967424213417e-17,
+      "fold": 23.967391304347828,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016070",
+      "label": "RNA metabolic process",
+      "fdr": 2.0298799132656506e-13,
+      "p_value": 1.327586601220177e-16,
+      "fold": 4.745532328043933,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006401",
+      "label": "RNA catabolic process",
+      "fdr": 2.87166043529772e-13,
+      "p_value": 2.0868108678858514e-16,
+      "fold": 14.982406471183012,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034620",
+      "label": "cellular response to unfolded protein",
+      "fdr": 3.6716567815615737e-13,
+      "p_value": 2.934977443294623e-16,
+      "fold": 30.610983981693362,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010629",
+      "label": "negative regulation of gene expression",
+      "fdr": 6.956679828316128e-13,
+      "p_value": 6.066431068948008e-16,
+      "fold": 5.608823404164714,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030968",
+      "label": "endoplasmic reticulum unfolded protein response",
+      "fdr": 7.54321397657856e-13,
+      "p_value": 7.126065089420921e-16,
+      "fold": 35.20456165359943,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0141188",
+      "label": "nucleic acid catabolic process",
+      "fdr": 1.150154624643097e-12,
+      "p_value": 1.170130422571278e-15,
+      "fold": 13.591634562465602,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035967",
+      "label": "cellular response to topologically incorrect protein",
+      "fdr": 2.7157448194122858e-12,
+      "p_value": 2.9602625020844624e-15,
+      "fold": 25.849275362318842,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006364",
+      "label": "rRNA processing",
+      "fdr": 1.3944430497066511e-11,
+      "p_value": 1.6213275775965713e-14,
+      "fold": 14.608695652173912,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006986",
+      "label": "response to unfolded protein",
+      "fdr": 1.4697132967564617e-11,
+      "p_value": 1.8156475579434524e-14,
+      "fold": 22.586745462220346,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033554",
+      "label": "cellular response to stress",
+      "fdr": 1.7275266902481928e-11,
+      "p_value": 2.51075748891533e-14,
+      "fold": 4.283533765032376,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010605",
+      "label": "negative regulation of macromolecule metabolic process",
+      "fdr": 1.747276219633562e-11,
+      "p_value": 2.285515002790794e-14,
+      "fold": 3.320693828156515,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042254",
+      "label": "ribosome biogenesis",
+      "fdr": 1.7610872652572628e-11,
+      "p_value": 2.431557157175205e-14,
+      "fold": 11.422756706753008,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090304",
+      "label": "nucleic acid metabolic process",
+      "fdr": 2.7875226056230234e-11,
+      "p_value": 4.4564709922030754e-14,
+      "fold": 3.6594600455383284,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044238",
+      "label": "primary metabolic process",
+      "fdr": 2.815913886602347e-11,
+      "p_value": 4.2972306967988725e-14,
+      "fold": 2.107685164955211,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035966",
+      "label": "response to topologically incorrect protein",
+      "fdr": 7.360534975514673e-11,
+      "p_value": 1.2302325734818506e-13,
+      "fold": 19.54987212276215,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016071",
+      "label": "mRNA metabolic process",
+      "fdr": 1.2890220082721628e-10,
+      "p_value": 2.2481308188744933e-13,
+      "fold": 7.3315521010444495,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010558",
+      "label": "negative regulation of macromolecule biosynthetic process",
+      "fdr": 1.3516544699313388e-10,
+      "p_value": 2.455589110405019e-13,
+      "fold": 3.4773542138883164,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009892",
+      "label": "negative regulation of metabolic process",
+      "fdr": 1.8861360018271687e-10,
+      "p_value": 3.563660783918784e-13,
+      "fold": 3.0819917633845004,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016072",
+      "label": "rRNA metabolic process",
+      "fdr": 1.9424980248313138e-10,
+      "p_value": 3.8113107092831534e-13,
+      "fold": 11.930434782608696,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043487",
+      "label": "regulation of RNA stability",
+      "fdr": 2.0751681194912058e-10,
+      "p_value": 4.222418962702839e-13,
+      "fold": 13.354964308890331,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009890",
+      "label": "negative regulation of biosynthetic process",
+      "fdr": 3.584080322130237e-10,
+      "p_value": 7.553108737866207e-13,
+      "fold": 3.3610707243721247,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009057",
+      "label": "macromolecule catabolic process",
+      "fdr": 4.1480789877384303e-10,
+      "p_value": 9.043119659338196e-13,
+      "fold": 4.809767498085989,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048523",
+      "label": "negative regulation of cellular process",
+      "fdr": 4.962532680439759e-10,
+      "p_value": 1.1179312048080266e-12,
+      "fold": 2.3177991117246894,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061013",
+      "label": "regulation of mRNA catabolic process",
+      "fdr": 5.923959561650638e-10,
+      "p_value": 1.3775649006091158e-12,
+      "fold": 12.313522138013562,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008152",
+      "label": "metabolic process",
+      "fdr": 5.993590469514033e-10,
+      "p_value": 1.4373118631928136e-12,
+      "fold": 1.9462785556374353,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006396",
+      "label": "RNA processing",
+      "fdr": 8.136100668339348e-10,
+      "p_value": 2.0102276195301057e-12,
+      "fold": 5.55765595463138,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034655",
+      "label": "nucleobase-containing compound catabolic process",
+      "fdr": 8.503644153831995e-10,
+      "p_value": 2.162833699470386e-12,
+      "fold": 8.77715910437152,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000288",
+      "label": "nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",
+      "fdr": 8.889936103482102e-10,
+      "p_value": 2.32568635800709e-12,
+      "fold": 36.60474308300396,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043488",
+      "label": "regulation of mRNA stability",
+      "fdr": 1.1011164871094904e-09,
+      "p_value": 2.9606358566275086e-12,
+      "fold": 13.256038647342994,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048519",
+      "label": "negative regulation of biological process",
+      "fdr": 1.2573173831388866e-09,
+      "p_value": 3.471990448316088e-12,
+      "fold": 2.2356257921009752,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0022613",
+      "label": "ribonucleoprotein complex biogenesis",
+      "fdr": 1.9252547437243375e-09,
+      "p_value": 5.4563574598684074e-12,
+      "fold": 7.658049353701527,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032774",
+      "label": "RNA biosynthetic process",
+      "fdr": 1.9527871164108197e-09,
+      "p_value": 5.67629421237067e-12,
+      "fold": 4.301839464882943,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031126",
+      "label": "sno(s)RNA 3'-end processing",
+      "fdr": 7.860920693337917e-09,
+      "p_value": 2.3992345695820977e-11,
+      "fold": 89.47826086956522,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043144",
+      "label": "sno(s)RNA processing",
+      "fdr": 8.052650466346157e-09,
+      "p_value": 2.3992345695820977e-11,
+      "fold": 89.47826086956522,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0141187",
+      "label": "nucleic acid biosynthetic process",
+      "fdr": 8.689065066365093e-09,
+      "p_value": 2.7151355123442988e-11,
+      "fold": 4.03965060359211,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045047",
+      "label": "protein targeting to ER",
+      "fdr": 9.877954188398133e-09,
+      "p_value": 3.15841860540308e-11,
+      "fold": 37.67505720823799,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072599",
+      "label": "establishment of protein localization to endoplasmic reticulum",
+      "fdr": 1.8610379418795477e-08,
+      "p_value": 6.085800987179685e-11,
+      "fold": 34.91834570519618,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016074",
+      "label": "sno(s)RNA metabolic process",
+      "fdr": 2.3115125894067293e-08,
+      "p_value": 7.726878796069294e-11,
+      "fold": 76.69565217391305,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009894",
+      "label": "regulation of catabolic process",
+      "fdr": 2.4255580779745527e-08,
+      "p_value": 8.284371024257246e-11,
+      "fold": 4.478219023308365,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006139",
+      "label": "nucleobase-containing compound metabolic process",
+      "fdr": 2.897647249335779e-08,
+      "p_value": 1.0107337255149871e-10,
+      "fold": 2.8852604763288823,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061157",
+      "label": "mRNA destabilization",
+      "fdr": 3.0675358994413686e-08,
+      "p_value": 1.0922844202647121e-10,
+      "fold": 19.242636746143056,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050779",
+      "label": "RNA destabilization",
+      "fdr": 4.13884778436112e-08,
+      "p_value": 1.5038324919559335e-10,
+      "fold": 18.641304347826086,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009987",
+      "label": "cellular process",
+      "fdr": 4.516640406846363e-08,
+      "p_value": 1.6739238481881005e-10,
+      "fold": 1.3178829344114849,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071051",
+      "label": "poly(A)-dependent snoRNA 3'-end processing",
+      "fdr": 7.298336352931393e-08,
+      "p_value": 2.7578917982154814e-10,
+      "fold": 111.84782608695652,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010468",
+      "label": "regulation of gene expression",
+      "fdr": 8.08314387661692e-08,
+      "p_value": 3.1131939936101795e-10,
+      "fold": 2.186138392441156,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006417",
+      "label": "regulation of translation",
+      "fdr": 9.921201711348312e-08,
+      "p_value": 3.965308437789094e-10,
+      "fold": 8.259531772575253,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010604",
+      "label": "positive regulation of macromolecule metabolic process",
+      "fdr": 9.988300054030471e-08,
+      "p_value": 3.9195422056365484e-10,
+      "fold": 2.6125039669946046,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006950",
+      "label": "response to stress",
+      "fdr": 1.2068253139051365e-07,
+      "p_value": 4.911141456194146e-10,
+      "fold": 2.594427333285581,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009893",
+      "label": "positive regulation of metabolic process",
+      "fdr": 1.257712981245884e-07,
+      "p_value": 5.2096242955465e-10,
+      "fold": 2.5036496350364965,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061014",
+      "label": "positive regulation of mRNA catabolic process",
+      "fdr": 1.2694128325923106e-07,
+      "p_value": 5.350333863117072e-10,
+      "fold": 16.418029517351414,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903311",
+      "label": "regulation of mRNA metabolic process",
+      "fdr": 1.464325813028642e-07,
+      "p_value": 6.278266330113355e-10,
+      "fold": 7.989130434782608,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010556",
+      "label": "regulation of macromolecule biosynthetic process",
+      "fdr": 2.426626114878343e-07,
+      "p_value": 1.0580449596155845e-09,
+      "fold": 2.1331078500900116,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016073",
+      "label": "snRNA metabolic process",
+      "fdr": 2.9313706073302196e-07,
+      "p_value": 1.2994230582598897e-09,
+      "fold": 24.265291083271922,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1905897",
+      "label": "regulation of response to endoplasmic reticulum stress",
+      "fdr": 4.5870556315732065e-07,
+      "p_value": 2.066691731396983e-09,
+      "fold": 17.698996655518393,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903313",
+      "label": "positive regulation of mRNA metabolic process",
+      "fdr": 5.27180653976088e-07,
+      "p_value": 2.4135150934157067e-09,
+      "fold": 14.091064703868538,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0036503",
+      "label": "ERAD pathway",
+      "fdr": 5.947220672120362e-07,
+      "p_value": 2.7659481361507385e-09,
+      "fold": 17.134135060129505,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034654",
+      "label": "nucleobase-containing compound biosynthetic process",
+      "fdr": 6.139178109284619e-07,
+      "p_value": 2.8998370547452966e-09,
+      "fold": 3.3263294003555846,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006457",
+      "label": "protein folding",
+      "fdr": 6.903047335135377e-07,
+      "p_value": 3.3108140696092934e-09,
+      "fold": 9.896213183730717,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034975",
+      "label": "protein folding in endoplasmic reticulum",
+      "fdr": 7.869293629111702e-07,
+      "p_value": 3.83142702674576e-09,
+      "fold": 74.56521739130434,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0017148",
+      "label": "negative regulation of translation",
+      "fdr": 8.123941872932004e-07,
+      "p_value": 4.073482953508526e-09,
+      "fold": 13.354964308890331,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009889",
+      "label": "regulation of biosynthetic process",
+      "fdr": 8.127176949837086e-07,
+      "p_value": 4.016045582362632e-09,
+      "fold": 2.0540720376823267,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048522",
+      "label": "positive regulation of cellular process",
+      "fdr": 1.5924465891733302e-06,
+      "p_value": 8.10052040128865e-09,
+      "fold": 1.9487098555985165,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042149",
+      "label": "cellular response to glucose starvation",
+      "fdr": 1.6706290330721987e-06,
+      "p_value": 8.619625125218088e-09,
+      "fold": 26.09782608695652,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006984",
+      "label": "ER-nucleus signaling pathway",
+      "fdr": 1.738425559555902e-06,
+      "p_value": 9.095751783157107e-09,
+      "fold": 38.34782608695652,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009056",
+      "label": "catabolic process",
+      "fdr": 3.3336884478980367e-06,
+      "p_value": 1.768470726666352e-08,
+      "fold": 2.920249207369798,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060255",
+      "label": "regulation of macromolecule metabolic process",
+      "fdr": 3.409395838200906e-06,
+      "p_value": 1.8334081246048036e-08,
+      "fold": 1.9225117958136735,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019222",
+      "label": "regulation of metabolic process",
+      "fdr": 4.209870958565203e-06,
+      "p_value": 2.2944576839792912e-08,
+      "fold": 1.8569547025650357,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042594",
+      "label": "response to starvation",
+      "fdr": 4.2238999333070215e-06,
+      "p_value": 2.3327984516483806e-08,
+      "fold": 9.509766855702583,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048518",
+      "label": "positive regulation of biological process",
+      "fdr": 6.491842219756948e-06,
+      "p_value": 3.632525622565838e-08,
+      "fold": 1.855259657730618,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000290",
+      "label": "deadenylation-dependent decapping of nuclear-transcribed mRNA",
+      "fdr": 7.119419439297261e-06,
+      "p_value": 4.0354241426145365e-08,
+      "fold": 49.710144927536234,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031667",
+      "label": "response to nutrient levels",
+      "fdr": 7.274102322435259e-06,
+      "p_value": 4.175961655928969e-08,
+      "fold": 5.848252344416028,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009267",
+      "label": "cellular response to starvation",
+      "fdr": 7.288125906131203e-06,
+      "p_value": 4.236974583900125e-08,
+      "fold": 10.465293668954997,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006446",
+      "label": "regulation of translational initiation",
+      "fdr": 7.295876116723872e-06,
+      "p_value": 4.29449869525931e-08,
+      "fold": 15.732441471571905,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1900101",
+      "label": "regulation of endoplasmic reticulum unfolded protein response",
+      "fdr": 7.51830169156347e-06,
+      "p_value": 4.534692539784667e-08,
+      "fold": 29.826086956521742,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009896",
+      "label": "positive regulation of catabolic process",
+      "fdr": 7.554068452722983e-06,
+      "p_value": 4.5013706352974684e-08,
+      "fold": 5.382151029748284,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034475",
+      "label": "U4 snRNA 3'-end processing",
+      "fdr": 1.0428005617668095e-05,
+      "p_value": 6.365471055040477e-08,
+      "fold": 89.4782608695652,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051604",
+      "label": "protein maturation",
+      "fdr": 1.1661573703588019e-05,
+      "p_value": 7.287953916928782e-08,
+      "fold": 5.196559614929377,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0110156",
+      "label": "mRNA methylguanosine-cap decapping",
+      "fdr": 1.1716845608413003e-05,
+      "p_value": 7.237351040731817e-08,
+      "fold": 44.73913043478261,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016180",
+      "label": "snRNA processing",
+      "fdr": 1.1851760356325339e-05,
+      "p_value": 7.492937657149223e-08,
+      "fold": 27.531772575250837,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031669",
+      "label": "cellular response to nutrient levels",
+      "fdr": 1.3357157995458655e-05,
+      "p_value": 8.541747718918404e-08,
+      "fold": 8.376688251618871,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000460",
+      "label": "maturation of 5.8S rRNA",
+      "fdr": 1.582205356551476e-05,
+      "p_value": 1.0232997364514308e-07,
+      "fold": 26.188759278897138,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1990737",
+      "label": "response to manganese-induced endoplasmic reticulum stress",
+      "fdr": 2.5990570955474414e-05,
+      "p_value": 1.6998411350866195e-07,
+      "fold": 178.95652173913044,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0036490",
+      "label": "regulation of translation in response to endoplasmic reticulum stress",
+      "fdr": 2.8317809898966082e-05,
+      "p_value": 1.8932043533935612e-07,
+      "fold": 71.58260869565217,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071287",
+      "label": "cellular response to manganese ion",
+      "fdr": 2.8628994623130545e-05,
+      "p_value": 1.8932043533935612e-07,
+      "fold": 71.58260869565217,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0110154",
+      "label": "RNA decapping",
+      "fdr": 2.8839457298290726e-05,
+      "p_value": 1.949036791469397e-07,
+      "fold": 37.28260869565217,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010496",
+      "label": "intercellular transport",
+      "fdr": 3.1066767915214344e-05,
+      "p_value": 2.1221395131386878e-07,
+      "fold": 4.249627165309166,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051254",
+      "label": "positive regulation of RNA metabolic process",
+      "fdr": 3.262009457662087e-05,
+      "p_value": 2.2519504285872994e-07,
+      "fold": 2.886395511921459,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071028",
+      "label": "nuclear mRNA surveillance",
+      "fdr": 4.246138402473914e-05,
+      "p_value": 2.962206864599199e-07,
+      "fold": 65.07509881422925,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903573",
+      "label": "negative regulation of response to endoplasmic reticulum stress",
+      "fdr": 4.353744292137172e-05,
+      "p_value": 3.068913569779127e-07,
+      "fold": 21.913043478260867,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043069",
+      "label": "negative regulation of programmed cell death",
+      "fdr": 5.263338274670941e-05,
+      "p_value": 3.748326073088818e-07,
+      "fold": 4.087839329066432,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1904872",
+      "label": "regulation of telomerase RNA localization to Cajal body",
+      "fdr": 6.149572894358584e-05,
+      "p_value": 4.4241531614090527e-07,
+      "fold": 59.65217391304348,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046907",
+      "label": "intracellular transport",
+      "fdr": 6.854139960018731e-05,
+      "p_value": 4.980844386322747e-07,
+      "fold": 3.3506753006475485,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010628",
+      "label": "positive regulation of gene expression",
+      "fdr": 8.233812655084749e-05,
+      "p_value": 6.043275039339871e-07,
+      "fold": 3.4446259913123183,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903891",
+      "label": "regulation of ATF6-mediated unfolded protein response",
+      "fdr": 9.135695832318602e-05,
+      "p_value": 6.771607985586058e-07,
+      "fold": 134.2173913043478,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902235",
+      "label": "regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway",
+      "fdr": 0.00011904954065814689,
+      "p_value": 8.910764252444684e-07,
+      "fold": 27.96195652173913,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043066",
+      "label": "negative regulation of apoptotic process",
+      "fdr": 0.00012056190064597359,
+      "p_value": 9.111574498351321e-07,
+      "fold": 4.056347826086956,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043067",
+      "label": "regulation of programmed cell death",
+      "fdr": 0.00012828327433434062,
+      "p_value": 9.788346635495797e-07,
+      "fold": 3.106415094339623,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009628",
+      "label": "response to abiotic stimulus",
+      "fdr": 0.00014357182084964357,
+      "p_value": 1.1059234801295123e-06,
+      "fold": 3.6133622880377025,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045184",
+      "label": "establishment of protein localization",
+      "fdr": 0.00015121700933799572,
+      "p_value": 1.1758026305621352e-06,
+      "fold": 3.776339262959376,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051649",
+      "label": "establishment of localization in cell",
+      "fdr": 0.00015285053770026043,
+      "p_value": 1.2218268401299796e-06,
+      "fold": 2.968180042666987,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031123",
+      "label": "RNA 3'-end processing",
+      "fdr": 0.00015299393268687487,
+      "p_value": 1.200737208791693e-06,
+      "fold": 12.914388166741372,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070059",
+      "label": "intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress",
+      "fdr": 0.000154065810311819,
+      "p_value": 1.220345419954093e-06,
+      "fold": 26.317135549872123,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010557",
+      "label": "positive regulation of macromolecule biosynthetic process",
+      "fdr": 0.0001647905597161738,
+      "p_value": 1.329245849029525e-06,
+      "fold": 2.4183313748531137,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071027",
+      "label": "nuclear RNA surveillance",
+      "fdr": 0.00017415153111280876,
+      "p_value": 1.4174094531381863e-06,
+      "fold": 25.565217391304348,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010042",
+      "label": "response to manganese ion",
+      "fdr": 0.0001946993961265753,
+      "p_value": 1.5987960004580343e-06,
+      "fold": 44.7391304347826,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032057",
+      "label": "negative regulation of translational initiation in response to stress",
+      "fdr": 0.00020174736513776148,
+      "p_value": 1.6859928050899332e-06,
+      "fold": 107.37391304347827,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044085",
+      "label": "cellular component biogenesis",
+      "fdr": 0.00020183612912902352,
+      "p_value": 1.6720673439945266e-06,
+      "fold": 2.2677328967666783,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042981",
+      "label": "regulation of apoptotic process",
+      "fdr": 0.00021572110008004293,
+      "p_value": 1.8184468868021932e-06,
+      "fold": 3.1000342348510785,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0140467",
+      "label": "integrated stress response signaling",
+      "fdr": 0.0002543431237713762,
+      "p_value": 2.1624987632621913e-06,
+      "fold": 23.54691075514874,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006413",
+      "label": "translational initiation",
+      "fdr": 0.00028018566746522124,
+      "p_value": 2.4025803910250783e-06,
+      "fold": 15.561436672967863,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042274",
+      "label": "ribosomal small subunit biogenesis",
+      "fdr": 0.00028654560457798926,
+      "p_value": 2.4779396079340688e-06,
+      "fold": 11.59903381642512,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008150",
+      "label": "biological_process",
+      "fdr": 0.00029932904940952024,
+      "p_value": 2.610238058945021e-06,
+      "fold": 1.1570685447457651,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009891",
+      "label": "positive regulation of biosynthetic process",
+      "fdr": 0.0003034684929227778,
+      "p_value": 2.6904408209126436e-06,
+      "fold": 2.306861413043478,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019538",
+      "label": "protein metabolic process",
+      "fdr": 0.00033429467471473537,
+      "p_value": 2.988027395531753e-06,
+      "fold": 2.139146846834526,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902236",
+      "label": "negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway",
+      "fdr": 0.0003700162189180503,
+      "p_value": 3.3610949323999915e-06,
+      "fold": 37.67505720823799,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072594",
+      "label": "establishment of protein localization to organelle",
+      "fdr": 0.00037156876690714013,
+      "p_value": 3.3481961410133986e-06,
+      "fold": 6.5075098814229255,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051641",
+      "label": "cellular localization",
+      "fdr": 0.00042296623850151865,
+      "p_value": 3.872810555278785e-06,
+      "fold": 2.628739867354458,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071025",
+      "label": "RNA surveillance",
+      "fdr": 0.0004936089956051829,
+      "p_value": 4.5555077713725905e-06,
+      "fold": 20.335968379446644,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0080135",
+      "label": "regulation of cellular response to stress",
+      "fdr": 0.0004944978570840923,
+      "p_value": 4.599645789315007e-06,
+      "fold": 4.643582400416558,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1900102",
+      "label": "negative regulation of endoplasmic reticulum unfolded protein response",
+      "fdr": 0.0005404947005579775,
+      "p_value": 5.145324160533033e-06,
+      "fold": 34.086956521739125,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000289",
+      "label": "nuclear-transcribed mRNA poly(A) tail shortening",
+      "fdr": 0.0005446523521007312,
+      "p_value": 5.145324160533033e-06,
+      "fold": 34.086956521739125,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043555",
+      "label": "regulation of translation in response to stress",
+      "fdr": 0.000548874463357326,
+      "p_value": 5.145324160533033e-06,
+      "fold": 34.086956521739125,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006605",
+      "label": "protein targeting",
+      "fdr": 0.000558802564371438,
+      "p_value": 5.360216444809957e-06,
+      "fold": 8.372234935163997,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0080090",
+      "label": "regulation of primary metabolic process",
+      "fdr": 0.0005729932689811623,
+      "p_value": 5.537977238172704e-06,
+      "fold": 1.7938705066071614,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0036499",
+      "label": "PERK-mediated unfolded protein response",
+      "fdr": 0.0005922211339813951,
+      "p_value": 5.85292305947749e-06,
+      "fold": 76.69565217391305,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071035",
+      "label": "nuclear polyadenylation-dependent rRNA catabolic process",
+      "fdr": 0.0005966079571960722,
+      "p_value": 5.85292305947749e-06,
+      "fold": 76.69565217391305,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071038",
+      "label": "TRAMP-dependent tRNA surveillance pathway",
+      "fdr": 0.0006010602553841025,
+      "p_value": 5.85292305947749e-06,
+      "fold": 76.69565217391305,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009266",
+      "label": "response to temperature stimulus",
+      "fdr": 0.0006243896060509913,
+      "p_value": 6.216218009518627e-06,
+      "fold": 10.102384291725105,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071044",
+      "label": "histone mRNA catabolic process",
+      "fdr": 0.0006243958638271048,
+      "p_value": 6.261654618715244e-06,
+      "fold": 32.537549407114625,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034472",
+      "label": "snRNA 3'-end processing",
+      "fdr": 0.0007471795921545133,
+      "p_value": 7.547268607621346e-06,
+      "fold": 31.122873345935734,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0106354",
+      "label": "tRNA surveillance",
+      "fdr": 0.0009167267662183454,
+      "p_value": 9.326484068786305e-06,
+      "fold": 67.1086956521739,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0065008",
+      "label": "regulation of biological quality",
+      "fdr": 0.000966747087822196,
+      "p_value": 9.905627453159628e-06,
+      "fold": 2.1815904016960856,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051246",
+      "label": "regulation of protein metabolic process",
+      "fdr": 0.0009907379296296656,
+      "p_value": 1.022344204690157e-05,
+      "fold": 2.7843306069737412,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006412",
+      "label": "translation",
+      "fdr": 0.0009926308789885453,
+      "p_value": 1.0387242683987393e-05,
+      "fold": 5.126358695652174,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0160307",
+      "label": "protein biosynthetic process",
+      "fdr": 0.0009995723536667868,
+      "p_value": 1.0387242683987393e-05,
+      "fold": 5.126358695652174,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006886",
+      "label": "intracellular protein transport",
+      "fdr": 0.0011206448437328812,
+      "p_value": 1.180826265106226e-05,
+      "fold": 4.608322448217951,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000467",
+      "label": "exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",
+      "fdr": 0.0013132031786641132,
+      "p_value": 1.393268396809538e-05,
+      "fold": 59.652173913043484,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045947",
+      "label": "negative regulation of translational initiation",
+      "fdr": 0.0015879974941961199,
+      "p_value": 1.7078964402370884e-05,
+      "fold": 25.56521739130435,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033036",
+      "label": "macromolecule localization",
+      "fdr": 0.0015975554184655928,
+      "p_value": 1.7297853161207274e-05,
+      "fold": 2.4772497472194135,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008334",
+      "label": "histone mRNA metabolic process",
+      "fdr": 0.0015988001982382702,
+      "p_value": 1.7078964402370884e-05,
+      "fold": 25.56521739130435,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0015031",
+      "label": "protein transport",
+      "fdr": 0.0016915267077912352,
+      "p_value": 1.843826801603701e-05,
+      "fold": 3.807585568917669,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0036498",
+      "label": "IRE1-mediated unfolded protein response",
+      "fdr": 0.0018064909415605825,
+      "p_value": 1.982269690979202e-05,
+      "fold": 53.686956521739134,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000466",
+      "label": "maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",
+      "fdr": 0.0023456157178709074,
+      "p_value": 2.59089883813951e-05,
+      "fold": 23.09116409537167,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035556",
+      "label": "intracellular signal transduction",
+      "fdr": 0.0023659317501447327,
+      "p_value": 2.6305323579110825e-05,
+      "fold": 2.545454545454546,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008104",
+      "label": "intracellular protein localization",
+      "fdr": 0.0023775391797417186,
+      "p_value": 2.660715309063474e-05,
+      "fold": 2.699775112443778,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070482",
+      "label": "response to oxygen levels",
+      "fdr": 0.002562733679359703,
+      "p_value": 2.886590511596206e-05,
+      "fold": 5.731703543246171,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033979",
+      "label": "box H/ACA sno(s)RNA metabolic process",
+      "fdr": 0.002696037707023833,
+      "p_value": 3.0955160069018645e-05,
+      "fold": 178.9565217391304,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034964",
+      "label": "box H/ACA sno(s)RNA processing",
+      "fdr": 0.0027132099217182524,
+      "p_value": 3.0955160069018645e-05,
+      "fold": 178.9565217391304,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000495",
+      "label": "box H/ACA sno(s)RNA 3'-end processing",
+      "fdr": 0.002730602293011318,
+      "p_value": 3.0955160069018645e-05,
+      "fold": 178.9565217391304,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051248",
+      "label": "negative regulation of protein metabolic process",
+      "fdr": 0.0031788434145217617,
+      "p_value": 3.672960561797545e-05,
+      "fold": 4.106076980630144,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902532",
+      "label": "negative regulation of intracellular signal transduction",
+      "fdr": 0.003624997489142671,
+      "p_value": 4.241149594883875e-05,
+      "fold": 3.5287201469687695,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030490",
+      "label": "maturation of SSU-rRNA",
+      "fdr": 0.0036281477579998426,
+      "p_value": 4.2184698879440066e-05,
+      "fold": 12.967863894139885,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001101",
+      "label": "response to acid chemical",
+      "fdr": 0.00388932767709971,
+      "p_value": 4.5786722163371344e-05,
+      "fold": 9.336862003780718,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016078",
+      "label": "tRNA decay",
+      "fdr": 0.00391592335681166,
+      "p_value": 4.6668950695233794e-05,
+      "fold": 41.29765886287625,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031125",
+      "label": "rRNA 3'-end processing",
+      "fdr": 0.0039399474264853514,
+      "p_value": 4.6668950695233794e-05,
+      "fold": 41.29765886287625,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048193",
+      "label": "Golgi vesicle transport",
+      "fdr": 0.004216168108344702,
+      "p_value": 5.0553574440583956e-05,
+      "fold": 5.333141376331702,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019725",
+      "label": "cellular homeostasis",
+      "fdr": 0.004674764901829473,
+      "p_value": 5.639204808543656e-05,
+      "fold": 3.6579163248564397,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051656",
+      "label": "establishment of organelle localization",
+      "fdr": 0.0057600404659939345,
+      "p_value": 6.990238774950855e-05,
+      "fold": 5.11304347826087,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1905898",
+      "label": "positive regulation of response to endoplasmic reticulum stress",
+      "fdr": 0.005929693261962772,
+      "p_value": 7.239215667536849e-05,
+      "fold": 17.895652173913042,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000278",
+      "label": "regulation of DNA biosynthetic process",
+      "fdr": 0.00699756853983214,
+      "p_value": 8.593772859760422e-05,
+      "fold": 11.184782608695652,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019219",
+      "label": "regulation of nucleobase-containing compound metabolic process",
+      "fdr": 0.007070008271972512,
+      "p_value": 8.734113845180779e-05,
+      "fold": 1.8328005115089516,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051179",
+      "label": "localization",
+      "fdr": 0.007123772482752152,
+      "p_value": 8.852300665290444e-05,
+      "fold": 1.7847767918521886,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031120",
+      "label": "snRNA pseudouridine synthesis",
+      "fdr": 0.0073597894239006345,
+      "p_value": 9.252551197840344e-05,
+      "fold": 119.30434782608695,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0099578",
+      "label": "regulation of translation at postsynapse, modulating synaptic transmission",
+      "fdr": 0.0074025788972954054,
+      "p_value": 9.252551197840344e-05,
+      "fold": 119.30434782608695,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051168",
+      "label": "nuclear export",
+      "fdr": 0.007758106961093596,
+      "p_value": 9.866061464947165e-05,
+      "fold": 8.134387351778656,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045727",
+      "label": "positive regulation of translation",
+      "fdr": 0.007802693782709077,
+      "p_value": 9.866061464947165e-05,
+      "fold": 8.134387351778656,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043489",
+      "label": "RNA stabilization",
+      "fdr": 0.008477134435919664,
+      "p_value": 0.00010842058431232184,
+      "fold": 10.652173913043478,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032210",
+      "label": "regulation of telomere maintenance via telomerase",
+      "fdr": 0.00898051024505902,
+      "p_value": 0.00011551125015445437,
+      "fold": 15.907246376811594,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000767",
+      "label": "positive regulation of cytoplasmic translation",
+      "fdr": 0.010086135190034361,
+      "p_value": 0.00013046523245593462,
+      "fold": 29.826086956521742,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045927",
+      "label": "positive regulation of growth",
+      "fdr": 0.010559491187178204,
+      "p_value": 0.00013735549178874344,
+      "fold": 6.232316677482155,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045934",
+      "label": "negative regulation of nucleobase-containing compound metabolic process",
+      "fdr": 0.010931563607952466,
+      "p_value": 0.0001429897136422821,
+      "fold": 2.4013335185442424,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051252",
+      "label": "regulation of RNA metabolic process",
+      "fdr": 0.011520106498491054,
+      "p_value": 0.00015152527259842168,
+      "fold": 1.8401698893483849,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016075",
+      "label": "rRNA catabolic process",
+      "fdr": 0.011666398738770904,
+      "p_value": 0.0001542972582266045,
+      "fold": 28.25629290617849,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071453",
+      "label": "cellular response to oxygen levels",
+      "fdr": 0.01242103004515603,
+      "p_value": 0.00016518047367658988,
+      "fold": 7.405097451274362,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2001243",
+      "label": "negative regulation of intrinsic apoptotic signaling pathway",
+      "fdr": 0.01357106135788867,
+      "p_value": 0.00018441889934780767,
+      "fold": 9.518963922294171,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0036491",
+      "label": "regulation of translation initiation in response to endoplasmic reticulum stress",
+      "fdr": 0.013640692101490786,
+      "p_value": 0.00018437386315509673,
+      "fold": 89.4782608695652,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0140245",
+      "label": "regulation of translation at postsynapse",
+      "fdr": 0.013714425572309655,
+      "p_value": 0.00018437386315509673,
+      "fold": 89.4782608695652,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090669",
+      "label": "telomerase RNA stabilization",
+      "fdr": 0.013788960493898295,
+      "p_value": 0.00018437386315509673,
+      "fold": 89.4782608695652,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0097193",
+      "label": "intrinsic apoptotic signaling pathway",
+      "fdr": 0.013946119267282495,
+      "p_value": 0.0001915425144623495,
+      "fold": 7.206302888824045,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030307",
+      "label": "positive regulation of cell growth",
+      "fdr": 0.014020300752746764,
+      "p_value": 0.0001915425144623495,
+      "fold": 7.206302888824045,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042592",
+      "label": "homeostatic process",
+      "fdr": 0.014276666540046423,
+      "p_value": 0.00019711987810542986,
+      "fold": 2.5728573412974023,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050789",
+      "label": "regulation of biological process",
+      "fdr": 0.015584753141955614,
+      "p_value": 0.0002163133384284225,
+      "fold": 1.2998139062764338,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1904356",
+      "label": "regulation of telomere maintenance via telomere lengthening",
+      "fdr": 0.015639525433642682,
+      "p_value": 0.0002193465888157138,
+      "fold": 13.506152584085315,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2001242",
+      "label": "regulation of intrinsic apoptotic signaling pathway",
+      "fdr": 0.01568476308550005,
+      "p_value": 0.00022112085157960975,
+      "fold": 7.017902813299232,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034198",
+      "label": "cellular response to amino acid starvation",
+      "fdr": 0.01572098129527624,
+      "p_value": 0.0002193465888157138,
+      "fold": 13.506152584085315,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051234",
+      "label": "establishment of localization",
+      "fdr": 0.018215212479489234,
+      "p_value": 0.0002581183368578156,
+      "fold": 1.819896831245394,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902369",
+      "label": "negative regulation of RNA catabolic process",
+      "fdr": 0.01896353857799219,
+      "p_value": 0.00027010054220525173,
+      "fold": 8.772378516624043,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1990928",
+      "label": "response to amino acid starvation",
+      "fdr": 0.018972368782070616,
+      "p_value": 0.00027160501780887375,
+      "fold": 12.782608695652176,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006613",
+      "label": "cotranslational protein targeting to membrane",
+      "fdr": 0.019282407178820262,
+      "p_value": 0.00027744470760892464,
+      "fold": 23.3421550094518,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0065007",
+      "label": "biological regulation",
+      "fdr": 0.019293318087364866,
+      "p_value": 0.0002790037278821022,
+      "fold": 1.2851992375419805,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043200",
+      "label": "response to amino acid",
+      "fdr": 0.019446208840158744,
+      "p_value": 0.00028262784449035306,
+      "fold": 8.687209793161673,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016076",
+      "label": "snRNA catabolic process",
+      "fdr": 0.020754419967032214,
+      "p_value": 0.00030616577671008937,
+      "fold": 71.58260869565217,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0036493",
+      "label": "positive regulation of translation in response to endoplasmic reticulum stress",
+      "fdr": 0.020857164620334354,
+      "p_value": 0.00030616577671008937,
+      "fold": 71.58260869565217,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071034",
+      "label": "CUT catabolic process",
+      "fdr": 0.02096093160849522,
+      "p_value": 0.00030616577671008937,
+      "fold": 71.58260869565217,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006903",
+      "label": "vesicle targeting",
+      "fdr": 0.02241241536038582,
+      "p_value": 0.00033225294190238405,
+      "fold": 12.132645541635961,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008380",
+      "label": "RNA splicing",
+      "fdr": 0.023329855723660226,
+      "p_value": 0.00034754890075941767,
+      "fold": 4.633178556352892,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042026",
+      "label": "protein refolding",
+      "fdr": 0.023874417408689765,
+      "p_value": 0.00035739626380278263,
+      "fold": 21.47478260869565,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010606",
+      "label": "positive regulation of cytoplasmic mRNA processing body assembly",
+      "fdr": 0.029983879048780925,
+      "p_value": 0.00045756955164915296,
+      "fold": 59.65217391304348,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903895",
+      "label": "negative regulation of IRE1-mediated unfolded protein response",
+      "fdr": 0.03012734258489949,
+      "p_value": 0.00045756955164915296,
+      "fold": 59.65217391304348,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000055",
+      "label": "ribosomal large subunit export from nucleus",
+      "fdr": 0.030272185578096127,
+      "p_value": 0.00045756955164915296,
+      "fold": 59.65217391304348,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050794",
+      "label": "regulation of cellular process",
+      "fdr": 0.030333422350418634,
+      "p_value": 0.0004651080674324781,
+      "fold": 1.302964338055691,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0099547",
+      "label": "regulation of translation at synapse, modulating synaptic transmission",
+      "fdr": 0.030418428020502385,
+      "p_value": 0.00045756955164915296,
+      "fold": 59.65217391304348,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0097190",
+      "label": "apoptotic signaling pathway",
+      "fdr": 0.030448831387146734,
+      "p_value": 0.0004690903462012287,
+      "fold": 5.0922587486744435,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001666",
+      "label": "response to hypoxia",
+      "fdr": 0.03257538338284071,
+      "p_value": 0.0005042189274431416,
+      "fold": 5.030906233630173,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0036293",
+      "label": "response to decreased oxygen levels",
+      "fdr": 0.0382206712568291,
+      "p_value": 0.0005943771273135257,
+      "fold": 4.893342391304348,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048199",
+      "label": "vesicle targeting, to, from or within Golgi",
+      "fdr": 0.039566530542996116,
+      "p_value": 0.0006181821137086087,
+      "fold": 17.895652173913042,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071456",
+      "label": "cellular response to hypoxia",
+      "fdr": 0.03994247624105949,
+      "p_value": 0.0006385687648450758,
+      "fold": 7.274655355249204,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010603",
+      "label": "regulation of cytoplasmic mRNA processing body assembly",
+      "fdr": 0.04010522196554145,
+      "p_value": 0.000638256203070531,
+      "fold": 51.1304347826087,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032055",
+      "label": "negative regulation of translation in response to stress",
+      "fdr": 0.04028919087364026,
+      "p_value": 0.000638256203070531,
+      "fold": 51.1304347826087,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0040031",
+      "label": "snRNA modification",
+      "fdr": 0.040474855347712335,
+      "p_value": 0.000638256203070531,
+      "fold": 51.1304347826087,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0140243",
+      "label": "regulation of translation at synapse",
+      "fdr": 0.04066223893728508,
+      "p_value": 0.000638256203070531,
+      "fold": 51.1304347826087,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1900180",
+      "label": "regulation of protein localization to nucleus",
+      "fdr": 0.04435087150623542,
+      "p_value": 0.0007122696463104446,
+      "fold": 7.101449275362318,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030218",
+      "label": "erythrocyte differentiation",
+      "fdr": 0.04638473947729366,
+      "p_value": 0.0007483040595857273,
+      "fold": 9.805836807623585,
+      "source": "PANTHER"
+    }
+  ],
+  "Enrichr": [
+    {
+      "id": "GO:0034976",
+      "label": "Response to Endoplasmic Reticulum Stress",
+      "fdr": 9.558379267944406e-17,
+      "p_value": 8.933064736396642e-20,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000956",
+      "label": "Nuclear-Transcribed mRNA Catabolic Process",
+      "fdr": 1.5456633510953964e-12,
+      "p_value": 2.8890903758792455e-15,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042254",
+      "label": "Ribosome Biogenesis",
+      "fdr": 6.516668223307111e-12,
+      "p_value": 1.8271032401795638e-14,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006396",
+      "label": "RNA Processing",
+      "fdr": 1.057228376181071e-11,
+      "p_value": 4.919897795783045e-14,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006364",
+      "label": "rRNA Processing",
+      "fdr": 1.057228376181071e-11,
+      "p_value": 4.940319514864818e-14,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030968",
+      "label": "Endoplasmic Reticulum Unfolded Protein Response",
+      "fdr": 2.150954594789211e-11,
+      "p_value": 1.2061427634332023e-13,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016072",
+      "label": "rRNA Metabolic Process",
+      "fdr": 4.812564992524858e-11,
+      "p_value": 3.1484070044555147e-13,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034620",
+      "label": "Cellular Response to Unfolded Protein",
+      "fdr": 1.2279903991743933e-10,
+      "p_value": 9.181236629341259e-13,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006401",
+      "label": "RNA Catabolic Process",
+      "fdr": 2.7309264102414066e-09,
+      "p_value": 2.297040905810529e-11,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016070",
+      "label": "RNA Metabolic Process",
+      "fdr": 8.329621292687785e-09,
+      "p_value": 7.784692796904472e-11,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000288",
+      "label": "Nuclear-Transcribed mRNA Catabolic Process, Deadenylation-Dependent Decay",
+      "fdr": 3.481933932990418e-08,
+      "p_value": 3.5795582488686546e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0036503",
+      "label": "ERAD Pathway",
+      "fdr": 1.8603107620980156e-07,
+      "p_value": 2.2607220315836627e-09,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0031126",
+      "label": "sno(s)RNA 3'-End Processing",
+      "fdr": 1.8603107620980156e-07,
+      "p_value": 2.3676253372637423e-09,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0141188",
+      "label": "Nucleic Acid Catabolic Process",
+      "fdr": 1.8603107620980156e-07,
+      "p_value": 2.43405146442731e-09,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071027",
+      "label": "Nuclear RNA Surveillance",
+      "fdr": 4.6626616991741565e-07,
+      "p_value": 6.536441634356295e-09,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006984",
+      "label": "ER-nucleus Signaling Pathway",
+      "fdr": 5.112062809841105e-07,
+      "p_value": 7.644206070790438e-09,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006402",
+      "label": "mRNA Catabolic Process",
+      "fdr": 6.770011827672928e-07,
+      "p_value": 1.0756093557985027e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006417",
+      "label": "Regulation of Translation",
+      "fdr": 1.1356655838871806e-06,
+      "p_value": 1.9104654682214252e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071051",
+      "label": "poly(A)-dependent snoRNA 3'-End Processing",
+      "fdr": 1.8791687417648442e-06,
+      "p_value": 3.3368416909843026e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0036490",
+      "label": "Regulation of Translation in Response to Endoplasmic Reticulum Stress",
+      "fdr": 6.273313675185734e-06,
+      "p_value": 1.19083764239237e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006446",
+      "label": "Regulation of Translational Initiation",
+      "fdr": 6.273313675185734e-06,
+      "p_value": 1.2312110951299106e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045047",
+      "label": "Protein Targeting to ER",
+      "fdr": 7.945989542849965e-06,
+      "p_value": 1.633754859277563e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071028",
+      "label": "Nuclear mRNA Surveillance",
+      "fdr": 9.193138508364512e-06,
+      "p_value": 1.9760951933867642e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904872",
+      "label": "Regulation of Telomerase RNA Localization to Cajal Body",
+      "fdr": 1.323282702769081e-05,
+      "p_value": 3.09178201581561e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0110156",
+      "label": "mRNA Methylguanosine-Cap Decapping",
+      "fdr": 1.323282702769081e-05,
+      "p_value": 3.09178201581561e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070059",
+      "label": "Intrinsic Apoptotic Signaling Pathway in Response to Endoplasmic Reticulum Stress",
+      "fdr": 2.7591650390203253e-05,
+      "p_value": 6.704513178927893e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071044",
+      "label": "Histone mRNA Catabolic Process",
+      "fdr": 3.668325204197073e-05,
+      "p_value": 9.256521543301026e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0140467",
+      "label": "Integrated Stress Response Signaling",
+      "fdr": 4.913483736909031e-05,
+      "p_value": 1.2857714451724567e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009267",
+      "label": "Cellular Response to Starvation",
+      "fdr": 5.0615223202386785e-05,
+      "p_value": 1.3718144606254363e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072599",
+      "label": "Establishment of Protein Localization to Endoplasmic Reticulum",
+      "fdr": 5.78926140995953e-05,
+      "p_value": 1.6683915353655386e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010467",
+      "label": "Gene Expression",
+      "fdr": 5.78926140995953e-05,
+      "p_value": 1.6848798663243748e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043069",
+      "label": "Negative Regulation of Programmed Cell Death",
+      "fdr": 5.78926140995953e-05,
+      "p_value": 1.7313678983056538e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1900102",
+      "label": "Negative Regulation of Endoplasmic Reticulum Unfolded Protein Response",
+      "fdr": 8.751172900560324e-05,
+      "p_value": 2.7807465291500096e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000289",
+      "label": "Nuclear-Transcribed mRNA poly(A) Tail Shortening",
+      "fdr": 8.751172900560324e-05,
+      "p_value": 2.7807465291500096e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043066",
+      "label": "Negative Regulation of Apoptotic Process",
+      "fdr": 8.794513570636785e-05,
+      "p_value": 2.8767100464699764e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000467",
+      "label": "Exonucleolytic Trimming to Gen Mat 3'-End of 5.8S rRNA Frm Tricistronic rRNA Trnscpt",
+      "fdr": 0.0001014174628892436,
+      "p_value": 3.4690188642797013e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000466",
+      "label": "Maturation of 5.8S rRNA Frm Tricistronic rRNA Trnscpt",
+      "fdr": 0.0001014174628892436,
+      "p_value": 3.506958997104685e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042149",
+      "label": "Cellular Response to Glucose Starvation",
+      "fdr": 0.00012027888370221419,
+      "p_value": 4.271586524003868e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0022613",
+      "label": "Ribonucleoprotein Complex Biogenesis",
+      "fdr": 0.00014703597960756876,
+      "p_value": 5.359255331490824e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034475",
+      "label": "U4 snRNA 3'-End Processing",
+      "fdr": 0.00015778047554146907,
+      "p_value": 6.045793922617039e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000290",
+      "label": "Deadenylation-Dependent Decapping of Nuclear-Transcribed mRNA",
+      "fdr": 0.00015778047554146907,
+      "p_value": 6.045793922617039e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010629",
+      "label": "Negative Regulation of Gene Expression",
+      "fdr": 0.00017628077084545435,
+      "p_value": 6.9194321266440034e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008334",
+      "label": "Histone mRNA Metabolic Process",
+      "fdr": 0.00019592078975153065,
+      "p_value": 7.873452298425998e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032774",
+      "label": "RNA Biosynthetic Process",
+      "fdr": 0.00019955852946535715,
+      "p_value": 8.206145136893192e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042274",
+      "label": "Ribosomal Small Subunit Biogenesis",
+      "fdr": 0.0002058635421520284,
+      "p_value": 8.65781252041241e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1900101",
+      "label": "Regulation of Endoplasmic Reticulum Unfolded Protein Response",
+      "fdr": 0.0002240824136498674,
+      "p_value": 9.633449558779347e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042981",
+      "label": "Regulation of Apoptotic Process",
+      "fdr": 0.00022844132349463125,
+      "p_value": 1.003433850864268e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0031125",
+      "label": "rRNA 3'-End Processing",
+      "fdr": 0.00032079247756828036,
+      "p_value": 1.4390690582502297e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006465",
+      "label": "Signal Peptide Processing",
+      "fdr": 0.0008129044439376305,
+      "p_value": 3.722646518966719e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1905897",
+      "label": "Regulation of Response to Endoplasmic Reticulum Stress",
+      "fdr": 0.0015954510185387453,
+      "p_value": 7.604486163128599e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016075",
+      "label": "rRNA Catabolic Process",
+      "fdr": 0.0015954510185387453,
+      "p_value": 7.604486163128599e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043489",
+      "label": "RNA Stabilization",
+      "fdr": 0.0017132412833087223,
+      "p_value": 8.326032404864818e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045927",
+      "label": "Positive Regulation of Growth",
+      "fdr": 0.0017178849265070348,
+      "p_value": 8.509149635969425e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043488",
+      "label": "Regulation of mRNA Stability",
+      "fdr": 0.0017904377364026947,
+      "p_value": 9.035853996798647e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032210",
+      "label": "Regulation of Telomere Maintenance via Telomerase",
+      "fdr": 0.002143185249129381,
+      "p_value": 0.00011016372775898689,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000460",
+      "label": "Maturation of 5.8S rRNA",
+      "fdr": 0.0021536962178817913,
+      "p_value": 0.00011271681140315918,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030218",
+      "label": "Erythrocyte Differentiation",
+      "fdr": 0.0029131146981761034,
+      "p_value": 0.00015518461476265224,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034472",
+      "label": "snRNA 3'-End Processing",
+      "fdr": 0.0040006850527833995,
+      "p_value": 0.0002168595636088198,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010498",
+      "label": "Proteasomal Protein Catabolic Process",
+      "fdr": 0.00478281614068275,
+      "p_value": 0.0002637253759815722,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016071",
+      "label": "mRNA Metabolic Process",
+      "fdr": 0.004833086185340467,
+      "p_value": 0.0002710141786172225,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0017148",
+      "label": "Negative Regulation of Translation",
+      "fdr": 0.00497660198262755,
+      "p_value": 0.00028371282330867344,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903895",
+      "label": "Negative Regulation of IRE1-mediated Unfolded Protein Response",
+      "fdr": 0.005400184766158516,
+      "p_value": 0.000312907902338157,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051085",
+      "label": "Chaperone Cofactor-Dependent Protein Refolding",
+      "fdr": 0.006172206510231003,
+      "p_value": 0.00036889970961037237,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045787",
+      "label": "Positive Regulation of Cell Cycle",
+      "fdr": 0.006172206510231003,
+      "p_value": 0.00036917870715400393,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902235",
+      "label": "Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway",
+      "fdr": 0.006836576186210826,
+      "p_value": 0.0004153060300034614,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006888",
+      "label": "Endoplasmic Reticulum to Golgi Vesicle-Mediated Transport",
+      "fdr": 0.006949481242805095,
+      "p_value": 0.0004369945670076002,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0140468",
+      "label": "HRI-mediated Signaling",
+      "fdr": 0.006949481242805095,
+      "p_value": 0.00046762864437566994,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0036498",
+      "label": "IRE1-mediated Unfolded Protein Response",
+      "fdr": 0.006949481242805095,
+      "p_value": 0.00046762864437566994,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0036499",
+      "label": "PERK-mediated Unfolded Protein Response",
+      "fdr": 0.006949481242805095,
+      "p_value": 0.00046762864437566994,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071038",
+      "label": "TRAMP-dependent tRNA Surveillance Pathway",
+      "fdr": 0.006949481242805095,
+      "p_value": 0.00046762864437566994,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071035",
+      "label": "Nuclear Polyadenylation-Dependent rRNA Catabolic Process",
+      "fdr": 0.006949481242805095,
+      "p_value": 0.00046762864437566994,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000055",
+      "label": "Ribosomal Large Subunit Export From Nucleus",
+      "fdr": 0.006949481242805095,
+      "p_value": 0.00046762864437566994,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0097193",
+      "label": "Intrinsic Apoptotic Signaling Pathway",
+      "fdr": 0.00723032459499974,
+      "p_value": 0.0004932838275093281,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045931",
+      "label": "Positive Regulation of Mitotic Cell Cycle",
+      "fdr": 0.007404425555309138,
+      "p_value": 0.0005190017912599863,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1905898",
+      "label": "Positive Regulation of Response to Endoplasmic Reticulum Stress",
+      "fdr": 0.007404425555309138,
+      "p_value": 0.0005190017912599863,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903573",
+      "label": "Negative Regulation of Response to Endoplasmic Reticulum Stress",
+      "fdr": 0.008834450917115372,
+      "p_value": 0.0006379442914119447,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006983",
+      "label": "ER Overload Response",
+      "fdr": 0.008834450917115372,
+      "p_value": 0.000652263198553378,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000101",
+      "label": "Sulfur Amino Acid Transport",
+      "fdr": 0.008834450917115372,
+      "p_value": 0.000652263198553378,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0106354",
+      "label": "tRNA Surveillance",
+      "fdr": 0.008834450917115372,
+      "p_value": 0.000652263198553378,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048522",
+      "label": "Positive Regulation of Cellular Process",
+      "fdr": 0.010634450572192944,
+      "p_value": 0.0007950991082013416,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010628",
+      "label": "Positive Regulation of Gene Expression",
+      "fdr": 0.010938242640438153,
+      "p_value": 0.0008280351905378414,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001889",
+      "label": "Liver Development",
+      "fdr": 0.012069432702695906,
+      "p_value": 0.0009249471790851068,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006605",
+      "label": "Protein Targeting",
+      "fdr": 0.013462477037123603,
+      "p_value": 0.0010534335621481222,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001932",
+      "label": "Regulation of Protein Phosphorylation",
+      "fdr": 0.013462477037123603,
+      "p_value": 0.0010884772120766985,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051084",
+      "label": "'De Novo' Post-Translational Protein Folding",
+      "fdr": 0.013462477037123603,
+      "p_value": 0.0010946126189063116,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035924",
+      "label": "Cellular Response to Vascular Endothelial Growth Factor Stimulus",
+      "fdr": 0.013462477037123603,
+      "p_value": 0.0010946126189063116,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002183",
+      "label": "Cytoplasmic Translational Initiation",
+      "fdr": 0.013462477037123603,
+      "p_value": 0.0010946126189063116,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901142",
+      "label": "Insulin Metabolic Process",
+      "fdr": 0.013495725207937303,
+      "p_value": 0.0011099288021481147,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090670",
+      "label": "RNA Localization to Cajal Body",
+      "fdr": 0.016618594715528002,
+      "p_value": 0.0013822943268056002,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000573",
+      "label": "Positive Regulation of DNA Biosynthetic Process",
+      "fdr": 0.01895862692794676,
+      "p_value": 0.0016011030056112862,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071363",
+      "label": "Cellular Response to Growth Factor Stimulus",
+      "fdr": 0.01895862692794676,
+      "p_value": 0.0016268603937547785,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001558",
+      "label": "Regulation of Cell Growth",
+      "fdr": 0.01895862692794676,
+      "p_value": 0.0016469532922101491,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006614",
+      "label": "SRP-dependent Cotranslational Protein Targeting to Membrane",
+      "fdr": 0.01895862692794676,
+      "p_value": 0.001683242577714899,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1900103",
+      "label": "Positive Regulation of Endoplasmic Reticulum Unfolded Protein Response",
+      "fdr": 0.01895862692794676,
+      "p_value": 0.001683242577714899,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035437",
+      "label": "Maintenance of Protein Localization in Endoplasmic Reticulum",
+      "fdr": 0.01895862692794676,
+      "p_value": 0.001683242577714899,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002702",
+      "label": "Positive Regulation of Production of Molecular Mediator of Immune Response",
+      "fdr": 0.020319706007301017,
+      "p_value": 0.0018384652062925309,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008380",
+      "label": "RNA Splicing",
+      "fdr": 0.020319706007301017,
+      "p_value": 0.0018420668062693445,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051246",
+      "label": "Regulation of Protein Metabolic Process",
+      "fdr": 0.020925854204265456,
+      "p_value": 0.0019165735626336584,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010506",
+      "label": "Regulation of Autophagy",
+      "fdr": 0.021279847830177077,
+      "p_value": 0.001968883116997692,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045006",
+      "label": "DNA Deamination",
+      "fdr": 0.02131999001407433,
+      "p_value": 0.002012447655534119,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032328",
+      "label": "Alanine Transport",
+      "fdr": 0.02131999001407433,
+      "p_value": 0.002012447655534119,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045893",
+      "label": "Positive Regulation of DNA-templated Transcription",
+      "fdr": 0.022350178553270723,
+      "p_value": 0.0021305777686295457,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0061013",
+      "label": "Regulation of mRNA Catabolic Process",
+      "fdr": 0.02468651871853498,
+      "p_value": 0.002376365820569255,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901163",
+      "label": "Regulation of Trophoblast Cell Migration",
+      "fdr": 0.02780322551671054,
+      "p_value": 0.0027543382287582405,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006613",
+      "label": "Cotranslational Protein Targeting to Membrane",
+      "fdr": 0.02780322551671054,
+      "p_value": 0.0027543382287582405,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010586",
+      "label": "miRNA Metabolic Process",
+      "fdr": 0.02780322551671054,
+      "p_value": 0.0027543382287582405,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000122",
+      "label": "Negative Regulation of Transcription by RNA Polymerase II",
+      "fdr": 0.028824770687746477,
+      "p_value": 0.002882477068774648,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902236",
+      "label": "- Reg of Endoplasmic Reticulum Stress-Induced Intrinsic Apoptotic Sgnlng Pway",
+      "fdr": 0.03102319648981326,
+      "p_value": 0.0031663854030102106,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903894",
+      "label": "Regulation of IRE1-mediated Unfolded Protein Response",
+      "fdr": 0.03102319648981326,
+      "p_value": 0.0031663854030102106,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030307",
+      "label": "Positive Regulation of Cell Growth",
+      "fdr": 0.03102319648981326,
+      "p_value": 0.0031893005737191203,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045727",
+      "label": "Positive Regulation of Translation",
+      "fdr": 0.031789113551854715,
+      "p_value": 0.0032977491628559566,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0061157",
+      "label": "mRNA Destabilization",
+      "fdr": 0.03374898241628316,
+      "p_value": 0.00353260376693805,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904294",
+      "label": "Positive Regulation of ERAD Pathway",
+      "fdr": 0.033840277315886035,
+      "p_value": 0.0036054127233747734,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903513",
+      "label": "Endoplasmic Reticulum to Cytosol Transport",
+      "fdr": 0.033840277315886035,
+      "p_value": 0.0036054127233747734,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045944",
+      "label": "Positive Regulation of Transcription by RNA Polymerase II",
+      "fdr": 0.034078339129261156,
+      "p_value": 0.0036626252335187222,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002690",
+      "label": "Positive Regulation of Leukocyte Chemotaxis",
+      "fdr": 0.036119920245345126,
+      "p_value": 0.003915804437813117,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006304",
+      "label": "DNA Modification",
+      "fdr": 0.0366057578691097,
+      "p_value": 0.004071107650863602,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071359",
+      "label": "Cellular Response to dsRNA",
+      "fdr": 0.0366057578691097,
+      "p_value": 0.004071107650863602,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032753",
+      "label": "Positive Regulation of Interleukin-4 Production",
+      "fdr": 0.0366057578691097,
+      "p_value": 0.004071107650863602,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030099",
+      "label": "Myeloid Cell Differentiation",
+      "fdr": 0.0367056212443991,
+      "p_value": 0.004116518270399899,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010468",
+      "label": "Regulation of Gene Expression",
+      "fdr": 0.039375657128492905,
+      "p_value": 0.004490593956099985,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045947",
+      "label": "Negative Regulation of Translational Initiation",
+      "fdr": 0.039375657128492905,
+      "p_value": 0.004563160265358056,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030970",
+      "label": "Retrograde Protein Transport, ER to Cytosol",
+      "fdr": 0.039375657128492905,
+      "p_value": 0.004563160265358056,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000154",
+      "label": "rRNA Modification",
+      "fdr": 0.039375657128492905,
+      "p_value": 0.004563160265358056,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2001243",
+      "label": "Negative Regulation of Intrinsic Apoptotic Signaling Pathway",
+      "fdr": 0.04038643748341556,
+      "p_value": 0.004755786096177907,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001764",
+      "label": "Neuron Migration",
+      "fdr": 0.04038643748341556,
+      "p_value": 0.004755786096177907,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051348",
+      "label": "Negative Regulation of Transferase Activity",
+      "fdr": 0.042476184886318914,
+      "p_value": 0.005081263238737216,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000353",
+      "label": "Positive Regulation of Endothelial Cell Apoptotic Process",
+      "fdr": 0.042476184886318914,
+      "p_value": 0.005081263238737216,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007346",
+      "label": "Regulation of Mitotic Cell Cycle",
+      "fdr": 0.044702448765183415,
+      "p_value": 0.0053893606455221125,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051247",
+      "label": "Positive Regulation of Protein Metabolic Process",
+      "fdr": 0.047921101426295305,
+      "p_value": 0.005822189892914383,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902117",
+      "label": "Positive Regulation of Organelle Assembly",
+      "fdr": 0.048379650302483035,
+      "p_value": 0.005948100756511214,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006278",
+      "label": "RNA-templated DNA Biosynthetic Process",
+      "fdr": 0.048379650302483035,
+      "p_value": 0.0061944038237758655,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032211",
+      "label": "Negative Regulation of Telomere Maintenance via Telomerase",
+      "fdr": 0.048379650302483035,
+      "p_value": 0.0061944038237758655,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032469",
+      "label": "Endoplasmic Reticulum Calcium Ion Homeostasis",
+      "fdr": 0.048379650302483035,
+      "p_value": 0.0061944038237758655,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001935",
+      "label": "Endothelial Cell Proliferation",
+      "fdr": 0.048379650302483035,
+      "p_value": 0.0061944038237758655,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007004",
+      "label": "Telomere Maintenance via Telomerase",
+      "fdr": 0.048379650302483035,
+      "p_value": 0.0061944038237758655,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904707",
+      "label": "Positive Regulation of Vascular Associated Smooth Muscle Cell Proliferation",
+      "fdr": 0.048379650302483035,
+      "p_value": 0.0061944038237758655,
+      "fold": null,
+      "source": "Enrichr"
+    }
+  ],
+  "g:Profiler": [
+    {
+      "id": "REAC:R-HSA-381119",
+      "label": "Unfolded Protein Response (UPR)",
+      "fdr": 2.0502239126253922e-80,
+      "p_value": 2.0502239126253922e-80,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-381070",
+      "label": "IRE1alpha activates chaperones",
+      "fdr": 1.865901815400836e-42,
+      "p_value": 1.865901815400836e-42,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-381038",
+      "label": "XBP1(S) activates chaperone genes",
+      "fdr": 1.0948738364272968e-38,
+      "p_value": 1.0948738364272968e-38,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-2262752",
+      "label": "Cellular responses to stress",
+      "fdr": 5.718437143781026e-38,
+      "p_value": 5.718437143781026e-38,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-8953897",
+      "label": "Cellular responses to stimuli",
+      "fdr": 1.5981813412363567e-37,
+      "p_value": 1.5981813412363567e-37,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-381042",
+      "label": "PERK regulates gene expression",
+      "fdr": 1.765182305735974e-35,
+      "p_value": 1.765182305735974e-35,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-380994",
+      "label": "ATF4 activates genes in response to endoplasmic reticulum  stress",
+      "fdr": 1.214348648556855e-30,
+      "p_value": 1.214348648556855e-30,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-429914",
+      "label": "Deadenylation-dependent mRNA decay",
+      "fdr": 2.7997434046695594e-24,
+      "p_value": 2.7997434046695594e-24,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:03018",
+      "label": "RNA degradation",
+      "fdr": 3.5021222504867606e-17,
+      "p_value": 3.5021222504867606e-17,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0034976",
+      "label": "response to endoplasmic reticulum stress",
+      "fdr": 1.1593580916975787e-15,
+      "p_value": 1.1593580916975787e-15,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003723",
+      "label": "RNA binding",
+      "fdr": 7.279815841920872e-15,
+      "p_value": 7.279815841920872e-15,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0006401",
+      "label": "RNA catabolic process",
+      "fdr": 3.490871728709667e-14,
+      "p_value": 3.490871728709667e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-8953854",
+      "label": "Metabolism of RNA",
+      "fdr": 1.2946184592314624e-13,
+      "p_value": 1.2946184592314624e-13,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:04141",
+      "label": "Protein processing in endoplasmic reticulum",
+      "fdr": 1.487878523353302e-13,
+      "p_value": 1.487878523353302e-13,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0141188",
+      "label": "nucleic acid catabolic process",
+      "fdr": 1.5646412947344107e-13,
+      "p_value": 1.5646412947344107e-13,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0010608",
+      "label": "post-transcriptional regulation of gene expression",
+      "fdr": 1.7086205290589146e-12,
+      "p_value": 1.7086205290589146e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006364",
+      "label": "rRNA processing",
+      "fdr": 1.9427290984247485e-12,
+      "p_value": 1.9427290984247485e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006402",
+      "label": "mRNA catabolic process",
+      "fdr": 2.407406371906581e-12,
+      "p_value": 2.407406371906581e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000956",
+      "label": "nuclear-transcribed mRNA catabolic process",
+      "fdr": 2.480978561473114e-12,
+      "p_value": 2.480978561473114e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-450604",
+      "label": "KSRP (KHSRP) binds and destabilizes mRNA",
+      "fdr": 6.319933330652992e-12,
+      "p_value": 6.319933330652992e-12,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-429947",
+      "label": "Deadenylation of mRNA",
+      "fdr": 7.195771884193993e-12,
+      "p_value": 7.195771884193993e-12,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0042254",
+      "label": "ribosome biogenesis",
+      "fdr": 1.0828617849799275e-11,
+      "p_value": 1.0828617849799275e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003676",
+      "label": "nucleic acid binding",
+      "fdr": 1.2925938088480473e-11,
+      "p_value": 1.2925938088480473e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0010629",
+      "label": "negative regulation of gene expression",
+      "fdr": 1.5081880512604466e-11,
+      "p_value": 1.5081880512604466e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0010467",
+      "label": "gene expression",
+      "fdr": 4.859226459788337e-11,
+      "p_value": 4.859226459788337e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016072",
+      "label": "rRNA metabolic process",
+      "fdr": 5.920117276427681e-11,
+      "p_value": 5.920117276427681e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-381183",
+      "label": "ATF6 (ATF6-alpha) activates chaperone genes",
+      "fdr": 1.1876167574614824e-10,
+      "p_value": 1.1876167574614824e-10,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0000178",
+      "label": "exosome (RNase complex)",
+      "fdr": 1.5181761029898648e-10,
+      "p_value": 1.5181761029898648e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0034655",
+      "label": "nucleobase-containing compound catabolic process",
+      "fdr": 4.715432339642481e-10,
+      "p_value": 4.715432339642481e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9820841",
+      "label": "M-decay: degradation of maternal mRNAs by maternally stored factors",
+      "fdr": 4.977996763466455e-10,
+      "p_value": 4.977996763466455e-10,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0016896",
+      "label": "RNA exonuclease activity, producing 5'-phosphomonoesters",
+      "fdr": 5.1222798979268e-10,
+      "p_value": 5.1222798979268e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:1905354",
+      "label": "exoribonuclease complex",
+      "fdr": 7.896713110615372e-10,
+      "p_value": 7.896713110615372e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0032991",
+      "label": "protein-containing complex",
+      "fdr": 8.071027353805119e-10,
+      "p_value": 8.071027353805119e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0034620",
+      "label": "cellular response to unfolded protein",
+      "fdr": 8.495814348583023e-10,
+      "p_value": 8.495814348583023e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0004532",
+      "label": "RNA exonuclease activity",
+      "fdr": 8.635225938411766e-10,
+      "p_value": 8.635225938411766e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-381033",
+      "label": "ATF6 (ATF6-alpha) activates chaperones",
+      "fdr": 1.071305376163011e-09,
+      "p_value": 1.071305376163011e-09,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0000176",
+      "label": "nuclear exosome (RNase complex)",
+      "fdr": 1.4247124171872163e-09,
+      "p_value": 1.4247124171872163e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0009059",
+      "label": "macromolecule biosynthetic process",
+      "fdr": 1.8260109142534333e-09,
+      "p_value": 1.8260109142534333e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0022613",
+      "label": "ribonucleoprotein complex biogenesis",
+      "fdr": 3.444824946930044e-09,
+      "p_value": 3.444824946930044e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016071",
+      "label": "mRNA metabolic process",
+      "fdr": 3.5002667108756037e-09,
+      "p_value": 3.5002667108756037e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030968",
+      "label": "endoplasmic reticulum unfolded protein response",
+      "fdr": 4.0720176187373025e-09,
+      "p_value": 4.0720176187373025e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0101019",
+      "label": "nucleolar exosome (RNase complex)",
+      "fdr": 4.347068489943695e-09,
+      "p_value": 4.347068489943695e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0010558",
+      "label": "negative regulation of macromolecule biosynthetic process",
+      "fdr": 4.552608379759849e-09,
+      "p_value": 4.552608379759849e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0035967",
+      "label": "cellular response to topologically incorrect protein",
+      "fdr": 5.947931396688173e-09,
+      "p_value": 5.947931396688173e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009890",
+      "label": "negative regulation of biosynthetic process",
+      "fdr": 1.1421200829478283e-08,
+      "p_value": 1.1421200829478283e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000175",
+      "label": "3'-5'-RNA exonuclease activity",
+      "fdr": 1.297807374286179e-08,
+      "p_value": 1.297807374286179e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0006986",
+      "label": "response to unfolded protein",
+      "fdr": 1.838281140810219e-08,
+      "p_value": 1.838281140810219e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9648895",
+      "label": "Response of EIF2AK1 (HRI) to heme deficiency",
+      "fdr": 2.0230237772585692e-08,
+      "p_value": 2.0230237772585692e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0005789",
+      "label": "endoplasmic reticulum membrane",
+      "fdr": 3.144940927397384e-08,
+      "p_value": 3.144940927397384e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0098827",
+      "label": "endoplasmic reticulum subcompartment",
+      "fdr": 4.1949681753342576e-08,
+      "p_value": 4.1949681753342576e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0140534",
+      "label": "endoplasmic reticulum protein-containing complex",
+      "fdr": 4.776205479369582e-08,
+      "p_value": 4.776205479369582e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0042175",
+      "label": "nuclear outer membrane-endoplasmic reticulum membrane network",
+      "fdr": 5.0700631153207974e-08,
+      "p_value": 5.0700631153207974e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0004540",
+      "label": "RNA nuclease activity",
+      "fdr": 5.363198243628234e-08,
+      "p_value": 5.363198243628234e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0010605",
+      "label": "negative regulation of macromolecule metabolic process",
+      "fdr": 5.880812426129283e-08,
+      "p_value": 5.880812426129283e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-450513",
+      "label": "Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",
+      "fdr": 6.016652894009345e-08,
+      "p_value": 6.016652894009345e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-450385",
+      "label": "Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA",
+      "fdr": 6.016652894009345e-08,
+      "p_value": 6.016652894009345e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0000177",
+      "label": "cytoplasmic exosome (RNase complex)",
+      "fdr": 6.085648117579271e-08,
+      "p_value": 6.085648117579271e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0009057",
+      "label": "macromolecule catabolic process",
+      "fdr": 6.219338530573272e-08,
+      "p_value": 6.219338530573272e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0070013",
+      "label": "intracellular organelle lumen",
+      "fdr": 9.752262860112182e-08,
+      "p_value": 9.752262860112182e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043233",
+      "label": "organelle lumen",
+      "fdr": 9.752262860112182e-08,
+      "p_value": 9.752262860112182e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0031974",
+      "label": "membrane-enclosed lumen",
+      "fdr": 9.752262860112182e-08,
+      "p_value": 9.752262860112182e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0035966",
+      "label": "response to topologically incorrect protein",
+      "fdr": 9.894595195106269e-08,
+      "p_value": 9.894595195106269e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031984",
+      "label": "organelle subcompartment",
+      "fdr": 1.0267584598540795e-07,
+      "p_value": 1.0267584598540795e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0031126",
+      "label": "sno(s)RNA 3'-end processing",
+      "fdr": 1.0680553475524674e-07,
+      "p_value": 1.0680553475524674e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006396",
+      "label": "RNA processing",
+      "fdr": 2.6811499081829733e-07,
+      "p_value": 2.6811499081829733e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-450531",
+      "label": "Regulation of mRNA stability by proteins that bind AU-rich elements",
+      "fdr": 2.940938842047012e-07,
+      "p_value": 2.940938842047012e-07,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0140098",
+      "label": "catalytic activity, acting on RNA",
+      "fdr": 3.0028725371455645e-07,
+      "p_value": 3.0028725371455645e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-9820865",
+      "label": "Z-decay: degradation of maternal mRNAs by zygotically expressed factors",
+      "fdr": 3.1995472501803883e-07,
+      "p_value": 3.1995472501803883e-07,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0043144",
+      "label": "sno(s)RNA processing",
+      "fdr": 3.4330378561190277e-07,
+      "p_value": 3.4330378561190277e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006413",
+      "label": "translational initiation",
+      "fdr": 4.721195052868224e-07,
+      "p_value": 4.721195052868224e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009892",
+      "label": "negative regulation of metabolic process",
+      "fdr": 4.825717865530121e-07,
+      "p_value": 4.825717865530121e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0140513",
+      "label": "nuclear protein-containing complex",
+      "fdr": 5.041720334988261e-07,
+      "p_value": 5.041720334988261e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0009058",
+      "label": "biosynthetic process",
+      "fdr": 5.352931422390258e-07,
+      "p_value": 5.352931422390258e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0004527",
+      "label": "exonuclease activity",
+      "fdr": 6.066595074478757e-07,
+      "p_value": 6.066595074478757e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0033554",
+      "label": "cellular response to stress",
+      "fdr": 6.660340612424889e-07,
+      "p_value": 6.660340612424889e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0008408",
+      "label": "3'-5' exonuclease activity",
+      "fdr": 7.805063799666742e-07,
+      "p_value": 7.805063799666742e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005622",
+      "label": "intracellular anatomical structure",
+      "fdr": 8.957957807213445e-07,
+      "p_value": 8.957957807213445e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0016074",
+      "label": "sno(s)RNA metabolic process",
+      "fdr": 9.05418571731989e-07,
+      "p_value": 9.05418571731989e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071051",
+      "label": "poly(A)-dependent snoRNA 3'-end processing",
+      "fdr": 1.014139044174808e-06,
+      "p_value": 1.014139044174808e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0140640",
+      "label": "catalytic activity, acting on a nucleic acid",
+      "fdr": 1.1113548998755827e-06,
+      "p_value": 1.1113548998755827e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005730",
+      "label": "nucleolus",
+      "fdr": 1.5876710976515934e-06,
+      "p_value": 1.5876710976515934e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-8868773",
+      "label": "rRNA processing in the nucleus and cytosol",
+      "fdr": 2.272964960289361e-06,
+      "p_value": 2.272964960289361e-06,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0043487",
+      "label": "regulation of RNA stability",
+      "fdr": 2.2946706952561384e-06,
+      "p_value": 2.2946706952561384e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0043170",
+      "label": "macromolecule metabolic process",
+      "fdr": 2.6324267878366486e-06,
+      "p_value": 2.6324267878366486e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0061013",
+      "label": "regulation of mRNA catabolic process",
+      "fdr": 2.9988822515389987e-06,
+      "p_value": 2.9988822515389987e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006446",
+      "label": "regulation of translational initiation",
+      "fdr": 3.3935528273833642e-06,
+      "p_value": 3.3935528273833642e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-72312",
+      "label": "rRNA processing",
+      "fdr": 4.375643601088201e-06,
+      "p_value": 4.375643601088201e-06,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0070059",
+      "label": "intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress",
+      "fdr": 4.574669438624596e-06,
+      "p_value": 4.574669438624596e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000288",
+      "label": "nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",
+      "fdr": 5.307215841736778e-06,
+      "p_value": 5.307215841736778e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005515",
+      "label": "protein binding",
+      "fdr": 6.903570013076825e-06,
+      "p_value": 6.903570013076825e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0016073",
+      "label": "snRNA metabolic process",
+      "fdr": 7.081481726224679e-06,
+      "p_value": 7.081481726224679e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0034975",
+      "label": "protein folding in endoplasmic reticulum",
+      "fdr": 8.231655321105186e-06,
+      "p_value": 8.231655321105186e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-72766",
+      "label": "Translation",
+      "fdr": 1.021151574363772e-05,
+      "p_value": 1.021151574363772e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006417",
+      "label": "regulation of translation",
+      "fdr": 1.1828002367770858e-05,
+      "p_value": 1.1828002367770858e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0004518",
+      "label": "nuclease activity",
+      "fdr": 1.2715767414804409e-05,
+      "p_value": 1.2715767414804409e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0043488",
+      "label": "regulation of mRNA stability",
+      "fdr": 1.309462450207166e-05,
+      "p_value": 1.309462450207166e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0061157",
+      "label": "mRNA destabilization",
+      "fdr": 1.5236363603896823e-05,
+      "p_value": 1.5236363603896823e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0051787",
+      "label": "misfolded protein binding",
+      "fdr": 1.6159064083561424e-05,
+      "p_value": 1.6159064083561424e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0006457",
+      "label": "protein folding",
+      "fdr": 1.703874151481208e-05,
+      "p_value": 1.703874151481208e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1990904",
+      "label": "ribonucleoprotein complex",
+      "fdr": 1.8314680783305103e-05,
+      "p_value": 1.8314680783305103e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0030515",
+      "label": "snoRNA binding",
+      "fdr": 1.8597559580822538e-05,
+      "p_value": 1.8597559580822538e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0050779",
+      "label": "RNA destabilization",
+      "fdr": 2.033112235322267e-05,
+      "p_value": 2.033112235322267e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0061014",
+      "label": "positive regulation of mRNA catabolic process",
+      "fdr": 2.4504378803563882e-05,
+      "p_value": 2.4504378803563882e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016070",
+      "label": "RNA metabolic process",
+      "fdr": 3.000426824060946e-05,
+      "p_value": 3.000426824060946e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006984",
+      "label": "ER-nucleus signaling pathway",
+      "fdr": 3.307543556244443e-05,
+      "p_value": 3.307543556244443e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:03060",
+      "label": "Protein export",
+      "fdr": 3.712323764725931e-05,
+      "p_value": 3.712323764725931e-05,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0048523",
+      "label": "negative regulation of cellular process",
+      "fdr": 3.8377347846660576e-05,
+      "p_value": 3.8377347846660576e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005783",
+      "label": "endoplasmic reticulum",
+      "fdr": 4.814082060988912e-05,
+      "p_value": 4.814082060988912e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0045047",
+      "label": "protein targeting to ER",
+      "fdr": 4.998797633918159e-05,
+      "p_value": 4.998797633918159e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071027",
+      "label": "nuclear RNA surveillance",
+      "fdr": 5.235822630385973e-05,
+      "p_value": 5.235822630385973e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0010468",
+      "label": "regulation of gene expression",
+      "fdr": 7.465035814913275e-05,
+      "p_value": 7.465035814913275e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0036503",
+      "label": "ERAD pathway",
+      "fdr": 7.488595597461823e-05,
+      "p_value": 7.488595597461823e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000460",
+      "label": "maturation of 5.8S rRNA",
+      "fdr": 7.663090000949464e-05,
+      "p_value": 7.663090000949464e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006412",
+      "label": "translation",
+      "fdr": 8.07838150750521e-05,
+      "p_value": 8.07838150750521e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0160307",
+      "label": "protein biosynthetic process",
+      "fdr": 8.07838150750521e-05,
+      "p_value": 8.07838150750521e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005829",
+      "label": "cytosol",
+      "fdr": 8.227592416977064e-05,
+      "p_value": 8.227592416977064e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0048519",
+      "label": "negative regulation of biological process",
+      "fdr": 8.97529285595209e-05,
+      "p_value": 8.97529285595209e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-6791226",
+      "label": "Major pathway of rRNA processing in the nucleolus and cytosol",
+      "fdr": 9.338019996594645e-05,
+      "p_value": 9.338019996594645e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0070034",
+      "label": "telomerase RNA binding",
+      "fdr": 9.454042039609086e-05,
+      "p_value": 9.454042039609086e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0043231",
+      "label": "intracellular membrane-bounded organelle",
+      "fdr": 9.635366526953495e-05,
+      "p_value": 9.635366526953495e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0090304",
+      "label": "nucleic acid metabolic process",
+      "fdr": 0.00010114197431827932,
+      "p_value": 0.00010114197431827932,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005732",
+      "label": "sno(s)RNA-containing ribonucleoprotein complex",
+      "fdr": 0.00010382809180659983,
+      "p_value": 0.00010382809180659983,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:1905897",
+      "label": "regulation of response to endoplasmic reticulum stress",
+      "fdr": 0.00010442927425831464,
+      "p_value": 0.00010442927425831464,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071025",
+      "label": "RNA surveillance",
+      "fdr": 0.00010672682046772692,
+      "p_value": 0.00010672682046772692,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-430039",
+      "label": "mRNA decay by 5' to 3' exoribonuclease",
+      "fdr": 0.00010824052126382274,
+      "p_value": 0.00010824052126382274,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9816359",
+      "label": "Maternal to zygotic transition (MZT)",
+      "fdr": 0.00010934176913556083,
+      "p_value": 0.00010934176913556083,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0072599",
+      "label": "establishment of protein localization to endoplasmic reticulum",
+      "fdr": 0.00011400870961330798,
+      "p_value": 0.00011400870961330798,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1900101",
+      "label": "regulation of endoplasmic reticulum unfolded protein response",
+      "fdr": 0.00011400870961330798,
+      "p_value": 0.00011400870961330798,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005788",
+      "label": "endoplasmic reticulum lumen",
+      "fdr": 0.0001380830666545101,
+      "p_value": 0.0001380830666545101,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0051082",
+      "label": "unfolded protein binding",
+      "fdr": 0.0001484163661322315,
+      "p_value": 0.0001484163661322315,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-429958",
+      "label": "mRNA decay by 3' to 5' exoribonuclease",
+      "fdr": 0.00015621972429367064,
+      "p_value": 0.00015621972429367064,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0009056",
+      "label": "catabolic process",
+      "fdr": 0.00016293722701498582,
+      "p_value": 0.00016293722701498582,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0010556",
+      "label": "regulation of macromolecule biosynthetic process",
+      "fdr": 0.00016300216584780246,
+      "p_value": 0.00016300216584780246,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016180",
+      "label": "snRNA processing",
+      "fdr": 0.0001652482574564464,
+      "p_value": 0.0001652482574564464,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0034475",
+      "label": "U4 snRNA 3'-end processing",
+      "fdr": 0.00019253546611600563,
+      "p_value": 0.00019253546611600563,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0090672",
+      "label": "telomerase RNA localization",
+      "fdr": 0.00019839145012779543,
+      "p_value": 0.00019839145012779543,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0090671",
+      "label": "telomerase RNA localization to Cajal body",
+      "fdr": 0.00019839145012779543,
+      "p_value": 0.00019839145012779543,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0090685",
+      "label": "RNA localization to nucleus",
+      "fdr": 0.00019839145012779543,
+      "p_value": 0.00019839145012779543,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0090670",
+      "label": "RNA localization to Cajal body",
+      "fdr": 0.00019839145012779543,
+      "p_value": 0.00019839145012779543,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0051087",
+      "label": "protein-folding chaperone binding",
+      "fdr": 0.0002117328376387088,
+      "p_value": 0.0002117328376387088,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:1903313",
+      "label": "positive regulation of mRNA metabolic process",
+      "fdr": 0.00021361058845313126,
+      "p_value": 0.00021361058845313126,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003729",
+      "label": "mRNA binding",
+      "fdr": 0.00032720328644156174,
+      "p_value": 0.00032720328644156174,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005654",
+      "label": "nucleoplasm",
+      "fdr": 0.00034807587536881865,
+      "p_value": 0.00034807587536881865,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0016281",
+      "label": "eukaryotic translation initiation factor 4F complex",
+      "fdr": 0.00036768701150778063,
+      "p_value": 0.00036768701150778063,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0000932",
+      "label": "P-body",
+      "fdr": 0.00039167254084760994,
+      "p_value": 0.00039167254084760994,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043555",
+      "label": "regulation of translation in response to stress",
+      "fdr": 0.00044205735207924574,
+      "p_value": 0.00044205735207924574,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1903311",
+      "label": "regulation of mRNA metabolic process",
+      "fdr": 0.0005497528916654443,
+      "p_value": 0.0005497528916654443,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009889",
+      "label": "regulation of biosynthetic process",
+      "fdr": 0.0005515558580686988,
+      "p_value": 0.0005515558580686988,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0036500",
+      "label": "ATF6-mediated unfolded protein response",
+      "fdr": 0.0005715708328317932,
+      "p_value": 0.0005715708328317932,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009894",
+      "label": "regulation of catabolic process",
+      "fdr": 0.000594113821862293,
+      "p_value": 0.000594113821862293,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042149",
+      "label": "cellular response to glucose starvation",
+      "fdr": 0.0006838572551818304,
+      "p_value": 0.0006838572551818304,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-6790901",
+      "label": "rRNA modification in the nucleus and cytosol",
+      "fdr": 0.0007536576253722351,
+      "p_value": 0.0007536576253722351,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-1169410",
+      "label": "Antimicrobial mechanism of IFN-stimulated genes",
+      "fdr": 0.0007776430189435904,
+      "p_value": 0.0007776430189435904,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0005787",
+      "label": "signal peptidase complex",
+      "fdr": 0.0008387142053078776,
+      "p_value": 0.0008387142053078776,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0034663",
+      "label": "endoplasmic reticulum chaperone complex",
+      "fdr": 0.0008387142053078776,
+      "p_value": 0.0008387142053078776,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-72662",
+      "label": "Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S",
+      "fdr": 0.0008463919942274125,
+      "p_value": 0.0008463919942274125,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0071044",
+      "label": "histone mRNA catabolic process",
+      "fdr": 0.0008934789342664741,
+      "p_value": 0.0008934789342664741,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071028",
+      "label": "nuclear mRNA surveillance",
+      "fdr": 0.0008934789342664741,
+      "p_value": 0.0008934789342664741,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0036490",
+      "label": "regulation of translation in response to endoplasmic reticulum stress",
+      "fdr": 0.0008934789342664741,
+      "p_value": 0.0008934789342664741,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0017148",
+      "label": "negative regulation of translation",
+      "fdr": 0.0009822048231253946,
+      "p_value": 0.0009822048231253946,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0035770",
+      "label": "ribonucleoprotein granule",
+      "fdr": 0.0009983873831749797,
+      "p_value": 0.0009983873831749797,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0140467",
+      "label": "integrated stress response signaling",
+      "fdr": 0.0010231577553177198,
+      "p_value": 0.0010231577553177198,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0034518",
+      "label": "RNA cap binding complex",
+      "fdr": 0.0011994730107862126,
+      "p_value": 0.0011994730107862126,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0031981",
+      "label": "nuclear lumen",
+      "fdr": 0.0012149916137782553,
+      "p_value": 0.0012149916137782553,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0010604",
+      "label": "positive regulation of macromolecule metabolic process",
+      "fdr": 0.0012490251940740719,
+      "p_value": 0.0012490251940740719,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0043232",
+      "label": "intracellular membraneless organelle",
+      "fdr": 0.0013261370930517792,
+      "p_value": 0.0013261370930517792,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043228",
+      "label": "membraneless organelle",
+      "fdr": 0.0013261370930517792,
+      "p_value": 0.0013261370930517792,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:1904872",
+      "label": "regulation of telomerase RNA localization to Cajal body",
+      "fdr": 0.001333200841672601,
+      "p_value": 0.001333200841672601,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009893",
+      "label": "positive regulation of metabolic process",
+      "fdr": 0.001379992469775333,
+      "p_value": 0.001379992469775333,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0044238",
+      "label": "primary metabolic process",
+      "fdr": 0.0016752883169911157,
+      "p_value": 0.0016752883169911157,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1903891",
+      "label": "regulation of ATF6-mediated unfolded protein response",
+      "fdr": 0.0016902682107320785,
+      "p_value": 0.0016902682107320785,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0010998",
+      "label": "regulation of translational initiation by eIF2 alpha phosphorylation",
+      "fdr": 0.0016902682107320785,
+      "p_value": 0.0016902682107320785,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031123",
+      "label": "RNA 3'-end processing",
+      "fdr": 0.0019219907138568466,
+      "p_value": 0.0019219907138568466,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032040",
+      "label": "small-subunit processome",
+      "fdr": 0.0023282630785155935,
+      "p_value": 0.0023282630785155935,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0044085",
+      "label": "cellular component biogenesis",
+      "fdr": 0.002503444601959206,
+      "p_value": 0.002503444601959206,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0180051",
+      "label": "translation factor activity",
+      "fdr": 0.0033204297380810717,
+      "p_value": 0.0033204297380810717,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0080135",
+      "label": "regulation of cellular response to stress",
+      "fdr": 0.0034387422414514477,
+      "p_value": 0.0034387422414514477,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:05417",
+      "label": "Lipid and atherosclerosis",
+      "fdr": 0.0034691380376150574,
+      "p_value": 0.0034691380376150574,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0043229",
+      "label": "intracellular organelle",
+      "fdr": 0.003582895375654787,
+      "p_value": 0.003582895375654787,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0110156",
+      "label": "mRNA methylguanosine-cap decapping",
+      "fdr": 0.003618973307735437,
+      "p_value": 0.003618973307735437,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006915",
+      "label": "apoptotic process",
+      "fdr": 0.003816294088112532,
+      "p_value": 0.003816294088112532,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032057",
+      "label": "negative regulation of translational initiation in response to stress",
+      "fdr": 0.004204713977745902,
+      "p_value": 0.004204713977745902,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006139",
+      "label": "nucleobase-containing compound metabolic process",
+      "fdr": 0.0042517739827143755,
+      "p_value": 0.0042517739827143755,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003743",
+      "label": "translation initiation factor activity",
+      "fdr": 0.004365215107739397,
+      "p_value": 0.004365215107739397,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0043066",
+      "label": "negative regulation of apoptotic process",
+      "fdr": 0.004640159419965926,
+      "p_value": 0.004640159419965926,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0043227",
+      "label": "membrane-bounded organelle",
+      "fdr": 0.0056556923075531985,
+      "p_value": 0.0056556923075531985,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0009896",
+      "label": "positive regulation of catabolic process",
+      "fdr": 0.005798332362384937,
+      "p_value": 0.005798332362384937,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0060255",
+      "label": "regulation of macromolecule metabolic process",
+      "fdr": 0.00585886551468111,
+      "p_value": 0.00585886551468111,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042274",
+      "label": "ribosomal small subunit biogenesis",
+      "fdr": 0.006397657686127415,
+      "p_value": 0.006397657686127415,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-392499",
+      "label": "Metabolism of proteins",
+      "fdr": 0.0065929634910079984,
+      "p_value": 0.0065929634910079984,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0019222",
+      "label": "regulation of metabolic process",
+      "fdr": 0.007509490314777751,
+      "p_value": 0.007509490314777751,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0043069",
+      "label": "negative regulation of programmed cell death",
+      "fdr": 0.007755008647035216,
+      "p_value": 0.007755008647035216,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0110154",
+      "label": "RNA decapping",
+      "fdr": 0.007986197178036048,
+      "p_value": 0.007986197178036048,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0044183",
+      "label": "protein folding chaperone",
+      "fdr": 0.008032518624019451,
+      "p_value": 0.008032518624019451,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0012501",
+      "label": "programmed cell death",
+      "fdr": 0.008097694300670458,
+      "p_value": 0.008097694300670458,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0008219",
+      "label": "cell death",
+      "fdr": 0.008621808052828585,
+      "p_value": 0.008621808052828585,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031669",
+      "label": "cellular response to nutrient levels",
+      "fdr": 0.00927229969601453,
+      "p_value": 0.00927229969601453,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0036464",
+      "label": "cytoplasmic ribonucleoprotein granule",
+      "fdr": 0.009576710007822438,
+      "p_value": 0.009576710007822438,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0009267",
+      "label": "cellular response to starvation",
+      "fdr": 0.009988005557242212,
+      "p_value": 0.009988005557242212,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1900102",
+      "label": "negative regulation of endoplasmic reticulum unfolded protein response",
+      "fdr": 0.010062945372144897,
+      "p_value": 0.010062945372144897,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0097193",
+      "label": "intrinsic apoptotic signaling pathway",
+      "fdr": 0.010157448232650596,
+      "p_value": 0.010157448232650596,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0008152",
+      "label": "metabolic process",
+      "fdr": 0.010240017948427145,
+      "p_value": 0.010240017948427145,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-72649",
+      "label": "Translation initiation complex formation",
+      "fdr": 0.010751695412630734,
+      "p_value": 0.010751695412630734,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-72702",
+      "label": "Ribosomal scanning and start codon recognition",
+      "fdr": 0.010751695412630734,
+      "p_value": 0.010751695412630734,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006403",
+      "label": "RNA localization",
+      "fdr": 0.01216984848347554,
+      "p_value": 0.01216984848347554,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000466",
+      "label": "maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",
+      "fdr": 0.012512908450202932,
+      "p_value": 0.012512908450202932,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0036499",
+      "label": "PERK-mediated unfolded protein response",
+      "fdr": 0.012512908450202932,
+      "p_value": 0.012512908450202932,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0008334",
+      "label": "histone mRNA metabolic process",
+      "fdr": 0.012512908450202932,
+      "p_value": 0.012512908450202932,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0141187",
+      "label": "nucleic acid biosynthetic process",
+      "fdr": 0.0129654587020786,
+      "p_value": 0.0129654587020786,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0051604",
+      "label": "protein maturation",
+      "fdr": 0.013444339250923087,
+      "p_value": 0.013444339250923087,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071038",
+      "label": "TRAMP-dependent tRNA surveillance pathway",
+      "fdr": 0.014570954348060165,
+      "p_value": 0.014570954348060165,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071035",
+      "label": "nuclear polyadenylation-dependent rRNA catabolic process",
+      "fdr": 0.014570954348060165,
+      "p_value": 0.014570954348060165,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000467",
+      "label": "exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",
+      "fdr": 0.014570954348060165,
+      "p_value": 0.014570954348060165,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030684",
+      "label": "preribosome",
+      "fdr": 0.015320543768512222,
+      "p_value": 0.015320543768512222,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0045947",
+      "label": "negative regulation of translational initiation",
+      "fdr": 0.015376311715720166,
+      "p_value": 0.015376311715720166,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0051254",
+      "label": "positive regulation of RNA metabolic process",
+      "fdr": 0.015671960229099505,
+      "p_value": 0.015671960229099505,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1903573",
+      "label": "negative regulation of response to endoplasmic reticulum stress",
+      "fdr": 0.016185248157862674,
+      "p_value": 0.016185248157862674,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:05014",
+      "label": "Amyotrophic lateral sclerosis",
+      "fdr": 0.016844161092774187,
+      "p_value": 0.016844161092774187,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0032774",
+      "label": "RNA biosynthetic process",
+      "fdr": 0.016996104418108088,
+      "p_value": 0.016996104418108088,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0036498",
+      "label": "IRE1-mediated unfolded protein response",
+      "fdr": 0.018695034907640296,
+      "p_value": 0.018695034907640296,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0034472",
+      "label": "snRNA 3'-end processing",
+      "fdr": 0.018695034907640296,
+      "p_value": 0.018695034907640296,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006950",
+      "label": "response to stress",
+      "fdr": 0.021035861224492722,
+      "p_value": 0.021035861224492722,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-6804115",
+      "label": "TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain",
+      "fdr": 0.021800501935505437,
+      "p_value": 0.021800501935505437,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0106354",
+      "label": "tRNA surveillance",
+      "fdr": 0.02319800567722665,
+      "p_value": 0.02319800567722665,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005488",
+      "label": "binding",
+      "fdr": 0.023728087924531828,
+      "p_value": 0.023728087924531828,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0005737",
+      "label": "cytoplasm",
+      "fdr": 0.023933630512217877,
+      "p_value": 0.023933630512217877,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0016234",
+      "label": "inclusion body",
+      "fdr": 0.025463900274129307,
+      "p_value": 0.025463900274129307,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0042594",
+      "label": "response to starvation",
+      "fdr": 0.026483953723710058,
+      "p_value": 0.026483953723710058,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0048522",
+      "label": "positive regulation of cellular process",
+      "fdr": 0.02875795409331271,
+      "p_value": 0.02875795409331271,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0004535",
+      "label": "poly(A)-specific ribonuclease activity",
+      "fdr": 0.028881553110800862,
+      "p_value": 0.028881553110800862,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-9633012",
+      "label": "Response of EIF2AK4 (GCN2) to amino acid deficiency",
+      "fdr": 0.028924956938571163,
+      "p_value": 0.028924956938571163,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-1169408",
+      "label": "ISG15 antiviral mechanism",
+      "fdr": 0.03108467449020914,
+      "p_value": 0.03108467449020914,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0043558",
+      "label": "regulation of translational initiation in response to stress",
+      "fdr": 0.03462463438553394,
+      "p_value": 0.03462463438553394,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019538",
+      "label": "protein metabolic process",
+      "fdr": 0.0350820504102948,
+      "p_value": 0.0350820504102948,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0099080",
+      "label": "supramolecular complex",
+      "fdr": 0.03698997641662945,
+      "p_value": 0.03698997641662945,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0005785",
+      "label": "signal recognition particle receptor complex",
+      "fdr": 0.039440823916196605,
+      "p_value": 0.039440823916196605,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:1990037",
+      "label": "Lewy body core",
+      "fdr": 0.039440823916196605,
+      "p_value": 0.039440823916196605,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0042981",
+      "label": "regulation of apoptotic process",
+      "fdr": 0.04121783763906904,
+      "p_value": 0.04121783763906904,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019899",
+      "label": "enzyme binding",
+      "fdr": 0.04261272383415622,
+      "p_value": 0.04261272383415622,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0030014",
+      "label": "CCR4-NOT complex",
+      "fdr": 0.04456776562526958,
+      "p_value": 0.04456776562526958,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0051179",
+      "label": "localization",
+      "fdr": 0.04501343967234717,
+      "p_value": 0.04501343967234717,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000290",
+      "label": "deadenylation-dependent decapping of nuclear-transcribed mRNA",
+      "fdr": 0.04921880447954913,
+      "p_value": 0.04921880447954913,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031125",
+      "label": "rRNA 3'-end processing",
+      "fdr": 0.04921880447954913,
+      "p_value": 0.04921880447954913,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    }
+  ]
+}

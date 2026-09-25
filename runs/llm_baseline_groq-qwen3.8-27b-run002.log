@@ -1,0 +1,34 @@
+[2026-09-24T12:33:47] data_dir = /home/maano.malima/Method_API
+[2026-09-24T12:33:47] provider = groq
+[2026-09-24T12:33:47] model    = qwen/qwen3.8-27b
+[2026-09-24T12:33:47] tag      = groq-qwen3.8-27b-run002
+[2026-09-24T12:33:48] client ready
+[2026-09-24T12:33:48] querying alzheimers_disease (15 genes) | allowed=13824 enriched=794
+[2026-09-24T12:33:50]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 7 | valid_enriched 2
+[2026-09-24T12:33:50]     WRONG_BRANCH     GO:0008289  lipid binding
+[2026-09-24T12:33:50] querying hereditary_cancer (28 genes) | allowed=13806 enriched=557
+[2026-09-24T12:33:51]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 5 | valid_enriched 5
+[2026-09-24T12:33:51] querying hypertrophic_cardiomyopathy (20 genes) | allowed=13809 enriched=230
+[2026-09-24T12:33:59]   LLM 9 IDs | unsupported 4 | allowed_not_enriched 3 | valid_enriched 2
+[2026-09-24T12:33:59]     OBSOLETE         GO:0003304  obsolete myocardial epithelial involution involved in heart jogging
+[2026-09-24T12:33:59]     OBSOLETE         GO:0006928  obsolete movement of cell or subcellular component
+[2026-09-24T12:33:59]     WRONG_BIOLOGY    GO:0007516  hemocyte development
+[2026-09-24T12:33:59]     WRONG_BRANCH     GO:0030027  lamellipodium
+[2026-09-24T12:33:59] querying parkinsons_disease (16 genes) | allowed=13807 enriched=684
+[2026-09-24T12:34:05]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 7 | valid_enriched 2
+[2026-09-24T12:34:05]     OBSOLETE         GO:0007180  obsolete transforming growth factor beta ligand binding to type II receptor
+[2026-09-24T12:34:05] querying primary_immunodeficiency (24 genes) | allowed=13793 enriched=354
+[2026-09-24T12:34:27]     API attempt 1/3 failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m37aeamwe4qtzg565q9wbj91` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Used 604, Requested 570. Please try again in 10.44s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+[2026-09-24T12:34:29]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 8 | valid_enriched 1
+[2026-09-24T12:34:29]     WRONG_BIOLOGY    GO:0002549  negative regulation of plasma kallikrein-kinin cascade
+[2026-09-24T12:34:29] querying type2_diabetes (18 genes) | allowed=13776 enriched=303
+[2026-09-24T12:34:47]   LLM 4 IDs | unsupported 0 | allowed_not_enriched 4 | valid_enriched 0
+[2026-09-24T12:34:47] ==================================================
+[2026-09-24T12:34:47] provider=groq model=qwen/qwen3.8-27b
+[2026-09-24T12:34:47] TOTAL: 53 LLM IDs across 6 disease lists
+[2026-09-24T12:34:47]   Contract A unsupported (not in allowed):     7
+[2026-09-24T12:34:47]   Contract B allowed but not enriched:         34
+[2026-09-24T12:34:47]   Contract A+B violated (not in enriched):     41
+[2026-09-24T12:34:47]   Valid enriched hits:                         12
+[2026-09-24T12:34:47]   QuickGO breakdown: {'WRONG_BRANCH': 2, 'OBSOLETE': 3, 'WRONG_BIOLOGY': 2}
+[2026-09-24T12:34:47] wrote llm_baseline_groq-qwen3.8-27b-run002.json

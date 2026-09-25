@@ -1,0 +1,148 @@
+[
+  {
+    "disease": "alzheimers_disease",
+    "n_genes": 15,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13824,
+    "enriched_ids": 794,
+    "unsupported": 0,
+    "allowed_not_enriched": 9,
+    "not_enriched": 9,
+    "valid_enriched": 1,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0006915 apoptotic process\nGO:0007155 cellular defense response\nGO:0007399 nervous system development\nGO:0007417 central nervous system development\nGO:0007517 synaptic transmission\nGO:0007596 behavioral response to stimulus\nGO:0007600 behavior\nGO:0008283 regulation of cell population proliferation\nGO:0009605 wound healing\nGO:0030183 negative regulation of cell population proliferation"
+  },
+  {
+    "disease": "hereditary_cancer",
+    "n_genes": 28,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13806,
+    "enriched_ids": 557,
+    "unsupported": 0,
+    "allowed_not_enriched": 6,
+    "not_enriched": 6,
+    "valid_enriched": 4,
+    "unsupported_categorised": [],
+    "category_counts": {},
+    "llm_text": "GO:0006915 apoptosis\nGO:0007186 G1/S G2/M cell cycle checkpoint\nGO:0007185 cell cycle checkpoint\nGO:0007189 transduction of mitogen-activated protein kinase signal\nGO:0007265 RNA polymerase II transcription pre-initiation\nGO:0007275 DNA damage response\nGO:0007596 response to oxidative stress\nGO:0030198 negative regulation of cell cycle\nGO:0030512 negative regulation of cell proliferation\nGO:0045893 negative regulation of signal transduction"
+  },
+  {
+    "disease": "hypertrophic_cardiomyopathy",
+    "n_genes": 20,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13809,
+    "enriched_ids": 230,
+    "unsupported": 3,
+    "allowed_not_enriched": 5,
+    "not_enriched": 8,
+    "valid_enriched": 2,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0006928",
+        "name": "obsolete movement of cell or subcellular component",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0007516",
+        "name": "hemocyte development",
+        "category": "WRONG_BIOLOGY"
+      },
+      {
+        "id": "GO:0030027",
+        "name": "lamellipodium",
+        "category": "WRONG_BRANCH"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 1,
+      "WRONG_BIOLOGY": 1,
+      "WRONG_BRANCH": 1
+    },
+    "llm_text": "GO:0003299 cardiac muscle contraction\nGO:0030027 muscle contraction\nGO:0006979 response to muscle injury\nGO:0007516 sarcomere organization\nGO:0006928 response to oxidative stress\nGO:0007507 heart development\nGO:0003301 cardiac muscle cell differentiation\nGO:0007517 muscle fiber development\nGO:0007519 muscle fiber assembly\nGO:0007518 muscle fiber maintenance"
+  },
+  {
+    "disease": "parkinsons_disease",
+    "n_genes": 16,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13807,
+    "enriched_ids": 684,
+    "unsupported": 1,
+    "allowed_not_enriched": 7,
+    "not_enriched": 8,
+    "valid_enriched": 2,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0007180",
+        "name": "obsolete transforming growth factor beta ligand binding to type II receptor",
+        "category": "OBSOLETE"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 1
+    },
+    "llm_text": "GO:0006915 apoptotic process\nGO:0006950 response to endogenous stimulus\nGO:0007180 cell death\nGO:0007185 cellular response to endoplasmic reticulum stress\nGO:0007186 cellular response to protein misfolding\nGO:0007267 mitochondrial electron transport, NADH to ubiquinone\nGO:0007596 biological_process\nGO:0008283 regulation of cell population proliferation\nGO:0009628 cellular response to chemical stress\nGO:0030512 positive regulation of apoptotic process"
+  },
+  {
+    "disease": "primary_immunodeficiency",
+    "n_genes": 24,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13793,
+    "enriched_ids": 354,
+    "unsupported": 1,
+    "allowed_not_enriched": 8,
+    "not_enriched": 9,
+    "valid_enriched": 1,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0002549",
+        "name": "negative regulation of plasma kallikrein-kinin cascade",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "WRONG_BIOLOGY": 1
+    },
+    "llm_text": "GO:0002404 T cell development\nGO:0002574 B cell development\nGO:0002576 B cell mediated immunity\nGO:0002575 T cell mediated immunity\nGO:0002549 adaptive immune response\nGO:0002548 immune response\nGO:0006974 cellular response to interleukin-2\nGO:0006955 inflammatory response\nGO:0006915 apoptotic process\nGO:0006970 response to external stimulus"
+  },
+  {
+    "disease": "type2_diabetes",
+    "n_genes": 18,
+    "provider": "groq",
+    "model_id": "qwen/qwen3.8-27b",
+    "llm_ids": 10,
+    "allowed_ids": 13776,
+    "enriched_ids": 303,
+    "unsupported": 2,
+    "allowed_not_enriched": 8,
+    "not_enriched": 10,
+    "valid_enriched": 0,
+    "unsupported_categorised": [
+      {
+        "id": "GO:0007180",
+        "name": "obsolete transforming growth factor beta ligand binding to type II receptor",
+        "category": "OBSOLETE"
+      },
+      {
+        "id": "GO:0007184",
+        "name": "regulation of SMAD protein signal transduction",
+        "category": "WRONG_BIOLOGY"
+      }
+    ],
+    "category_counts": {
+      "OBSOLETE": 1,
+      "WRONG_BIOLOGY": 1
+    },
+    "llm_text": "GO:0006915 apoptosis\nGO:0007186 G protein-coupled receptor signaling pathway\nGO:0007185 receptor signaling pathway\nGO:0007189 transmembrane signaling pathway\nGO:0007184 cell communication\nGO:0007180 cell-cell signaling\nGO:0007155 cell adhesion\nGO:0007154 cell-cell adhesion\nGO:0007159 cell adhesion via plasma membrane adhesion molecules\nGO:0007156 cell adhesion via plasma membrane adhesion molecules"
+  }
+]

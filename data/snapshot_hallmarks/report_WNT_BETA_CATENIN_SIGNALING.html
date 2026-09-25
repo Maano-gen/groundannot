@@ -1,0 +1,780 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<title>GroundAnnot report</title>
+<style>
+body { font-family: system-ui, sans-serif; max-width: 1100px; margin: 2em auto; }
+h1 { border-bottom: 2px solid #333; }
+h2 { margin-top: 2em; color: #444; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: 0.9em; }
+th, td { border: 1px solid #ccc; padding: 6px 8px; text-align: left; }
+th { background: #f0f0f0; }
+.gene-card { border: 1px solid #ddd; padding: 1em; margin: 1em 0; border-radius: 6px; }
+.gene-card h3 { margin-top: 0; }
+.small { color: #666; font-size: 0.85em; }
+.section-tag { display: inline-block; background: #eee; padding: 2px 8px;
+               border-radius: 4px; font-size: 0.8em; }
+.closed { background: #e8f4ea; }
+.context { background: #f4f0e8; }
+</style></head><body>
+
+<h1>GroundAnnot report — WNT_BETA_CATENIN_SIGNALING</h1>
+<p class="small">Run: 2026-09-25T08:26:22 &nbsp;|&nbsp; Organism: human
+&nbsp;|&nbsp; Input genes: 42</p>
+<p class="small">Genes: MYC, CTNNB1, JAG2, NOTCH1, DLL1, AXIN2, PSEN2, FZD1, NOTCH4, LEF1, AXIN1, NKD1, WNT5B, CUL1, JAG1, MAML1, KAT2A, GNAI1, WNT6, PTCH1, NCOR2, DKK4, HDAC2, DKK1, TCF7, WNT1, NUMB, ADAM17, DVL2, PPARD, NCSTN, HDAC5, CCND2, FRAT1, CSNK1E, RBPJ, FZD8, TP53, SKP2, HEY2, HEY1, HDAC11</p>
+
+<h2><span class="section-tag closed">Closed vocabulary</span> Enrichment</h2>
+<p>The language model may cite term IDs only from the tables below.</p>
+
+
+<h3>PANTHER</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0048513</td><td>animal organ development</td>
+<td>1.44e-21</td>
+<td>1.99e-17</td></tr>
+
+<tr><td>GO:0007219</td><td>Notch signaling pathway</td>
+<td>1.69e-20</td>
+<td>1.16e-16</td></tr>
+
+<tr><td>GO:0060070</td><td>canonical Wnt signaling pathway</td>
+<td>2.21e-20</td>
+<td>1.01e-16</td></tr>
+
+<tr><td>GO:0007275</td><td>multicellular organism development</td>
+<td>6.43e-18</td>
+<td>2.21e-14</td></tr>
+
+<tr><td>GO:0048731</td><td>system development</td>
+<td>8.77e-18</td>
+<td>2.41e-14</td></tr>
+
+<tr><td>GO:0016055</td><td>Wnt signaling pathway</td>
+<td>1.39e-17</td>
+<td>3.19e-14</td></tr>
+
+<tr><td>GO:0048856</td><td>anatomical structure development</td>
+<td>3.68e-17</td>
+<td>7.23e-14</td></tr>
+
+<tr><td>GO:0009888</td><td>tissue development</td>
+<td>1.35e-16</td>
+<td>2.33e-13</td></tr>
+
+<tr><td>GO:0007166</td><td>cell surface receptor signaling pathway</td>
+<td>1.86e-16</td>
+<td>2.84e-13</td></tr>
+
+<tr><td>GO:0032502</td><td>developmental process</td>
+<td>8.87e-16</td>
+<td>1.22e-12</td></tr>
+
+<tr><td>GO:0030154</td><td>cell differentiation</td>
+<td>1.00e-15</td>
+<td>1.25e-12</td></tr>
+
+<tr><td>GO:0048869</td><td>cellular developmental process</td>
+<td>1.05e-15</td>
+<td>1.21e-12</td></tr>
+
+<tr><td>GO:0032501</td><td>multicellular organismal process</td>
+<td>5.51e-15</td>
+<td>5.83e-12</td></tr>
+
+<tr><td>GO:0050793</td><td>regulation of developmental process</td>
+<td>5.67e-15</td>
+<td>5.57e-12</td></tr>
+
+<tr><td>GO:0051094</td><td>positive regulation of developmental process</td>
+<td>9.41e-15</td>
+<td>8.63e-12</td></tr>
+
+<tr><td>GO:0009966</td><td>regulation of signal transduction</td>
+<td>1.33e-14</td>
+<td>1.14e-11</td></tr>
+
+<tr><td>GO:0045595</td><td>regulation of cell differentiation</td>
+<td>1.46e-14</td>
+<td>1.18e-11</td></tr>
+
+<tr><td>GO:0009893</td><td>positive regulation of metabolic process</td>
+<td>2.11e-14</td>
+<td>1.61e-11</td></tr>
+
+<tr><td>GO:0010604</td><td>positive regulation of macromolecule metabolic process</td>
+<td>2.50e-14</td>
+<td>1.81e-11</td></tr>
+
+<tr><td>GO:0060842</td><td>arterial endothelial cell differentiation</td>
+<td>2.77e-14</td>
+<td>1.90e-11</td></tr>
+
+<tr><td>GO:0048522</td><td>positive regulation of cellular process</td>
+<td>2.85e-14</td>
+<td>1.87e-11</td></tr>
+
+<tr><td>GO:0023051</td><td>regulation of signaling</td>
+<td>3.92e-14</td>
+<td>2.45e-11</td></tr>
+
+<tr><td>GO:0010646</td><td>regulation of cell communication</td>
+<td>4.21e-14</td>
+<td>2.52e-11</td></tr>
+
+<tr><td>GO:0060837</td><td>blood vessel endothelial cell differentiation</td>
+<td>1.66e-13</td>
+<td>9.50e-11</td></tr>
+
+<tr><td>GO:0048583</td><td>regulation of response to stimulus</td>
+<td>1.72e-13</td>
+<td>9.49e-11</td></tr>
+
+</table>
+
+<h3>Enrichr</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>GO:0060070</td><td>Canonical Wnt Signaling Pathway</td>
+<td>3.22e-21</td>
+<td>1.41e-18</td></tr>
+
+<tr><td>GO:0007219</td><td>Notch Signaling Pathway</td>
+<td>3.42e-21</td>
+<td>1.41e-18</td></tr>
+
+<tr><td>GO:0016055</td><td>Wnt Signaling Pathway</td>
+<td>1.14e-19</td>
+<td>3.12e-17</td></tr>
+
+<tr><td>GO:0045893</td><td>Positive Regulation of DNA-templated Transcription</td>
+<td>1.82e-12</td>
+<td>3.74e-10</td></tr>
+
+<tr><td>GO:0045944</td><td>Positive Regulation of Transcription by RNA Polymerase II</td>
+<td>3.96e-12</td>
+<td>6.52e-10</td></tr>
+
+<tr><td>GO:0000122</td><td>Negative Regulation of Transcription by RNA Polymerase II</td>
+<td>9.66e-12</td>
+<td>1.33e-09</td></tr>
+
+<tr><td>GO:0001837</td><td>Epithelial to Mesenchymal Transition</td>
+<td>1.15e-11</td>
+<td>1.35e-09</td></tr>
+
+<tr><td>GO:0045892</td><td>Negative Regulation of DNA-templated Transcription</td>
+<td>7.22e-11</td>
+<td>6.92e-09</td></tr>
+
+<tr><td>GO:0050767</td><td>Regulation of Neurogenesis</td>
+<td>7.56e-11</td>
+<td>6.92e-09</td></tr>
+
+<tr><td>GO:0003176</td><td>Aortic Valve Development</td>
+<td>2.52e-10</td>
+<td>2.07e-08</td></tr>
+
+<tr><td>GO:0006357</td><td>Regulation of Transcription by RNA Polymerase II</td>
+<td>5.55e-10</td>
+<td>4.15e-08</td></tr>
+
+<tr><td>GO:0003177</td><td>Pulmonary Valve Development</td>
+<td>6.33e-10</td>
+<td>4.34e-08</td></tr>
+
+<tr><td>GO:0048762</td><td>Mesenchymal Cell Differentiation</td>
+<td>2.21e-09</td>
+<td>1.40e-07</td></tr>
+
+<tr><td>GO:1902679</td><td>Negative Regulation of RNA Biosynthetic Process</td>
+<td>2.38e-09</td>
+<td>1.40e-07</td></tr>
+
+<tr><td>GO:2000052</td><td>Positive Regulation of Non-Canonical Wnt Signaling Pathway</td>
+<td>3.49e-09</td>
+<td>1.92e-07</td></tr>
+
+<tr><td>GO:0051150</td><td>Regulation of Smooth Muscle Cell Differentiation</td>
+<td>5.48e-09</td>
+<td>2.82e-07</td></tr>
+
+<tr><td>GO:0072359</td><td>Circulatory System Development</td>
+<td>1.03e-08</td>
+<td>5.01e-07</td></tr>
+
+<tr><td>GO:0008593</td><td>Regulation of Notch Signaling Pathway</td>
+<td>1.16e-08</td>
+<td>5.30e-07</td></tr>
+
+<tr><td>GO:1902680</td><td>Positive Regulation of RNA Biosynthetic Process</td>
+<td>1.34e-08</td>
+<td>5.79e-07</td></tr>
+
+<tr><td>GO:0003180</td><td>Aortic Valve Morphogenesis</td>
+<td>1.52e-08</td>
+<td>6.26e-07</td></tr>
+
+<tr><td>GO:0003208</td><td>Cardiac Ventricle Morphogenesis</td>
+<td>2.56e-08</td>
+<td>1.00e-06</td></tr>
+
+<tr><td>GO:0042127</td><td>Regulation of Cell Population Proliferation</td>
+<td>3.66e-08</td>
+<td>1.31e-06</td></tr>
+
+<tr><td>GO:0051960</td><td>Regulation of Nervous System Development</td>
+<td>3.67e-08</td>
+<td>1.31e-06</td></tr>
+
+<tr><td>GO:0043066</td><td>Negative Regulation of Apoptotic Process</td>
+<td>3.87e-08</td>
+<td>1.33e-06</td></tr>
+
+<tr><td>GO:0008284</td><td>Positive Regulation of Cell Population Proliferation</td>
+<td>4.61e-08</td>
+<td>1.52e-06</td></tr>
+
+</table>
+
+<h3>g:Profiler</h3>
+<table>
+<tr><th>Term ID</th><th>Label</th><th>p-value</th><th>FDR</th></tr>
+
+<tr><td>REAC:R-HSA-1980143</td><td>Signaling by NOTCH1</td>
+<td>9.75e-28</td>
+<td>9.75e-28</td></tr>
+
+<tr><td>REAC:R-HSA-2894862</td><td>Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants</td>
+<td>1.69e-27</td>
+<td>1.69e-27</td></tr>
+
+<tr><td>REAC:R-HSA-2644603</td><td>Signaling by NOTCH1 in Cancer</td>
+<td>1.69e-27</td>
+<td>1.69e-27</td></tr>
+
+<tr><td>REAC:R-HSA-2644606</td><td>Constitutive Signaling by NOTCH1 PEST Domain Mutants</td>
+<td>1.69e-27</td>
+<td>1.69e-27</td></tr>
+
+<tr><td>REAC:R-HSA-2894858</td><td>Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer</td>
+<td>1.69e-27</td>
+<td>1.69e-27</td></tr>
+
+<tr><td>REAC:R-HSA-2644602</td><td>Signaling by NOTCH1 PEST Domain Mutants in Cancer</td>
+<td>1.69e-27</td>
+<td>1.69e-27</td></tr>
+
+<tr><td>KEGG:05224</td><td>Breast cancer</td>
+<td>1.25e-25</td>
+<td>1.25e-25</td></tr>
+
+<tr><td>KEGG:05200</td><td>Pathways in cancer</td>
+<td>1.01e-23</td>
+<td>1.01e-23</td></tr>
+
+<tr><td>KEGG:04330</td><td>Notch signaling pathway</td>
+<td>1.28e-23</td>
+<td>1.28e-23</td></tr>
+
+<tr><td>KEGG:04310</td><td>Wnt signaling pathway</td>
+<td>4.18e-22</td>
+<td>4.18e-22</td></tr>
+
+<tr><td>REAC:R-HSA-157118</td><td>Signaling by NOTCH</td>
+<td>2.08e-21</td>
+<td>2.08e-21</td></tr>
+
+<tr><td>REAC:R-HSA-5663202</td><td>Diseases of signal transduction by growth factor receptors and second messengers</td>
+<td>4.64e-20</td>
+<td>4.64e-20</td></tr>
+
+<tr><td>REAC:R-HSA-162582</td><td>Signal Transduction</td>
+<td>5.12e-19</td>
+<td>5.12e-19</td></tr>
+
+<tr><td>REAC:R-HSA-2122947</td><td>NOTCH1 Intracellular Domain Regulates Transcription</td>
+<td>7.95e-18</td>
+<td>7.95e-18</td></tr>
+
+<tr><td>KEGG:05217</td><td>Basal cell carcinoma</td>
+<td>3.27e-17</td>
+<td>3.27e-17</td></tr>
+
+<tr><td>KEGG:05165</td><td>Human papillomavirus infection</td>
+<td>1.22e-16</td>
+<td>1.22e-16</td></tr>
+
+<tr><td>GO:0009888</td><td>tissue development</td>
+<td>3.51e-15</td>
+<td>3.51e-15</td></tr>
+
+<tr><td>GO:0048513</td><td>animal organ development</td>
+<td>2.87e-14</td>
+<td>2.87e-14</td></tr>
+
+<tr><td>GO:0060070</td><td>canonical Wnt signaling pathway</td>
+<td>3.20e-14</td>
+<td>3.20e-14</td></tr>
+
+<tr><td>REAC:R-HSA-350054</td><td>Notch-HLH transcription pathway</td>
+<td>8.05e-14</td>
+<td>8.05e-14</td></tr>
+
+<tr><td>KEGG:05226</td><td>Gastric cancer</td>
+<td>1.37e-13</td>
+<td>1.37e-13</td></tr>
+
+<tr><td>REAC:R-HSA-9012852</td><td>Signaling by NOTCH3</td>
+<td>1.98e-13</td>
+<td>1.98e-13</td></tr>
+
+<tr><td>KEGG:04390</td><td>Hippo signaling pathway</td>
+<td>2.62e-13</td>
+<td>2.62e-13</td></tr>
+
+<tr><td>KEGG:05225</td><td>Hepatocellular carcinoma</td>
+<td>7.40e-13</td>
+<td>7.40e-13</td></tr>
+
+<tr><td>GO:0048869</td><td>cellular developmental process</td>
+<td>1.37e-12</td>
+<td>1.37e-12</td></tr>
+
+</table>
+
+
+<h2><span class="section-tag context">Context only</span> Per-gene annotations</h2>
+<p>The language model may read these for narrative but must not cite them as enrichment evidence.</p>
+
+
+<div class="gene-card">
+<h3>MYC — MYC proto-oncogene, bHLH transcription factor</h3>
+<p><b>Summary:</b> This gene is a proto-oncogene and encodes a nuclear phosphoprotein that plays a role in cell cycle progression, apoptosis and cellular transformation. The encoded protein forms a heterodimer with the related transcription factor MAX. This complex binds to the E box DNA consensus sequence and regulates the transcription of specific target genes. Amplification of this gene is frequently observed in numerous human cancers. Translocations involving this gene are associated with Burkitt lymphoma and multiple myeloma in human patients. There is evidence to show that translation initiates both from an upstream, in-frame non-AUG (CUG) and a downstream AUG start site, resulting in the production of two isoforms with distinct N-termini. [provided by RefSeq, Aug 2017].</p>
+<p><b>GO:BP:</b> G1/S transition of mitotic cell cycle; negative regulation of transcription by RNA polymerase II; MAPK cascade; branching involved in ureteric bud morphogenesis; positive regulation of mesenchymal cell proliferation; chromatin remodeling</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; core promoter sequence-specific DNA binding; transcription coregulator binding; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; chromosome; nucleolus; cytoplasm</p>
+<p><b>Pathways:</b> MAPK signaling pathway - Homo sapiens (human) (kegg); ErbB signaling pathway - Homo sapiens (human) (kegg); Cell cycle - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); Cellular senescence - Homo sapiens (human) (kegg); Wnt signaling pathway - Homo sapiens (human) (kegg); TGF-beta signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Transcription regulator Myc; Leucine zipper, Myc; Myc-type, basic helix-loop-helix (bHLH) domain; Transcription regulator Myc, N-terminal; Helix-loop-helix DNA-binding domain superfamily; Myc family transcription factors</p>
+</div>
+
+<div class="gene-card">
+<h3>CTNNB1 — catenin beta 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene is part of a complex of proteins that constitute adherens junctions (AJs). AJs are necessary for the creation and maintenance of epithelial cell layers by regulating cell growth and adhesion between cells. The encoded protein also anchors the actin cytoskeleton and may be responsible for transmitting the contact inhibition signal that causes cells to stop dividing once the epithelial sheet is complete. Finally, this protein binds to the product of the APC gene, which is mutated in adenomatous polyposis of the colon. Mutations in this gene are a cause of colorectal cancer (CRC), pilomatrixoma (PTR), medulloblastoma (MDB), and ovarian cancer. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Aug 2016].</p>
+<p><b>GO:BP:</b> protein polyubiquitination; osteoblast differentiation; epithelial to mesenchymal transition; positive regulation of neuroblast proliferation; outflow tract morphogenesis; cell adhesion</p>
+<p><b>GO:MF:</b> transcription coregulator binding; transcription corepressor binding; chromatin binding; transcription coactivator activity; signaling receptor binding; protein binding</p>
+<p><b>GO:CC:</b> chromatin; euchromatin; spindle pole; nucleus; nucleoplasm; transcription regulator complex</p>
+<p><b>Pathways:</b> Rap1 signaling pathway - Homo sapiens (human) (kegg); Wnt signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Focal adhesion - Homo sapiens (human) (kegg); Adherens junction - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Leukocyte transendothelial migration - Homo sapiens (human) (kegg); Melanogenesis - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Armadillo; Armadillo-like helical; Beta-catenin; Armadillo-type fold</p>
+</div>
+
+<div class="gene-card">
+<h3>JAG2 — jagged canonical Notch ligand 2</h3>
+<p><b>Summary:</b> The Notch signaling pathway is an intercellular signaling mechanism that is essential for proper embryonic development. Members of the Notch gene family encode transmembrane receptors that are critical for various cell fate decisions. The protein encoded by this gene is one of several ligands that activate Notch and related receptors. Two transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> cell communication; Notch signaling pathway; spermatogenesis; auditory receptor cell fate commitment; cell differentiation; T cell differentiation</p>
+<p><b>GO:MF:</b> Notch binding; calcium ion binding; protein binding; growth factor activity</p>
+<p><b>GO:CC:</b> plasma membrane; membrane</p>
+<p><b>Pathways:</b> Notch signaling pathway - Homo sapiens (human) (kegg); Th1 and Th2 cell differentiation - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Breast cancer - Homo sapiens (human) (kegg); Signaling by NOTCH (reactome); Signal Transduction (reactome); Disease (reactome); Signaling by NOTCH1 (reactome)</p>
+<p><b>InterPro:</b> EGF-type aspartate/asparagine hydroxylation site; EGF-like domain; VWFC domain; Delta/Serrate/lag-2 (DSL) protein; EGF-like calcium-binding domain; Growth factor receptor cysteine-rich domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>NOTCH1 — notch receptor 1</h3>
+<p><b>Summary:</b> This gene encodes a member of the NOTCH family of proteins. Members of this Type I transmembrane protein family share structural characteristics including an extracellular domain consisting of multiple epidermal growth factor-like (EGF) repeats, and an intracellular domain consisting of multiple different domain types. Notch signaling is an evolutionarily conserved intercellular signaling pathway that regulates interactions between physically adjacent cells through binding of Notch family receptors to their cognate ligands. The encoded preproprotein is proteolytically processed in the trans-Golgi network to generate two polypeptide chains that heterodimerize to form the mature cell-surface receptor. This receptor plays a role in the development of numerous cell and tissue types. Mutations in this gene are associated with aortic valve disease, Adams-Oliver syndrome, T-cell acute lymphoblastic leukemia, chronic lymphocytic leukemia, and head and neck squamous cell carcinoma. [provided by RefSeq, Jan 2016].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; luteolysis; epithelial to mesenchymal transition; heart looping; positive regulation of neuroblast proliferation; outflow tract morphogenesis</p>
+<p><b>GO:MF:</b> chromatin binding; transcription coactivator activity; enzyme inhibitor activity; transmembrane signaling receptor activity; Notch binding; calcium ion binding</p>
+<p><b>GO:CC:</b> Golgi membrane; acrosomal vesicle; MAML1-RBP-Jkappa- ICN1 complex; extracellular region; nucleus; nucleoplasm</p>
+<p><b>Pathways:</b> Notch signaling pathway - Homo sapiens (human) (kegg); Th1 and Th2 cell differentiation - Homo sapiens (human) (kegg); Thyroid hormone signaling pathway - Homo sapiens (human) (kegg); Prion disease - Homo sapiens (human) (kegg); Human papillomavirus infection - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); MicroRNAs in cancer - Homo sapiens (human) (kegg); Breast cancer - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> EGF-type aspartate/asparagine hydroxylation site; EGF-like domain; Notch domain; EGF-like calcium-binding domain; Ankyrin repeat; Notch</p>
+</div>
+
+<div class="gene-card">
+<h3>DLL1 — delta like canonical Notch ligand 1</h3>
+<p><b>Summary:</b> DLL1 is a human homolog of the Notch Delta ligand and is a member of the delta/serrate/jagged family.  It plays a role in mediating cell fate decisions during hematopoiesis. It may play a role in cell-to-cell communication. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> cell fate determination; somitogenesis; heart looping; marginal zone B cell differentiation; type B pancreatic cell development; cell communication</p>
+<p><b>GO:MF:</b> Notch binding; calcium ion binding; protein binding; Tat protein binding; receptor ligand activity; scaffold protein binding</p>
+<p><b>GO:CC:</b> extracellular region; plasma membrane; adherens junction; membrane; apical plasma membrane; cytoplasmic vesicle</p>
+<p><b>Pathways:</b> Notch signaling pathway - Homo sapiens (human) (kegg); Th1 and Th2 cell differentiation - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Breast cancer - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signaling by NOTCH (reactome); Signal Transduction (reactome); Disease (reactome)</p>
+<p><b>InterPro:</b> EGF-type aspartate/asparagine hydroxylation site; EGF-like domain; Delta/Serrate/lag-2 (DSL) protein; EGF-like calcium-binding domain; Growth factor receptor cysteine-rich domain superfamily; Notch ligand, N-terminal domain</p>
+</div>
+
+<div class="gene-card">
+<h3>AXIN2 — axin 2</h3>
+<p><b>Summary:</b> The Axin-related protein, Axin2, presumably plays an important role in the regulation of the stability of beta-catenin in the Wnt signaling pathway, like its rodent homologs, mouse conductin/rat axil. In mouse, conductin organizes a multiprotein complex of APC (adenomatous polyposis of the colon), beta-catenin, glycogen synthase kinase 3-beta, and conductin, which leads to the degradation of beta-catenin. Apparently, the deregulation of beta-catenin is an important event in the genesis of a number of malignancies. The AXIN2 gene has been mapped to 17q23-q24, a region that shows frequent loss of heterozygosity in breast cancer, neuroblastoma, and other tumors. Mutations in this gene have been associated with colorectal cancer with defective mismatch repair. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> aortic valve morphogenesis; mitral valve morphogenesis; intracellular protein localization; negative regulation of cell population proliferation; dorsal/ventral axis specification; positive regulation of epithelial to mesenchymal transition</p>
+<p><b>GO:MF:</b> protein binding; beta-catenin binding; enzyme binding; protein kinase binding; ubiquitin protein ligase binding; molecular adaptor activity</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; centrosome; cytosol; plasma membrane; beta-catenin destruction complex</p>
+<p><b>Pathways:</b> Wnt signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Cushing syndrome - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Human papillomavirus infection - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> DIX domain; Axin beta-catenin binding; RGS domain; RGS, subdomain 1/3; Ubiquitin-like domain superfamily; Axin-1/2, tankyrase-binding domain</p>
+</div>
+
+<div class="gene-card">
+<h3>PSEN2 — presenilin 2</h3>
+<p><b>Summary:</b> Alzheimer's disease (AD) patients with an inherited form of the disease carry mutations in the presenilin proteins (PSEN1 or PSEN2) or the amyloid precursor protein (APP). These disease-linked mutations result in increased production of the longer form of amyloid-beta (main component of amyloid deposits found in AD brains). Presenilins are postulated to regulate APP processing through their effects on gamma-secretase, an enzyme that cleaves APP. Also, it is thought that the presenilins are involved in the cleavage of the Notch receptor such that, they either directly regulate gamma-secretase activity, or themselves act are protease enzymes. Two alternatively spliced transcript variants encoding different isoforms of PSEN2 have been identified. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> response to hypoxia; membrane protein ectodomain proteolysis; Notch signaling pathway; Notch receptor processing; protein processing; amyloid-beta formation</p>
+<p><b>GO:MF:</b> protein binding; aspartic endopeptidase activity, intramembrane cleaving</p>
+<p><b>GO:CC:</b> Golgi membrane; kinetochore; nuclear inner membrane; lysosome; lysosomal membrane; early endosome</p>
+<p><b>Pathways:</b> Notch signaling pathway - Homo sapiens (human) (kegg); Neurotrophin signaling pathway - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Signaling by ERBB4 (reactome); Nuclear signaling by ERBB4 (reactome); Developmental Biology (reactome); Signaling by NOTCH (reactome)</p>
+<p><b>InterPro:</b> Peptidase A22A, presenilin; Peptidase A22A, presenilin 2; Presenilin/signal peptide peptidase; Presenilin, C-terminal</p>
+</div>
+
+<div class="gene-card">
+<h3>FZD1 — frizzled class receptor 1</h3>
+<p><b>Summary:</b> Members of the 'frizzled' gene family encode 7-transmembrane domain proteins that are receptors for Wnt signaling proteins.  The FZD1 protein contains a signal peptide, a cysteine-rich domain in the N-terminal extracellular region, 7 transmembrane domains, and a C-terminal PDZ domain-binding motif. The FZD1 transcript is expressed in various tissues. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> cell surface receptor signaling pathway; cell-cell signaling; response to xenobiotic stimulus; positive regulation of neuron projection development; neuron differentiation; autocrine signaling</p>
+<p><b>GO:MF:</b> transmembrane signaling receptor activity; signaling receptor binding; frizzled binding; protein binding; Wnt-protein binding; PDZ domain binding</p>
+<p><b>GO:CC:</b> plasma membrane; focal adhesion; cell surface; membrane; Wnt signalosome</p>
+<p><b>Pathways:</b> mTOR signaling pathway - Homo sapiens (human) (kegg); Wnt signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Melanogenesis - Homo sapiens (human) (kegg); Cushing syndrome - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Frizzled/Smoothened, 7TM; Frizzled/secreted frizzled-related protein; GPCR, family 2-like, 7TM; Frizzled domain; Frizzled cysteine-rich domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>NOTCH4 — notch receptor 4</h3>
+<p><b>Summary:</b> This gene encodes a member of the NOTCH family of proteins. Members of this Type I transmembrane protein family share structural characteristics including an extracellular domain consisting of multiple epidermal growth factor-like (EGF) repeats, and an intracellular domain consisting of multiple different domain types. Notch signaling is an evolutionarily conserved intercellular signaling pathway that regulates interactions between physically adjacent cells through binding of Notch family receptors to their cognate ligands. The encoded preproprotein is proteolytically processed in the trans-Golgi network to generate two polypeptide chains that heterodimerize to form the mature cell-surface receptor. This receptor may play a role in vascular, renal and hepatic development. Mutations in this gene may be associated with schizophrenia. Alternative splicing results in multiple transcript variants, at least one of which encodes an isoform that is proteolytically processed. [provided by RefSeq, Jan 2016].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; branching involved in blood vessel morphogenesis; cell fate determination; morphogenesis of a branching structure; epithelial to mesenchymal transition; vasculature development</p>
+<p><b>GO:MF:</b> transcription coactivator activity; Notch binding; calcium ion binding; protein binding; signaling receptor activity</p>
+<p><b>GO:CC:</b> Golgi membrane; extracellular region; nucleus; nucleoplasm; endoplasmic reticulum membrane; cytosol</p>
+<p><b>Pathways:</b> Notch signaling pathway - Homo sapiens (human) (kegg); Thyroid hormone signaling pathway - Homo sapiens (human) (kegg); Human papillomavirus infection - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); MicroRNAs in cancer - Homo sapiens (human) (kegg); Breast cancer - Homo sapiens (human) (kegg); Signaling by NOTCH (reactome); Signal Transduction (reactome)</p>
+<p><b>InterPro:</b> EGF-type aspartate/asparagine hydroxylation site; EGF-like domain; Notch domain; EGF-like calcium-binding domain; Ankyrin repeat; Notch</p>
+</div>
+
+<div class="gene-card">
+<h3>LEF1 — lymphoid enhancer binding factor 1</h3>
+<p><b>Summary:</b> This gene encodes a transcription factor belonging to a family of proteins that share homology with the high mobility group protein-1. The protein encoded by this gene can bind to a functionally important site in the T-cell receptor-alpha enhancer, thereby conferring maximal enhancer activity. This transcription factor is involved in the Wnt signaling pathway, and it may function in hair cell differentiation and follicle morphogenesis. Mutations in this gene have been found in somatic sebaceous tumors. This gene has also been linked to other cancers, including androgen-independent prostate cancer. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Oct 2009].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; osteoblast differentiation; epithelial to mesenchymal transition; regulation of transcription by RNA polymerase II; positive regulation of gene expression; positive regulation of epithelial to mesenchymal transition</p>
+<p><b>GO:MF:</b> RNA polymerase II transcription regulatory region sequence-specific DNA binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; transcription corepressor binding; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; transcription regulator complex; cytoplasm; protein-DNA complex</p>
+<p><b>Pathways:</b> Wnt signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Adherens junction - Homo sapiens (human) (kegg); Melanogenesis - Homo sapiens (human) (kegg); Cushing syndrome - Homo sapiens (human) (kegg); Salmonella infection - Homo sapiens (human) (kegg); Kaposi sarcoma-associated herpesvirus infection - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> High mobility group box domain; CTNNB1 binding, N-teminal; Transcription factor TCF/LEF; Catenin binding domain superfamily; High mobility group box domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>AXIN1 — axin 1</h3>
+<p><b>Summary:</b> This gene encodes a cytoplasmic protein which contains a regulation of G-protein signaling (RGS) domain and a dishevelled and axin (DIX) domain. The encoded protein interacts with adenomatosis polyposis coli, catenin beta-1, glycogen synthase kinase 3 beta, protein phosphate 2, and itself. This protein functions as a negative regulator of the wingless-type MMTV integration site family, member 1 (WNT) signaling pathway and can induce apoptosis. The crystal structure of a portion of this protein, alone and in a complex with other proteins, has been resolved. Mutations in this gene have been associated with hepatocellular carcinoma, hepatoblastomas, ovarian endometriod adenocarcinomas, and medullablastomas. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jan 2016].</p>
+<p><b>GO:BP:</b> negative regulation of Wnt signaling pathway; positive regulation of protein ubiquitination; positive regulation of proteasomal ubiquitin-dependent protein catabolic process; cellular response to glucose starvation; proteasome-mediated ubiquitin-dependent protein catabolic process; positive regulation of protein catabolic process</p>
+<p><b>GO:MF:</b> p53 binding; protein binding; beta-catenin binding; enzyme binding; protein kinase binding; protein domain specific binding</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; nucleolus; cytoplasm; late endosome; cytosol</p>
+<p><b>Pathways:</b> Wnt signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Cushing syndrome - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Human papillomavirus infection - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> DIX domain; Axin beta-catenin binding; RGS domain; RGS, subdomain 1/3; Ubiquitin-like domain superfamily; Axin-1/2, tankyrase-binding domain</p>
+</div>
+
+<div class="gene-card">
+<h3>NKD1 — NKD inhibitor of Wnt signaling pathway 1</h3>
+<p><b>Summary:</b> In the mouse, Nkd is a Dishevelled (see DVL1; MIM 601365)-binding protein that functions as a negative regulator of the Wnt (see WNT1; MIM 164820)-beta-catenin (see MIM 116806)-Tcf (see MIM 602272) signaling pathway.[supplied by OMIM, Jun 2003].</p>
+<p><b>GO:BP:</b> eye photoreceptor cell differentiation; axis elongation; somatic muscle development; negative regulation of Wnt signaling pathway; positive regulation of MAPK cascade; positive regulation of protein catabolic process</p>
+<p><b>GO:MF:</b> calcium ion binding; protein binding; PDZ domain binding</p>
+<p><b>GO:CC:</b> protein phosphatase type 2A complex; cytoplasm; plasma membrane</p>
+<p><b>Pathways:</b> Wnt signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Wnt signaling pathway and pluripotency (wikipathways); LncRNA involvement in canonical Wnt signaling and colorectal cancer (wikipathways); Wnt signaling (wikipathways); ncRNAs involved in Wnt signaling in hepatocellular carcinoma (wikipathways)</p>
+<p><b>InterPro:</b> EF-hand domain; EF-hand domain pair; EF-Hand 1, calcium-binding site; Protein naked cuticle-like</p>
+</div>
+
+<div class="gene-card">
+<h3>WNT5B — Wnt family member 5B</h3>
+<p><b>Summary:</b> The WNT gene family consists of structurally related genes which encode secreted signaling proteins. These proteins have been implicated in oncogenesis and in several developmental processes, including regulation of cell fate and patterning during embryogenesis. This gene is a member of the WNT gene family. It encodes a protein which shows 94% and 80% amino acid identity to the mouse Wnt5b protein and the human WNT5A protein, respectively. Alternative splicing of this gene generates 2 transcript variants. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> chondrocyte differentiation; Wnt signaling pathway; neuron differentiation; positive regulation of cell migration; muscle cell differentiation; cell fate commitment</p>
+<p><b>GO:MF:</b> signaling receptor binding; frizzled binding; cytokine activity</p>
+<p><b>GO:CC:</b> extracellular region; endoplasmic reticulum lumen; Golgi lumen; plasma membrane; cell surface; endocytic vesicle membrane</p>
+<p><b>Pathways:</b> mTOR signaling pathway - Homo sapiens (human) (kegg); Wnt signaling pathway - Homo sapiens (human) (kegg); Axon guidance - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Melanogenesis - Homo sapiens (human) (kegg); Cushing syndrome - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Wnt; Wnt protein, conserved site; Wnt, C-terminal domain</p>
+</div>
+
+<div class="gene-card">
+<h3>CUL1 — cullin 1</h3>
+<p><b>Summary:</b> Predicted to enable ubiquitin protein ligase binding activity and ubiquitin-protein transferase activity. Involved in SCF-dependent proteasomal ubiquitin-dependent protein catabolic process and protein ubiquitination. Located in plasma membrane. Part of Parkin-FBXW7-Cul1 ubiquitin ligase complex and SCF ubiquitin ligase complex. [provided by Alliance of Genome Resources, Apr 2022]</p>
+<p><b>GO:BP:</b> G1/S transition of mitotic cell cycle; regulation of DNA-templated transcription; ubiquitin-dependent protein catabolic process; intracellular iron ion homeostasis; regulation of mitotic cell cycle; regulation of cell cycle process</p>
+<p><b>GO:MF:</b> protein binding; ubiquitin protein ligase binding; ubiquitin ligase complex scaffold activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm; cytosol; plasma membrane; SCF ubiquitin ligase complex</p>
+<p><b>Pathways:</b> Cell cycle - Homo sapiens (human) (kegg); Oocyte meiosis - Homo sapiens (human) (kegg); Ubiquitin mediated proteolysis - Homo sapiens (human) (kegg); Protein processing in endoplasmic reticulum - Homo sapiens (human) (kegg); Wnt signaling pathway - Homo sapiens (human) (kegg); Hedgehog signaling pathway - Homo sapiens (human) (kegg); TGF-beta signaling pathway - Homo sapiens (human) (kegg); Circadian rhythm - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Cullin, N-terminal; Cullin, conserved site; Cullin homology domain; Cullin repeat-like-containing domain superfamily; Cullin protein, neddylation domain; Cullin homology domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>JAG1 — jagged canonical Notch ligand 1</h3>
+<p><b>Summary:</b> The jagged 1 protein encoded by JAG1 is the human homolog of the Drosophilia jagged protein. Human jagged 1 is the ligand for the receptor notch 1, the latter is involved in signaling processes. Mutations that alter the jagged 1 protein cause Alagille syndrome. Jagged 1 signalling through notch 1 has also been shown to play a role in hematopoiesis. [provided by RefSeq, Nov 2019].</p>
+<p><b>GO:BP:</b> angiogenesis; cell fate determination; negative regulation of cell-matrix adhesion; T cell mediated immunity; aortic valve morphogenesis; pulmonary valve morphogenesis</p>
+<p><b>GO:MF:</b> Notch binding; structural molecule activity; calcium ion binding; protein binding; phospholipid binding; growth factor activity</p>
+<p><b>GO:CC:</b> extracellular region; plasma membrane; adherens junction; membrane; apical plasma membrane; apical part of cell</p>
+<p><b>Pathways:</b> Notch signaling pathway - Homo sapiens (human) (kegg); Apelin signaling pathway - Homo sapiens (human) (kegg); Th1 and Th2 cell differentiation - Homo sapiens (human) (kegg); TNF signaling pathway - Homo sapiens (human) (kegg); Human papillomavirus infection - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Breast cancer - Homo sapiens (human) (kegg); Developmental Biology (reactome)</p>
+<p><b>InterPro:</b> Delta/Serrate/lag-2 (DSL) protein; Notch ligand, N-terminal domain; EGF-type aspartate/asparagine hydroxylation site; EGF-like domain; VWFC domain; EGF-like calcium-binding domain</p>
+</div>
+
+<div class="gene-card">
+<h3>MAML1 — mastermind like transcriptional coactivator 1</h3>
+<p><b>Summary:</b> This protein is the human homolog of mastermind, a Drosophila protein that plays a role in the Notch signaling pathway involved in cell-fate determination. There is in vitro evidence that the human homolog forms a complex with the intracellular portion of human Notch receptors and can increase expression of a Notch-induced gene. This evidence supports its proposed function as a transcriptional co-activator in the Notch signaling pathway. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> atrioventricular node development; protein phosphorylation; Notch signaling pathway; positive regulation of transcription of Notch receptor target; positive regulation of myotube differentiation; myoblast differentiation</p>
+<p><b>GO:MF:</b> transcription coactivator activity; protein binding; protein kinase binding; peptide antigen binding</p>
+<p><b>GO:CC:</b> MAML1-RBP-Jkappa- ICN1 complex; nucleus; nucleoplasm; nuclear speck; CSL-Notch-Mastermind transcription factor complex</p>
+<p><b>Pathways:</b> Notch signaling pathway - Homo sapiens (human) (kegg); Th1 and Th2 cell differentiation - Homo sapiens (human) (kegg); Human papillomavirus infection - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signaling by NOTCH (reactome); Signal Transduction (reactome); Disease (reactome); Regulation of beta-cell development (reactome)</p>
+<p><b>InterPro:</b> Neurogenic mastermind-like, N-terminal; Mastermind-like 1-3; Neurogenic mastermind-like, N-terminal domain superfamily; Mastermind-like 1/3, transactivation domain 2; Mastermind-like 1/3, transactivation domain 1</p>
+</div>
+
+<div class="gene-card">
+<h3>KAT2A — lysine acetyltransferase 2A</h3>
+<p><b>Summary:</b> KAT2A, or GCN5, is a histone acetyltransferase (HAT) that functions primarily as a transcriptional activator. It also functions as a repressor of NF-kappa-B (see MIM 164011) by promoting ubiquitination of the NF-kappa-B subunit RELA (MIM 164014) in a HAT-independent manner (Mao et al., 2009 [PubMed 19339690]).[supplied by OMIM, Sep 2009].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; positive regulation of cytokine production; regulation of DNA repair; chromatin remodeling; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II</p>
+<p><b>GO:MF:</b> chromatin binding; transcription coactivator activity; histone acetyltransferase activity; protein binding; histone H3 acetyltransferase activity; acetyltransferase activity</p>
+<p><b>GO:CC:</b> histone acetyltransferase complex; SAGA complex; chromatin; extracellular region; nucleus; nucleoplasm</p>
+<p><b>Pathways:</b> Notch signaling pathway - Homo sapiens (human) (kegg); Thyroid hormone signaling pathway - Homo sapiens (human) (kegg); Human T-cell leukemia virus 1 infection - Homo sapiens (human) (kegg); Viral carcinogenesis - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signaling by NOTCH (reactome); Signal Transduction (reactome); Disease (reactome)</p>
+<p><b>InterPro:</b> GNAT domain; Bromodomain; PCAF, N-terminal; Acyl-CoA N-acyltransferase; Histone acetyltransferase GCN5/PCAF; Bromodomain, conserved site</p>
+</div>
+
+<div class="gene-card">
+<h3>GNAI1 — G protein subunit alpha i1</h3>
+<p><b>Summary:</b> Guanine nucleotide binding proteins are heterotrimeric signal-transducing molecules consisting of alpha, beta, and gamma subunits. The alpha subunit binds guanine nucleotide, can hydrolyze GTP, and can interact with other proteins. The protein encoded by this gene represents the alpha subunit of an inhibitory complex. The encoded protein is part of a complex that responds to beta-adrenergic signals by inhibiting adenylate cyclase. Two transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Jan 2012].</p>
+<p><b>GO:BP:</b> establishment of mitotic spindle orientation; signal transduction; G protein-coupled receptor signaling pathway; adenylate cyclase-modulating G protein-coupled receptor signaling pathway; adenylate cyclase-activating G protein-coupled receptor signaling pathway; adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway</p>
+<p><b>GO:MF:</b> magnesium ion binding; G protein-coupled receptor binding; GTPase activity; G protein activity; protein binding; GTP binding</p>
+<p><b>GO:CC:</b> spindle pole; nucleus; cytoplasm; lysosomal membrane; centrosome; cytosol</p>
+<p><b>Pathways:</b> Rap1 signaling pathway - Homo sapiens (human) (kegg); cGMP-PKG signaling pathway - Homo sapiens (human) (kegg); cAMP signaling pathway - Homo sapiens (human) (kegg); Chemokine signaling pathway - Homo sapiens (human) (kegg); Sphingolipid signaling pathway - Homo sapiens (human) (kegg); Adrenergic signaling in cardiomyocytes - Homo sapiens (human) (kegg); Axon guidance - Homo sapiens (human) (kegg); Apelin signaling pathway - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Guanine nucleotide binding protein (G-protein), alpha subunit; G-protein alpha subunit, group I; G protein alpha subunit, helical insertion; P-loop containing nucleoside triphosphate hydrolase</p>
+</div>
+
+<div class="gene-card">
+<h3>WNT6 — Wnt family member 6</h3>
+<p><b>Summary:</b> The WNT gene family consists of structurally related genes which encode secreted signaling proteins. These proteins have been implicated in oncogenesis and in several developmental processes, including regulation of cell fate and patterning during embryogenesis. This gene is a member of the WNT gene family. It is overexpressed in cervical cancer cell line and strongly coexpressed with another family member, WNT10A, in colorectal cancer cell line. The gene overexpression may play key roles in carcinogenesis. This gene and the WNT10A gene are clustered in the chromosome 2q35 region. The protein encoded by this gene is 97% identical to the mouse Wnt6 protein at the amino acid level. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> positive regulation of gene expression; Wnt signaling pathway; neuron differentiation; odontogenesis of dentin-containing tooth; cell fate commitment; canonical Wnt signaling pathway</p>
+<p><b>GO:MF:</b> signaling receptor binding; frizzled binding; cytokine activity</p>
+<p><b>GO:CC:</b> extracellular region; endoplasmic reticulum lumen; Golgi lumen; plasma membrane; cell surface; endocytic vesicle membrane</p>
+<p><b>Pathways:</b> mTOR signaling pathway - Homo sapiens (human) (kegg); Wnt signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Melanogenesis - Homo sapiens (human) (kegg); Cushing syndrome - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Wnt; Wnt-6 protein; Wnt protein, conserved site; Wnt, C-terminal domain</p>
+</div>
+
+<div class="gene-card">
+<h3>PTCH1 — patched 1</h3>
+<p><b>Summary:</b> This gene encodes a member of the patched family of proteins and a component of the hedgehog signaling pathway. Hedgehog signaling is important in embryonic development and tumorigenesis. The encoded protein is the receptor for the secreted hedgehog ligands, which include sonic hedgehog, indian hedgehog and desert hedgehog. Following binding by one of the hedgehog ligands, the encoded protein is trafficked away from the primary cilium, relieving inhibition of the G-protein-coupled receptor smoothened, which results in activation of downstream signaling. Mutations of this gene have been associated with basal cell nevus syndrome and holoprosencephaly. [provided by RefSeq, Aug 2017].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; neural tube formation; signal transduction; spermatid development; brain development; regulation of smoothened signaling pathway</p>
+<p><b>GO:MF:</b> patched binding; smoothened binding; protein binding; hedgehog receptor activity; heparin binding; cholesterol binding</p>
+<p><b>GO:CC:</b> Golgi apparatus; plasma membrane; caveola; cilium; membrane; midbody</p>
+<p><b>Pathways:</b> cAMP signaling pathway - Homo sapiens (human) (kegg); Hedgehog signaling pathway - Homo sapiens (human) (kegg); Axon guidance - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Proteoglycans in cancer - Homo sapiens (human) (kegg); Basal cell carcinoma - Homo sapiens (human) (kegg); Signal Transduction (reactome); Signaling by GPCR (reactome)</p>
+<p><b>InterPro:</b> Sterol-sensing domain; HMGCR/SNAP/NPC1-like, sterol-sensing domain; Transmembrane receptor, patched</p>
+</div>
+
+<div class="gene-card">
+<h3>NCOR2 — nuclear receptor corepressor 2</h3>
+<p><b>Summary:</b> This gene encodes a nuclear receptor co-repressor that mediates transcriptional silencing of certain target genes. The encoded protein is a member of a family of thyroid hormone- and retinoic acid receptor-associated co-repressors. This protein acts as part of a multisubunit complex which includes histone deacetylases to modify chromatin structure that prevents basal transcriptional activity of target genes. Aberrant expression of this gene is associated with certain cancers. Alternate splicing results in multiple transcript variants encoding different isoforms.[provided by RefSeq, Apr 2011].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; lactation; regulation of ketone metabolic process; cerebellum development; response to estradiol; estrous cycle</p>
+<p><b>GO:MF:</b> chromatin binding; transcription corepressor activity; Notch binding; protein binding; enzyme activator activity; nuclear receptor binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; membrane; nuclear matrix; nuclear body</p>
+<p><b>Pathways:</b> Notch signaling pathway - Homo sapiens (human) (kegg); Epstein-Barr virus infection - Homo sapiens (human) (kegg); Developmental Biology (reactome); Metabolism (reactome); Signaling by NOTCH (reactome); Signal Transduction (reactome); Disease (reactome); Signaling by TGF-beta Receptor Complex (reactome)</p>
+<p><b>InterPro:</b> SANT/Myb domain; Homedomain-like superfamily; SANT domain; Myb domain; N-CoR, GPS2-interacting domain; Nuclear receptor corepressor</p>
+</div>
+
+<div class="gene-card">
+<h3>DKK4 — dickkopf Wnt signaling pathway inhibitor 4</h3>
+<p><b>Summary:</b> This gene encodes a protein that is a member of the dickkopf family. The secreted protein contains two cysteine rich regions and is involved in embryonic development through its interactions with the Wnt signaling pathway. Activity of this protein is modulated by binding to the Wnt co-receptor and the co-factor kremen 2. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of Wnt signaling pathway; negative regulation of canonical Wnt signaling pathway</p>
+<p><b>GO:MF:</b> protein binding; co-receptor binding; receptor antagonist activity</p>
+<p><b>GO:CC:</b> extracellular region</p>
+<p><b>Pathways:</b> Wnt signaling pathway - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Signal Transduction (reactome); Disease (reactome); Signaling by WNT (reactome); TCF dependent signaling in response to WNT (reactome); Negative regulation of TCF-dependent signaling by WNT ligand antagonists (reactome)</p>
+<p><b>InterPro:</b> Dickkopf, N-terminal cysteine-rich; Dickkopf related protein 1-4; Dickkopf-related protein 4, second cysteine-rich domain; Dickkopf-related protein 1/2/4, C-terminal subdomain 2; Dickkopf-related protein 1/2/4, C-terminal subdomain 1</p>
+</div>
+
+<div class="gene-card">
+<h3>HDAC2 — histone deacetylase 2</h3>
+<p><b>Summary:</b> This gene product belongs to the histone deacetylase family. Histone deacetylases act via the formation of large multiprotein complexes, and are responsible for the deacetylation of lysine residues at the N-terminal regions of core histones (H2A, H2B, H3 and H4). This protein forms transcriptional repressor complexes by associating with many different proteins, including YY1, a mammalian zinc-finger transcription factor. Thus, it plays an important role in transcriptional regulation, cell cycle progression and developmental events. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Apr 2010].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; chromatin remodeling; positive regulation of cell population proliferation; epidermal cell differentiation; negative regulation of neuron projection development; dendrite development</p>
+<p><b>GO:MF:</b> transcription coregulator binding; chromatin binding; RNA binding; histone deacetylase activity; protein binding; hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides</p>
+<p><b>GO:CC:</b> histone deacetylase complex; chromosome, telomeric region; chromatin; nucleus; nucleoplasm; cytoplasm</p>
+<p><b>Pathways:</b> Cell cycle - Homo sapiens (human) (kegg); Longevity regulating pathway - multiple species - Homo sapiens (human) (kegg); Notch signaling pathway - Homo sapiens (human) (kegg); Neutrophil extracellular trap formation - Homo sapiens (human) (kegg); Thyroid hormone signaling pathway - Homo sapiens (human) (kegg); Huntington disease - Homo sapiens (human) (kegg); Amphetamine addiction - Homo sapiens (human) (kegg); Alcoholism - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Histone deacetylase HDAC; Class I/II Histone deacetylase HDAC; Ureohydrolase domain superfamily; Histone deacetylase domain; Histone deacetylase domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>DKK1 — dickkopf Wnt signaling pathway inhibitor 1</h3>
+<p><b>Summary:</b> This gene encodes a member of the dickkopf family of proteins. Members of this family are secreted proteins characterized by two cysteine-rich domains that mediate protein-protein interactions. The encoded protein binds to the LRP6 co-receptor and inhibits beta-catenin-dependent Wnt signaling. This gene plays a role in embryonic development and may be important in bone formation in adults. Elevated expression of this gene has been observed in numerous human cancers and this protein may promote proliferation, invasion and growth in cancer cell lines. [provided by RefSeq, Sep 2017].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; regulation of receptor internalization; heart induction; heart valve development; endocardial cushion development; signal transduction</p>
+<p><b>GO:MF:</b> protein binding; growth factor activity; co-receptor binding; receptor antagonist activity; low-density lipoprotein particle receptor binding</p>
+<p><b>GO:CC:</b> extracellular region; plasma membrane; early endosome membrane</p>
+<p><b>Pathways:</b> Wnt signaling pathway - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Signal Transduction (reactome); Disease (reactome); Signaling by WNT (reactome); TCF dependent signaling in response to WNT (reactome); Negative regulation of TCF-dependent signaling by WNT ligand antagonists (reactome)</p>
+<p><b>InterPro:</b> Dickkopf, N-terminal cysteine-rich; Dickkopf related protein 1-4; Dickkopf-related protein 1, second cysteine-rich domain; Dickkopf-related protein 1, N-terminal domain; Dickkopf-related protein 1/2/4, C-terminal subdomain 2; Dickkopf-related protein 1/2/4, C-terminal subdomain 1</p>
+</div>
+
+<div class="gene-card">
+<h3>TCF7 — transcription factor 7</h3>
+<p><b>Summary:</b> This gene encodes a member of the T-cell factor/lymphoid enhancer-binding factor family of high mobility group (HMG) box transcriptional activators. This gene is expressed predominantly in T-cells and plays a critical role in natural killer cell and innate lymphoid cell development. The encoded protein forms a complex with beta-catenin and activates transcription through a Wnt/beta-catenin signaling pathway. Mice with a knockout of this gene are viable and fertile, but display a block in T-lymphocyte differentiation. Alternative splicing results in multiple transcript variants. Naturally-occurring isoforms lacking the N-terminal beta-catenin interaction domain may act as dominant negative regulators of Wnt signaling. [provided by RefSeq, Oct 2016].</p>
+<p><b>GO:BP:</b> immune system process; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; immune response; Wnt signaling pathway; gamma-delta T cell differentiation</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription repressor activity; protein binding; beta-catenin binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; beta-catenin-TCF complex</p>
+<p><b>Pathways:</b> Wnt signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Adherens junction - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Melanogenesis - Homo sapiens (human) (kegg); Cushing syndrome - Homo sapiens (human) (kegg); Salmonella infection - Homo sapiens (human) (kegg); Human papillomavirus infection - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> High mobility group box domain; CTNNB1 binding, N-teminal; Transcription factor TCF/LEF; Catenin binding domain superfamily; High mobility group box domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>WNT1 — Wnt family member 1</h3>
+<p><b>Summary:</b> The WNT gene family consists of structurally related genes which encode secreted signaling proteins. These proteins have been implicated in oncogenesis and in several developmental processes, including regulation of cell fate and patterning during embryogenesis. This gene is a member of the WNT gene family. It is very conserved in evolution, and the protein encoded by this gene is known to be 98% identical to the mouse Wnt1 protein at the amino acid level. The studies in mouse indicate that the Wnt1 protein functions in the induction of the mesencephalon and cerebellum. This gene was originally considered as a candidate gene for Joubert syndrome, an autosomal recessive disorder with cerebellar hypoplasia as a leading feature. However,  further studies suggested that the gene mutations might not have a significant role in Joubert syndrome. This gene is clustered with another family member, WNT10B, in the chromosome 12q13 region. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> embryonic axis specification; cell-cell signaling; positive regulation of cell population proliferation; response to wounding; positive regulation of lamellipodium assembly; negative regulation of cell-substrate adhesion</p>
+<p><b>GO:MF:</b> signaling receptor binding; frizzled binding; cytokine activity; morphogen activity; protein domain specific binding; receptor ligand activity</p>
+<p><b>GO:CC:</b> extracellular region; cytoplasm; endoplasmic reticulum lumen; Golgi lumen; plasma membrane; cell surface</p>
+<p><b>Pathways:</b> mTOR signaling pathway - Homo sapiens (human) (kegg); Wnt signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Melanogenesis - Homo sapiens (human) (kegg); Cushing syndrome - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Wnt; Wnt-1 protein; Wnt protein, conserved site; Wnt, C-terminal domain</p>
+</div>
+
+<div class="gene-card">
+<h3>NUMB — NUMB endocytic adaptor protein</h3>
+<p><b>Summary:</b> The protein encoded by this gene plays a role in the determination of cell fates during development. The encoded protein, whose degradation is induced in a proteasome-dependent manner by MDM2, is a membrane-bound protein that has been shown to associate with EPS15, LNX1, and NOTCH1. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Feb 2016].</p>
+<p><b>GO:BP:</b> lateral ventricle development; neuroblast division in subventricular zone; regulation of endocytosis; positive regulation of cell migration; positive regulation of neurogenesis; regulation of postsynaptic neurotransmitter receptor internalization</p>
+<p><b>GO:MF:</b> protein binding; beta-catenin binding; alpha-catenin binding; cadherin binding</p>
+<p><b>GO:CC:</b> cytoplasm; early endosome; plasma membrane; clathrin-coated pit; focal adhesion; endosome membrane</p>
+<p><b>Pathways:</b> Notch signaling pathway - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signaling by NOTCH (reactome); Signal Transduction (reactome); Signaling by NOTCH1 (reactome); Activated NOTCH1 Transmits Signal to the Nucleus (reactome); L1CAM interactions (reactome); Axon guidance (reactome)</p>
+<p><b>InterPro:</b> PTB/PI domain; NUMB domain; PH-like domain superfamily; Numb/numb-like</p>
+</div>
+
+<div class="gene-card">
+<h3>ADAM17 — ADAM metallopeptidase domain 17</h3>
+<p><b>Summary:</b> This gene encodes a member of the ADAM (a disintegrin and metalloprotease domain) family. Members of this family are membrane-anchored proteins structurally related to snake venom disintegrins, and have been implicated in a variety of biologic processes involving cell-cell and cell-matrix interactions, including fertilization, muscle development, and neurogenesis. The encoded preproprotein is proteolytically processed to generate the mature protease. The encoded protease functions in the ectodomain shedding of tumor necrosis factor-alpha, in which soluble tumor necrosis factor-alpha is released from the membrane-bound precursor. This protease also functions in the processing of numerous other substrates, including cell adhesion proteins, cytokine and growth factor receptors and epidermal growth factor (EGF) receptor ligands, and plays a prominent role in the activation of the Notch signaling pathway. Elevated expression of this gene has been observed in specific cell types derived from psoriasis, rheumatoid arthritis, multiple sclerosis and Crohn's disease patients, suggesting that the encoded protein may play a role in autoimmune disease. Additionally, this protease may play a role in viral infection through its cleavage of ACE2, the cellular receptor for SARS-CoV and SARS-CoV-2. [provided by RefSeq, Aug 2020].</p>
+<p><b>GO:BP:</b> response to hypoxia; neutrophil mediated immunity; germinal center formation; production of molecular mediator involved in inflammatory response; positive regulation of leukocyte chemotaxis; proteolysis</p>
+<p><b>GO:MF:</b> endopeptidase activity; metalloendopeptidase activity; Notch binding; interleukin-6 receptor binding; integrin binding; protein binding</p>
+<p><b>GO:CC:</b> Golgi membrane; cytoplasm; endoplasmic reticulum lumen; plasma membrane; cell-cell junction; focal adhesion</p>
+<p><b>Pathways:</b> Notch signaling pathway - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Epithelial cell signaling in Helicobacter pylori infection - Homo sapiens (human) (kegg); Coronavirus disease - COVID-19 - Homo sapiens (human) (kegg); Signaling by ERBB4 (reactome); Nuclear signaling by ERBB4 (reactome); Cytokine Signaling in Immune system (reactome); Collagen degradation (reactome)</p>
+<p><b>InterPro:</b> Peptidase M12B, ADAM/reprolysin; Metallopeptidase, catalytic domain superfamily; Disintegrin and Metalloproteinase Domain-Containing; Disintegrin domain; ADAM10/ADAM17 catalytic domain; Disintegrin domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>DVL2 — dishevelled segment polarity protein 2</h3>
+<p><b>Summary:</b> This gene encodes a member of the dishevelled (dsh) protein family. The vertebrate dsh proteins have approximately 40% amino acid sequence similarity with Drosophila dsh. This gene encodes a 90-kD protein that undergoes posttranslational phosphorylation to form a 95-kD cytoplasmic protein, which may play a role in the signal transduction pathway mediated by multiple Wnt proteins. The mechanisms of dishevelled function in Wnt signaling are likely to be conserved among metazoans. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> neural tube closure; heart looping; outflow tract morphogenesis; regulation of DNA-templated transcription; small GTPase-mediated signal transduction; segment specification</p>
+<p><b>GO:MF:</b> frizzled binding; protein binding; protein kinase binding; protein domain specific binding; protein-macromolecule adaptor activity; small GTPase binding</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; cytosol; plasma membrane; lateral plasma membrane; clathrin-coated vesicle</p>
+<p><b>Pathways:</b> mTOR signaling pathway - Homo sapiens (human) (kegg); Wnt signaling pathway - Homo sapiens (human) (kegg); Notch signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Melanogenesis - Homo sapiens (human) (kegg); Cushing syndrome - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> DEP domain; DIX domain; PDZ domain; Dishevelled protein domain; Dishevelled family; Dishevelled-2</p>
+</div>
+
+<div class="gene-card">
+<h3>PPARD — peroxisome proliferator activated receptor delta</h3>
+<p><b>Summary:</b> This gene encodes a member of the peroxisome proliferator-activated receptor (PPAR) family. The encoded protein is thought to function as an integrator of transcriptional repression and nuclear receptor signaling. It may inhibit the ligand-induced transcriptional activity of peroxisome proliferator activated receptors alpha and gamma, though evidence for this effect is inconsistent. Expression of this gene in colorectal cancer cells may be variable but is typically relatively low. Knockout studies in mice suggested a role for this protein in myelination of the corpus callosum, lipid metabolism, differentiation, and epidermal cell proliferation. Alternative splicing results in multiple transcript variants encoding distinct protein isoforms. [provided by RefSeq, Aug 2017].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; glucose metabolic process; proteoglycan metabolic process; generation of precursor metabolites and energy; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; transcription coactivator binding; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA binding; DNA-binding transcription factor activity</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; RNA polymerase II transcription regulator complex</p>
+<p><b>Pathways:</b> PPAR signaling pathway - Homo sapiens (human) (kegg); Wnt signaling pathway - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Acute myeloid leukemia - Homo sapiens (human) (kegg); Metabolism (reactome); Signal Transduction (reactome); Carnitine shuttle (reactome); Generic Transcription Pathway (reactome)</p>
+<p><b>InterPro:</b> Nuclear hormone receptor, ligand-binding domain; Zinc finger, nuclear hormone receptor-type; Nuclear hormone receptor; Peroxisome proliferator-activated receptor; Peroxisome proliferator-activated receptor, beta; Zinc finger, NHR/GATA-type</p>
+</div>
+
+<div class="gene-card">
+<h3>NCSTN — nicastrin</h3>
+<p><b>Summary:</b> This gene encodes a type I transmembrane glycoprotein that is an integral component of the multimeric gamma-secretase complex. The encoded protein cleaves integral membrane proteins, including Notch receptors and beta-amyloid precursor protein, and may be a stabilizing cofactor required for gamma-secretase complex assembly. The cleavage of beta-amyloid precursor protein yields amyloid beta peptide, the main component of the neuritic plaque and the hallmark lesion in the brains of patients with Alzheimer's disease; however, the nature of the encoded protein's role in Alzheimer's disease is not known for certain. Mutations in this gene are associated with familial acne inversa. A pseudogene of this gene is present on chromosome 21. Alternatively spliced transcript variants of this gene have been described, but the full-length nature of some of these variants has not been determined. [provided by RefSeq, Feb 2014].</p>
+<p><b>GO:BP:</b> proteolysis; membrane protein ectodomain proteolysis; Notch receptor processing; protein processing; cerebellum development; membrane protein intracellular domain proteolysis</p>
+<p><b>GO:MF:</b> endopeptidase activity; protein binding; peptidase activity; protein-macromolecule adaptor activity; aspartic endopeptidase activity, intramembrane cleaving; ATPase binding</p>
+<p><b>GO:CC:</b> Golgi membrane; lysosome; lysosomal membrane; early endosome; endoplasmic reticulum; endoplasmic reticulum membrane</p>
+<p><b>Pathways:</b> Notch signaling pathway - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Signaling by ERBB4 (reactome); Nuclear signaling by ERBB4 (reactome); Developmental Biology (reactome); Degradation of the extracellular matrix (reactome); Extracellular matrix organization (reactome); Signaling by NOTCH (reactome)</p>
+<p><b>InterPro:</b> Nicastrin; Nicastrin, small lobe</p>
+</div>
+
+<div class="gene-card">
+<h3>HDAC5 — histone deacetylase 5</h3>
+<p><b>Summary:</b> Histones play a critical role in transcriptional regulation, cell cycle progression, and developmental events. Histone acetylation/deacetylation alters chromosome structure and affects transcription factor access to DNA. The protein encoded by this gene belongs to the class II histone deacetylase/acuc/apha family. It possesses histone deacetylase activity and represses transcription when tethered to a promoter. It coimmunoprecipitates only with HDAC3 family member and might form multicomplex proteins. It also interacts with myocyte enhancer factor-2 (MEF2) proteins, resulting in repression of MEF2-dependent genes. This gene is thought to be associated with colon cancer. Two transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; inflammatory response; response to xenobiotic stimulus; regulation of myotube differentiation; negative regulation of myotube differentiation; response to activity</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription activator activity; transcription corepressor binding; chromatin binding; histone deacetylase activity</p>
+<p><b>GO:CC:</b> histone deacetylase complex; nucleus; nucleoplasm; cytoplasm; cytosol; nuclear speck</p>
+<p><b>Pathways:</b> Apelin signaling pathway - Homo sapiens (human) (kegg); Neutrophil extracellular trap formation - Homo sapiens (human) (kegg); Alcoholism - Homo sapiens (human) (kegg); Viral carcinogenesis - Homo sapiens (human) (kegg); MicroRNAs in cancer - Homo sapiens (human) (kegg); PIP3 activates AKT signaling (reactome); Developmental Biology (reactome); Signaling by NOTCH (reactome)</p>
+<p><b>InterPro:</b> Histone deacetylase HDAC; Ureohydrolase domain superfamily; Histone deacetylase domain; Histone deacetylase, glutamine rich N-terminal domain; Histone deacetylase domain superfamily; Histone deacetylase 4/5/7/9</p>
+</div>
+
+<div class="gene-card">
+<h3>CCND2 — cyclin D2</h3>
+<p><b>Summary:</b> The protein encoded by this gene belongs to the highly conserved cyclin family, whose members are characterized by a dramatic periodicity in protein abundance through the cell cycle. Cyclins function as regulators of CDK kinases. Different cyclins exhibit distinct expression and degradation patterns which contribute to the temporal coordination of each mitotic event. This cyclin forms a complex with CDK4 or CDK6 and functions as a regulatory subunit of the complex, whose activity is required for cell cycle G1/S transition. This protein has been shown to interact with and be involved in the phosphorylation of tumor suppressor protein Rb. Knockout studies of the homologous gene in mouse suggest the essential roles of this gene in ovarian granulosa and germ cell proliferation. High level expression of this gene was observed in ovarian and testicular tumors. Mutations in this gene are associated with megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 3 (MPPH3). [provided by RefSeq, Sep 2014].</p>
+<p><b>GO:BP:</b> G1/S transition of mitotic cell cycle; positive regulation of cell population proliferation; negative regulation of apoptotic process; positive regulation of G1/S transition of mitotic cell cycle; positive regulation of mitotic cell cycle phase transition; regulation of G1/S transition of mitotic cell cycle</p>
+<p><b>GO:MF:</b> protein binding; cyclin-dependent protein serine/threonine kinase regulator activity; protein kinase binding; protein serine/threonine kinase activator activity; cyclin-dependent protein serine/threonine kinase activator activity</p>
+<p><b>GO:CC:</b> cyclin-dependent protein kinase holoenzyme complex; chromatin; nucleus; nucleoplasm; nucleolus; cytoplasm</p>
+<p><b>Pathways:</b> FoxO signaling pathway - Homo sapiens (human) (kegg); Cell cycle - Homo sapiens (human) (kegg); p53 signaling pathway - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); Cellular senescence - Homo sapiens (human) (kegg); Wnt signaling pathway - Homo sapiens (human) (kegg); Hedgehog signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Cyclin, C-terminal domain; Cyclin, N-terminal; Cyclin-like domain; Cyclin-like superfamily; Cyclin; Cyclins, cyclin-box</p>
+</div>
+
+<div class="gene-card">
+<h3>FRAT1 — FRAT regulator of Wnt signaling pathway 1</h3>
+<p><b>Summary:</b> The protein encoded by this gene belongs to the GSK-3-binding protein family. The protein inhibits GSK-3-mediated phosphorylation of beta-catenin and positively regulates the Wnt signaling pathway. It may function in tumor progression and in lymphomagenesis. [provided by RefSeq, Oct 2008].</p>
+<p><b>GO:BP:</b> regulation of protein export from nucleus; canonical Wnt signaling pathway; positive regulation of canonical Wnt signaling pathway</p>
+<p><b>GO:MF:</b> protein binding; molecular function inhibitor activity</p>
+<p><b>GO:CC:</b> nucleus; cytoplasm; cytosol</p>
+<p><b>Pathways:</b> Wnt signaling pathway - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Breast cancer - Homo sapiens (human) (kegg); Hepatocellular carcinoma - Homo sapiens (human) (kegg); Gastric cancer - Homo sapiens (human) (kegg); Signal Transduction (reactome)</p>
+<p><b>InterPro:</b> Glycogen synthase kinase-3 binding protein</p>
+</div>
+
+<div class="gene-card">
+<h3>CSNK1E — casein kinase 1 epsilon</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a serine/threonine protein kinase and a member of the casein kinase I protein family, whose members have been implicated in the control of cytoplasmic and nuclear processes, including DNA replication and repair. The encoded protein is found in the cytoplasm as a monomer and can phosphorylate a variety of proteins, including itself. This protein has been shown to phosphorylate period, a circadian rhythm protein. Two transcript variants encoding the same protein have been found for this gene. [provided by RefSeq, Feb 2014].</p>
+<p><b>GO:BP:</b> DNA repair; protein phosphorylation; signal transduction; positive regulation of Wnt signaling pathway; positive regulation of proteasomal ubiquitin-dependent protein catabolic process; regulation of protein localization</p>
+<p><b>GO:MF:</b> RNA binding; protein kinase activity; protein serine/threonine kinase activity; protein binding; ATP binding; protein serine kinase activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; cytoplasm; cytosol; growth cone; neuronal cell body</p>
+<p><b>Pathways:</b> FoxO signaling pathway - Homo sapiens (human) (kegg); Wnt signaling pathway - Homo sapiens (human) (kegg); Hedgehog signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - multiple species - Homo sapiens (human) (kegg); Circadian rhythm - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Protein kinase domain; Serine/threonine-protein kinase, active site; Protein kinase-like domain superfamily; Protein kinase, ATP binding site; Casein Kinase 1 Ser/Thr Protein Kinase</p>
+</div>
+
+<div class="gene-card">
+<h3>RBPJ — recombination signal binding protein for immunoglobulin kappa J region</h3>
+<p><b>Summary:</b> The protein encoded by this gene is a transcriptional regulator important in the Notch signaling pathway. The encoded protein acts as a repressor when not bound to Notch proteins and an activator when bound to Notch proteins. It is thought to function by recruiting chromatin remodeling complexes containing histone deacetylase or histone acetylase proteins to Notch signaling pathway genes. Several transcript variants encoding different isoforms have been found for this gene, and several pseudogenes of this gene exist on chromosome 9. [provided by RefSeq, Oct 2013].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; angiogenesis; epithelial to mesenchymal transition; blood vessel remodeling; outflow tract morphogenesis; endocardium development</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; DNA-binding transcription activator activity, RNA polymerase II-specific; DNA binding; chromatin binding; DNA-binding transcription factor activity</p>
+<p><b>GO:CC:</b> chromatin; MAML1-RBP-Jkappa- ICN1 complex; nucleus; nucleoplasm; transcription regulator complex; nucleolus</p>
+<p><b>Pathways:</b> Notch signaling pathway - Homo sapiens (human) (kegg); Th1 and Th2 cell differentiation - Homo sapiens (human) (kegg); Spinocerebellar ataxia - Homo sapiens (human) (kegg); Human papillomavirus infection - Homo sapiens (human) (kegg); Epstein-Barr virus infection - Homo sapiens (human) (kegg); Viral carcinogenesis - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signaling by NOTCH (reactome)</p>
+<p><b>InterPro:</b> p53-like transcription factor, DNA-binding domain superfamily; Immunoglobulin-like fold; Immunoglobulin E-set; Beta-trefoil DNA-binding domain; RBP-J/Cbf11/Cbf12, DNA binding; Beta-trefoil domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>FZD8 — frizzled class receptor 8</h3>
+<p><b>Summary:</b> This intronless gene is a member of the frizzled gene family. Members of this family encode seven-transmembrane domain proteins that are receptors for the Wingless type MMTV integration site family of signaling proteins. Most frizzled receptors are coupled to the beta-catenin canonical signaling pathway. This gene is highly expressed in two human cancer cell lines, indicating that it may play a role in several types of cancer. The crystal structure of the extracellular cysteine-rich domain of a similar mouse protein has been determined. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> cell surface receptor signaling pathway; neuron differentiation; non-canonical Wnt signaling pathway; canonical Wnt signaling pathway</p>
+<p><b>GO:MF:</b> transmembrane signaling receptor activity; signaling receptor binding; protein binding; Wnt-protein binding; PDZ domain binding; ubiquitin protein ligase binding</p>
+<p><b>GO:CC:</b> Golgi apparatus; plasma membrane; membrane; neuronal dense core vesicle; Wnt-Frizzled-LRP5/6 complex</p>
+<p><b>Pathways:</b> mTOR signaling pathway - Homo sapiens (human) (kegg); Wnt signaling pathway - Homo sapiens (human) (kegg); Hippo signaling pathway - Homo sapiens (human) (kegg); Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (kegg); Melanogenesis - Homo sapiens (human) (kegg); Cushing syndrome - Homo sapiens (human) (kegg); Alzheimer disease - Homo sapiens (human) (kegg); Pathways of neurodegeneration - multiple diseases - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> Frizzled/Smoothened, 7TM; Frizzled/secreted frizzled-related protein; GPCR, family 2-like, 7TM; Frizzled domain; Frizzled cysteine-rich domain superfamily; Frizzled 8, cysteine-rich domain</p>
+</div>
+
+<div class="gene-card">
+<h3>TP53 — tumor protein p53</h3>
+<p><b>Summary:</b> This gene encodes a tumor suppressor protein containing transcriptional activation, DNA binding, and oligomerization domains. The encoded protein responds to diverse cellular stresses to regulate expression of target genes, thereby inducing cell cycle arrest, apoptosis, senescence, DNA repair, or changes in metabolism. Mutations in this gene are associated with a variety of human cancers, including hereditary cancers such as Li-Fraumeni syndrome. Alternative splicing of this gene and the use of alternate promoters result in multiple transcript variants and isoforms. Additional isoforms have also been shown to result from the use of alternate translation initiation codons from identical transcript variants (PMIDs: 12032546, 20937277). [provided by RefSeq, Dec 2016].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; hematopoietic progenitor cell differentiation; nucleotide-excision repair; regulation of DNA-templated transcription; regulation of transcription by RNA polymerase II; autophagy</p>
+<p><b>GO:MF:</b> transcription cis-regulatory region binding; RNA polymerase II transcription regulatory region sequence-specific DNA binding; RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; cis-regulatory region sequence-specific DNA binding; core promoter sequence-specific DNA binding</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; replication fork; transcription regulator complex; nucleolus</p>
+<p><b>Pathways:</b> MAPK signaling pathway - Homo sapiens (human) (kegg); Sphingolipid signaling pathway - Homo sapiens (human) (kegg); Cell cycle - Homo sapiens (human) (kegg); p53 signaling pathway - Homo sapiens (human) (kegg); Mitophagy - animal - Homo sapiens (human) (kegg); PI3K-Akt signaling pathway - Homo sapiens (human) (kegg); Apoptosis - Homo sapiens (human) (kegg); Longevity regulating pathway - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> p53 tumour suppressor family; p53-like transcription factor, DNA-binding domain superfamily; p53, tetramerisation domain; p53, DNA-binding domain; p53/RUNT-type transcription factor, DNA-binding domain superfamily; p53, transactivation domain</p>
+</div>
+
+<div class="gene-card">
+<h3>SKP2 — S-phase kinase associated protein 2</h3>
+<p><b>Summary:</b> This gene encodes a member of the F-box protein family which is characterized by an approximately 40 amino acid motif, the F-box. The F-box proteins constitute one of the four subunits of ubiquitin protein ligase complex called SCFs (SKP1-cullin-F-box), which function in phosphorylation-dependent ubiquitination. The F-box proteins are divided into 3 classes: Fbws containing WD-40 domains, Fbls containing leucine-rich repeats, and Fbxs containing either different protein-protein interaction modules or no recognizable motifs. The protein encoded by this gene belongs to the Fbls class; in addition to an F-box, this protein contains 10 tandem leucine-rich repeats. This protein is an essential element of the cyclin A-CDK2 S-phase kinase. It specifically recognizes phosphorylated cyclin-dependent kinase inhibitor 1B (CDKN1B, also referred to as p27 or KIP1) predominantly in S phase and interacts with S-phase kinase-associated protein 1 (SKP1 or p19). In addition, this gene is established as a protooncogene causally involved in the pathogenesis of lymphomas. Alternative splicing of this gene generates three transcript variants encoding different isoforms. [provided by RefSeq, Jul 2011].</p>
+<p><b>GO:BP:</b> G1/S transition of mitotic cell cycle; ubiquitin-dependent protein catabolic process; protein ubiquitination; SCF-dependent proteasomal ubiquitin-dependent protein catabolic process; regulation of apoptotic process; proteasome-mediated ubiquitin-dependent protein catabolic process</p>
+<p><b>GO:MF:</b> protein binding; identical protein binding; ubiquitin-like ligase-substrate adaptor activity</p>
+<p><b>GO:CC:</b> nucleus; nucleoplasm; nucleolus; cytoplasm; cytosol; SCF ubiquitin ligase complex</p>
+<p><b>Pathways:</b> FoxO signaling pathway - Homo sapiens (human) (kegg); Cell cycle - Homo sapiens (human) (kegg); Ubiquitin mediated proteolysis - Homo sapiens (human) (kegg); mTOR signaling pathway - Homo sapiens (human) (kegg); Epstein-Barr virus infection - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Viral carcinogenesis - Homo sapiens (human) (kegg); Small cell lung cancer - Homo sapiens (human) (kegg)</p>
+<p><b>InterPro:</b> F-box domain; Leucine-rich repeat, cysteine-containing subtype; Leucine-rich repeat domain superfamily; F-box-like domain superfamily</p>
+</div>
+
+<div class="gene-card">
+<h3>HEY2 — hes related family bHLH transcription factor with YRPW motif 2</h3>
+<p><b>Summary:</b> This gene encodes a member of the hairy and enhancer of split-related (HESR) family of basic helix-loop-helix (bHLH)-type transcription factors. The encoded protein forms homo- or hetero-dimers that localize to the nucleus and interact with a histone deacetylase complex to repress transcription. Expression of this gene is induced by the Notch signal transduction pathway. Two similar and redundant genes in mouse are required for embryonic cardiovascular development, and are also implicated in neurogenesis and somitogenesis. Alternatively spliced transcript variants have been found, but their biological validity has not been determined. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; vasculogenesis; muscular septum morphogenesis; outflow tract morphogenesis; cardiac conduction system development; aortic valve morphogenesis</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; cis-regulatory region sequence-specific DNA binding; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA binding; DNA-binding transcription factor activity</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; cytoplasm; transcription repressor complex</p>
+<p><b>Pathways:</b> Notch signaling pathway - Homo sapiens (human) (kegg); Human papillomavirus infection - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Breast cancer - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signaling by NOTCH (reactome); Signal Transduction (reactome); Disease (reactome)</p>
+<p><b>InterPro:</b> Orange domain; Myc-type, basic helix-loop-helix (bHLH) domain; Helix-loop-helix DNA-binding domain superfamily; Hairy and Enhancer of Split/HEY-related</p>
+</div>
+
+<div class="gene-card">
+<h3>HEY1 — hes related family bHLH transcription factor with YRPW motif 1</h3>
+<p><b>Summary:</b> This gene encodes a nuclear protein belonging to the hairy and enhancer of split-related (HESR) family of basic helix-loop-helix (bHLH)-type transcriptional repressors. Expression of this gene is induced by the Notch and c-Jun signal transduction pathways. Two similar and redundant genes in mouse are required for embryonic cardiovascular development, and are also implicated in neurogenesis and somitogenesis. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jul 2008].</p>
+<p><b>GO:BP:</b> negative regulation of transcription by RNA polymerase II; angiogenesis; cardiac conduction system development; aortic valve morphogenesis; pulmonary valve morphogenesis; atrioventricular valve formation</p>
+<p><b>GO:MF:</b> RNA polymerase II cis-regulatory region sequence-specific DNA binding; DNA-binding transcription factor activity, RNA polymerase II-specific; cis-regulatory region sequence-specific DNA binding; DNA-binding transcription repressor activity, RNA polymerase II-specific; DNA binding; DNA-binding transcription factor activity</p>
+<p><b>GO:CC:</b> chromatin; nucleus; nucleoplasm; cytoplasm</p>
+<p><b>Pathways:</b> Notch signaling pathway - Homo sapiens (human) (kegg); Human papillomavirus infection - Homo sapiens (human) (kegg); Pathways in cancer - Homo sapiens (human) (kegg); Breast cancer - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signaling by NOTCH (reactome); Signal Transduction (reactome); Disease (reactome)</p>
+<p><b>InterPro:</b> Orange domain; Myc-type, basic helix-loop-helix (bHLH) domain; Helix-loop-helix DNA-binding domain superfamily; Hairy and Enhancer of Split/HEY-related</p>
+</div>
+
+<div class="gene-card">
+<h3>HDAC11 — histone deacetylase 11</h3>
+<p><b>Summary:</b> This gene encodes a class IV histone deacetylase. The encoded protein is localized to the nucleus and may be involved in regulating the expression of interleukin 10. Alternative splicing results in multiple transcript variants.[provided by RefSeq, Apr 2009].</p>
+<p><b>GO:BP:</b> chromatin organization; epigenetic regulation of gene expression</p>
+<p><b>GO:MF:</b> histone deacetylase activity; protein binding; DNA-binding transcription factor binding; histone deacetylase activity, hydrolytic mechanism</p>
+<p><b>GO:CC:</b> histone deacetylase complex; nucleus; nucleoplasm; plasma membrane</p>
+<p><b>Pathways:</b> Neutrophil extracellular trap formation - Homo sapiens (human) (kegg); Alcoholism - Homo sapiens (human) (kegg); Viral carcinogenesis - Homo sapiens (human) (kegg); Developmental Biology (reactome); Signaling by NOTCH (reactome); Signal Transduction (reactome); Disease (reactome); Signaling by NOTCH1 (reactome)</p>
+<p><b>InterPro:</b> Histone deacetylase HDAC; Ureohydrolase domain superfamily; Histone deacetylase domain; Histone deacetylase domain superfamily; Histone deacetylase 11</p>
+</div>
+
+
+<h2>Provenance</h2>
+<ul>
+<li>PANTHER: pantherdb.org, REST (geneinfo + enrich/overrep)</li>
+<li>Enrichr: maayanlab.cloud/Enrichr, GO_Biological_Process_2025</li>
+<li>g:Profiler: biit.cs.ut.ee/gprofiler, GO/KEGG/REAC</li>
+<li>MyGene.info: mygene.info/v3/query</li>
+</ul>
+</body></html>

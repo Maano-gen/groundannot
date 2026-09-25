@@ -1,0 +1,36 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Manuscript and archive folders (added later, at preprint time)
+manuscript/
+archive/
+
+# Root-level scratch run outputs only (kept in runs/)
+/llm_baseline_*.json
+/llm_baseline_*.log

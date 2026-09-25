@@ -1,0 +1,33 @@
+[2026-09-24T13:33:04] data_dir = /home/maano.malima/Method_API
+[2026-09-24T13:33:04] provider = groq
+[2026-09-24T13:33:04] model    = qwen/qwen3.8-27b
+[2026-09-24T13:33:04] tag      = groq-qwen3.8-27b-run075
+[2026-09-24T13:33:06] client ready
+[2026-09-24T13:33:06] querying alzheimers_disease (15 genes) | allowed=13824 enriched=794
+[2026-09-24T13:33:12]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 9 | valid_enriched 1
+[2026-09-24T13:33:12] querying hereditary_cancer (28 genes) | allowed=13806 enriched=557
+[2026-09-24T13:33:21]   LLM 10 IDs | unsupported 0 | allowed_not_enriched 6 | valid_enriched 4
+[2026-09-24T13:33:21] querying hypertrophic_cardiomyopathy (20 genes) | allowed=13809 enriched=230
+[2026-09-24T13:33:31]   LLM 10 IDs | unsupported 3 | allowed_not_enriched 5 | valid_enriched 2
+[2026-09-24T13:33:31]     OBSOLETE         GO:0006928  obsolete movement of cell or subcellular component
+[2026-09-24T13:33:31]     WRONG_BIOLOGY    GO:0007516  hemocyte development
+[2026-09-24T13:33:31]     WRONG_BRANCH     GO:0030027  lamellipodium
+[2026-09-24T13:33:31] querying parkinsons_disease (16 genes) | allowed=13807 enriched=684
+[2026-09-24T13:33:39]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 7 | valid_enriched 2
+[2026-09-24T13:33:39]     OBSOLETE         GO:0007180  obsolete transforming growth factor beta ligand binding to type II receptor
+[2026-09-24T13:33:39] querying primary_immunodeficiency (24 genes) | allowed=13793 enriched=354
+[2026-09-24T13:33:48]   LLM 10 IDs | unsupported 1 | allowed_not_enriched 8 | valid_enriched 1
+[2026-09-24T13:33:48]     WRONG_BIOLOGY    GO:0002549  negative regulation of plasma kallikrein-kinin cascade
+[2026-09-24T13:33:48] querying type2_diabetes (18 genes) | allowed=13776 enriched=303
+[2026-09-24T13:33:57]   LLM 10 IDs | unsupported 2 | allowed_not_enriched 8 | valid_enriched 0
+[2026-09-24T13:33:57]     OBSOLETE         GO:0007180  obsolete transforming growth factor beta ligand binding to type II receptor
+[2026-09-24T13:33:57]     WRONG_BIOLOGY    GO:0007184  regulation of SMAD protein signal transduction
+[2026-09-24T13:33:57] ==================================================
+[2026-09-24T13:33:57] provider=groq model=qwen/qwen3.8-27b
+[2026-09-24T13:33:57] TOTAL: 60 LLM IDs across 6 disease lists
+[2026-09-24T13:33:57]   Contract A unsupported (not in allowed):     7
+[2026-09-24T13:33:57]   Contract B allowed but not enriched:         43
+[2026-09-24T13:33:57]   Contract A+B violated (not in enriched):     50
+[2026-09-24T13:33:57]   Valid enriched hits:                         10
+[2026-09-24T13:33:57]   QuickGO breakdown: {'OBSOLETE': 3, 'WRONG_BIOLOGY': 3, 'WRONG_BRANCH': 1}
+[2026-09-24T13:33:57] wrote llm_baseline_groq-qwen3.8-27b-run075.json

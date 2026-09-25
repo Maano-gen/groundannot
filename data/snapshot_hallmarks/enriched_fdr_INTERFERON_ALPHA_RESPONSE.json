@@ -1,0 +1,4552 @@
+{
+  "PANTHER": [
+    {
+      "id": "GO:0006952",
+      "label": "defense response",
+      "fdr": 1.3924040360147394e-45,
+      "p_value": 1.0118480023361234e-49,
+      "fold": 10.751602117581498,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009607",
+      "label": "response to biotic stimulus",
+      "fdr": 3.692995054871384e-43,
+      "p_value": 5.367335302480029e-47,
+      "fold": 10.44615196121331,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043207",
+      "label": "response to external biotic stimulus",
+      "fdr": 7.366271001368577e-43,
+      "p_value": 2.1412022386072458e-46,
+      "fold": 10.608247422680412,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051707",
+      "label": "response to other organism",
+      "fdr": 8.470901823588062e-43,
+      "p_value": 1.8467193860013215e-46,
+      "fold": 10.636237521420993,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051607",
+      "label": "defense response to virus",
+      "fdr": 2.045571486589162e-41,
+      "p_value": 7.432495772796897e-45,
+      "fold": 34.063179797597655,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044419",
+      "label": "biological process involved in interspecies interaction between organisms",
+      "fdr": 3.796181658283474e-40,
+      "p_value": 1.655191479521898e-43,
+      "fold": 9.41853743135177,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009615",
+      "label": "response to virus",
+      "fdr": 9.019779592594494e-40,
+      "p_value": 4.588217218818505e-43,
+      "fold": 24.357305260535085,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002376",
+      "label": "immune system process",
+      "fdr": 3.412700189583448e-39,
+      "p_value": 1.9839838323281437e-42,
+      "fold": 7.061131929813274,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045087",
+      "label": "innate immune response",
+      "fdr": 7.865593528548108e-38,
+      "p_value": 5.144273072954943e-41,
+      "fold": 15.89388986673372,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009605",
+      "label": "response to external stimulus",
+      "fdr": 9.692174052739984e-38,
+      "p_value": 7.043219281113279e-41,
+      "fold": 7.862896959021914,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0098542",
+      "label": "defense response to other organism",
+      "fdr": 2.616130647582098e-37,
+      "p_value": 2.091231532839407e-40,
+      "fold": 13.836844464365756,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006955",
+      "label": "immune response",
+      "fdr": 3.0905712449938784e-36,
+      "p_value": 2.695069758006434e-39,
+      "fold": 8.498960061870687,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0140546",
+      "label": "defense response to symbiont",
+      "fdr": 3.7044623598202195e-36,
+      "p_value": 3.499601095680754e-39,
+      "fold": 13.6680201053569,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034097",
+      "label": "response to cytokine",
+      "fdr": 3.199254003956372e-30,
+      "p_value": 3.25481840385068e-33,
+      "fold": 12.089170852057451,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901652",
+      "label": "response to peptide",
+      "fdr": 6.1258586429432864e-30,
+      "p_value": 6.67741295284858e-33,
+      "fold": 11.869367745656405,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006950",
+      "label": "response to stress",
+      "fdr": 1.4244559030648405e-28,
+      "p_value": 1.6562237082361347e-31,
+      "fold": 4.54389510691418,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045088",
+      "label": "regulation of innate immune response",
+      "fdr": 1.9635762184625038e-21,
+      "p_value": 2.425753630830795e-24,
+      "fold": 12.738682205289107,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002831",
+      "label": "regulation of response to biotic stimulus",
+      "fdr": 1.2523197608444567e-20,
+      "p_value": 1.638089942242586e-23,
+      "fold": 11.147020058858576,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002682",
+      "label": "regulation of immune system process",
+      "fdr": 1.4778559045330673e-19,
+      "p_value": 2.0404957623812427e-22,
+      "fold": 5.835578150001012,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0140374",
+      "label": "antiviral innate immune response",
+      "fdr": 3.0207988189581628e-18,
+      "p_value": 4.609895734185119e-21,
+      "fold": 36.50149650814765,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031347",
+      "label": "regulation of defense response",
+      "fdr": 3.1386926131863165e-18,
+      "p_value": 4.5617216963684565e-21,
+      "fold": 8.199611534438967,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032101",
+      "label": "regulation of response to external stimulus",
+      "fdr": 3.2841660833445624e-18,
+      "p_value": 5.25046536106245e-21,
+      "fold": 7.052016330366845,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050776",
+      "label": "regulation of immune response",
+      "fdr": 3.3987746035544452e-18,
+      "p_value": 5.680678430473966e-21,
+      "fold": 7.368343460084454,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071345",
+      "label": "cellular response to cytokine stimulus",
+      "fdr": 1.4436308904933788e-17,
+      "p_value": 2.5177778774682868e-20,
+      "fold": 9.72277996186748,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045071",
+      "label": "negative regulation of viral genome replication",
+      "fdr": 3.091582508756584e-17,
+      "p_value": 5.616565854146835e-20,
+      "fold": 56.28865979381443,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903900",
+      "label": "regulation of viral life cycle",
+      "fdr": 4.1983603371925566e-17,
+      "p_value": 7.932371831044726e-20,
+      "fold": 30.860356138706656,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034341",
+      "label": "response to type II interferon",
+      "fdr": 2.34430360747794e-16,
+      "p_value": 4.599680066993997e-19,
+      "fold": 32.80901264746519,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032103",
+      "label": "positive regulation of response to external stimulus",
+      "fdr": 2.8200568660805584e-16,
+      "p_value": 5.738070797925706e-19,
+      "fold": 9.815460248743442,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045069",
+      "label": "regulation of viral genome replication",
+      "fdr": 3.820961709870441e-16,
+      "p_value": 8.052313755267988e-19,
+      "fold": 38.08088818398097,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050792",
+      "label": "regulation of viral process",
+      "fdr": 6.671531678832271e-16,
+      "p_value": 1.454443357059575e-18,
+      "fold": 25.913276147005586,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002684",
+      "label": "positive regulation of immune system process",
+      "fdr": 1.4531260553733777e-15,
+      "p_value": 3.2735199270819494e-18,
+      "fold": 6.887029740378907,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048525",
+      "label": "negative regulation of viral process",
+      "fdr": 2.1791886746087886e-15,
+      "p_value": 5.067512360110547e-18,
+      "fold": 41.16633328204339,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031349",
+      "label": "positive regulation of defense response",
+      "fdr": 3.408161900534566e-15,
+      "p_value": 8.17305012118601e-18,
+      "fold": 10.916764685532415,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045089",
+      "label": "positive regulation of innate immune response",
+      "fdr": 6.6874946286136946e-15,
+      "p_value": 1.65231318489111e-17,
+      "fold": 13.776944704779757,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050896",
+      "label": "response to stimulus",
+      "fdr": 1.178063186656931e-14,
+      "p_value": 2.996309245911822e-17,
+      "fold": 2.1620455996881507,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002833",
+      "label": "positive regulation of response to biotic stimulus",
+      "fdr": 3.431870749325714e-14,
+      "p_value": 8.978079134926655e-17,
+      "fold": 12.628865979381443,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050778",
+      "label": "positive regulation of immune response",
+      "fdr": 6.743243239768293e-14,
+      "p_value": 1.8130949776282745e-16,
+      "fold": 8.249025989642623,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034340",
+      "label": "response to type I interferon",
+      "fdr": 1.0890118591860744e-13,
+      "p_value": 3.0072269928835713e-16,
+      "fold": 30.646048109965637,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0080134",
+      "label": "regulation of response to stress",
+      "fdr": 6.390951411465541e-13,
+      "p_value": 1.811257212754568e-15,
+      "fold": 5.062504193036205,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042221",
+      "label": "response to chemical",
+      "fdr": 1.2053506761206614e-11,
+      "p_value": 3.59126355068288e-14,
+      "fold": 3.029124784584532,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035455",
+      "label": "response to interferon-alpha",
+      "fdr": 1.2074175390134475e-11,
+      "p_value": 3.509679642506933e-14,
+      "fold": 80.82474226804123,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071357",
+      "label": "cellular response to type I interferon",
+      "fdr": 4.957151709097823e-11,
+      "p_value": 1.5129741427375086e-13,
+      "fold": 28.4611516218255,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046597",
+      "label": "host-mediated suppression of symbiont invasion",
+      "fdr": 5.878543387096034e-11,
+      "p_value": 1.8369113120058822e-13,
+      "fold": 67.89278350515464,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019221",
+      "label": "cytokine-mediated signaling pathway",
+      "fdr": 9.4098587126927e-11,
+      "p_value": 3.0087477898298e-13,
+      "fold": 9.767184327787591,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001817",
+      "label": "regulation of cytokine production",
+      "fdr": 2.2795191837078354e-10,
+      "p_value": 7.454281176284615e-13,
+      "fold": 6.395535798732621,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001819",
+      "label": "positive regulation of cytokine production",
+      "fdr": 3.696199830283243e-10,
+      "p_value": 1.2355584055884687e-12,
+      "fold": 8.243627854025679,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035456",
+      "label": "response to interferon-beta",
+      "fdr": 1.1261117467292597e-09,
+      "p_value": 3.846177755706359e-12,
+      "fold": 48.49484536082475,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0140888",
+      "label": "interferon-mediated signaling pathway",
+      "fdr": 3.1912941662263266e-09,
+      "p_value": 1.1131612526623333e-11,
+      "fold": 31.303025181679907,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002218",
+      "label": "activation of innate immune response",
+      "fdr": 6.474266201789832e-09,
+      "p_value": 2.3053487674420594e-11,
+      "fold": 15.154639175257731,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048584",
+      "label": "positive regulation of response to stimulus",
+      "fdr": 7.1236148232462355e-09,
+      "p_value": 2.5883347224933636e-11,
+      "fold": 3.392313017759839,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060759",
+      "label": "regulation of response to cytokine stimulus",
+      "fdr": 9.39429543210077e-09,
+      "p_value": 3.4816442630414886e-11,
+      "fold": 14.63206541059367,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060337",
+      "label": "type I interferon-mediated signaling pathway",
+      "fdr": 1.0816126401851468e-08,
+      "p_value": 4.087192594261146e-11,
+      "fold": 36.898251904975346,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0062207",
+      "label": "regulation of pattern recognition receptor signaling pathway",
+      "fdr": 6.094503007785508e-08,
+      "p_value": 2.3472760657846953e-10,
+      "fold": 12.41941161679658,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001959",
+      "label": "regulation of cytokine-mediated signaling pathway",
+      "fdr": 7.720711686828021e-08,
+      "p_value": 3.0297102760607016e-10,
+      "fold": 14.31787995699197,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002221",
+      "label": "pattern recognition receptor signaling pathway",
+      "fdr": 8.82900273573955e-08,
+      "p_value": 3.5287780718383495e-10,
+      "fold": 17.110076488194213,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045824",
+      "label": "negative regulation of innate immune response",
+      "fdr": 9.960697619220785e-08,
+      "p_value": 4.053477702756805e-10,
+      "fold": 21.216494845360824,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010557",
+      "label": "positive regulation of macromolecule biosynthetic process",
+      "fdr": 1.2927969979438678e-07,
+      "p_value": 5.354947233689445e-10,
+      "fold": 3.0408571645685045,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010604",
+      "label": "positive regulation of macromolecule metabolic process",
+      "fdr": 1.6683743468698344e-07,
+      "p_value": 7.031880831222324e-10,
+      "fold": 2.7453327769378637,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010628",
+      "label": "positive regulation of gene expression",
+      "fdr": 2.1792124210461208e-07,
+      "p_value": 9.501689213194335e-10,
+      "fold": 4.47277159893033,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002753",
+      "label": "cytoplasmic pattern recognition receptor signaling pathway",
+      "fdr": 2.1977004440309688e-07,
+      "p_value": 9.422594738596553e-10,
+      "fold": 25.33312817356516,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002758",
+      "label": "innate immune response-activating signaling pathway",
+      "fdr": 3.023038422774679e-07,
+      "p_value": 1.3400577268313017e-09,
+      "fold": 14.941193553071002,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009891",
+      "label": "positive regulation of biosynthetic process",
+      "fdr": 4.2486044485857364e-07,
+      "p_value": 1.9142030071384032e-09,
+      "fold": 2.9006926546391756,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051851",
+      "label": "host-mediated perturbation of symbiont process",
+      "fdr": 4.5744957658706483e-07,
+      "p_value": 2.09427536697806e-09,
+      "fold": 17.680412371134018,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048522",
+      "label": "positive regulation of cellular process",
+      "fdr": 4.6540589384008104e-07,
+      "p_value": 2.1983419155297774e-09,
+      "fold": 2.079293505715943,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002253",
+      "label": "activation of immune response",
+      "fdr": 4.657710464777976e-07,
+      "p_value": 2.166219531616819e-09,
+      "fold": 8.006224469947481,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009893",
+      "label": "positive regulation of metabolic process",
+      "fdr": 4.985873644375662e-07,
+      "p_value": 2.3913063042569123e-09,
+      "fold": 2.581082097975769,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048518",
+      "label": "positive regulation of biological process",
+      "fdr": 5.008417065294249e-07,
+      "p_value": 2.4385142313401258e-09,
+      "fold": 2.0192449207005545,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035821",
+      "label": "modulation of process of another organism",
+      "fdr": 5.412123869532269e-07,
+      "p_value": 2.674401737723961e-09,
+      "fold": 17.202563388130397,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002832",
+      "label": "negative regulation of response to biotic stimulus",
+      "fdr": 1.6403467259427413e-06,
+      "p_value": 8.224978133133431e-09,
+      "fold": 15.154639175257731,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0062208",
+      "label": "positive regulation of pattern recognition receptor signaling pathway",
+      "fdr": 2.616699731349871e-06,
+      "p_value": 1.331073186501642e-08,
+      "fold": 18.250748254073827,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032479",
+      "label": "regulation of type I interferon production",
+      "fdr": 2.922549995262324e-06,
+      "p_value": 1.507892229224802e-08,
+      "fold": 14.144329896907216,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060760",
+      "label": "positive regulation of response to cytokine stimulus",
+      "fdr": 3.955518394267417e-06,
+      "p_value": 2.0695975901987794e-08,
+      "fold": 23.2055412371134,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0039531",
+      "label": "regulation of cytoplasmic pattern recognition receptor signaling pathway",
+      "fdr": 7.119334014726852e-06,
+      "p_value": 3.7766977914036786e-08,
+      "fold": 12.729896907216496,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032728",
+      "label": "positive regulation of interferon-beta production",
+      "fdr": 7.974272870287137e-06,
+      "p_value": 4.288178129505473e-08,
+      "fold": 30.309278350515463,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002683",
+      "label": "negative regulation of immune system process",
+      "fdr": 1.2535007347388842e-05,
+      "p_value": 6.83181128591064e-08,
+      "fold": 6.086699340882204,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032481",
+      "label": "positive regulation of type I interferon production",
+      "fdr": 1.8023617222752346e-05,
+      "p_value": 9.954181447054563e-08,
+      "fold": 18.564432989690722,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009967",
+      "label": "positive regulation of signal transduction",
+      "fdr": 2.0385749712888903e-05,
+      "p_value": 1.140689432375878e-07,
+      "fold": 3.334616085714864,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048583",
+      "label": "regulation of response to stimulus",
+      "fdr": 2.193536644031415e-05,
+      "p_value": 1.2433388433576803e-07,
+      "fold": 2.239640290061261,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902533",
+      "label": "positive regulation of intracellular signal transduction",
+      "fdr": 2.7579394791676765e-05,
+      "p_value": 1.5832949557026846e-07,
+      "fold": 3.8645710100839388,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007166",
+      "label": "cell surface receptor signaling pathway",
+      "fdr": 2.831933257503878e-05,
+      "p_value": 1.646353176370251e-07,
+      "fold": 3.057809678377946,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009966",
+      "label": "regulation of signal transduction",
+      "fdr": 4.128678156648504e-05,
+      "p_value": 2.430222590571389e-07,
+      "fold": 2.452773970561945,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010468",
+      "label": "regulation of gene expression",
+      "fdr": 4.553587081120053e-05,
+      "p_value": 2.713423011785803e-07,
+      "fold": 2.0461685984595737,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032648",
+      "label": "regulation of interferon-beta production",
+      "fdr": 4.5908750688071846e-05,
+      "p_value": 2.802365422424268e-07,
+      "fold": 22.33315246880087,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001961",
+      "label": "positive regulation of cytokine-mediated signaling pathway",
+      "fdr": 4.6461868166241385e-05,
+      "p_value": 2.802365422424268e-07,
+      "fold": 22.33315246880087,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002757",
+      "label": "immune response-activating signaling pathway",
+      "fdr": 4.831233973799313e-05,
+      "p_value": 2.984193647067376e-07,
+      "fold": 7.362190640346028,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050777",
+      "label": "negative regulation of immune response",
+      "fdr": 5.1689244822220486e-05,
+      "p_value": 3.267905166436438e-07,
+      "fold": 9.893702259494685,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048519",
+      "label": "negative regulation of biological process",
+      "fdr": 5.1957026180970875e-05,
+      "p_value": 3.2470781567934707e-07,
+      "fold": 1.9773453454926804,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006954",
+      "label": "inflammatory response",
+      "fdr": 7.861201263377192e-05,
+      "p_value": 5.027147090888692e-07,
+      "fold": 6.22488846318655,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010556",
+      "label": "regulation of macromolecule biosynthetic process",
+      "fdr": 0.00010537645768931065,
+      "p_value": 6.815278493095449e-07,
+      "fold": 1.9965333919724744,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010647",
+      "label": "positive regulation of cell communication",
+      "fdr": 0.00012301919868341183,
+      "p_value": 8.045729148686188e-07,
+      "fold": 2.997032821004472,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0023056",
+      "label": "positive regulation of signaling",
+      "fdr": 0.00012558131028183036,
+      "p_value": 8.304555799467017e-07,
+      "fold": 2.9917501544574607,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050789",
+      "label": "regulation of biological process",
+      "fdr": 0.00012814496390829247,
+      "p_value": 8.567209272264302e-07,
+      "fold": 1.4309438806209636,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044790",
+      "label": "suppression of viral release by host",
+      "fdr": 0.0001557922003946196,
+      "p_value": 1.0528794881694371e-06,
+      "fold": 49.92116434202548,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902105",
+      "label": "regulation of leukocyte differentiation",
+      "fdr": 0.00016022264115758743,
+      "p_value": 1.0944646659990712e-06,
+      "fold": 7.341347697356687,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001775",
+      "label": "cell activation",
+      "fdr": 0.00016763540974099958,
+      "p_value": 1.1572824595156573e-06,
+      "fold": 4.814115524068907,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903706",
+      "label": "regulation of hemopoiesis",
+      "fdr": 0.00017157279126070273,
+      "p_value": 1.1969324875392387e-06,
+      "fold": 6.394012145177236,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043123",
+      "label": "positive regulation of canonical NF-kappaB signal transduction",
+      "fdr": 0.00018692526155045014,
+      "p_value": 1.3176186592830218e-06,
+      "fold": 8.374932175800327,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060255",
+      "label": "regulation of macromolecule metabolic process",
+      "fdr": 0.00021880981410878192,
+      "p_value": 1.5582706040738774e-06,
+      "fold": 1.8543185589536042,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045590",
+      "label": "negative regulation of regulatory T cell differentiation",
+      "fdr": 0.00023662391586890439,
+      "p_value": 1.7023303299921178e-06,
+      "fold": 44.66630493760174,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009889",
+      "label": "regulation of biosynthetic process",
+      "fdr": 0.00026628624390419205,
+      "p_value": 1.9350791650620744e-06,
+      "fold": 1.9225579300065185,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032020",
+      "label": "ISG15-protein conjugation",
+      "fdr": 0.00027376737776204854,
+      "p_value": 2.009338358692457e-06,
+      "fold": 106.08247422680412,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060339",
+      "label": "negative regulation of type I interferon-mediated signaling pathway",
+      "fdr": 0.0002805433329949414,
+      "p_value": 2.1202315697604756e-06,
+      "fold": 42.432989690721655,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002764",
+      "label": "immune response-regulating signaling pathway",
+      "fdr": 0.0002820896052914091,
+      "p_value": 2.1114184539652014e-06,
+      "fold": 6.030528250619356,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051240",
+      "label": "positive regulation of multicellular organismal process",
+      "fdr": 0.000283772187407177,
+      "p_value": 2.1033909683549203e-06,
+      "fold": 3.034869223653694,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030522",
+      "label": "intracellular receptor signaling pathway",
+      "fdr": 0.00035087413946141143,
+      "p_value": 2.677260710954742e-06,
+      "fold": 9.174700473669546,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0065007",
+      "label": "biological regulation",
+      "fdr": 0.0005386499900999998,
+      "p_value": 4.149182395945061e-06,
+      "fold": 1.3819512300109764,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031348",
+      "label": "negative regulation of defense response",
+      "fdr": 0.0005418633034024689,
+      "p_value": 4.2526877964876565e-06,
+      "fold": 7.2603974755987615,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045321",
+      "label": "leukocyte activation",
+      "fdr": 0.0005443508266905538,
+      "p_value": 4.232653037997911e-06,
+      "fold": 5.071672074588244,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903131",
+      "label": "mononuclear cell differentiation",
+      "fdr": 0.0007705834411453878,
+      "p_value": 6.1037421033970844e-06,
+      "fold": 6.943580131208997,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0023051",
+      "label": "regulation of signaling",
+      "fdr": 0.0007748710083295657,
+      "p_value": 6.1940128563514445e-06,
+      "fold": 2.1437171611954473,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010646",
+      "label": "regulation of cell communication",
+      "fdr": 0.0008075114143683047,
+      "p_value": 6.513608530984799e-06,
+      "fold": 2.1379988877956966,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901224",
+      "label": "positive regulation of non-canonical NF-kappaB signal transduction",
+      "fdr": 0.0008133707535013393,
+      "p_value": 6.619978518432527e-06,
+      "fold": 18.943298969072167,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043687",
+      "label": "post-translational protein modification",
+      "fdr": 0.0008463753103479255,
+      "p_value": 6.950106101977733e-06,
+      "fold": 3.862226003403063,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035458",
+      "label": "cellular response to interferon-beta",
+      "fdr": 0.0009039052406307588,
+      "p_value": 7.488205612376027e-06,
+      "fold": 31.431844215349365,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071346",
+      "label": "cellular response to type II interferon",
+      "fdr": 0.0009431942096009761,
+      "p_value": 7.882227607304139e-06,
+      "fold": 18.290081763242092,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019222",
+      "label": "regulation of metabolic process",
+      "fdr": 0.0010377073773668204,
+      "p_value": 8.747478800563272e-06,
+      "fold": 1.7399301212095073,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019883",
+      "label": "antigen processing and presentation of endogenous antigen",
+      "fdr": 0.0011833374445421787,
+      "p_value": 1.0061077030116625e-05,
+      "fold": 29.264130821187347,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070106",
+      "label": "interleukin-27-mediated signaling pathway",
+      "fdr": 0.0013868049371283703,
+      "p_value": 1.1891794388572611e-05,
+      "fold": 63.64948453608248,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051239",
+      "label": "regulation of multicellular organismal process",
+      "fdr": 0.0014046483435511997,
+      "p_value": 1.2146875436566585e-05,
+      "fold": 2.2847320850926995,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032760",
+      "label": "positive regulation of tumor necrosis factor production",
+      "fdr": 0.0016343500993873411,
+      "p_value": 1.4252017435250412e-05,
+      "fold": 11.46837559208693,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070269",
+      "label": "pyroptotic inflammatory response",
+      "fdr": 0.0017137250101946315,
+      "p_value": 1.5068725109625058e-05,
+      "fold": 26.52061855670103,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032680",
+      "label": "regulation of tumor necrosis factor production",
+      "fdr": 0.0017320073563198103,
+      "p_value": 1.535534463127802e-05,
+      "fold": 8.787897273226378,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032722",
+      "label": "positive regulation of chemokine production",
+      "fdr": 0.0017974807028966252,
+      "p_value": 1.6066428781068592e-05,
+      "fold": 15.833205108478227,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002474",
+      "label": "antigen processing and presentation of peptide antigen via MHC class I",
+      "fdr": 0.0018960620286495857,
+      "p_value": 1.7085363821855143e-05,
+      "fold": 25.71696344892221,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903557",
+      "label": "positive regulation of tumor necrosis factor superfamily cytokine production",
+      "fdr": 0.0019204618431794304,
+      "p_value": 1.7444788198345236e-05,
+      "fold": 11.069475571492603,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043122",
+      "label": "regulation of canonical NF-kappaB signal transduction",
+      "fdr": 0.0019724751900560013,
+      "p_value": 1.8060596900447364e-05,
+      "fold": 6.0618556701030935,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903555",
+      "label": "regulation of tumor necrosis factor superfamily cytokine production",
+      "fdr": 0.002009264202153306,
+      "p_value": 1.8543460044580327e-05,
+      "fold": 8.535371489512976,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002521",
+      "label": "leukocyte differentiation",
+      "fdr": 0.0021985638144603817,
+      "p_value": 2.04502702020877e-05,
+      "fold": 5.967139175257732,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050794",
+      "label": "regulation of cellular process",
+      "fdr": 0.002295913554767222,
+      "p_value": 2.1856309546872034e-05,
+      "fold": 1.3921834819877215,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042509",
+      "label": "regulation of tyrosine phosphorylation of STAT protein",
+      "fdr": 0.002297518344206149,
+      "p_value": 2.1704627915616554e-05,
+      "fold": 24.247422680412374,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1900246",
+      "label": "positive regulation of RIG-I signaling pathway",
+      "fdr": 0.00230978927036739,
+      "p_value": 2.1652700812251532e-05,
+      "fold": 53.04123711340206,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002694",
+      "label": "regulation of leukocyte activation",
+      "fdr": 0.003003518832705622,
+      "p_value": 2.8810732208207406e-05,
+      "fold": 4.567151532269453,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034138",
+      "label": "toll-like receptor 3 signaling pathway",
+      "fdr": 0.00368140440547369,
+      "p_value": 3.558075618981184e-05,
+      "fold": 45.4639175257732,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007259",
+      "label": "cell surface receptor signaling pathway via JAK-STAT",
+      "fdr": 0.003682425542671472,
+      "p_value": 3.5858224163794583e-05,
+      "fold": 13.428161294532167,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060338",
+      "label": "regulation of type I interferon-mediated signaling pathway",
+      "fdr": 0.003792547629838984,
+      "p_value": 3.720615725806721e-05,
+      "fold": 21.216494845360828,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050730",
+      "label": "regulation of peptidyl-tyrosine phosphorylation",
+      "fdr": 0.003855809619182523,
+      "p_value": 3.810697683372016e-05,
+      "fold": 13.260309278350517,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0160165",
+      "label": "CD8-positive, alpha-beta T cell homeostasis",
+      "fdr": 0.004452123915429295,
+      "p_value": 4.432388463148125e-05,
+      "fold": 42.43298969072165,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042742",
+      "label": "defense response to bacterium",
+      "fdr": 0.004616460993842449,
+      "p_value": 4.6295444891378386e-05,
+      "fold": 6.194597035141848,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001960",
+      "label": "negative regulation of cytokine-mediated signaling pathway",
+      "fdr": 0.004773303972696249,
+      "p_value": 4.821519164339645e-05,
+      "fold": 12.628865979381443,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045589",
+      "label": "regulation of regulatory T cell differentiation",
+      "fdr": 0.004885271460218411,
+      "p_value": 4.9701184828906145e-05,
+      "fold": 19.736274274754255,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045655",
+      "label": "regulation of monocyte differentiation",
+      "fdr": 0.005305890036419921,
+      "p_value": 5.436599775708225e-05,
+      "fold": 39.78092783505154,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901222",
+      "label": "regulation of non-canonical NF-kappaB signal transduction",
+      "fdr": 0.005530398682380862,
+      "p_value": 5.7068280858809845e-05,
+      "fold": 12.193387842161393,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060761",
+      "label": "negative regulation of response to cytokine stimulus",
+      "fdr": 0.00576069415440004,
+      "p_value": 6.028195321805143e-05,
+      "fold": 12.054826616682288,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032642",
+      "label": "regulation of chemokine production",
+      "fdr": 0.005800978728906334,
+      "p_value": 6.028195321805143e-05,
+      "fold": 12.054826616682288,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032102",
+      "label": "negative regulation of response to external stimulus",
+      "fdr": 0.005880011926989489,
+      "p_value": 6.195783223700864e-05,
+      "fold": 5.174754840331909,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019882",
+      "label": "antigen processing and presentation",
+      "fdr": 0.006158239951596982,
+      "p_value": 6.712709779373209e-05,
+      "fold": 11.786941580756015,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042832",
+      "label": "defense response to protozoan",
+      "fdr": 0.006158771814269618,
+      "p_value": 6.579023738809925e-05,
+      "fold": 37.440873256519104,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0097696",
+      "label": "cell surface receptor signaling pathway via STAT",
+      "fdr": 0.006199570421070787,
+      "p_value": 6.712709779373209e-05,
+      "fold": 11.786941580756015,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001562",
+      "label": "response to protozoan",
+      "fdr": 0.0062009551828605056,
+      "p_value": 6.579023738809925e-05,
+      "fold": 37.440873256519104,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032446",
+      "label": "protein modification by small protein conjugation",
+      "fdr": 0.006237632694605769,
+      "p_value": 6.708594134159246e-05,
+      "fold": 3.834306297354366,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042127",
+      "label": "regulation of cell population proliferation",
+      "fdr": 0.0063037653588829375,
+      "p_value": 6.917146785781001e-05,
+      "fold": 2.7713853934433588,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070647",
+      "label": "protein modification by small protein conjugation or removal",
+      "fdr": 0.006319534829466865,
+      "p_value": 6.980374203030037e-05,
+      "fold": 3.558895909544396,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050865",
+      "label": "regulation of cell activation",
+      "fdr": 0.006621364224964804,
+      "p_value": 7.361883049339546e-05,
+      "fold": 4.116074837724322,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060284",
+      "label": "regulation of cell development",
+      "fdr": 0.007836264523311338,
+      "p_value": 8.769600585640187e-05,
+      "fold": 3.7276418469155184,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051246",
+      "label": "regulation of protein metabolic process",
+      "fdr": 0.008484995600074933,
+      "p_value": 9.61891805545883e-05,
+      "fold": 2.700826783709299,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030163",
+      "label": "protein catabolic process",
+      "fdr": 0.008528975715125741,
+      "p_value": 9.606796278210086e-05,
+      "fold": 3.4476804123711338,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050729",
+      "label": "positive regulation of inflammatory response",
+      "fdr": 0.009716355437780431,
+      "p_value": 0.00011085442945509249,
+      "fold": 7.95618556701031,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019941",
+      "label": "modification-dependent protein catabolic process",
+      "fdr": 0.010571894936724018,
+      "p_value": 0.00012138357677511771,
+      "fold": 3.8896907216494845,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050731",
+      "label": "positive regulation of peptidyl-tyrosine phosphorylation",
+      "fdr": 0.010594559826154497,
+      "p_value": 0.00012241370629740317,
+      "fold": 15.715922107674682,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019885",
+      "label": "antigen processing and presentation of endogenous peptide antigen via MHC class I",
+      "fdr": 0.010916662927206068,
+      "p_value": 0.00012692871654334503,
+      "fold": 30.309278350515463,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045581",
+      "label": "negative regulation of T cell differentiation",
+      "fdr": 0.01110505635122499,
+      "p_value": 0.00013154016316035706,
+      "fold": 15.430178069353328,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043632",
+      "label": "modification-dependent macromolecule catabolic process",
+      "fdr": 0.011112755716031968,
+      "p_value": 0.00013243891704303777,
+      "fold": 3.851178932326222,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0039530",
+      "label": "MDA-5 signaling pathway",
+      "fdr": 0.011137369611491655,
+      "p_value": 0.0001311135729279593,
+      "fold": 106.08247422680412,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1900245",
+      "label": "positive regulation of MDA-5 signaling pathway",
+      "fdr": 0.011206545820258684,
+      "p_value": 0.0001311135729279593,
+      "fold": 106.08247422680412,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0039535",
+      "label": "regulation of RIG-I signaling pathway",
+      "fdr": 0.012215455596750403,
+      "p_value": 0.00014646829252698324,
+      "fold": 28.93158388003749,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009057",
+      "label": "macromolecule catabolic process",
+      "fdr": 0.012727645387632125,
+      "p_value": 0.0001535345639377177,
+      "fold": 2.9494663825802814,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002483",
+      "label": "antigen processing and presentation of endogenous peptide antigen",
+      "fdr": 0.01383215742713895,
+      "p_value": 0.00016786354845812112,
+      "fold": 27.67368892873151,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002366",
+      "label": "leukocyte activation involved in immune response",
+      "fdr": 0.014357633185656585,
+      "p_value": 0.00017528394558464545,
+      "fold": 7.316032705296835,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045620",
+      "label": "negative regulation of lymphocyte differentiation",
+      "fdr": 0.015040905790063832,
+      "p_value": 0.00018471863080595798,
+      "fold": 14.144329896907216,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0140894",
+      "label": "endolysosomal toll-like receptor signaling pathway",
+      "fdr": 0.015476211294940267,
+      "p_value": 0.0001911892972996036,
+      "fold": 26.52061855670103,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002263",
+      "label": "cell activation involved in immune response",
+      "fdr": 0.016447469086697388,
+      "p_value": 0.00020438319990009833,
+      "fold": 7.1116742498416174,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050863",
+      "label": "regulation of T cell activation",
+      "fdr": 0.016721839820803757,
+      "p_value": 0.00021022296991490808,
+      "fold": 4.97747679656559,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043367",
+      "label": "CD4-positive, alpha-beta T cell differentiation",
+      "fdr": 0.016785140637609493,
+      "p_value": 0.00020979901094897414,
+      "fold": 13.68806119055537,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032649",
+      "label": "regulation of type II interferon production",
+      "fdr": 0.01689787019694494,
+      "p_value": 0.00021366393534397353,
+      "fold": 9.224562976243835,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032727",
+      "label": "positive regulation of interferon-alpha production",
+      "fdr": 0.01692909543348249,
+      "p_value": 0.000216519206183629,
+      "fold": 25.459793814432988,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000209",
+      "label": "protein polyubiquitination",
+      "fdr": 0.016951643051634394,
+      "p_value": 0.000215575723714557,
+      "fold": 5.7788118255846594,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903037",
+      "label": "regulation of leukocyte cell-cell adhesion",
+      "fdr": 0.017685875621021137,
+      "p_value": 0.00022748346667544086,
+      "fold": 4.919766920663379,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048002",
+      "label": "antigen processing and presentation of peptide antigen",
+      "fdr": 0.018341105220816053,
+      "p_value": 0.00023724414863056882,
+      "fold": 13.260309278350515,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042110",
+      "label": "T cell activation",
+      "fdr": 0.018637457970637143,
+      "p_value": 0.00024243187099368135,
+      "fold": 5.668529157157472,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051249",
+      "label": "regulation of lymphocyte activation",
+      "fdr": 0.019712108469757045,
+      "p_value": 0.0002578431454513675,
+      "fold": 4.281355462068328,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001776",
+      "label": "leukocyte homeostasis",
+      "fdr": 0.020313196176714544,
+      "p_value": 0.0002671817824275367,
+      "fold": 12.858481724461106,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008150",
+      "label": "biological_process",
+      "fdr": 0.021117197749417605,
+      "p_value": 0.00027929147521212153,
+      "fold": 1.1411286350425804,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007165",
+      "label": "signal transduction",
+      "fdr": 0.021832681755995342,
+      "p_value": 0.0002935139978823587,
+      "fold": 1.7409853831855189,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009617",
+      "label": "response to bacterium",
+      "fdr": 0.021867290096883006,
+      "p_value": 0.0002923901880551176,
+      "fold": 3.8159163390936732,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072539",
+      "label": "T-helper 17 cell differentiation",
+      "fdr": 0.021992642889469647,
+      "p_value": 0.0003052536001663181,
+      "fold": 22.7319587628866,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051716",
+      "label": "cellular response to stimulus",
+      "fdr": 0.022095913486201418,
+      "p_value": 0.00030347559398968593,
+      "fold": 1.5933615955294345,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902531",
+      "label": "regulation of intracellular signal transduction",
+      "fdr": 0.02210491785397097,
+      "p_value": 0.00030038657355516103,
+      "fold": 2.2930848777796053,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045063",
+      "label": "T-helper 1 cell differentiation",
+      "fdr": 0.022108393641519487,
+      "p_value": 0.0003052536001663181,
+      "fold": 22.7319587628866,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035710",
+      "label": "CD4-positive, alpha-beta T cell activation",
+      "fdr": 0.02217600985911391,
+      "p_value": 0.0002997411404545591,
+      "fold": 12.48029108550637,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002274",
+      "label": "myeloid leukocyte activation",
+      "fdr": 0.022191223592670707,
+      "p_value": 0.00030317201042235974,
+      "fold": 8.555038244097107,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042532",
+      "label": "negative regulation of tyrosine phosphorylation of STAT protein",
+      "fdr": 0.023348628517555054,
+      "p_value": 0.0003257711412957322,
+      "fold": 70.72164948453607,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046632",
+      "label": "alpha-beta T cell differentiation",
+      "fdr": 0.02522483458993829,
+      "p_value": 0.0003537819254311525,
+      "fold": 11.952954842456801,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032647",
+      "label": "regulation of interferon-alpha production",
+      "fdr": 0.026651697001500545,
+      "p_value": 0.0003757306313706203,
+      "fold": 21.216494845360824,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042531",
+      "label": "positive regulation of tyrosine phosphorylation of STAT protein",
+      "fdr": 0.02910659886121253,
+      "p_value": 0.0004145696807497751,
+      "fold": 20.532091785833057,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0098586",
+      "label": "cellular response to virus",
+      "fdr": 0.02924823537139577,
+      "p_value": 0.00041446158690663286,
+      "fold": 11.468375592086932,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048523",
+      "label": "negative regulation of cellular process",
+      "fdr": 0.029488670309349433,
+      "p_value": 0.00042215449828804873,
+      "fold": 1.6842005517520604,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0023052",
+      "label": "signaling",
+      "fdr": 0.030808741603716987,
+      "p_value": 0.0004432912460966473,
+      "fold": 1.6775422474484214,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070665",
+      "label": "positive regulation of leukocyte proliferation",
+      "fdr": 0.030995067836358293,
+      "p_value": 0.00044822458392815203,
+      "fold": 7.857961053837342,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030225",
+      "label": "macrophage differentiation",
+      "fdr": 0.031057443817515983,
+      "p_value": 0.0004558973658264827,
+      "fold": 19.89046391752577,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032729",
+      "label": "positive regulation of type II interferon production",
+      "fdr": 0.031102952271279204,
+      "p_value": 0.0004588256166753636,
+      "fold": 11.166576234400434,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0039533",
+      "label": "regulation of MDA-5 signaling pathway",
+      "fdr": 0.031128468996924234,
+      "p_value": 0.0004546778772169007,
+      "fold": 60.61855670103093,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030217",
+      "label": "T cell differentiation",
+      "fdr": 0.03127353703163924,
+      "p_value": 0.00046361467585599915,
+      "fold": 7.80018192844148,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002477",
+      "label": "antigen processing and presentation of exogenous peptide antigen via MHC class Ib",
+      "fdr": 0.03128411134190885,
+      "p_value": 0.0004546778772169007,
+      "fold": 60.61855670103093,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016567",
+      "label": "protein ubiquitination",
+      "fdr": 0.031568024235882945,
+      "p_value": 0.00047256834478539975,
+      "fold": 3.589931445915537,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030097",
+      "label": "hemopoiesis",
+      "fdr": 0.031570472681376915,
+      "p_value": 0.00047489919664595753,
+      "fold": 3.937081517695823,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006511",
+      "label": "ubiquitin-dependent protein catabolic process",
+      "fdr": 0.0317220145980092,
+      "p_value": 0.00047256834478539975,
+      "fold": 3.589931445915537,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042088",
+      "label": "T-helper 1 type immune response",
+      "fdr": 0.03290647295466495,
+      "p_value": 0.0004997785660580608,
+      "fold": 19.287722586691658,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0140895",
+      "label": "cell surface toll-like receptor signaling pathway",
+      "fdr": 0.033064677151562374,
+      "p_value": 0.0004997785660580608,
+      "fold": 19.287722586691658,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043029",
+      "label": "T cell homeostasis",
+      "fdr": 0.03562710564725407,
+      "p_value": 0.0005462771086091569,
+      "fold": 18.720436628259552,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031399",
+      "label": "regulation of protein modification process",
+      "fdr": 0.03573877869325869,
+      "p_value": 0.0005453923061975384,
+      "fold": 3.5243346919204033,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002286",
+      "label": "T cell activation involved in immune response",
+      "fdr": 0.03619059973019815,
+      "p_value": 0.0005575472089820513,
+      "fold": 10.608247422680414,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070663",
+      "label": "regulation of leukocyte proliferation",
+      "fdr": 0.0386909852980879,
+      "p_value": 0.0005988794323445041,
+      "fold": 5.812738313797486,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000026",
+      "label": "regulation of multicellular organismal development",
+      "fdr": 0.039143381823017256,
+      "p_value": 0.0006087263796327078,
+      "fold": 2.591591389905638,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002250",
+      "label": "adaptive immune response",
+      "fdr": 0.04249304529837972,
+      "p_value": 0.0006639055838348696,
+      "fold": 4.79082141669438,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007154",
+      "label": "cell communication",
+      "fdr": 0.0425462294038179,
+      "p_value": 0.0006678283228853039,
+      "fold": 1.6633521851118451,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002699",
+      "label": "positive regulation of immune effector process",
+      "fdr": 0.047958285207502775,
+      "p_value": 0.0007562639263155367,
+      "fold": 5.5589069463827485,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034124",
+      "label": "regulation of MyD88-dependent toll-like receptor signaling pathway",
+      "fdr": 0.048899936985716826,
+      "p_value": 0.0007746665404321102,
+      "fold": 47.14776632302406,
+      "source": "PANTHER"
+    }
+  ],
+  "Enrichr": [
+    {
+      "id": "GO:0051607",
+      "label": "Defense Response to Virus",
+      "fdr": 1.708259833967963e-39,
+      "p_value": 2.265596596774487e-42,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048525",
+      "label": "Negative Regulation of Viral Process",
+      "fdr": 5.15354823340912e-19,
+      "p_value": 1.3669889213286792e-21,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045071",
+      "label": "Negative Regulation of Viral Genome Replication",
+      "fdr": 1.5025848450166107e-17,
+      "p_value": 5.978454290517018e-20,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045069",
+      "label": "Regulation of Viral Genome Replication",
+      "fdr": 1.1134006447758911e-15,
+      "p_value": 5.9066347202965044e-18,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034097",
+      "label": "Response to Cytokine",
+      "fdr": 4.323286890403279e-15,
+      "p_value": 2.8669011209570815e-17,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0140374",
+      "label": "Antiviral Innate Immune Response",
+      "fdr": 1.863742954884539e-14,
+      "p_value": 1.483084579483718e-16,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034341",
+      "label": "Response to Type II Interferon",
+      "fdr": 5.909344720155765e-13,
+      "p_value": 5.486129050542488e-15,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035456",
+      "label": "Response to Interferon-Beta",
+      "fdr": 8.481121649138156e-11,
+      "p_value": 8.998537558767274e-13,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046597",
+      "label": "Host-Mediated Suppression of Symbiont Invasion",
+      "fdr": 1.8341571021636973e-10,
+      "p_value": 2.432569101012861e-12,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035455",
+      "label": "Response to Interferon-Alpha",
+      "fdr": 1.8341571021636973e-10,
+      "p_value": 2.432569101012861e-12,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050776",
+      "label": "Regulation of Immune Response",
+      "fdr": 1.98329365899894e-09,
+      "p_value": 2.893399237266358e-11,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0140888",
+      "label": "Interferon-Mediated Signaling Pathway",
+      "fdr": 1.4470181060251716e-08,
+      "p_value": 2.3029465878384695e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045824",
+      "label": "Negative Regulation of Innate Immune Response",
+      "fdr": 1.7984447023497105e-08,
+      "p_value": 3.100766728189156e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045088",
+      "label": "Regulation of Innate Immune Response",
+      "fdr": 1.8507427507982025e-08,
+      "p_value": 3.4363923754873787e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060337",
+      "label": "Type I Interferon-Mediated Signaling Pathway",
+      "fdr": 5.979823890673946e-08,
+      "p_value": 1.1896201374019786e-09,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071357",
+      "label": "Cellular Response to Type I Interferon",
+      "fdr": 6.669821796335402e-08,
+      "p_value": 1.4153468002833744e-09,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050778",
+      "label": "Positive Regulation of Immune Response",
+      "fdr": 8.702762068165675e-07,
+      "p_value": 1.962161209002871e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032728",
+      "label": "Positive Regulation of Interferon-Beta Production",
+      "fdr": 9.596953216982958e-07,
+      "p_value": 2.291049839598054e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032481",
+      "label": "Positive Regulation of Type I Interferon Production",
+      "fdr": 1.531221024455246e-06,
+      "p_value": 3.8585145178580473e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902533",
+      "label": "Positive Regulation of Intracellular Signal Transduction",
+      "fdr": 3.486230765579287e-06,
+      "p_value": 9.247296460422512e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001961",
+      "label": "Positive Regulation of Cytokine-Mediated Signaling Pathway",
+      "fdr": 3.6539982792497806e-06,
+      "p_value": 1.0176918284382678e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032648",
+      "label": "Regulation of Interferon-Beta Production",
+      "fdr": 5.759488068004175e-06,
+      "p_value": 1.6804872346961783e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001819",
+      "label": "Positive Regulation of Cytokine Production",
+      "fdr": 1.6568639863802166e-05,
+      "p_value": 5.054094388162465e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032020",
+      "label": "ISG15-protein Conjugation",
+      "fdr": 3.449811664537993e-05,
+      "p_value": 1.0980832884471064e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071345",
+      "label": "Cellular Response to Cytokine Stimulus",
+      "fdr": 4.2576439598215726e-05,
+      "p_value": 1.4116856630708132e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060339",
+      "label": "Negative Regulation of Type I Interferon-Mediated Signaling Pathway",
+      "fdr": 5.351798643689029e-05,
+      "p_value": 1.9054079051134158e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001817",
+      "label": "Regulation of Cytokine Production",
+      "fdr": 5.351798643689029e-05,
+      "p_value": 1.9164265700212703e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070106",
+      "label": "Interleukin-27-Mediated Signaling Pathway",
+      "fdr": 5.8931725104655215e-05,
+      "p_value": 2.1884460251065598e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0062208",
+      "label": "Positive Regulation of Pattern Recognition Receptor Signaling Pathway",
+      "fdr": 7.93403313241714e-05,
+      "p_value": 3.156777108388782e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071346",
+      "label": "Cellular Response to Type II Interferon",
+      "fdr": 7.93403313241714e-05,
+      "p_value": 3.156777108388782e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0031349",
+      "label": "Positive Regulation of Defense Response",
+      "fdr": 8.011019971528675e-05,
+      "p_value": 3.293655425960065e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035458",
+      "label": "Cellular Response to Interferon-Beta",
+      "fdr": 8.37906179239451e-05,
+      "p_value": 3.5561004954459454e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006954",
+      "label": "Inflammatory Response",
+      "fdr": 0.00011482080901915397,
+      "p_value": 5.025313922588967e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043123",
+      "label": "Positive Regulation of Canonical NF-kappaB Signal Transduction",
+      "fdr": 0.00015051559356799864,
+      "p_value": 6.787175306779779e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002753",
+      "label": "Cytoplasmic Pattern Recognition Receptor Signaling Pathway",
+      "fdr": 0.00024235147741605525,
+      "p_value": 1.1249737015334128e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042742",
+      "label": "Defense Response to Bacterium",
+      "fdr": 0.0002548788952740862,
+      "p_value": 1.216928412449218e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070269",
+      "label": "Pyroptotic Inflammatory Response",
+      "fdr": 0.00025689390746569006,
+      "p_value": 1.2932327768264672e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1900246",
+      "label": "Positive Regulation of RIG-I Signaling Pathway",
+      "fdr": 0.00025689390746569006,
+      "p_value": 1.294690780331064e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032103",
+      "label": "Positive Regulation of Response to External Stimulus",
+      "fdr": 0.00028181113219631566,
+      "p_value": 1.4576437872223225e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002221",
+      "label": "Pattern Recognition Receptor Signaling Pathway",
+      "fdr": 0.00029909131112994047,
+      "p_value": 1.586691305729127e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001960",
+      "label": "Negative Regulation of Cytokine-Mediated Signaling Pathway",
+      "fdr": 0.0003385752510414744,
+      "p_value": 1.8410590573873277e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042127",
+      "label": "Regulation of Cell Population Proliferation",
+      "fdr": 0.0003573454065373333,
+      "p_value": 1.9905181796509284e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050729",
+      "label": "Positive Regulation of Inflammatory Response",
+      "fdr": 0.0003587911804769163,
+      "p_value": 2.0461565995367907e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002831",
+      "label": "Regulation of Response to Biotic Stimulus",
+      "fdr": 0.00036949297899615066,
+      "p_value": 2.156192450375415e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051091",
+      "label": "Positive Regulation of DNA-binding Transcription Factor Activity",
+      "fdr": 0.00037255464238382103,
+      "p_value": 2.2234693510970752e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030522",
+      "label": "Intracellular Receptor Signaling Pathway",
+      "fdr": 0.0003975526373984411,
+      "p_value": 2.4253874430143623e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060338",
+      "label": "Regulation of Type I Interferon-Mediated Signaling Pathway",
+      "fdr": 0.00043610850844006066,
+      "p_value": 2.7184482621595295e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019221",
+      "label": "Cytokine-Mediated Signaling Pathway",
+      "fdr": 0.0005341453780244447,
+      "p_value": 3.400394979465961e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060760",
+      "label": "Positive Regulation of Response to Cytokine Stimulus",
+      "fdr": 0.0005724889742806664,
+      "p_value": 3.872272902959414e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032897",
+      "label": "Negative Regulation of Viral Transcription",
+      "fdr": 0.0005724889742806664,
+      "p_value": 3.872272902959414e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0044790",
+      "label": "Suppression of Viral Release by Host",
+      "fdr": 0.0005724889742806664,
+      "p_value": 3.872272902959414e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032101",
+      "label": "Regulation of Response to External Stimulus",
+      "fdr": 0.0006462072926766133,
+      "p_value": 4.456602018459402e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002684",
+      "label": "Positive Regulation of Immune System Process",
+      "fdr": 0.0006526569169472949,
+      "p_value": 4.587641458648094e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045655",
+      "label": "Regulation of Monocyte Differentiation",
+      "fdr": 0.0006612337776753027,
+      "p_value": 4.823323311955126e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042832",
+      "label": "Defense Response to Protozoan",
+      "fdr": 0.0006612337776753027,
+      "p_value": 4.823323311955126e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043122",
+      "label": "Regulation of Canonical NF-kappaB Signal Transduction",
+      "fdr": 0.0006858682587603042,
+      "p_value": 5.093981762675999e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903900",
+      "label": "Regulation of Viral Life Cycle",
+      "fdr": 0.0007825104066618307,
+      "p_value": 5.9155295994329374e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006511",
+      "label": "Ubiquitin-Dependent Protein Catabolic Process",
+      "fdr": 0.0009404133414728952,
+      "p_value": 7.233948780560732e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048584",
+      "label": "Positive Regulation of Response to Stimulus",
+      "fdr": 0.0010445030818589812,
+      "p_value": 8.520702792893774e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046596",
+      "label": "Regulation of Viral Entry Into Host Cell",
+      "fdr": 0.0010445030818589812,
+      "p_value": 8.559289873755705e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046782",
+      "label": "Regulation of Viral Transcription",
+      "fdr": 0.0010445030818589812,
+      "p_value": 8.559289873755705e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002832",
+      "label": "Negative Regulation of Response to Biotic Stimulus",
+      "fdr": 0.0010445030818589812,
+      "p_value": 8.588752131996928e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901224",
+      "label": "Positive Regulation of Non-Canonical NF-kappaB Signal Transduction",
+      "fdr": 0.0011932572636982738,
+      "p_value": 0.00010090333713161995,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0039535",
+      "label": "Regulation of RIG-I Signaling Pathway",
+      "fdr": 0.0011932572636982738,
+      "p_value": 0.00010128443617598079,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000209",
+      "label": "Protein Polyubiquitination",
+      "fdr": 0.0014248213182382905,
+      "p_value": 0.00012282942398605953,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032722",
+      "label": "Positive Regulation of Chemokine Production",
+      "fdr": 0.001539415984903913,
+      "p_value": 0.0001365228028339793,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006915",
+      "label": "Apoptotic Process",
+      "fdr": 0.001539415984903913,
+      "p_value": 0.00013679160608562622,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0031347",
+      "label": "Regulation of Defense Response",
+      "fdr": 0.001612719259192779,
+      "p_value": 0.00014544417722162995,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051092",
+      "label": "Positive Regulation of NF-kappaB Transcription Factor Activity",
+      "fdr": 0.0017156497586949084,
+      "p_value": 0.00015921028974679897,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032727",
+      "label": "Positive Regulation of Interferon-Alpha Production",
+      "fdr": 0.0017156497586949084,
+      "p_value": 0.00015927782905655647,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030225",
+      "label": "Macrophage Differentiation",
+      "fdr": 0.0022075129424824888,
+      "p_value": 0.0002078692558571044,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060368",
+      "label": "Regulation of Fc Receptor Mediated Stimulatory Signaling Pathway",
+      "fdr": 0.0024148914504604556,
+      "p_value": 0.0002305997141023247,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050731",
+      "label": "Positive Regulation of Peptidyl-Tyrosine Phosphorylation",
+      "fdr": 0.002568909689339079,
+      "p_value": 0.0002487140680659851,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032647",
+      "label": "Regulation of Interferon-Alpha Production",
+      "fdr": 0.002952575922623557,
+      "p_value": 0.00029725246364540247,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903050",
+      "label": "Regulation of Proteolysis Involved in Protein Catabolic Process",
+      "fdr": 0.002952575922623557,
+      "p_value": 0.00029725246364540247,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032479",
+      "label": "Regulation of Type I Interferon Production",
+      "fdr": 0.002952575922623557,
+      "p_value": 0.0002976071221742577,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0039533",
+      "label": "Regulation of MDA-5 Signaling Pathway",
+      "fdr": 0.0033764154773932866,
+      "p_value": 0.00034480635511841256,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050777",
+      "label": "Negative Regulation of Immune Response",
+      "fdr": 0.0036061778566211567,
+      "p_value": 0.00037305288171943,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0140895",
+      "label": "Cell Surface Toll-Like Receptor Signaling Pathway",
+      "fdr": 0.0038966582835285794,
+      "p_value": 0.000408270562863074,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002573",
+      "label": "Myeloid Leukocyte Differentiation",
+      "fdr": 0.004347539590794212,
+      "p_value": 0.0004612774101638421,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008285",
+      "label": "Negative Regulation of Cell Population Proliferation",
+      "fdr": 0.004789772988786661,
+      "p_value": 0.0005145512096707156,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901222",
+      "label": "Regulation of Non-Canonical NF-kappaB Signal Transduction",
+      "fdr": 0.0049335161184825855,
+      "p_value": 0.0005365362356970451,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071677",
+      "label": "Positive Regulation of Mononuclear Cell Migration",
+      "fdr": 0.00587491499988991,
+      "p_value": 0.0006467081498552553,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045657",
+      "label": "Positive Regulation of Monocyte Differentiation",
+      "fdr": 0.007186819460282089,
+      "p_value": 0.0008197168084671879,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070212",
+      "label": "Protein poly-ADP-ribosylation",
+      "fdr": 0.007186819460282089,
+      "p_value": 0.0008197168084671879,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034340",
+      "label": "Response to Type I Interferon",
+      "fdr": 0.007186819460282089,
+      "p_value": 0.0008197168084671879,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032446",
+      "label": "Protein Modification by Small Protein Conjugation",
+      "fdr": 0.007602607712584123,
+      "p_value": 0.0008772239668366296,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001959",
+      "label": "Regulation of Cytokine-Mediated Signaling Pathway",
+      "fdr": 0.008219179779248052,
+      "p_value": 0.0009592676665435392,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0052372",
+      "label": "Modulation by Symbiont of Entry Into Host",
+      "fdr": 0.008653298970383543,
+      "p_value": 0.0010214106211725933,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048523",
+      "label": "Negative Regulation of Cellular Process",
+      "fdr": 0.009250371387302779,
+      "p_value": 0.001104155735884947,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002763",
+      "label": "Positive Regulation of Myeloid Leukocyte Differentiation",
+      "fdr": 0.00971741844525799,
+      "p_value": 0.0011856797041959353,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032642",
+      "label": "Regulation of Chemokine Production",
+      "fdr": 0.00971741844525799,
+      "p_value": 0.0011856797041959353,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903313",
+      "label": "Positive Regulation of mRNA Metabolic Process",
+      "fdr": 0.009877003793758807,
+      "p_value": 0.0012444500801154995,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045651",
+      "label": "Positive Regulation of Macrophage Differentiation",
+      "fdr": 0.009877003793758807,
+      "p_value": 0.0012444500801154995,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002281",
+      "label": "Macrophage Activation Involved in Immune Response",
+      "fdr": 0.009877003793758807,
+      "p_value": 0.0012444500801154995,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002833",
+      "label": "Positive Regulation of Response to Biotic Stimulus",
+      "fdr": 0.009958983011195282,
+      "p_value": 0.001267987226889585,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050727",
+      "label": "Regulation of Inflammatory Response",
+      "fdr": 0.010473844987069499,
+      "p_value": 0.0013474309864001876,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903131",
+      "label": "Mononuclear Cell Differentiation",
+      "fdr": 0.011103784438421936,
+      "p_value": 0.001443197446903647,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010818",
+      "label": "T Cell Chemotaxis",
+      "fdr": 0.011224252861765724,
+      "p_value": 0.0014886277004994327,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060334",
+      "label": "Regulation of Type II Interferon-Mediated Signaling Pathway",
+      "fdr": 0.011224252861765724,
+      "p_value": 0.0014886277004994327,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007259",
+      "label": "Cell Surface Receptor Signaling Pathway via JAK-STAT",
+      "fdr": 0.011468338616390097,
+      "p_value": 0.0015362098146623339,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045089",
+      "label": "Positive Regulation of Innate Immune Response",
+      "fdr": 0.011953450661700466,
+      "p_value": 0.0016328984325665091,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043687",
+      "label": "Post-Translational Protein Modification",
+      "fdr": 0.011953450661700466,
+      "p_value": 0.0016328984325665091,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002694",
+      "label": "Regulation of Leukocyte Activation",
+      "fdr": 0.014786917601818095,
+      "p_value": 0.002039574841630082,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050870",
+      "label": "Positive Regulation of T Cell Activation",
+      "fdr": 0.01504207614789567,
+      "p_value": 0.0020947188269615983,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016567",
+      "label": "Protein Ubiquitination",
+      "fdr": 0.015162605721949865,
+      "p_value": 0.002131613006003562,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071260",
+      "label": "Cellular Response to Mechanical Stimulus",
+      "fdr": 0.015314522283531497,
+      "p_value": 0.002173281013710703,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010498",
+      "label": "Proteasomal Protein Catabolic Process",
+      "fdr": 0.015573507570469504,
+      "p_value": 0.002230688087016852,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050765",
+      "label": "Negative Regulation of Phagocytosis",
+      "fdr": 0.01622785584168986,
+      "p_value": 0.0023459367198198867,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032731",
+      "label": "Positive Regulation of Interleukin-1 Beta Production",
+      "fdr": 0.017286443855921544,
+      "p_value": 0.002544821310354498,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0061136",
+      "label": "Regulation of Proteasomal Protein Catabolic Process",
+      "fdr": 0.017286443855921544,
+      "p_value": 0.002544821310354498,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045649",
+      "label": "Regulation of Macrophage Differentiation",
+      "fdr": 0.01783324406540592,
+      "p_value": 0.002672621458078075,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060759",
+      "label": "Regulation of Response to Cytokine Stimulus",
+      "fdr": 0.01783324406540592,
+      "p_value": 0.002672621458078075,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0031348",
+      "label": "Negative Regulation of Defense Response",
+      "fdr": 0.018943292399127676,
+      "p_value": 0.0028641052168442375,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002275",
+      "label": "Myeloid Cell Activation Involved in Immune Response",
+      "fdr": 0.01974911188707239,
+      "p_value": 0.0030194288446408635,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071219",
+      "label": "Cellular Response to Molecule of Bacterial Origin",
+      "fdr": 0.01974911188707239,
+      "p_value": 0.0030383249057034448,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071222",
+      "label": "Cellular Response to Lipopolysaccharide",
+      "fdr": 0.020748891984422424,
+      "p_value": 0.0032196556527552037,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002819",
+      "label": "Regulation of Adaptive Immune Response",
+      "fdr": 0.021363719992533153,
+      "p_value": 0.003386160098682633,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043457",
+      "label": "Regulation of Cellular Respiration",
+      "fdr": 0.021363719992533153,
+      "p_value": 0.003386160098682633,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050764",
+      "label": "Regulation of Phagocytosis",
+      "fdr": 0.021363719992533153,
+      "p_value": 0.0034000615372731806,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019941",
+      "label": "Modification-Dependent Protein Catabolic Process",
+      "fdr": 0.02147794447484912,
+      "p_value": 0.003446725837475787,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032732",
+      "label": "Positive Regulation of Interleukin-1 Production",
+      "fdr": 0.021987316908158385,
+      "p_value": 0.003557629526253744,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051099",
+      "label": "Positive Regulation of Binding",
+      "fdr": 0.022801428600269524,
+      "p_value": 0.003719596442749538,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002474",
+      "label": "Antigen Processing and Presentation of Peptide Antigen via MHC Class I",
+      "fdr": 0.022939950516654928,
+      "p_value": 0.0037726178568504125,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0098586",
+      "label": "Cellular Response to Virus",
+      "fdr": 0.023440350829402656,
+      "p_value": 0.0038859998059354536,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072678",
+      "label": "T Cell Migration",
+      "fdr": 0.025005309914699948,
+      "p_value": 0.004178606166116967,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002483",
+      "label": "Antigen Processing and Presentation of Endogenous Peptide Antigen",
+      "fdr": 0.027120027979981108,
+      "p_value": 0.004603930479360188,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048247",
+      "label": "Lymphocyte Chemotaxis",
+      "fdr": 0.027120027979981108,
+      "p_value": 0.004603930479360188,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016441",
+      "label": "Post-Transcriptional Gene Silencing",
+      "fdr": 0.029507688513548094,
+      "p_value": 0.005048397636933295,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010628",
+      "label": "Positive Regulation of Gene Expression",
+      "fdr": 0.030884530295359255,
+      "p_value": 0.005324919016441251,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042531",
+      "label": "Positive Regulation of Tyrosine Phosphorylation of STAT Protein",
+      "fdr": 0.03148416033828262,
+      "p_value": 0.005511815868240459,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035194",
+      "label": "Regulatory ncRNA-mediated Post-Transcriptional Gene Silencing",
+      "fdr": 0.03148416033828262,
+      "p_value": 0.005511815868240459,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050671",
+      "label": "Positive Regulation of Lymphocyte Proliferation",
+      "fdr": 0.035383655022410906,
+      "p_value": 0.0062414139495764595,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043393",
+      "label": "Regulation of Protein Binding",
+      "fdr": 0.036007632236864665,
+      "p_value": 0.006468533144283884,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901223",
+      "label": "Negative Regulation of Non-Canonical NF-kappaB Signal Transduction",
+      "fdr": 0.036007632236864665,
+      "p_value": 0.006494745337153308,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034121",
+      "label": "Regulation of Toll-Like Receptor Signaling Pathway",
+      "fdr": 0.036007632236864665,
+      "p_value": 0.006494745337153308,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032102",
+      "label": "Negative Regulation of Response to External Stimulus",
+      "fdr": 0.03704597517901204,
+      "p_value": 0.006731165251358952,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051603",
+      "label": "Proteolysis Involved in Protein Catabolic Process",
+      "fdr": 0.03763180542767392,
+      "p_value": 0.006937428321547314,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034612",
+      "label": "Response to Tumor Necrosis Factor",
+      "fdr": 0.03763180542767392,
+      "p_value": 0.006937428321547314,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032651",
+      "label": "Regulation of Interleukin-1 Beta Production",
+      "fdr": 0.03999449737663497,
+      "p_value": 0.007426033995661665,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032496",
+      "label": "Response to Lipopolysaccharide",
+      "fdr": 0.041985260329910463,
+      "p_value": 0.007851355048431532,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034142",
+      "label": "Toll-Like Receptor 4 Signaling Pathway",
+      "fdr": 0.042743663989063034,
+      "p_value": 0.00810655696344299,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042509",
+      "label": "Regulation of Tyrosine Phosphorylation of STAT Protein",
+      "fdr": 0.042743663989063034,
+      "p_value": 0.00810655696344299,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045807",
+      "label": "Positive Regulation of Endocytosis",
+      "fdr": 0.042916822474373825,
+      "p_value": 0.008196316228527628,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010468",
+      "label": "Regulation of Gene Expression",
+      "fdr": 0.043010919872354246,
+      "p_value": 0.008271330744683508,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030890",
+      "label": "Positive Regulation of B Cell Proliferation",
+      "fdr": 0.04787668397458106,
+      "p_value": 0.009270551538844608,
+      "fold": null,
+      "source": "Enrichr"
+    }
+  ],
+  "g:Profiler": [
+    {
+      "id": "GO:0051607",
+      "label": "defense response to virus",
+      "fdr": 4.1937731345514645e-36,
+      "p_value": 4.1937731345514645e-36,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009615",
+      "label": "response to virus",
+      "fdr": 6.651052114600107e-35,
+      "p_value": 6.651052114600107e-35,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-913531",
+      "label": "Interferon Signaling",
+      "fdr": 7.668212844537819e-35,
+      "p_value": 7.668212844537819e-35,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-909733",
+      "label": "Interferon alpha/beta signaling",
+      "fdr": 1.7085726930976514e-34,
+      "p_value": 1.7085726930976514e-34,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-1280215",
+      "label": "Cytokine Signaling in Immune system",
+      "fdr": 3.863997099885689e-33,
+      "p_value": 3.863997099885689e-33,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0009607",
+      "label": "response to biotic stimulus",
+      "fdr": 1.4131058572319023e-32,
+      "p_value": 1.4131058572319023e-32,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006952",
+      "label": "defense response",
+      "fdr": 3.1050037047307723e-32,
+      "p_value": 3.1050037047307723e-32,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0043207",
+      "label": "response to external biotic stimulus",
+      "fdr": 4.7786433298858474e-32,
+      "p_value": 4.7786433298858474e-32,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0051707",
+      "label": "response to other organism",
+      "fdr": 4.7786433298858474e-32,
+      "p_value": 4.7786433298858474e-32,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0098542",
+      "label": "defense response to other organism",
+      "fdr": 4.738541879839691e-31,
+      "p_value": 4.738541879839691e-31,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045087",
+      "label": "innate immune response",
+      "fdr": 1.2607214232323675e-30,
+      "p_value": 1.2607214232323675e-30,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0044419",
+      "label": "biological process involved in interspecies interaction between organisms",
+      "fdr": 7.964369720870597e-30,
+      "p_value": 7.964369720870597e-30,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0140546",
+      "label": "defense response to symbiont",
+      "fdr": 1.011432620510009e-28,
+      "p_value": 1.011432620510009e-28,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002376",
+      "label": "immune system process",
+      "fdr": 2.567499627718675e-27,
+      "p_value": 2.567499627718675e-27,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009605",
+      "label": "response to external stimulus",
+      "fdr": 3.087998663923973e-27,
+      "p_value": 3.087998663923973e-27,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006955",
+      "label": "immune response",
+      "fdr": 6.85716234247088e-26,
+      "p_value": 6.85716234247088e-26,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-168256",
+      "label": "Immune System",
+      "fdr": 3.854017873226055e-23,
+      "p_value": 3.854017873226055e-23,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:1901652",
+      "label": "response to peptide",
+      "fdr": 1.5819432433738247e-22,
+      "p_value": 1.5819432433738247e-22,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0034097",
+      "label": "response to cytokine",
+      "fdr": 1.5819432433738247e-22,
+      "p_value": 1.5819432433738247e-22,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050792",
+      "label": "regulation of viral process",
+      "fdr": 7.042719111090569e-20,
+      "p_value": 7.042719111090569e-20,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006950",
+      "label": "response to stress",
+      "fdr": 1.1220623400668383e-18,
+      "p_value": 1.1220623400668383e-18,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1903900",
+      "label": "regulation of viral life cycle",
+      "fdr": 1.9494113801469432e-18,
+      "p_value": 1.9494113801469432e-18,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016032",
+      "label": "viral process",
+      "fdr": 7.615693071834597e-17,
+      "p_value": 7.615693071834597e-17,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0048525",
+      "label": "negative regulation of viral process",
+      "fdr": 1.983754815718971e-16,
+      "p_value": 1.983754815718971e-16,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-877300",
+      "label": "Interferon gamma signaling",
+      "fdr": 2.587509951730285e-16,
+      "p_value": 2.587509951730285e-16,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0045088",
+      "label": "regulation of innate immune response",
+      "fdr": 1.1968514754828352e-15,
+      "p_value": 1.1968514754828352e-15,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045071",
+      "label": "negative regulation of viral genome replication",
+      "fdr": 1.413699500504086e-15,
+      "p_value": 1.413699500504086e-15,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002831",
+      "label": "regulation of response to biotic stimulus",
+      "fdr": 3.390731789623507e-15,
+      "p_value": 3.390731789623507e-15,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045069",
+      "label": "regulation of viral genome replication",
+      "fdr": 1.2097581199432816e-14,
+      "p_value": 1.2097581199432816e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019058",
+      "label": "viral life cycle",
+      "fdr": 1.527761456804594e-14,
+      "p_value": 1.527761456804594e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050776",
+      "label": "regulation of immune response",
+      "fdr": 2.0738300364318677e-14,
+      "p_value": 2.0738300364318677e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0034341",
+      "label": "response to type II interferon",
+      "fdr": 5.385511271279607e-14,
+      "p_value": 5.385511271279607e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071345",
+      "label": "cellular response to cytokine stimulus",
+      "fdr": 8.423149808436146e-14,
+      "p_value": 8.423149808436146e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031347",
+      "label": "regulation of defense response",
+      "fdr": 1.9292910430844328e-13,
+      "p_value": 1.9292910430844328e-13,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032101",
+      "label": "regulation of response to external stimulus",
+      "fdr": 2.663359126847236e-13,
+      "p_value": 2.663359126847236e-13,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019079",
+      "label": "viral genome replication",
+      "fdr": 1.6216808907660468e-12,
+      "p_value": 1.6216808907660468e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0140374",
+      "label": "antiviral innate immune response",
+      "fdr": 1.9862504388620395e-12,
+      "p_value": 1.9862504388620395e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002682",
+      "label": "regulation of immune system process",
+      "fdr": 3.4238788093629392e-12,
+      "p_value": 3.4238788093629392e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019221",
+      "label": "cytokine-mediated signaling pathway",
+      "fdr": 3.7572184734625244e-12,
+      "p_value": 3.7572184734625244e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032103",
+      "label": "positive regulation of response to external stimulus",
+      "fdr": 1.0309557893155316e-11,
+      "p_value": 1.0309557893155316e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031349",
+      "label": "positive regulation of defense response",
+      "fdr": 1.4723549822698433e-10,
+      "p_value": 1.4723549822698433e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002684",
+      "label": "positive regulation of immune system process",
+      "fdr": 2.3839133885383726e-10,
+      "p_value": 2.3839133885383726e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0035455",
+      "label": "response to interferon-alpha",
+      "fdr": 2.5405581673106844e-10,
+      "p_value": 2.5405581673106844e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050778",
+      "label": "positive regulation of immune response",
+      "fdr": 5.292535762380179e-10,
+      "p_value": 5.292535762380179e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0140888",
+      "label": "interferon-mediated signaling pathway",
+      "fdr": 5.821167221077806e-10,
+      "p_value": 5.821167221077806e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045089",
+      "label": "positive regulation of innate immune response",
+      "fdr": 1.5965644136382926e-09,
+      "p_value": 1.5965644136382926e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:05164",
+      "label": "Influenza A",
+      "fdr": 4.250711937131243e-09,
+      "p_value": 4.250711937131243e-09,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0002833",
+      "label": "positive regulation of response to biotic stimulus",
+      "fdr": 4.688396326097897e-09,
+      "p_value": 4.688396326097897e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0035456",
+      "label": "response to interferon-beta",
+      "fdr": 9.3984528844775e-09,
+      "p_value": 9.3984528844775e-09,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002218",
+      "label": "activation of innate immune response",
+      "fdr": 1.2540015167840232e-08,
+      "p_value": 1.2540015167840232e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042221",
+      "label": "response to chemical",
+      "fdr": 1.382204337171498e-08,
+      "p_value": 1.382204337171498e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002221",
+      "label": "pattern recognition receptor signaling pathway",
+      "fdr": 2.411560856632894e-08,
+      "p_value": 2.411560856632894e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0080134",
+      "label": "regulation of response to stress",
+      "fdr": 2.6014802727671875e-08,
+      "p_value": 2.6014802727671875e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002758",
+      "label": "innate immune response-activating signaling pathway",
+      "fdr": 5.155970736554374e-08,
+      "p_value": 5.155970736554374e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0060759",
+      "label": "regulation of response to cytokine stimulus",
+      "fdr": 6.751781479131684e-08,
+      "p_value": 6.751781479131684e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0034340",
+      "label": "response to type I interferon",
+      "fdr": 7.074303104092665e-08,
+      "p_value": 7.074303104092665e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:05168",
+      "label": "Herpes simplex virus 1 infection",
+      "fdr": 1.1169553001907052e-07,
+      "p_value": 1.1169553001907052e-07,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0002253",
+      "label": "activation of immune response",
+      "fdr": 1.1815130592465005e-07,
+      "p_value": 1.1815130592465005e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002757",
+      "label": "immune response-activating signaling pathway",
+      "fdr": 1.3705282918218264e-07,
+      "p_value": 1.3705282918218264e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0001959",
+      "label": "regulation of cytokine-mediated signaling pathway",
+      "fdr": 5.052434770918137e-07,
+      "p_value": 5.052434770918137e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002764",
+      "label": "immune response-regulating signaling pathway",
+      "fdr": 5.541548648912853e-07,
+      "p_value": 5.541548648912853e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0060337",
+      "label": "type I interferon-mediated signaling pathway",
+      "fdr": 8.179968320138069e-07,
+      "p_value": 8.179968320138069e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0071357",
+      "label": "cellular response to type I interferon",
+      "fdr": 9.20366949280248e-07,
+      "p_value": 9.20366949280248e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04622",
+      "label": "RIG-I-like receptor signaling pathway",
+      "fdr": 1.6727760194933762e-06,
+      "p_value": 1.6727760194933762e-06,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0046597",
+      "label": "host-mediated suppression of symbiont invasion",
+      "fdr": 1.6854230052861645e-06,
+      "p_value": 1.6854230052861645e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04621",
+      "label": "NOD-like receptor signaling pathway",
+      "fdr": 1.9665266279228948e-06,
+      "p_value": 1.9665266279228948e-06,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0045824",
+      "label": "negative regulation of innate immune response",
+      "fdr": 2.235389987373165e-06,
+      "p_value": 2.235389987373165e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002753",
+      "label": "cytoplasmic pattern recognition receptor signaling pathway",
+      "fdr": 5.461719662229689e-06,
+      "p_value": 5.461719662229689e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:05169",
+      "label": "Epstein-Barr virus infection",
+      "fdr": 5.489086560753309e-06,
+      "p_value": 5.489086560753309e-06,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0050896",
+      "label": "response to stimulus",
+      "fdr": 7.585013877919288e-06,
+      "p_value": 7.585013877919288e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0001819",
+      "label": "positive regulation of cytokine production",
+      "fdr": 1.5633131611139258e-05,
+      "p_value": 1.5633131611139258e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:05162",
+      "label": "Measles",
+      "fdr": 1.952149329279126e-05,
+      "p_value": 1.952149329279126e-05,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-1169410",
+      "label": "Antimicrobial mechanism of IFN-stimulated genes",
+      "fdr": 2.012341275553638e-05,
+      "p_value": 2.012341275553638e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006954",
+      "label": "inflammatory response",
+      "fdr": 2.0166195086118758e-05,
+      "p_value": 2.0166195086118758e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:05171",
+      "label": "Coronavirus disease - COVID-19",
+      "fdr": 2.5758626286134545e-05,
+      "p_value": 2.5758626286134545e-05,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0002832",
+      "label": "negative regulation of response to biotic stimulus",
+      "fdr": 2.763164660443109e-05,
+      "p_value": 2.763164660443109e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-168928",
+      "label": "DDX58/IFIH1-mediated induction of interferon-alpha/beta",
+      "fdr": 2.918823994955504e-05,
+      "p_value": 2.918823994955504e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:04612",
+      "label": "Antigen processing and presentation",
+      "fdr": 3.170428854887192e-05,
+      "p_value": 3.170428854887192e-05,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0001817",
+      "label": "regulation of cytokine production",
+      "fdr": 3.8696809684654214e-05,
+      "p_value": 3.8696809684654214e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0001816",
+      "label": "cytokine production",
+      "fdr": 4.1518771081336895e-05,
+      "p_value": 4.1518771081336895e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0060760",
+      "label": "positive regulation of response to cytokine stimulus",
+      "fdr": 4.6052583961998514e-05,
+      "p_value": 4.6052583961998514e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-168249",
+      "label": "Innate Immune System",
+      "fdr": 5.0674146844912243e-05,
+      "p_value": 5.0674146844912243e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-1236974",
+      "label": "ER-Phagosome pathway",
+      "fdr": 6.079191175967927e-05,
+      "p_value": 6.079191175967927e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:05160",
+      "label": "Hepatitis C",
+      "fdr": 6.276537831737443e-05,
+      "p_value": 6.276537831737443e-05,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0003725",
+      "label": "double-stranded RNA binding",
+      "fdr": 6.286164640678616e-05,
+      "p_value": 6.286164640678616e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-9824446",
+      "label": "Viral Infection Pathways",
+      "fdr": 7.64287671451778e-05,
+      "p_value": 7.64287671451778e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0071346",
+      "label": "cellular response to type II interferon",
+      "fdr": 9.496567408164022e-05,
+      "p_value": 9.496567408164022e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032728",
+      "label": "positive regulation of interferon-beta production",
+      "fdr": 0.00011047177609399688,
+      "p_value": 0.00011047177609399688,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0048584",
+      "label": "positive regulation of response to stimulus",
+      "fdr": 0.0001572214844963792,
+      "p_value": 0.0001572214844963792,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-1169408",
+      "label": "ISG15 antiviral mechanism",
+      "fdr": 0.00018690579414401903,
+      "p_value": 0.00018690579414401903,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-1236975",
+      "label": "Antigen processing-Cross presentation",
+      "fdr": 0.00020162087727289464,
+      "p_value": 0.00020162087727289464,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0032481",
+      "label": "positive regulation of type I interferon production",
+      "fdr": 0.00020165149871639225,
+      "p_value": 0.00020165149871639225,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-449147",
+      "label": "Signaling by Interleukins",
+      "fdr": 0.00021867465944732902,
+      "p_value": 0.00021867465944732902,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-446652",
+      "label": "Interleukin-1 family signaling",
+      "fdr": 0.00030355579688329856,
+      "p_value": 0.00030355579688329856,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9020702",
+      "label": "Interleukin-1 signaling",
+      "fdr": 0.000354361751991655,
+      "p_value": 0.000354361751991655,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0005829",
+      "label": "cytosol",
+      "fdr": 0.00035600227238373445,
+      "p_value": 0.00035600227238373445,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0032479",
+      "label": "regulation of type I interferon production",
+      "fdr": 0.0004445614504991145,
+      "p_value": 0.0004445614504991145,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032606",
+      "label": "type I interferon production",
+      "fdr": 0.0004445614504991145,
+      "p_value": 0.0004445614504991145,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5663205",
+      "label": "Infectious disease",
+      "fdr": 0.00047590168353008825,
+      "p_value": 0.00047590168353008825,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0010628",
+      "label": "positive regulation of gene expression",
+      "fdr": 0.0004810871758931035,
+      "p_value": 0.0004810871758931035,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0039530",
+      "label": "MDA-5 signaling pathway",
+      "fdr": 0.0004958683889037269,
+      "p_value": 0.0004958683889037269,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0001961",
+      "label": "positive regulation of cytokine-mediated signaling pathway",
+      "fdr": 0.0005318882323230075,
+      "p_value": 0.0005318882323230075,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9705671",
+      "label": "SARS-CoV-2 activates/modulates innate and adaptive immune responses",
+      "fdr": 0.0005602490267731546,
+      "p_value": 0.0005602490267731546,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0050777",
+      "label": "negative regulation of immune response",
+      "fdr": 0.0005748863167745694,
+      "p_value": 0.0005748863167745694,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032608",
+      "label": "interferon-beta production",
+      "fdr": 0.0006787178018076615,
+      "p_value": 0.0006787178018076615,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032648",
+      "label": "regulation of interferon-beta production",
+      "fdr": 0.0006787178018076615,
+      "p_value": 0.0006787178018076615,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0062207",
+      "label": "regulation of pattern recognition receptor signaling pathway",
+      "fdr": 0.0007817709466927521,
+      "p_value": 0.0007817709466927521,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:03050",
+      "label": "Proteasome",
+      "fdr": 0.0010151219945187214,
+      "p_value": 0.0010151219945187214,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0007166",
+      "label": "cell surface receptor signaling pathway",
+      "fdr": 0.0010433274334154452,
+      "p_value": 0.0010433274334154452,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005737",
+      "label": "cytoplasm",
+      "fdr": 0.0011258202848263197,
+      "p_value": 0.0011258202848263197,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-936440",
+      "label": "Negative regulators of DDX58/IFIH1 signaling",
+      "fdr": 0.0013905334016004922,
+      "p_value": 0.0013905334016004922,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0070269",
+      "label": "pyroptotic inflammatory response",
+      "fdr": 0.002415637763130387,
+      "p_value": 0.002415637763130387,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0051851",
+      "label": "host-mediated perturbation of symbiont process",
+      "fdr": 0.002419752020534412,
+      "p_value": 0.002419752020534412,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000502",
+      "label": "proteasome complex",
+      "fdr": 0.0024909231402259566,
+      "p_value": 0.0024909231402259566,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-9692916",
+      "label": "SARS-CoV-1 activates/modulates innate immune responses",
+      "fdr": 0.0027450940398979482,
+      "p_value": 0.0027450940398979482,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-983169",
+      "label": "Class I MHC mediated antigen processing & presentation",
+      "fdr": 0.0033748036784934194,
+      "p_value": 0.0033748036784934194,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5357801",
+      "label": "Programmed Cell Death",
+      "fdr": 0.00425956536863549,
+      "p_value": 0.00425956536863549,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9679506",
+      "label": "SARS-CoV Infections",
+      "fdr": 0.004415929841229363,
+      "p_value": 0.004415929841229363,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0030522",
+      "label": "intracellular receptor signaling pathway",
+      "fdr": 0.004608837433518645,
+      "p_value": 0.004608837433518645,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0035821",
+      "label": "modulation of process of another organism",
+      "fdr": 0.004622990201079595,
+      "p_value": 0.004622990201079595,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0031348",
+      "label": "negative regulation of defense response",
+      "fdr": 0.005402775637464069,
+      "p_value": 0.005402775637464069,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032020",
+      "label": "ISG15-protein conjugation",
+      "fdr": 0.005501697247595804,
+      "p_value": 0.005501697247595804,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04620",
+      "label": "Toll-like receptor signaling pathway",
+      "fdr": 0.005974404730559304,
+      "p_value": 0.005974404730559304,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0060339",
+      "label": "negative regulation of type I interferon-mediated signaling pathway",
+      "fdr": 0.006997283921672178,
+      "p_value": 0.006997283921672178,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0062208",
+      "label": "positive regulation of pattern recognition receptor signaling pathway",
+      "fdr": 0.00734230256383204,
+      "p_value": 0.00734230256383204,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-1236978",
+      "label": "Cross-presentation of soluble exogenous antigens (endosomes)",
+      "fdr": 0.007586245865424389,
+      "p_value": 0.007586245865424389,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-211733",
+      "label": "Regulation of activated PAK-2p34 by proteasome mediated degradation",
+      "fdr": 0.008384822404859249,
+      "p_value": 0.008384822404859249,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-1280218",
+      "label": "Adaptive Immune System",
+      "fdr": 0.008889447872784109,
+      "p_value": 0.008889447872784109,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-350562",
+      "label": "Regulation of ornithine decarboxylase (ODC)",
+      "fdr": 0.009247319643051404,
+      "p_value": 0.009247319643051404,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0070106",
+      "label": "interleukin-27-mediated signaling pathway",
+      "fdr": 0.009587824357212053,
+      "p_value": 0.009587824357212053,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-349425",
+      "label": "Autodegradation of the E3 ubiquitin ligase COP1",
+      "fdr": 0.010177267872156568,
+      "p_value": 0.010177267872156568,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9762114",
+      "label": "GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2",
+      "fdr": 0.010177267872156568,
+      "p_value": 0.010177267872156568,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-69601",
+      "label": "Ubiquitin-Mediated Degradation of Phosphorylated Cdc25A",
+      "fdr": 0.010177267872156568,
+      "p_value": 0.010177267872156568,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-75815",
+      "label": "Ubiquitin-dependent degradation of Cyclin D",
+      "fdr": 0.010177267872156568,
+      "p_value": 0.010177267872156568,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-69613",
+      "label": "p53-Independent G1/S DNA Damage Checkpoint",
+      "fdr": 0.010177267872156568,
+      "p_value": 0.010177267872156568,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-180534",
+      "label": "Vpu mediated degradation of CD4",
+      "fdr": 0.010177267872156568,
+      "p_value": 0.010177267872156568,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9694516",
+      "label": "SARS-CoV-2 Infection",
+      "fdr": 0.010291220820102497,
+      "p_value": 0.010291220820102497,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0048519",
+      "label": "negative regulation of biological process",
+      "fdr": 0.010832827276848424,
+      "p_value": 0.010832827276848424,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-169911",
+      "label": "Regulation of Apoptosis",
+      "fdr": 0.011178303110717278,
+      "p_value": 0.011178303110717278,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-180585",
+      "label": "Vif-mediated degradation of APOBEC3G",
+      "fdr": 0.011178303110717278,
+      "p_value": 0.011178303110717278,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9604323",
+      "label": "Negative regulation of NOTCH4 signaling",
+      "fdr": 0.011178303110717278,
+      "p_value": 0.011178303110717278,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5687128",
+      "label": "MAPK6/MAPK4 signaling",
+      "fdr": 0.011843151036317345,
+      "p_value": 0.011843151036317345,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-450408",
+      "label": "AUF1 (hnRNP D0) binds and destabilizes mRNA",
+      "fdr": 0.012254167147703016,
+      "p_value": 0.012254167147703016,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0010557",
+      "label": "positive regulation of macromolecule biosynthetic process",
+      "fdr": 0.012606562240845458,
+      "p_value": 0.012606562240845458,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0035458",
+      "label": "cellular response to interferon-beta",
+      "fdr": 0.012620891802037387,
+      "p_value": 0.012620891802037387,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-174113",
+      "label": "SCF-beta-TrCP mediated degradation of Emi1",
+      "fdr": 0.01340870753168,
+      "p_value": 0.01340870753168,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-4641257",
+      "label": "Degradation of AXIN",
+      "fdr": 0.01340870753168,
+      "p_value": 0.01340870753168,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9824272",
+      "label": "Somitogenesis",
+      "fdr": 0.01340870753168,
+      "p_value": 0.01340870753168,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-8854050",
+      "label": "FBXL7 down-regulates AURKA during mitotic entry and in early mitosis",
+      "fdr": 0.01340870753168,
+      "p_value": 0.01340870753168,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-8941858",
+      "label": "Regulation of RUNX3 expression and activity",
+      "fdr": 0.01340870753168,
+      "p_value": 0.01340870753168,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5362768",
+      "label": "Hh mutants are degraded by ERAD",
+      "fdr": 0.014645877506510908,
+      "p_value": 0.014645877506510908,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-69541",
+      "label": "Stabilization of p53",
+      "fdr": 0.015969735894962943,
+      "p_value": 0.015969735894962943,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-4641258",
+      "label": "Degradation of DVL",
+      "fdr": 0.015969735894962943,
+      "p_value": 0.015969735894962943,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0048522",
+      "label": "positive regulation of cellular process",
+      "fdr": 0.01638068910656505,
+      "p_value": 0.01638068910656505,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04623",
+      "label": "Cytosolic DNA-sensing pathway",
+      "fdr": 0.016837011184790193,
+      "p_value": 0.016837011184790193,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0042802",
+      "label": "identical protein binding",
+      "fdr": 0.017055626620764635,
+      "p_value": 0.017055626620764635,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-351202",
+      "label": "Metabolism of polyamines",
+      "fdr": 0.017384446931577414,
+      "p_value": 0.017384446931577414,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9678108",
+      "label": "SARS-CoV-1 Infection",
+      "fdr": 0.01739661152870424,
+      "p_value": 0.01739661152870424,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5676590",
+      "label": "NIK-->noncanonical NF-kB signaling",
+      "fdr": 0.01889428004613552,
+      "p_value": 0.01889428004613552,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5387390",
+      "label": "Hh mutants abrogate ligand secretion",
+      "fdr": 0.01889428004613552,
+      "p_value": 0.01889428004613552,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5607764",
+      "label": "CLEC7A (Dectin-1) signaling",
+      "fdr": 0.019295766731330388,
+      "p_value": 0.019295766731330388,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9833110",
+      "label": "RSV-host interactions",
+      "fdr": 0.019295766731330388,
+      "p_value": 0.019295766731330388,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0009893",
+      "label": "positive regulation of metabolic process",
+      "fdr": 0.019965630118784716,
+      "p_value": 0.019965630118784716,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-202424",
+      "label": "Downstream TCR signaling",
+      "fdr": 0.0204445732434839,
+      "p_value": 0.0204445732434839,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5607761",
+      "label": "Dectin-1 mediated noncanonical NF-kB signaling",
+      "fdr": 0.020503609599028177,
+      "p_value": 0.020503609599028177,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5610783",
+      "label": "Degradation of GLI2 by the proteasome",
+      "fdr": 0.020503609599028177,
+      "p_value": 0.020503609599028177,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5610785",
+      "label": "GLI3 is processed to GLI3R by the proteasome",
+      "fdr": 0.020503609599028177,
+      "p_value": 0.020503609599028177,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-187577",
+      "label": "SCF(Skp2)-mediated degradation of p27/p21",
+      "fdr": 0.020503609599028177,
+      "p_value": 0.020503609599028177,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5610780",
+      "label": "Degradation of GLI1 by the proteasome",
+      "fdr": 0.020503609599028177,
+      "p_value": 0.020503609599028177,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9705683",
+      "label": "SARS-CoV-2-host interactions",
+      "fdr": 0.021413781556996487,
+      "p_value": 0.021413781556996487,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5678895",
+      "label": "Defective CFTR causes cystic fibrosis",
+      "fdr": 0.02221691456981996,
+      "p_value": 0.02221691456981996,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0009967",
+      "label": "positive regulation of signal transduction",
+      "fdr": 0.022387580677935504,
+      "p_value": 0.022387580677935504,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0048518",
+      "label": "positive regulation of biological process",
+      "fdr": 0.02407991612150631,
+      "p_value": 0.02407991612150631,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5656169",
+      "label": "Termination of translesion DNA synthesis",
+      "fdr": 0.024329645081042833,
+      "p_value": 0.024329645081042833,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0070721",
+      "label": "ISGF3 complex",
+      "fdr": 0.025017515649123627,
+      "p_value": 0.025017515649123627,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "KEGG:05165",
+      "label": "Human papillomavirus infection",
+      "fdr": 0.02525742474810855,
+      "p_value": 0.02525742474810855,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0010604",
+      "label": "positive regulation of macromolecule metabolic process",
+      "fdr": 0.025621030624006454,
+      "p_value": 0.025621030624006454,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1905369",
+      "label": "endopeptidase complex",
+      "fdr": 0.027354347565470734,
+      "p_value": 0.027354347565470734,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-174084",
+      "label": "Autodegradation of Cdh1 by Cdh1:APC/C",
+      "fdr": 0.02802703326752736,
+      "p_value": 0.02802703326752736,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-4608870",
+      "label": "Asymmetric localization of PCP proteins",
+      "fdr": 0.02802703326752736,
+      "p_value": 0.02802703326752736,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0009891",
+      "label": "positive regulation of biosynthetic process",
+      "fdr": 0.02826907973719859,
+      "p_value": 0.02826907973719859,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019883",
+      "label": "antigen processing and presentation of endogenous antigen",
+      "fdr": 0.02854786155947379,
+      "p_value": 0.02854786155947379,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9711123",
+      "label": "Cellular response to chemical stress",
+      "fdr": 0.029343819121877536,
+      "p_value": 0.029343819121877536,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5358346",
+      "label": "Hedgehog ligand biogenesis",
+      "fdr": 0.030203108673281156,
+      "p_value": 0.030203108673281156,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9833109",
+      "label": "Evasion by RSV of host interferon responses",
+      "fdr": 0.031056487650556,
+      "p_value": 0.031056487650556,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-69580",
+      "label": "p53-Dependent G1/S DNA damage checkpoint",
+      "fdr": 0.03250710966351815,
+      "p_value": 0.03250710966351815,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-1234176",
+      "label": "Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha",
+      "fdr": 0.03250710966351815,
+      "p_value": 0.03250710966351815,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-69563",
+      "label": "p53-Dependent G1 DNA Damage Response",
+      "fdr": 0.03250710966351815,
+      "p_value": 0.03250710966351815,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-933543",
+      "label": "NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10",
+      "fdr": 0.032667849018904106,
+      "p_value": 0.032667849018904106,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0043687",
+      "label": "post-translational protein modification",
+      "fdr": 0.034027719528602514,
+      "p_value": 0.034027719528602514,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002683",
+      "label": "negative regulation of immune system process",
+      "fdr": 0.03461727690006508,
+      "p_value": 0.03461727690006508,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5658442",
+      "label": "Regulation of RAS by GAPs",
+      "fdr": 0.034944133928515135,
+      "p_value": 0.034944133928515135,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-1169091",
+      "label": "Activation of NF-kappaB in B cells",
+      "fdr": 0.034944133928515135,
+      "p_value": 0.034944133928515135,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-69615",
+      "label": "G1/S DNA Damage Checkpoints",
+      "fdr": 0.037519380390874484,
+      "p_value": 0.037519380390874484,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-174154",
+      "label": "APC/C:Cdc20 mediated degradation of Securin",
+      "fdr": 0.037519380390874484,
+      "p_value": 0.037519380390874484,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0043123",
+      "label": "positive regulation of canonical NF-kappaB signal transduction",
+      "fdr": 0.03812017429625842,
+      "p_value": 0.03812017429625842,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042611",
+      "label": "MHC protein complex",
+      "fdr": 0.039980082368098684,
+      "p_value": 0.039980082368098684,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-9793380",
+      "label": "Formation of paraxial mesoderm",
+      "fdr": 0.04023814856349838,
+      "p_value": 0.04023814856349838,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-8948751",
+      "label": "Regulation of PTEN stability and activity",
+      "fdr": 0.04023814856349838,
+      "p_value": 0.04023814856349838,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:1902533",
+      "label": "positive regulation of intracellular signal transduction",
+      "fdr": 0.04078948038887724,
+      "p_value": 0.04078948038887724,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1900246",
+      "label": "positive regulation of RIG-I signaling pathway",
+      "fdr": 0.04445099722725429,
+      "p_value": 0.04445099722725429,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-68949",
+      "label": "Orc1 removal from chromatin",
+      "fdr": 0.0461279469385595,
+      "p_value": 0.0461279469385595,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-8939902",
+      "label": "Regulation of RUNX2 expression and activity",
+      "fdr": 0.0461279469385595,
+      "p_value": 0.0461279469385595,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0005839",
+      "label": "proteasome core complex",
+      "fdr": 0.046852966583171694,
+      "p_value": 0.046852966583171694,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0048583",
+      "label": "regulation of response to stimulus",
+      "fdr": 0.0469186388164934,
+      "p_value": 0.0469186388164934,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    }
+  ]
+}

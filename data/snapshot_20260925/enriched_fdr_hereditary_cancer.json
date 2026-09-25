@@ -1,0 +1,6648 @@
+{
+  "PANTHER": [
+    {
+      "id": "GO:0008285",
+      "label": "negative regulation of cell population proliferation",
+      "fdr": 4.9744938605779746e-08,
+      "p_value": 3.614921779360493e-12,
+      "fold": 15.500878734622145,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033554",
+      "label": "cellular response to stress",
+      "fdr": 5.5242064020609086e-08,
+      "p_value": 8.028786283062145e-12,
+      "fold": 7.819148936170213,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006121",
+      "label": "mitochondrial electron transport, succinate to ubiquinone",
+      "fdr": 6.278755879875227e-08,
+      "p_value": 1.3688153215337318e-11,
+      "fold": 588,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006974",
+      "label": "DNA damage response",
+      "fdr": 2.3630415402969226e-07,
+      "p_value": 6.868807616588686e-11,
+      "fold": 12.03274215552524,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045926",
+      "label": "negative regulation of growth",
+      "fdr": 2.6871341225925594e-07,
+      "p_value": 9.763585940674948e-11,
+      "fold": 31.783783783783782,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006281",
+      "label": "DNA repair",
+      "fdr": 3.143764095207605e-07,
+      "p_value": 1.3707277502540244e-10,
+      "fold": 17.05336426914153,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006298",
+      "label": "mismatch repair",
+      "fdr": 1.079612146301422e-06,
+      "p_value": 6.276358673360494e-10,
+      "fold": 114.84374999999999,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042127",
+      "label": "regulation of cell population proliferation",
+      "fdr": 1.105167395703266e-06,
+      "p_value": 5.62180929432662e-10,
+      "fold": 7.467343976777938,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030308",
+      "label": "negative regulation of cell growth",
+      "fdr": 1.5115816379911908e-06,
+      "p_value": 9.88608003918372e-10,
+      "fold": 34.3,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048583",
+      "label": "regulation of response to stimulus",
+      "fdr": 2.7963261846401074e-06,
+      "p_value": 2.0320661177531484e-09,
+      "fold": 3.78475798146241,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000710",
+      "label": "meiotic mismatch repair",
+      "fdr": 2.821497388715303e-06,
+      "p_value": 2.2553935960953662e-09,
+      "fold": 734.9999999999999,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006950",
+      "label": "response to stress",
+      "fdr": 3.252470351850834e-06,
+      "p_value": 3.0726047942780933e-09,
+      "fold": 4.359143327841846,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002520",
+      "label": "immune system development",
+      "fdr": 3.397308021342002e-06,
+      "p_value": 3.4563122083270133e-09,
+      "fold": 44.99999999999999,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009968",
+      "label": "negative regulation of signal transduction",
+      "fdr": 3.4003206524116155e-06,
+      "p_value": 2.9651804250373803e-09,
+      "fold": 7.482380579483163,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0023057",
+      "label": "negative regulation of signaling",
+      "fdr": 5.469091936979352e-06,
+      "p_value": 6.358947096262599e-09,
+      "fold": 7.025735294117648,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0040008",
+      "label": "regulation of growth",
+      "fdr": 5.631609767258349e-06,
+      "p_value": 6.95715180898132e-09,
+      "fold": 14.164882226980728,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010648",
+      "label": "negative regulation of cell communication",
+      "fdr": 5.833698066111309e-06,
+      "p_value": 6.358947096262599e-09,
+      "fold": 7.025735294117648,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010212",
+      "label": "response to ionizing radiation",
+      "fdr": 6.255501191602786e-06,
+      "p_value": 8.182473762724377e-09,
+      "fold": 39.02654867256637,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048523",
+      "label": "negative regulation of cellular process",
+      "fdr": 6.861830736267962e-06,
+      "p_value": 9.97286641416752e-09,
+      "fold": 3.224357635262168,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006259",
+      "label": "DNA metabolic process",
+      "fdr": 6.996491852481692e-06,
+      "p_value": 9.660151529478391e-09,
+      "fold": 10.970149253731341,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009966",
+      "label": "regulation of signal transduction",
+      "fdr": 1.1467965895017525e-05,
+      "p_value": 1.8334078169492446e-08,
+      "fold": 4.2485549132947975,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009628",
+      "label": "response to abiotic stimulus",
+      "fdr": 1.1851686393250931e-05,
+      "p_value": 1.8086288369905498e-08,
+      "fold": 8.59192348565356,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048296",
+      "label": "regulation of isotype switching to IgA isotypes",
+      "fdr": 1.2391974433522118e-05,
+      "p_value": 2.2512852324544214e-08,
+      "fold": 441,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048298",
+      "label": "positive regulation of isotype switching to IgA isotypes",
+      "fdr": 1.290830670158554e-05,
+      "p_value": 2.2512852324544214e-08,
+      "fold": 441,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048304",
+      "label": "positive regulation of isotype switching to IgG isotypes",
+      "fdr": 1.3469537427741432e-05,
+      "p_value": 2.2512852324544214e-08,
+      "fold": 441,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048519",
+      "label": "negative regulation of biological process",
+      "fdr": 1.4192829707151883e-05,
+      "p_value": 2.6815898000577647e-08,
+      "fold": 3.060678167757288,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051726",
+      "label": "regulation of cell cycle",
+      "fdr": 1.7776113439691116e-05,
+      "p_value": 3.487792041796818e-08,
+      "fold": 8.060817547357926,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048302",
+      "label": "regulation of isotype switching to IgG isotypes",
+      "fdr": 2.1346005550163704e-05,
+      "p_value": 4.49846785084476e-08,
+      "fold": 367.49999999999994,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048585",
+      "label": "negative regulation of response to stimulus",
+      "fdr": 2.1928206372639302e-05,
+      "p_value": 4.461810758185455e-08,
+      "fold": 5.971875,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902531",
+      "label": "regulation of intracellular signal transduction",
+      "fdr": 2.194173651920367e-05,
+      "p_value": 4.7834611988671616e-08,
+      "fold": 5.295934122490993,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0022402",
+      "label": "cell cycle process",
+      "fdr": 2.689120018012953e-05,
+      "p_value": 6.448729059983101e-08,
+      "fold": 8.974358974358974,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006099",
+      "label": "tricarboxylic acid cycle",
+      "fdr": 2.7341731476956342e-05,
+      "p_value": 6.358080134166143e-08,
+      "fold": 101.3793103448276,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032007",
+      "label": "negative regulation of TOR signaling",
+      "fdr": 2.798121404423174e-05,
+      "p_value": 6.30344913430117e-08,
+      "fold": 47.11538461538461,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051716",
+      "label": "cellular response to stimulus",
+      "fdr": 3.4350786844952226e-05,
+      "p_value": 8.487222968740467e-08,
+      "fold": 2.6985981308411215,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009893",
+      "label": "positive regulation of metabolic process",
+      "fdr": 3.9370682841284815e-05,
+      "p_value": 1.001361746562727e-07,
+      "fold": 3.8001824817518246,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050793",
+      "label": "regulation of developmental process",
+      "fdr": 4.5162259025382075e-05,
+      "p_value": 1.1814848665894592e-07,
+      "fold": 4.930522280785817,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010646",
+      "label": "regulation of cell communication",
+      "fdr": 5.213812636571492e-05,
+      "p_value": 1.477644741125559e-07,
+      "fold": 3.703319502074689,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007049",
+      "label": "cell cycle",
+      "fdr": 5.2432150665409574e-05,
+      "p_value": 1.4478756814806798e-07,
+      "fold": 8.230683090705487,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0023051",
+      "label": "regulation of signaling",
+      "fdr": 5.2792123358733654e-05,
+      "p_value": 1.4194524847563003e-07,
+      "fold": 3.713224368499257,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006139",
+      "label": "nucleobase-containing compound metabolic process",
+      "fdr": 6.0756170080267855e-05,
+      "p_value": 1.7660393890056786e-07,
+      "fold": 4.3354305937868665,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007275",
+      "label": "multicellular organism development",
+      "fdr": 6.201227948609222e-05,
+      "p_value": 1.8476153324102762e-07,
+      "fold": 3.95693135935397,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016445",
+      "label": "somatic diversification of immunoglobulins",
+      "fdr": 7.147125617907286e-05,
+      "p_value": 2.1813769054000873e-07,
+      "fold": 75.38461538461537,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010604",
+      "label": "positive regulation of macromolecule metabolic process",
+      "fdr": 7.211662029480062e-05,
+      "p_value": 2.2534806138190733e-07,
+      "fold": 3.901791639017916,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002377",
+      "label": "immunoglobulin production",
+      "fdr": 7.573211048563018e-05,
+      "p_value": 2.421490343265553e-07,
+      "fold": 73.5,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902532",
+      "label": "negative regulation of intracellular signal transduction",
+      "fdr": 7.714782521916782e-05,
+      "p_value": 2.5228196605352456e-07,
+      "fold": 9.316901408450704,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016446",
+      "label": "somatic hypermutation of immunoglobulin genes",
+      "fdr": 7.873802313312465e-05,
+      "p_value": 2.689257384824401e-07,
+      "fold": 220.5,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044238",
+      "label": "primary metabolic process",
+      "fdr": 8.037259078643476e-05,
+      "p_value": 2.803491285334546e-07,
+      "fold": 2.539258793969849,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002566",
+      "label": "somatic diversification of immune receptors via somatic mutation",
+      "fdr": 8.044971928819258e-05,
+      "p_value": 2.689257384824401e-07,
+      "fold": 220.5,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002440",
+      "label": "production of molecular mediator of immune response",
+      "fdr": 9.157395017627226e-05,
+      "p_value": 3.260753984911954e-07,
+      "fold": 68.37209302325581,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009892",
+      "label": "negative regulation of metabolic process",
+      "fdr": 9.157441006727045e-05,
+      "p_value": 3.39386302843601e-07,
+      "fold": 4.127667540247098,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009314",
+      "label": "response to radiation",
+      "fdr": 9.286765982933747e-05,
+      "p_value": 3.374306366882402e-07,
+      "fold": 14.7,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002200",
+      "label": "somatic diversification of immune receptors",
+      "fdr": 9.483134457405667e-05,
+      "p_value": 3.5834822453680305e-07,
+      "fold": 66.81818181818183,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051239",
+      "label": "regulation of multicellular organismal process",
+      "fdr": 9.823113885147844e-05,
+      "p_value": 3.7833372277656836e-07,
+      "fold": 4.09394727070182,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001558",
+      "label": "regulation of cell growth",
+      "fdr": 9.826882923530721e-05,
+      "p_value": 3.8561999699924346e-07,
+      "fold": 14.411764705882353,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048731",
+      "label": "system development",
+      "fdr": 0.00010974440093925688,
+      "p_value": 4.4660173334774983e-07,
+      "fold": 4.0429042904290435,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048856",
+      "label": "anatomical structure development",
+      "fdr": 0.00010986980679742245,
+      "p_value": 4.3912792484980997e-07,
+      "fold": 3.202614379084967,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000134",
+      "label": "negative regulation of G1/S transition of mitotic cell cycle",
+      "fdr": 0.00013439769134437242,
+      "p_value": 5.566941651500056e-07,
+      "fold": 59.999999999999986,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043067",
+      "label": "regulation of programmed cell death",
+      "fdr": 0.00013889452391381584,
+      "p_value": 5.854140241989186e-07,
+      "fold": 6.101886792452831,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007507",
+      "label": "heart development",
+      "fdr": 0.00014941902380220112,
+      "p_value": 6.4063094283336e-07,
+      "fold": 13.363636363636363,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009411",
+      "label": "response to UV",
+      "fdr": 0.00018770658851751247,
+      "p_value": 8.457095042573776e-07,
+      "fold": 28.053435114503817,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010557",
+      "label": "positive regulation of macromolecule biosynthetic process",
+      "fdr": 0.0001885243348719259,
+      "p_value": 8.356939486365438e-07,
+      "fold": 4.2137592137592135,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902807",
+      "label": "negative regulation of cell cycle G1/S phase transition",
+      "fdr": 0.00018968728919343557,
+      "p_value": 8.270647010832159e-07,
+      "fold": 54.44444444444444,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902895",
+      "label": "positive regulation of miRNA transcription",
+      "fdr": 0.0002061464072040401,
+      "p_value": 9.587508219648693e-07,
+      "fold": 52.50000000000001,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1904262",
+      "label": "negative regulation of TORC1 signaling",
+      "fdr": 0.00020941857239775501,
+      "p_value": 9.587508219648693e-07,
+      "fold": 52.50000000000001,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048522",
+      "label": "positive regulation of cellular process",
+      "fdr": 0.0002213408405382334,
+      "p_value": 1.045502117214241e-06,
+      "fold": 2.6678765880217785,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072359",
+      "label": "circulatory system development",
+      "fdr": 0.0002292419560491291,
+      "p_value": 1.0994818035929453e-06,
+      "fold": 9.576547231270359,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000630",
+      "label": "positive regulation of miRNA metabolic process",
+      "fdr": 0.0002930343039474239,
+      "p_value": 1.448029406905372e-06,
+      "fold": 47.41935483870968,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901991",
+      "label": "negative regulation of mitotic cell cycle phase transition",
+      "fdr": 0.00029689508756334447,
+      "p_value": 1.4455323644171267e-06,
+      "fold": 25.171232876712327,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009891",
+      "label": "positive regulation of biosynthetic process",
+      "fdr": 0.00029725916461249586,
+      "p_value": 1.490508128643428e-06,
+      "fold": 4.01953125,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043170",
+      "label": "macromolecule metabolic process",
+      "fdr": 0.0003020460762352914,
+      "p_value": 1.5364599474217279e-06,
+      "fold": 2.772483621203097,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003170",
+      "label": "heart valve development",
+      "fdr": 0.00038382120133844945,
+      "p_value": 1.9803288492863825e-06,
+      "fold": 43.88059701492537,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032502",
+      "label": "developmental process",
+      "fdr": 0.0003930011319423916,
+      "p_value": 2.056251834884979e-06,
+      "fold": 2.900043840420868,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008152",
+      "label": "metabolic process",
+      "fdr": 0.0004043189831561252,
+      "p_value": 2.1742318693084273e-06,
+      "fold": 2.2838983050847457,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045830",
+      "label": "positive regulation of isotype switching",
+      "fdr": 0.00040601274733993725,
+      "p_value": 2.1538355174635142e-06,
+      "fold": 116.05263157894736,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0040029",
+      "label": "epigenetic regulation of gene expression",
+      "fdr": 0.0004909315303180232,
+      "p_value": 2.6756678129388663e-06,
+      "fold": 14.651162790697676,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032006",
+      "label": "regulation of TOR signaling",
+      "fdr": 0.0004922460569629266,
+      "p_value": 2.718603323100241e-06,
+      "fold": 22.13855421686747,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903046",
+      "label": "meiotic cell cycle process",
+      "fdr": 0.0005152486341867314,
+      "p_value": 2.8830858827395045e-06,
+      "fold": 21.874999999999996,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902893",
+      "label": "regulation of miRNA transcription",
+      "fdr": 0.0005499018760291624,
+      "p_value": 3.11694980962682e-06,
+      "fold": 39.199999999999996,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048518",
+      "label": "positive regulation of biological process",
+      "fdr": 0.0005632761862547851,
+      "p_value": 3.233690772046219e-06,
+      "fold": 2.4983004758667575,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042981",
+      "label": "regulation of apoptotic process",
+      "fdr": 0.0006260977452656446,
+      "p_value": 3.639838646991612e-06,
+      "fold": 5.787401574803149,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902680",
+      "label": "positive regulation of RNA biosynthetic process",
+      "fdr": 0.0006630859830921456,
+      "p_value": 4.047614459686086e-06,
+      "fold": 5.015508684863524,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045786",
+      "label": "negative regulation of cell cycle",
+      "fdr": 0.00066602380178917,
+      "p_value": 4.017148139561159e-06,
+      "fold": 13.653250773993808,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045191",
+      "label": "regulation of isotype switching",
+      "fdr": 0.0006663298195791285,
+      "p_value": 3.92215067116557e-06,
+      "fold": 95.86956521739131,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045893",
+      "label": "positive regulation of DNA-templated transcription",
+      "fdr": 0.0006670543906439233,
+      "p_value": 3.974889908640485e-06,
+      "fold": 5.02486016159105,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019222",
+      "label": "regulation of metabolic process",
+      "fdr": 0.0006799250169035912,
+      "p_value": 4.1998129813825484e-06,
+      "fold": 2.460251046025105,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019646",
+      "label": "aerobic electron transport chain",
+      "fdr": 0.0007672833474206996,
+      "p_value": 4.90668807303405e-06,
+      "fold": 35,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090304",
+      "label": "nucleic acid metabolic process",
+      "fdr": 0.0007678170346856766,
+      "p_value": 4.854304339630395e-06,
+      "fold": 4.399002493765586,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051128",
+      "label": "regulation of cellular component organization",
+      "fdr": 0.0007680260373773456,
+      "p_value": 4.799813909923095e-06,
+      "fold": 3.9878964941569284,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042773",
+      "label": "ATP synthesis coupled electron transport",
+      "fdr": 0.0007694475988569875,
+      "p_value": 5.144188583303746e-06,
+      "fold": 34.58823529411765,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042775",
+      "label": "mitochondrial ATP synthesis coupled electron transport",
+      "fdr": 0.0007779030669762951,
+      "p_value": 5.144188583303746e-06,
+      "fold": 34.58823529411765,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000628",
+      "label": "regulation of miRNA metabolic process",
+      "fdr": 0.0007865464343871427,
+      "p_value": 5.144188583303746e-06,
+      "fold": 34.58823529411765,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045930",
+      "label": "negative regulation of mitotic cell cycle",
+      "fdr": 0.0007930139858032188,
+      "p_value": 5.1288601654303075e-06,
+      "fold": 19.444444444444443,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002714",
+      "label": "positive regulation of B cell mediated immunity",
+      "fdr": 0.0008317987407218389,
+      "p_value": 5.742379214343049e-06,
+      "fold": 84.8076923076923,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002891",
+      "label": "positive regulation of immunoglobulin mediated immune response",
+      "fdr": 0.0008406476634954755,
+      "p_value": 5.742379214343049e-06,
+      "fold": 84.8076923076923,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019219",
+      "label": "regulation of nucleobase-containing compound metabolic process",
+      "fdr": 0.0008496133057207573,
+      "p_value": 5.741881944046975e-06,
+      "fold": 3.0882352941176476,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006915",
+      "label": "apoptotic process",
+      "fdr": 0.0009308214036150602,
+      "p_value": 6.4936308950690915e-06,
+      "fold": 9.423076923076923,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010605",
+      "label": "negative regulation of macromolecule metabolic process",
+      "fdr": 0.0009970576196101247,
+      "p_value": 7.028165765727933e-06,
+      "fold": 3.854376764824526,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048729",
+      "label": "tissue morphogenesis",
+      "fdr": 0.001017124366191621,
+      "p_value": 7.243527933055654e-06,
+      "fold": 12.318435754189943,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090100",
+      "label": "positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway",
+      "fdr": 0.0010679041075375925,
+      "p_value": 7.682763363579803e-06,
+      "fold": 31.27659574468085,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0080090",
+      "label": "regulation of primary metabolic process",
+      "fdr": 0.0010712773238956417,
+      "p_value": 8.018426303411895e-06,
+      "fold": 2.652365677626303,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901988",
+      "label": "negative regulation of cell cycle phase transition",
+      "fdr": 0.0010733066606211617,
+      "p_value": 7.799626921162428e-06,
+      "fold": 17.839805825242717,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0022904",
+      "label": "respiratory electron transport chain",
+      "fdr": 0.0010810456041751991,
+      "p_value": 8.0129824595502e-06,
+      "fold": 30.947368421052637,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051321",
+      "label": "meiotic cell cycle",
+      "fdr": 0.0010879664663054186,
+      "p_value": 7.985220049185908e-06,
+      "fold": 17.753623188405797,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051254",
+      "label": "positive regulation of RNA metabolic process",
+      "fdr": 0.0010972097494992093,
+      "p_value": 8.292261750448206e-06,
+      "fold": 4.65725806451613,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903846",
+      "label": "positive regulation of cellular response to transforming growth factor beta stimulus",
+      "fdr": 0.0011490210224334098,
+      "p_value": 8.934325223484837e-06,
+      "fold": 73.5,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010628",
+      "label": "positive regulation of gene expression",
+      "fdr": 0.0011591933237342482,
+      "p_value": 8.844945788249114e-06,
+      "fold": 6.0632447296058665,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030511",
+      "label": "positive regulation of transforming growth factor beta receptor signaling pathway",
+      "fdr": 0.0011598608433997628,
+      "p_value": 8.934325223484837e-06,
+      "fold": 73.5,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050896",
+      "label": "response to stimulus",
+      "fdr": 0.0011688707166143857,
+      "p_value": 9.173609286705448e-06,
+      "fold": 2.168141592920354,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006310",
+      "label": "DNA recombination",
+      "fdr": 0.0011846284772419513,
+      "p_value": 9.383366326529518e-06,
+      "fold": 17.172897196261683,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0012501",
+      "label": "programmed cell death",
+      "fdr": 0.0013466923263714295,
+      "p_value": 1.0764926669635727e-05,
+      "fold": 8.720338983050848,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008219",
+      "label": "cell death",
+      "fdr": 0.0014125127486369594,
+      "p_value": 1.149636129985753e-05,
+      "fold": 8.63255033557047,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0022900",
+      "label": "electron transport chain",
+      "fdr": 0.0014227931878668322,
+      "p_value": 1.1476640059095878e-05,
+      "fold": 28.269230769230766,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051094",
+      "label": "positive regulation of developmental process",
+      "fdr": 0.001492514978718695,
+      "p_value": 1.2255954697711832e-05,
+      "fold": 5.82306338028169,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006119",
+      "label": "oxidative phosphorylation",
+      "fdr": 0.0015504709681889777,
+      "p_value": 1.2844538214776794e-05,
+      "fold": 27.47663551401869,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003203",
+      "label": "endocardial cushion morphogenesis",
+      "fdr": 0.0015699897192273501,
+      "p_value": 1.3120326844789277e-05,
+      "fold": 64.8529411764706,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0022414",
+      "label": "reproductive process",
+      "fdr": 0.0017559795585600987,
+      "p_value": 1.4802240301792853e-05,
+      "fold": 5.687876182287188,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903432",
+      "label": "regulation of TORC1 signaling",
+      "fdr": 0.001809685610677077,
+      "p_value": 1.5386470201963375e-05,
+      "fold": 26.250000000000004,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032501",
+      "label": "multicellular organismal process",
+      "fdr": 0.0019570833692927215,
+      "p_value": 1.6781908115437914e-05,
+      "fold": 2.5248091603053435,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061982",
+      "label": "meiosis I cell cycle process",
+      "fdr": 0.0019749884802916467,
+      "p_value": 1.7078964403365013e-05,
+      "fold": 25.565217391304348,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0097190",
+      "label": "apoptotic signaling pathway",
+      "fdr": 0.002109189828685851,
+      "p_value": 1.8392760660003056e-05,
+      "fold": 14.939024390243901,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010948",
+      "label": "negative regulation of cell cycle process",
+      "fdr": 0.0022305154572269956,
+      "p_value": 2.026120428409087e-05,
+      "fold": 14.641434262948206,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002712",
+      "label": "regulation of B cell mediated immunity",
+      "fdr": 0.002231611099130935,
+      "p_value": 1.9946818195850954e-05,
+      "fold": 56.53846153846153,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901987",
+      "label": "regulation of cell cycle phase transition",
+      "fdr": 0.0022404445821883703,
+      "p_value": 1.9700152201496463e-05,
+      "fold": 10.327868852459016,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009416",
+      "label": "response to light stimulus",
+      "fdr": 0.002248503485107858,
+      "p_value": 2.026120428409087e-05,
+      "fold": 14.641434262948206,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002889",
+      "label": "regulation of immunoglobulin mediated immune response",
+      "fdr": 0.0022499029933861063,
+      "p_value": 1.9946818195850954e-05,
+      "fold": 56.53846153846153,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009653",
+      "label": "anatomical structure morphogenesis",
+      "fdr": 0.0023325215254337795,
+      "p_value": 2.135729323484167e-05,
+      "fold": 4.738878143133462,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009888",
+      "label": "tissue development",
+      "fdr": 0.0023362596785773764,
+      "p_value": 2.1561294904391162e-05,
+      "fold": 5.426579163248564,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072132",
+      "label": "mesenchyme morphogenesis",
+      "fdr": 0.0024774292291718037,
+      "p_value": 2.322421121743788e-05,
+      "fold": 53.78048780487805,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045934",
+      "label": "negative regulation of nucleobase-containing compound metabolic process",
+      "fdr": 0.00248309744551597,
+      "p_value": 2.309690233457192e-05,
+      "fold": 4.696485623003195,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000018",
+      "label": "regulation of DNA recombination",
+      "fdr": 0.002590693815935543,
+      "p_value": 2.4474253039141093e-05,
+      "fold": 23.333333333333332,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003197",
+      "label": "endocardial cushion development",
+      "fdr": 0.0026248759072017157,
+      "p_value": 2.4987918308511355e-05,
+      "fold": 52.49999999999999,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090090",
+      "label": "negative regulation of canonical Wnt signaling pathway",
+      "fdr": 0.002631956084108245,
+      "p_value": 2.5246581142525133e-05,
+      "fold": 23.149606299212596,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008340",
+      "label": "determination of adult lifespan",
+      "fdr": 0.0027201691592690044,
+      "p_value": 2.6685766768499063e-05,
+      "fold": 244.99999999999997,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032909",
+      "label": "regulation of transforming growth factor beta2 production",
+      "fdr": 0.0027404689291142953,
+      "p_value": 2.6685766768499063e-05,
+      "fold": 244.99999999999997,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072215",
+      "label": "regulation of metanephros development",
+      "fdr": 0.002761073958656508,
+      "p_value": 2.6685766768499063e-05,
+      "fold": 244.99999999999997,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035556",
+      "label": "intracellular signal transduction",
+      "fdr": 0.0031041503523321855,
+      "p_value": 3.0678326278408344e-05,
+      "fold": 4.545454545454545,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002639",
+      "label": "positive regulation of immunoglobulin production",
+      "fdr": 0.0033067941802306993,
+      "p_value": 3.292135765508363e-05,
+      "fold": 47.934782608695656,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048513",
+      "label": "animal organ development",
+      "fdr": 0.003351282754647541,
+      "p_value": 3.385134095603577e-05,
+      "fold": 4.016393442622951,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060255",
+      "label": "regulation of macromolecule metabolic process",
+      "fdr": 0.0033517166729740023,
+      "p_value": 3.3612157609942034e-05,
+      "fold": 2.408958485069191,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051052",
+      "label": "regulation of DNA metabolic process",
+      "fdr": 0.003691400130214219,
+      "p_value": 3.755512086548875e-05,
+      "fold": 9.20668058455115,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000045",
+      "label": "regulation of G1/S transition of mitotic cell cycle",
+      "fdr": 0.004486547979274685,
+      "p_value": 4.597073360059084e-05,
+      "fold": 19.864864864864867,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0097193",
+      "label": "intrinsic apoptotic signaling pathway",
+      "fdr": 0.004573575697249378,
+      "p_value": 4.719480771814634e-05,
+      "fold": 19.731543624161073,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071478",
+      "label": "cellular response to radiation",
+      "fdr": 0.004597366613404489,
+      "p_value": 4.84425665971696e-05,
+      "fold": 19.599999999999998,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0104004",
+      "label": "cellular response to environmental stimulus",
+      "fdr": 0.0046132636593546736,
+      "p_value": 4.827483227578468e-05,
+      "fold": 12.209302325581396,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071214",
+      "label": "cellular response to abiotic stimulus",
+      "fdr": 0.004645524244385126,
+      "p_value": 4.827483227578468e-05,
+      "fold": 12.209302325581396,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051130",
+      "label": "positive regulation of cellular component organization",
+      "fdr": 0.004736691390993625,
+      "p_value": 5.025484652896368e-05,
+      "fold": 5.681159420289855,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009894",
+      "label": "regulation of catabolic process",
+      "fdr": 0.004835098666810829,
+      "p_value": 5.165028006839561e-05,
+      "fold": 5.659287776708374,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002637",
+      "label": "regulation of immunoglobulin production",
+      "fdr": 0.00496537386356791,
+      "p_value": 5.3402756471771727e-05,
+      "fold": 40.83333333333333,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030178",
+      "label": "negative regulation of Wnt signaling pathway",
+      "fdr": 0.005178033766049623,
+      "p_value": 5.644248709450211e-05,
+      "fold": 18.846153846153843,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046620",
+      "label": "regulation of organ growth",
+      "fdr": 0.005211842534910054,
+      "p_value": 5.6432275103669647e-05,
+      "fold": 40.09090909090909,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003179",
+      "label": "heart valve morphogenesis",
+      "fdr": 0.00542896838730539,
+      "p_value": 5.957228591549407e-05,
+      "fold": 39.37500000000001,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901990",
+      "label": "regulation of mitotic cell cycle phase transition",
+      "fdr": 0.005504588879044149,
+      "p_value": 6.08020863029366e-05,
+      "fold": 11.629746835443038,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006325",
+      "label": "chromatin organization",
+      "fdr": 0.005940674833630147,
+      "p_value": 6.605066852302975e-05,
+      "fold": 6.570881226053639,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043069",
+      "label": "negative regulation of programmed cell death",
+      "fdr": 0.006143970135584656,
+      "p_value": 6.875745955090742e-05,
+      "fold": 6.529187817258884,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048584",
+      "label": "positive regulation of response to stimulus",
+      "fdr": 0.006550697721232694,
+      "p_value": 7.37852006969746e-05,
+      "fold": 3.6934673366834168,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019953",
+      "label": "sexual reproduction",
+      "fdr": 0.0065669116929585455,
+      "p_value": 7.444504208280889e-05,
+      "fold": 6.447368421052632,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071479",
+      "label": "cellular response to ionizing radiation",
+      "fdr": 0.006748482203584158,
+      "p_value": 7.69938017558835e-05,
+      "fold": 36.147540983606554,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043276",
+      "label": "anoikis",
+      "fdr": 0.006949131374420375,
+      "p_value": 7.978800647906541e-05,
+      "fold": 147,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008630",
+      "label": "intrinsic apoptotic signaling pathway in response to DNA damage",
+      "fdr": 0.006952324869465962,
+      "p_value": 8.08351122094727e-05,
+      "fold": 35.56451612903226,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009267",
+      "label": "cellular response to starvation",
+      "fdr": 0.006978296627978322,
+      "p_value": 8.062998065900394e-05,
+      "fold": 17.192982456140353,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001656",
+      "label": "metanephros development",
+      "fdr": 0.007203257452343723,
+      "p_value": 8.479962991640746e-05,
+      "fold": 35,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902806",
+      "label": "regulation of cell cycle G1/S phase transition",
+      "fdr": 0.007209220143435349,
+      "p_value": 8.434593729329926e-05,
+      "fold": 16.99421965317919,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030154",
+      "label": "cell differentiation",
+      "fdr": 0.007395862654510618,
+      "p_value": 8.760450640834466e-05,
+      "fold": 3.3120540743522344,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048869",
+      "label": "cellular developmental process",
+      "fdr": 0.00748833514581699,
+      "p_value": 8.924402034110795e-05,
+      "fold": 3.305847076461769,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042776",
+      "label": "proton motive force-driven mitochondrial ATP synthesis",
+      "fdr": 0.007718215886969133,
+      "p_value": 9.310543109053673e-05,
+      "fold": 33.92307692307692,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050871",
+      "label": "positive regulation of B cell activation",
+      "fdr": 0.0077649929529507635,
+      "p_value": 9.310543109053673e-05,
+      "fold": 33.92307692307692,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045911",
+      "label": "positive regulation of DNA recombination",
+      "fdr": 0.008398776856984546,
+      "p_value": 0.00010192542221614847,
+      "fold": 32.91044776119403,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009060",
+      "label": "aerobic respiration",
+      "fdr": 0.008406428694360106,
+      "p_value": 0.00010262917089255852,
+      "fold": 16.153846153846153,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060485",
+      "label": "mesenchyme development",
+      "fdr": 0.009088460178332486,
+      "p_value": 0.00011161614491230217,
+      "fold": 15.806451612903228,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045944",
+      "label": "positive regulation of transcription by RNA polymerase II",
+      "fdr": 0.00913702550665279,
+      "p_value": 0.00011287655956187589,
+      "fold": 5.064599483204134,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044027",
+      "label": "negative regulation of gene expression via chromosomal CpG island methylation",
+      "fdr": 0.009346716555957804,
+      "p_value": 0.00011682546672659998,
+      "fold": 122.49999999999999,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032780",
+      "label": "negative regulation of ATP-dependent activity",
+      "fdr": 0.009401375717103755,
+      "p_value": 0.00011682546672659998,
+      "fold": 122.49999999999999,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0015986",
+      "label": "proton motive force-driven ATP synthesis",
+      "fdr": 0.01046878088407545,
+      "p_value": 0.0001316110088616418,
+      "fold": 30.205479452054792,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051240",
+      "label": "positive regulation of multicellular organismal process",
+      "fdr": 0.010522149555451376,
+      "p_value": 0.00013304658256293433,
+      "fold": 4.301040312093628,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072075",
+      "label": "metanephric mesenchyme development",
+      "fdr": 0.010847618933014148,
+      "p_value": 0.00013795024440647308,
+      "fold": 113.07692307692307,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045333",
+      "label": "cellular respiration",
+      "fdr": 0.011103687373354631,
+      "p_value": 0.00014201358750893213,
+      "fold": 14.848484848484848,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006754",
+      "label": "ATP biosynthetic process",
+      "fdr": 0.012938862057967376,
+      "p_value": 0.00016642530224985288,
+      "fold": 27.91139240506329,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042594",
+      "label": "response to starvation",
+      "fdr": 0.013022974684682694,
+      "p_value": 0.00016845356397598426,
+      "fold": 14.202898550724639,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045190",
+      "label": "isotype switching",
+      "fdr": 0.014017301615763807,
+      "p_value": 0.00018538978955519314,
+      "fold": 98.00000000000001,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072074",
+      "label": "kidney mesenchyme development",
+      "fdr": 0.01409474527109952,
+      "p_value": 0.00018538978955519314,
+      "fold": 98.00000000000001,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002204",
+      "label": "somatic recombination of immunoglobulin genes involved in immune response",
+      "fdr": 0.014173049411494517,
+      "p_value": 0.00018538978955519314,
+      "fold": 98.00000000000001,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045814",
+      "label": "negative regulation of gene expression, epigenetic",
+      "fdr": 0.014190972466422726,
+      "p_value": 0.00018459298535641798,
+      "fold": 13.867924528301886,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006338",
+      "label": "chromatin remodeling",
+      "fdr": 0.014794682432061177,
+      "p_value": 0.00019674637635834572,
+      "fold": 6.816074188562597,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044092",
+      "label": "negative regulation of molecular function",
+      "fdr": 0.015093914478810642,
+      "p_value": 0.0002018225611584302,
+      "fold": 13.548387096774196,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006470",
+      "label": "protein dephosphorylation",
+      "fdr": 0.015377660322305827,
+      "p_value": 0.00020673404255697826,
+      "fold": 25.94117647058824,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030325",
+      "label": "adrenal gland development",
+      "fdr": 0.015662070248825714,
+      "p_value": 0.00021169573913825906,
+      "fold": 91.87499999999999,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000122",
+      "label": "negative regulation of transcription by RNA polymerase II",
+      "fdr": 0.016013092058492842,
+      "p_value": 0.00021760396882044628,
+      "fold": 5.427215189873417,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009145",
+      "label": "purine nucleoside triphosphate biosynthetic process",
+      "fdr": 0.017243887232864782,
+      "p_value": 0.0002368355996665536,
+      "fold": 24.775280898876407,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009206",
+      "label": "purine ribonucleoside triphosphate biosynthetic process",
+      "fdr": 0.017335610037294915,
+      "p_value": 0.0002368355996665536,
+      "fold": 24.775280898876407,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010507",
+      "label": "negative regulation of autophagy",
+      "fdr": 0.018220291631494533,
+      "p_value": 0.0002528940993834355,
+      "fold": 24.23076923076923,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0035051",
+      "label": "cardiocyte differentiation",
+      "fdr": 0.01831618790323924,
+      "p_value": 0.0002528940993834355,
+      "fold": 24.23076923076923,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048468",
+      "label": "cell development",
+      "fdr": 0.01841978556426217,
+      "p_value": 0.00025700158624651816,
+      "fold": 3.944543828264759,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045892",
+      "label": "negative regulation of DNA-templated transcription",
+      "fdr": 0.018935748632721038,
+      "p_value": 0.00026557659226183854,
+      "fold": 4.474885844748859,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0110020",
+      "label": "regulation of actomyosin structure organization",
+      "fdr": 0.019028393035079257,
+      "p_value": 0.0002696414971179751,
+      "fold": 23.70967741935484,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010224",
+      "label": "response to UV-B",
+      "fdr": 0.01911346210515914,
+      "p_value": 0.0002694580080227362,
+      "fold": 81.66666666666667,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031669",
+      "label": "cellular response to nutrient levels",
+      "fdr": 0.019205577173980193,
+      "p_value": 0.0002735479344597135,
+      "fold": 12.51063829787234,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901701",
+      "label": "cellular response to oxygen-containing compound",
+      "fdr": 0.019224963458938867,
+      "p_value": 0.00027522111775386647,
+      "fold": 5.223350253807107,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1902679",
+      "label": "negative regulation of RNA biosynthetic process",
+      "fdr": 0.019338848213306607,
+      "p_value": 0.0002782568088245555,
+      "fold": 4.444444444444445,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044087",
+      "label": "regulation of cellular component biogenesis",
+      "fdr": 0.019630211064315537,
+      "p_value": 0.00028387559056745817,
+      "fold": 5.196969696969697,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051241",
+      "label": "negative regulation of multicellular organismal process",
+      "fdr": 0.019896569574699492,
+      "p_value": 0.00028917330971149613,
+      "fold": 5.181268882175226,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060828",
+      "label": "regulation of canonical Wnt signaling pathway",
+      "fdr": 0.019969774699794673,
+      "p_value": 0.00029168844667238784,
+      "fold": 12.301255230125523,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090092",
+      "label": "regulation of transmembrane receptor protein serine/threonine kinase signaling pathway",
+      "fdr": 0.020309353427086212,
+      "p_value": 0.0003010760917902469,
+      "fold": 12.199170124481327,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002208",
+      "label": "somatic diversification of immunoglobulins involved in immune response",
+      "fdr": 0.02039783931002012,
+      "p_value": 0.00030090555773083967,
+      "fold": 77.36842105263158,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010564",
+      "label": "regulation of cell cycle process",
+      "fdr": 0.02041060236837237,
+      "p_value": 0.0003055434988652502,
+      "fold": 6.282051282051283,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043065",
+      "label": "positive regulation of apoptotic process",
+      "fdr": 0.020439376713875548,
+      "p_value": 0.00030745955815509327,
+      "fold": 8.221476510067113,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045595",
+      "label": "regulation of cell differentiation",
+      "fdr": 0.02047124111630784,
+      "p_value": 0.00030050074162445926,
+      "fold": 4.394618834080718,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009201",
+      "label": "ribonucleoside triphosphate biosynthetic process",
+      "fdr": 0.020490706301896835,
+      "p_value": 0.00030525360016632887,
+      "fold": 22.7319587628866,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010717",
+      "label": "regulation of epithelial to mesenchymal transition",
+      "fdr": 0.02081396710224646,
+      "p_value": 0.0003146068713950486,
+      "fold": 22.499999999999996,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0015980",
+      "label": "energy derivation by oxidation of organic compounds",
+      "fdr": 0.02176367055120174,
+      "p_value": 0.0003305433576921128,
+      "fold": 11.902834008097166,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048512",
+      "label": "circadian behavior",
+      "fdr": 0.021786612022729183,
+      "p_value": 0.0003340582179199083,
+      "fold": 73.5,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002381",
+      "label": "immunoglobulin production involved in immunoglobulin-mediated immune response",
+      "fdr": 0.02189035779426599,
+      "p_value": 0.0003340582179199083,
+      "fold": 73.5,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007346",
+      "label": "regulation of mitotic cell cycle",
+      "fdr": 0.02276863287013521,
+      "p_value": 0.00035077030509909635,
+      "fold": 7.989130434782608,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007622",
+      "label": "rhythmic behavior",
+      "fdr": 0.023502744701293536,
+      "p_value": 0.0003689116238267134,
+      "fold": 70,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010468",
+      "label": "regulation of gene expression",
+      "fdr": 0.02351992843137789,
+      "p_value": 0.00036576300300231586,
+      "fold": 2.3628375482211745,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002824",
+      "label": "positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains",
+      "fdr": 0.023526274442326394,
+      "p_value": 0.0003641520569882655,
+      "fold": 21.40776699029126,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006312",
+      "label": "mitotic recombination",
+      "fdr": 0.023612059792927458,
+      "p_value": 0.0003689116238267134,
+      "fold": 70,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0036293",
+      "label": "response to decreased oxygen levels",
+      "fdr": 0.024005798458197867,
+      "p_value": 0.00037855230473286366,
+      "fold": 11.484374999999998,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009142",
+      "label": "nucleoside triphosphate biosynthetic process",
+      "fdr": 0.02410022934575273,
+      "p_value": 0.0003852954331854953,
+      "fold": 21,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043068",
+      "label": "positive regulation of programmed cell death",
+      "fdr": 0.024105197266784104,
+      "p_value": 0.00038712656027609094,
+      "fold": 7.819148936170213,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050864",
+      "label": "regulation of B cell activation",
+      "fdr": 0.024210276055094068,
+      "p_value": 0.0003852954331854953,
+      "fold": 21,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045667",
+      "label": "regulation of osteoblast differentiation",
+      "fdr": 0.024321332367273397,
+      "p_value": 0.0003852954331854953,
+      "fold": 21,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001933",
+      "label": "negative regulation of protein phosphorylation",
+      "fdr": 0.024556390857216105,
+      "p_value": 0.0003961571666522764,
+      "fold": 20.80188679245283,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003272",
+      "label": "endocardial cushion formation",
+      "fdr": 0.02502042413818885,
+      "p_value": 0.00040546141870620694,
+      "fold": 66.81818181818183,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901700",
+      "label": "response to oxygen-containing compound",
+      "fdr": 0.025102677492774565,
+      "p_value": 0.0004086185421394886,
+      "fold": 4.2,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044089",
+      "label": "positive regulation of cellular component biogenesis",
+      "fdr": 0.025334289657400998,
+      "p_value": 0.0004142297197089764,
+      "fold": 7.70440251572327,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002708",
+      "label": "positive regulation of lymphocyte mediated immunity",
+      "fdr": 0.025480270008967618,
+      "p_value": 0.00041846820885303986,
+      "fold": 20.416666666666664,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051054",
+      "label": "positive regulation of DNA metabolic process",
+      "fdr": 0.02615011444278235,
+      "p_value": 0.00043136952100222316,
+      "fold": 11.094339622641511,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003148",
+      "label": "outflow tract septum morphogenesis",
+      "fdr": 0.026205152253467867,
+      "p_value": 0.0004437032537648436,
+      "fold": 63.913043478260875,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043066",
+      "label": "negative regulation of apoptotic process",
+      "fdr": 0.02626121892979618,
+      "p_value": 0.0004351106689916088,
+      "fold": 5.88,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002821",
+      "label": "positive regulation of adaptive immune response",
+      "fdr": 0.02630510998031508,
+      "p_value": 0.00044157258959761524,
+      "fold": 20.045454545454547,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003181",
+      "label": "atrioventricular valve morphogenesis",
+      "fdr": 0.02631810549593971,
+      "p_value": 0.0004437032537648436,
+      "fold": 63.913043478260875,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009058",
+      "label": "biosynthetic process",
+      "fdr": 0.026413186113988185,
+      "p_value": 0.00043954797035849824,
+      "fold": 2.61709120788825,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001649",
+      "label": "osteoblast differentiation",
+      "fdr": 0.026419480023707753,
+      "p_value": 0.00044157258959761524,
+      "fold": 20.045454545454547,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007093",
+      "label": "mitotic cell cycle checkpoint signaling",
+      "fdr": 0.026664935061047168,
+      "p_value": 0.00045342597226110293,
+      "fold": 19.864864864864863,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051093",
+      "label": "negative regulation of developmental process",
+      "fdr": 0.027529385439927057,
+      "p_value": 0.00047012612298400245,
+      "fold": 5.795006570302235,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010556",
+      "label": "regulation of macromolecule biosynthetic process",
+      "fdr": 0.02818445642442376,
+      "p_value": 0.0004854092124546495,
+      "fold": 2.305520702634881,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2000001",
+      "label": "regulation of DNA damage checkpoint",
+      "fdr": 0.028200299990861585,
+      "p_value": 0.00048363278815807966,
+      "fold": 61.24999999999999,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002702",
+      "label": "positive regulation of production of molecular mediator of immune response",
+      "fdr": 0.028954615821677326,
+      "p_value": 0.0005028815624868019,
+      "fold": 19.17391304347826,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051253",
+      "label": "negative regulation of RNA metabolic process",
+      "fdr": 0.028991872315081275,
+      "p_value": 0.00050563544478014,
+      "fold": 4.069204152249135,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051493",
+      "label": "regulation of cytoskeleton organization",
+      "fdr": 0.029055468438286387,
+      "p_value": 0.0005088560347087435,
+      "fold": 7.364729458917836,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006355",
+      "label": "regulation of DNA-templated transcription",
+      "fdr": 0.029060265627948827,
+      "p_value": 0.0005110518335850313,
+      "fold": 2.7588364091335627,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000724",
+      "label": "double-strand break repair via homologous recombination",
+      "fdr": 0.02907627387134824,
+      "p_value": 0.0005028815624868019,
+      "fold": 19.17391304347826,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046426",
+      "label": "negative regulation of receptor signaling pathway via JAK-STAT",
+      "fdr": 0.02926277703339386,
+      "p_value": 0.0005252456890668035,
+      "fold": 58.8,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016447",
+      "label": "somatic recombination of immunoglobulin gene segments",
+      "fdr": 0.029381731411578387,
+      "p_value": 0.0005252456890668035,
+      "fold": 58.8,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2001141",
+      "label": "regulation of RNA biosynthetic process",
+      "fdr": 0.029458456369441156,
+      "p_value": 0.0005308987122753729,
+      "fold": 2.7476635514018692,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000902",
+      "label": "cell morphogenesis",
+      "fdr": 0.029491791260749897,
+      "p_value": 0.0005229268997618614,
+      "fold": 7.320717131474103,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060421",
+      "label": "positive regulation of heart growth",
+      "fdr": 0.02950165684591136,
+      "p_value": 0.0005252456890668035,
+      "fold": 58.8,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070887",
+      "label": "cellular response to chemical stimulus",
+      "fdr": 0.029562614030954063,
+      "p_value": 0.0005220343877277696,
+      "fold": 3.5873101952277664,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070482",
+      "label": "response to oxygen levels",
+      "fdr": 0.029731706782847738,
+      "p_value": 0.0005379837939778423,
+      "fold": 10.462633451957295,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050790",
+      "label": "regulation of catalytic activity",
+      "fdr": 0.03011071286787677,
+      "p_value": 0.0005470298827824426,
+      "fold": 7.248520710059172,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042326",
+      "label": "negative regulation of phosphorylation",
+      "fdr": 0.03034375779908422,
+      "p_value": 0.000555673785725545,
+      "fold": 18.529411764705884,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001952",
+      "label": "regulation of cell-matrix adhesion",
+      "fdr": 0.03046464926441922,
+      "p_value": 0.000555673785725545,
+      "fold": 18.529411764705884,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033043",
+      "label": "regulation of organelle organization",
+      "fdr": 0.030794891355741098,
+      "p_value": 0.0005706487388790044,
+      "fold": 4.630963096309631,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000725",
+      "label": "recombinational repair",
+      "fdr": 0.030848689624621988,
+      "p_value": 0.0005694039070310286,
+      "fold": 18.375,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003171",
+      "label": "atrioventricular valve development",
+      "fdr": 0.03092350335017109,
+      "p_value": 0.0005685376315379177,
+      "fold": 56.53846153846153,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002285",
+      "label": "lymphocyte activation involved in immune response",
+      "fdr": 0.03211863146817042,
+      "p_value": 0.0005975125104172391,
+      "fold": 18.073770491803277,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046622",
+      "label": "positive regulation of organ growth",
+      "fdr": 0.03284993250323029,
+      "p_value": 0.0006135042986214799,
+      "fold": 54.44444444444444,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051248",
+      "label": "negative regulation of protein metabolic process",
+      "fdr": 0.03359344414582242,
+      "p_value": 0.0006298313051102524,
+      "fold": 7.026768642447419,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008406",
+      "label": "gonad development",
+      "fdr": 0.034074003234214514,
+      "p_value": 0.0006413172616569696,
+      "fold": 17.639999999999997,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1904893",
+      "label": "negative regulation of receptor signaling pathway via STAT",
+      "fdr": 0.03454070550358071,
+      "p_value": 0.0006601413812543947,
+      "fold": 52.50000000000001,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016043",
+      "label": "cellular component organization",
+      "fdr": 0.034580822943442634,
+      "p_value": 0.0006583951465142046,
+      "fold": 2.213855421686747,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045936",
+      "label": "negative regulation of phosphate metabolic process",
+      "fdr": 0.03460613185604985,
+      "p_value": 0.0006563622130970867,
+      "fold": 17.5,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006091",
+      "label": "generation of precursor metabolites and energy",
+      "fdr": 0.0346082798027238,
+      "p_value": 0.0006538879985980807,
+      "fold": 9.932432432432433,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0017015",
+      "label": "regulation of transforming growth factor beta receptor signaling pathway",
+      "fdr": 0.03500877315734098,
+      "p_value": 0.0006716311397091795,
+      "fold": 17.362204724409448,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:2001233",
+      "label": "regulation of apoptotic signaling pathway",
+      "fdr": 0.03526129157433122,
+      "p_value": 0.0006790380253759011,
+      "fold": 9.832775919732441,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901698",
+      "label": "response to nitrogen compound",
+      "fdr": 0.03535548513238641,
+      "p_value": 0.0006885596988212745,
+      "fold": 5.39119804400978,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002705",
+      "label": "positive regulation of leukocyte mediated immunity",
+      "fdr": 0.035413980247737085,
+      "p_value": 0.0006871254070304339,
+      "fold": 17.2265625,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045137",
+      "label": "development of primary sexual characteristics",
+      "fdr": 0.03554711551182632,
+      "p_value": 0.0006871254070304339,
+      "fold": 17.2265625,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009790",
+      "label": "embryo development",
+      "fdr": 0.03617313059055647,
+      "p_value": 0.0007097409533791327,
+      "fold": 6.843575418994414,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903844",
+      "label": "regulation of cellular response to transforming growth factor beta stimulus",
+      "fdr": 0.0362320272789359,
+      "p_value": 0.0007187953962030012,
+      "fold": 16.96153846153846,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1903055",
+      "label": "positive regulation of extracellular matrix organization",
+      "fdr": 0.03624128565285109,
+      "p_value": 0.00070844457820049,
+      "fold": 50.6896551724138,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016311",
+      "label": "dephosphorylation",
+      "fdr": 0.03636523326157905,
+      "p_value": 0.0007187953962030012,
+      "fold": 16.96153846153846,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0036294",
+      "label": "cellular response to decreased oxygen levels",
+      "fdr": 0.0364994223142048,
+      "p_value": 0.0007187953962030012,
+      "fold": 16.96153846153846,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051053",
+      "label": "negative regulation of DNA metabolic process",
+      "fdr": 0.036912316504859426,
+      "p_value": 0.000734973818932598,
+      "fold": 16.832061068702288,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030111",
+      "label": "regulation of Wnt signaling pathway",
+      "fdr": 0.037048913751392416,
+      "p_value": 0.0007403859662548445,
+      "fold": 9.607843137254902,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051494",
+      "label": "negative regulation of cytoskeleton organization",
+      "fdr": 0.0373277301312298,
+      "p_value": 0.000751382984256279,
+      "fold": 16.704545454545453,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010639",
+      "label": "negative regulation of organelle organization",
+      "fdr": 0.03736710432219204,
+      "p_value": 0.0007494601259301651,
+      "fold": 9.576547231270359,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016444",
+      "label": "somatic cell DNA recombination",
+      "fdr": 0.03740671847342691,
+      "p_value": 0.0007584095962565299,
+      "fold": 49.00000000000001,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002562",
+      "label": "somatic diversification of immune receptors via germline recombination within a single locus",
+      "fdr": 0.03754127501469823,
+      "p_value": 0.0007584095962565299,
+      "fold": 49.00000000000001,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0045596",
+      "label": "negative regulation of cell differentiation",
+      "fdr": 0.038536221995851834,
+      "p_value": 0.0007841103232932573,
+      "fold": 6.693989071038252,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0090183",
+      "label": "regulation of kidney development",
+      "fdr": 0.03966851394030646,
+      "p_value": 0.0008100321500782004,
+      "fold": 47.41935483870968,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071840",
+      "label": "cellular component organization or biogenesis",
+      "fdr": 0.04023063118777158,
+      "p_value": 0.0008244341250600672,
+      "fold": 2.1346886912325287,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050794",
+      "label": "regulation of cellular process",
+      "fdr": 0.041749487006985726,
+      "p_value": 0.0008646612743980039,
+      "fold": 1.5856179775280899,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006301",
+      "label": "DNA damage tolerance",
+      "fdr": 0.04183091854195361,
+      "p_value": 0.0008633079620605207,
+      "fold": 45.93749999999999,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071634",
+      "label": "regulation of transforming growth factor beta production",
+      "fdr": 0.041978730974964046,
+      "p_value": 0.0008633079620605207,
+      "fold": 45.93749999999999,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901699",
+      "label": "cellular response to nitrogen compound",
+      "fdr": 0.04263030907331403,
+      "p_value": 0.000892197442999378,
+      "fold": 6.504424778761062,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009152",
+      "label": "purine ribonucleotide biosynthetic process",
+      "fdr": 0.042727282991091374,
+      "p_value": 0.0008911220273558044,
+      "fold": 15.75,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048738",
+      "label": "cardiac muscle tissue development",
+      "fdr": 0.042876679085465816,
+      "p_value": 0.0008911220273558044,
+      "fold": 15.75,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0016242",
+      "label": "negative regulation of macroautophagy",
+      "fdr": 0.04342199672215141,
+      "p_value": 0.0009182327626005422,
+      "fold": 44.54545454545454,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043462",
+      "label": "regulation of ATP-dependent activity",
+      "fdr": 0.043571727745331246,
+      "p_value": 0.0009182327626005422,
+      "fold": 44.54545454545454,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0060412",
+      "label": "ventricular septum morphogenesis",
+      "fdr": 0.043722494969363535,
+      "p_value": 0.0009182327626005422,
+      "fold": 44.54545454545454,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048667",
+      "label": "cell morphogenesis involved in neuron differentiation",
+      "fdr": 0.044675407127082706,
+      "p_value": 0.0009479848035105116,
+      "fold": 8.990825688073395,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061061",
+      "label": "muscle structure development",
+      "fdr": 0.04503054590879273,
+      "p_value": 0.0009587929620867864,
+      "fold": 8.963414634146341,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003161",
+      "label": "cardiac conduction system development",
+      "fdr": 0.04562671533884938,
+      "p_value": 0.0009748022897770305,
+      "fold": 43.23529411764706,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043086",
+      "label": "negative regulation of catalytic activity",
+      "fdr": 0.045852914102125435,
+      "p_value": 0.0009862991478983452,
+      "fold": 15.206896551724139,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071453",
+      "label": "cellular response to oxygen levels",
+      "fdr": 0.04600834770925128,
+      "p_value": 0.0009862991478983452,
+      "fold": 15.206896551724139,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009887",
+      "label": "animal organ morphogenesis",
+      "fdr": 0.0468471003795086,
+      "p_value": 0.0010110884973994663,
+      "fold": 6.325301204819277,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002700",
+      "label": "regulation of production of molecular mediator of immune response",
+      "fdr": 0.04738325230551076,
+      "p_value": 0.0010261034217747408,
+      "fold": 15.000000000000002,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000075",
+      "label": "cell cycle checkpoint signaling",
+      "fdr": 0.048158070576289215,
+      "p_value": 0.001046382029090217,
+      "fold": 14.89864864864865,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010332",
+      "label": "response to gamma radiation",
+      "fdr": 0.04979743722995443,
+      "p_value": 0.0010928585163466492,
+      "fold": 40.833333333333336,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046034",
+      "label": "ATP metabolic process",
+      "fdr": 0.04989272513919745,
+      "p_value": 0.0010876983897797569,
+      "fold": 14.7,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0062098",
+      "label": "regulation of programmed necrotic cell death",
+      "fdr": 0.04996287722075162,
+      "p_value": 0.0010928585163466492,
+      "fold": 40.833333333333336,
+      "source": "PANTHER"
+    }
+  ],
+  "Enrichr": [
+    {
+      "id": "GO:0048523",
+      "label": "Negative Regulation of Cellular Process",
+      "fdr": 4.651317271121773e-11,
+      "p_value": 7.324909088380745e-14,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008285",
+      "label": "Negative Regulation of Cell Population Proliferation",
+      "fdr": 1.631345882054511e-08,
+      "p_value": 5.138097266313421e-11,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006298",
+      "label": "Mismatch Repair",
+      "fdr": 3.0883300586864656e-08,
+      "p_value": 1.538589484472505e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006281",
+      "label": "DNA Repair",
+      "fdr": 3.0883300586864656e-08,
+      "p_value": 1.945404761377301e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010212",
+      "label": "Response to Ionizing Radiation",
+      "fdr": 7.253922890612728e-08,
+      "p_value": 5.711750307569077e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042127",
+      "label": "Regulation of Cell Population Proliferation",
+      "fdr": 3.159027034275536e-07,
+      "p_value": 2.9849074339611365e-09,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051726",
+      "label": "Regulation of Cell Cycle",
+      "fdr": 7.997232196547295e-07,
+      "p_value": 8.815846515878908e-09,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045926",
+      "label": "Negative Regulation of Growth",
+      "fdr": 8.544572335815449e-07,
+      "p_value": 1.0764815541184818e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030308",
+      "label": "Negative Regulation of Cell Growth",
+      "fdr": 1.0315716610600555e-06,
+      "p_value": 1.4620700707937793e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006099",
+      "label": "Tricarboxylic Acid Cycle",
+      "fdr": 2.0332127923447887e-06,
+      "p_value": 3.201909909204392e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032007",
+      "label": "Negative Regulation of TOR Signaling",
+      "fdr": 2.4201481298505684e-06,
+      "p_value": 4.192382587142717e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016446",
+      "label": "Somatic Hypermutation of Immunoglobulin Genes",
+      "fdr": 7.247063636734319e-06,
+      "p_value": 1.3695238368631785e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045893",
+      "label": "Positive Regulation of DNA-templated Transcription",
+      "fdr": 2.4354285710609188e-05,
+      "p_value": 5.257223954231793e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001558",
+      "label": "Regulation of Cell Growth",
+      "fdr": 2.4354285710609188e-05,
+      "p_value": 5.369448818087066e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904262",
+      "label": "Negative Regulation of TORC1 Signaling",
+      "fdr": 2.526466409627639e-05,
+      "p_value": 6.233180010099381e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902680",
+      "label": "Positive Regulation of RNA Biosynthetic Process",
+      "fdr": 2.526466409627639e-05,
+      "p_value": 6.365899614809799e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006974",
+      "label": "DNA Damage Response",
+      "fdr": 5.257314632356632e-05,
+      "p_value": 1.4074700590561062e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019646",
+      "label": "Aerobic Electron Transport Chain",
+      "fdr": 6.499912625144981e-05,
+      "p_value": 1.8424949173639318e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042775",
+      "label": "Mitochondrial ATP Synthesis Coupled Electron Transport",
+      "fdr": 6.555307134282035e-05,
+      "p_value": 1.9614304811237586e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009060",
+      "label": "Aerobic Respiration",
+      "fdr": 0.0001346300358726879,
+      "p_value": 4.7464925117917385e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045786",
+      "label": "Negative Regulation of Cell Cycle",
+      "fdr": 0.0001346300358726879,
+      "p_value": 4.7464925117917385e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030511",
+      "label": "Positive Regulation of Transforming Growth Factor Beta Receptor Signaling Pathway",
+      "fdr": 0.0001346300358726879,
+      "p_value": 4.876363504050113e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903846",
+      "label": "Positive Regulation of Cellular Response to Transforming Growth Factor Beta Stimulus",
+      "fdr": 0.0001346300358726879,
+      "p_value": 4.876363504050113e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001933",
+      "label": "Negative Regulation of Protein Phosphorylation",
+      "fdr": 0.0001384431702375681,
+      "p_value": 5.232497772758479e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090100",
+      "label": "+ Reg of Transmembrane Receptor Prot Serine/Threonine Kinase Sgnlng Pway",
+      "fdr": 0.0001394167845563298,
+      "p_value": 5.488849785682276e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903432",
+      "label": "Regulation of TORC1 Signaling",
+      "fdr": 0.00023773793690958666,
+      "p_value": 9.734151747479139e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009411",
+      "label": "Response to UV",
+      "fdr": 0.0002583422755568842,
+      "p_value": 1.0984632189032872e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043570",
+      "label": "Maintenance of DNA Repeat Elements",
+      "fdr": 0.00041799511782659754,
+      "p_value": 1.8850777419928716e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0097193",
+      "label": "Intrinsic Apoptotic Signaling Pathway",
+      "fdr": 0.00041799511782659754,
+      "p_value": 1.9089540814128076e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051241",
+      "label": "Negative Regulation of Multicellular Organismal Process",
+      "fdr": 0.0004206351201759752,
+      "p_value": 1.9872525362644497e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072359",
+      "label": "Circulatory System Development",
+      "fdr": 0.0006723505663744693,
+      "p_value": 3.282341347654889e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2001141",
+      "label": "Regulation of RNA Biosynthetic Process",
+      "fdr": 0.0007140742269990832,
+      "p_value": 3.7300354263297834e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071478",
+      "label": "Cellular Response to Radiation",
+      "fdr": 0.0007140742269990832,
+      "p_value": 3.823389561884855e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051276",
+      "label": "Chromosome Organization",
+      "fdr": 0.0007140742269990832,
+      "p_value": 3.823389561884855e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902679",
+      "label": "Negative Regulation of RNA Biosynthetic Process",
+      "fdr": 0.000718402418998351,
+      "p_value": 3.959698372431856e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045944",
+      "label": "Positive Regulation of Transcription by RNA Polymerase II",
+      "fdr": 0.0007523872102942214,
+      "p_value": 4.2655022945814124e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030178",
+      "label": "Negative Regulation of Wnt Signaling Pathway",
+      "fdr": 0.0007774410926383289,
+      "p_value": 4.868386043044096e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045892",
+      "label": "Negative Regulation of DNA-templated Transcription",
+      "fdr": 0.0007774410926383289,
+      "p_value": 5.0284017616558076e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000122",
+      "label": "Negative Regulation of Transcription by RNA Polymerase II",
+      "fdr": 0.0007774410926383289,
+      "p_value": 5.165119184839602e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008630",
+      "label": "Intrinsic Apoptotic Signaling Pathway in Response to DNA Damage",
+      "fdr": 0.0007774410926383289,
+      "p_value": 5.1866896435765375e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042776",
+      "label": "Proton Motive Force-Driven Mitochondrial ATP Synthesis",
+      "fdr": 0.0007774410926383289,
+      "p_value": 5.1866896435765375e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043276",
+      "label": "Anoikis",
+      "fdr": 0.0007774410926383289,
+      "p_value": 5.264561729676873e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016447",
+      "label": "Somatic Recombination of Immunoglobulin Gene Segments",
+      "fdr": 0.0007774410926383289,
+      "p_value": 5.264561729676873e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071479",
+      "label": "Cellular Response to Ionizing Radiation",
+      "fdr": 0.0007919265938231762,
+      "p_value": 5.492744715462998e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006259",
+      "label": "DNA Metabolic Process",
+      "fdr": 0.0007919265938231762,
+      "p_value": 5.6120782239437685e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0015986",
+      "label": "Proton Motive Force-Driven ATP Synthesis",
+      "fdr": 0.0010463346224429322,
+      "p_value": 7.579746871240138e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006119",
+      "label": "Oxidative Phosphorylation",
+      "fdr": 0.0010769617628264303,
+      "p_value": 7.971213047691688e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002204",
+      "label": "Somatic Recombination of Immunoglobulin Genes Involved in Immune Response",
+      "fdr": 0.0011173731325422286,
+      "p_value": 8.446285096382201e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009892",
+      "label": "Negative Regulation of Metabolic Process",
+      "fdr": 0.0011953989554408758,
+      "p_value": 9.224338396315419e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901976",
+      "label": "Regulation of Cell Cycle Checkpoint",
+      "fdr": 0.0013099177183881726,
+      "p_value": 0.00010314312743213957,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010468",
+      "label": "Regulation of Gene Expression",
+      "fdr": 0.001393598712032715,
+      "p_value": 0.00011192682569081647,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010557",
+      "label": "Positive Regulation of Macromolecule Biosynthetic Process",
+      "fdr": 0.0014689109243532133,
+      "p_value": 0.00012028876860845211,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045190",
+      "label": "Isotype Switching",
+      "fdr": 0.0014816435112112673,
+      "p_value": 0.0001236647340066097,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045736",
+      "label": "Negative Regulation of Cyclin-Dependent Protein Serine/Threonine Kinase Activity",
+      "fdr": 0.0017171205431380139,
+      "p_value": 0.00014602284933772086,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032780",
+      "label": "Negative Regulation of ATP-dependent Activity",
+      "fdr": 0.0019651825409699145,
+      "p_value": 0.00017021266102889025,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0036294",
+      "label": "Cellular Response to Decreased Oxygen Levels",
+      "fdr": 0.0019758709993134152,
+      "p_value": 0.00017425004088433268,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032006",
+      "label": "Regulation of TOR Signaling",
+      "fdr": 0.0020925286608237735,
+      "p_value": 0.0001878332813652836,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904030",
+      "label": "Negative Regulation of Cyclin-Dependent Protein Kinase Activity",
+      "fdr": 0.0021483732262331887,
+      "p_value": 0.00019622936554570858,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010224",
+      "label": "Response to UV-B",
+      "fdr": 0.002371388113492144,
+      "p_value": 0.00022406816820398208,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000001",
+      "label": "Regulation of DNA Damage Checkpoint",
+      "fdr": 0.002371388113492144,
+      "p_value": 0.00022406816820398208,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045596",
+      "label": "Negative Regulation of Cell Differentiation",
+      "fdr": 0.002467873718581684,
+      "p_value": 0.00023707133359603577,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046426",
+      "label": "Negative Regulation of Receptor Signaling Pathway via JAK-STAT",
+      "fdr": 0.0025573796804595522,
+      "p_value": 0.0002537242832581918,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904893",
+      "label": "Negative Regulation of Receptor Signaling Pathway via STAT",
+      "fdr": 0.0025573796804595522,
+      "p_value": 0.0002537242832581918,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006470",
+      "label": "Protein Dephosphorylation",
+      "fdr": 0.0026400050279325863,
+      "p_value": 0.000266079246909741,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010717",
+      "label": "Regulation of Epithelial to Mesenchymal Transition",
+      "fdr": 0.0026854905659433087,
+      "p_value": 0.00027489273509655914,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045667",
+      "label": "Regulation of Osteoblast Differentiation",
+      "fdr": 0.0027313944383634604,
+      "p_value": 0.0002838929652472258,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010628",
+      "label": "Positive Regulation of Gene Expression",
+      "fdr": 0.00296202922242737,
+      "p_value": 0.00031252906756320284,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003181",
+      "label": "Atrioventricular Valve Morphogenesis",
+      "fdr": 0.0033015216836233667,
+      "p_value": 0.0003535487787187227,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000725",
+      "label": "Recombinational Repair",
+      "fdr": 0.003438004326552049,
+      "p_value": 0.0003735784228851833,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071772",
+      "label": "Response to BMP",
+      "fdr": 0.003443344506560657,
+      "p_value": 0.0003904264637360115,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010332",
+      "label": "Response to Gamma Radiation",
+      "fdr": 0.003443344506560657,
+      "p_value": 0.0003904264637360115,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903055",
+      "label": "Positive Regulation of Extracellular Matrix Organization",
+      "fdr": 0.003443344506560657,
+      "p_value": 0.0003904264637360115,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006355",
+      "label": "Regulation of DNA-templated Transcription",
+      "fdr": 0.003561335285686749,
+      "p_value": 0.00040941334780335856,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016311",
+      "label": "Dephosphorylation",
+      "fdr": 0.0037967158858709755,
+      "p_value": 0.00044245193000701135,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043066",
+      "label": "Negative Regulation of Apoptotic Process",
+      "fdr": 0.003918501665798574,
+      "p_value": 0.00046281515737778435,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006301",
+      "label": "Postreplication Repair",
+      "fdr": 0.003923277755665607,
+      "p_value": 0.0004695576526465923,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045814",
+      "label": "Negative Regulation of Gene Expression, Epigenetic",
+      "fdr": 0.0039563452165171905,
+      "p_value": 0.00047974579790838374,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0080135",
+      "label": "Regulation of Cellular Response to Stress",
+      "fdr": 0.004010358891595593,
+      "p_value": 0.0004926110134558366,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003148",
+      "label": "Outflow Tract Septum Morphogenesis",
+      "fdr": 0.004113849112324608,
+      "p_value": 0.0005118017005884158,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000724",
+      "label": "Double-Strand Break Repair via Homologous Recombination",
+      "fdr": 0.004226960695786081,
+      "p_value": 0.0005325304813588763,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003161",
+      "label": "Cardiac Conduction System Development",
+      "fdr": 0.0043573942630326795,
+      "p_value": 0.0005558250949695229,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090090",
+      "label": "Negative Regulation of Canonical Wnt Signaling Pathway",
+      "fdr": 0.004448627062567647,
+      "p_value": 0.0005744683765835387,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016242",
+      "label": "Negative Regulation of Macroautophagy",
+      "fdr": 0.004602779369011545,
+      "p_value": 0.0006016231301227688,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006357",
+      "label": "Regulation of Transcription by RNA Polymerase II",
+      "fdr": 0.0046203068014999595,
+      "p_value": 0.0006156869282792238,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0017015",
+      "label": "Regulation of Transforming Growth Factor Beta Receptor Signaling Pathway",
+      "fdr": 0.0046203068014999595,
+      "p_value": 0.0006184662647677111,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060412",
+      "label": "Ventricular Septum Morphogenesis",
+      "fdr": 0.005157708815184697,
+      "p_value": 0.000698524343473833,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902532",
+      "label": "Negative Regulation of Intracellular Signal Transduction",
+      "fdr": 0.00537585722754068,
+      "p_value": 0.0007365347697575421,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902531",
+      "label": "Regulation of Intracellular Signal Transduction",
+      "fdr": 0.005656490748931278,
+      "p_value": 0.0007838916313479567,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043085",
+      "label": "Positive Regulation of Catalytic Activity",
+      "fdr": 0.005661856644640735,
+      "p_value": 0.0008024678708939625,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001953",
+      "label": "Negative Regulation of Cell-Matrix Adhesion",
+      "fdr": 0.005661856644640735,
+      "p_value": 0.0008024678708939625,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032781",
+      "label": "Positive Regulation of ATP-dependent Activity",
+      "fdr": 0.005980645143868709,
+      "p_value": 0.0008570688316410276,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002312",
+      "label": "B Cell Activation Involved in Immune Response",
+      "fdr": 0.00623676778037483,
+      "p_value": 0.0009134163835824553,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000134",
+      "label": "Negative Regulation of G1/S Transition of Mitotic Cell Cycle",
+      "fdr": 0.00623676778037483,
+      "p_value": 0.0009134163835824553,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0055010",
+      "label": "Ventricular Cardiac Muscle Tissue Morphogenesis",
+      "fdr": 0.006562832292456676,
+      "p_value": 0.000971505882662878,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009267",
+      "label": "Cellular Response to Starvation",
+      "fdr": 0.006600697497227285,
+      "p_value": 0.0009875059247820349,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045668",
+      "label": "Negative Regulation of Osteoblast Differentiation",
+      "fdr": 0.007154500413689711,
+      "p_value": 0.0010928921891777985,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000772",
+      "label": "Regulation of Cellular Senescence",
+      "fdr": 0.007154500413689711,
+      "p_value": 0.0010928921891777985,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010719",
+      "label": "Negative Regulation of Epithelial to Mesenchymal Transition",
+      "fdr": 0.007415900430059938,
+      "p_value": 0.0011561797520880848,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902807",
+      "label": "Negative Regulation of Cell Cycle G1/S Phase Transition",
+      "fdr": 0.007415900430059938,
+      "p_value": 0.0011561797520880848,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072332",
+      "label": "Intrinsic Apoptotic Signaling Pathway by P53 Class Mediator",
+      "fdr": 0.0077545614090993075,
+      "p_value": 0.0012211907730865052,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003281",
+      "label": "Ventricular Septum Development",
+      "fdr": 0.008017937391133647,
+      "p_value": 0.0012879206518041449,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904705",
+      "label": "Regulation of Vascular Associated Smooth Muscle Cell Proliferation",
+      "fdr": 0.008017937391133647,
+      "p_value": 0.0012879206518041449,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043491",
+      "label": "Phosphatidylinositol 3-Kinase/Protein Kinase B Signal Transduction",
+      "fdr": 0.008281650438300847,
+      "p_value": 0.0013563647961941543,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060391",
+      "label": "Positive Regulation of SMAD Protein Signal Transduction",
+      "fdr": 0.008281650438300847,
+      "p_value": 0.0013563647961941543,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0141124",
+      "label": "Intracellular Signaling Cassette",
+      "fdr": 0.008539128644350644,
+      "p_value": 0.0014119819018217602,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000018",
+      "label": "Regulation of DNA Recombination",
+      "fdr": 0.00854565401678577,
+      "p_value": 0.0014265186232744749,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033673",
+      "label": "Negative Regulation of Kinase Activity",
+      "fdr": 0.008809905090806503,
+      "p_value": 0.0014983775587513422,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051053",
+      "label": "Negative Regulation of DNA Metabolic Process",
+      "fdr": 0.008809905090806503,
+      "p_value": 0.0014983775587513422,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010629",
+      "label": "Negative Regulation of Gene Expression",
+      "fdr": 0.009074363805299331,
+      "p_value": 0.0015640643200856795,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045910",
+      "label": "Negative Regulation of DNA Recombination",
+      "fdr": 0.009074363805299331,
+      "p_value": 0.0015719370371384668,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0141137",
+      "label": "Positive Regulation of Gene Expression, Epigenetic",
+      "fdr": 0.009175151210339601,
+      "p_value": 0.001647192500753881,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006310",
+      "label": "DNA Recombination",
+      "fdr": 0.009175151210339601,
+      "p_value": 0.001647192500753881,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901991",
+      "label": "Negative Regulation of Mitotic Cell Cycle Phase Transition",
+      "fdr": 0.009175151210339601,
+      "p_value": 0.001647192500753881,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902116",
+      "label": "Negative Regulation of Organelle Assembly",
+      "fdr": 0.009175151210339601,
+      "p_value": 0.001647192500753881,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901699",
+      "label": "Cellular Response to Nitrogen Compound",
+      "fdr": 0.009179143873643887,
+      "p_value": 0.0016623646385339323,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007507",
+      "label": "Heart Development",
+      "fdr": 0.00941130621105147,
+      "p_value": 0.0017192307409164887,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006302",
+      "label": "Double-Strand Break Repair",
+      "fdr": 0.009801325784961857,
+      "p_value": 0.0018666980371219403,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000079",
+      "label": "Regulation of Cyclin-Dependent Protein Serine/Threonine Kinase Activity",
+      "fdr": 0.009801325784961857,
+      "p_value": 0.0018830893634099947,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051898",
+      "label": "- Reg of Phosphatidylinositol 3-Kinase/Prot Kinase B Signal Transduction",
+      "fdr": 0.009801325784961857,
+      "p_value": 0.0018830893634099947,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071901",
+      "label": "Negative Regulation of Protein Serine/Threonine Kinase Activity",
+      "fdr": 0.009801325784961857,
+      "p_value": 0.0018830893634099947,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008584",
+      "label": "Male Gonad Development",
+      "fdr": 0.009801325784961857,
+      "p_value": 0.0018830893634099947,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046546",
+      "label": "Development of Primary Male Sexual Characteristics",
+      "fdr": 0.009801325784961857,
+      "p_value": 0.0018830893634099947,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902533",
+      "label": "Positive Regulation of Intracellular Signal Transduction",
+      "fdr": 0.009825416853238119,
+      "p_value": 0.0019116924924075416,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0120163",
+      "label": "Negative Regulation of Cold-Induced Thermogenesis",
+      "fdr": 0.009825416853238119,
+      "p_value": 0.001965083370647624,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030509",
+      "label": "BMP Signaling Pathway",
+      "fdr": 0.009825416853238119,
+      "p_value": 0.001965083370647624,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902895",
+      "label": "Positive Regulation of miRNA Transcription",
+      "fdr": 0.009825416853238119,
+      "p_value": 0.001965083370647624,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048863",
+      "label": "Stem Cell Differentiation",
+      "fdr": 0.009825416853238119,
+      "p_value": 0.001965083370647624,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0031297",
+      "label": "Replication Fork Processing",
+      "fdr": 0.01016372421117187,
+      "p_value": 0.0020487507071338573,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030336",
+      "label": "Negative Regulation of Cell Migration",
+      "fdr": 0.010424193543362673,
+      "p_value": 0.0021187007948773456,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032388",
+      "label": "Positive Regulation of Intracellular Transport",
+      "fdr": 0.010424193543362673,
+      "p_value": 0.002134086867145114,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045815",
+      "label": "Transcription Initiation-Coupled Chromatin Remodeling",
+      "fdr": 0.011111286186356588,
+      "p_value": 0.002309747679683574,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048738",
+      "label": "Cardiac Muscle Tissue Development",
+      "fdr": 0.011111286186356588,
+      "p_value": 0.002309747679683574,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072331",
+      "label": "Signal Transduction by P53 Class Mediator",
+      "fdr": 0.011458949141151776,
+      "p_value": 0.0024000633634223404,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051893",
+      "label": "Regulation of Focal Adhesion Assembly",
+      "fdr": 0.011635580943533685,
+      "p_value": 0.00249202993436312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000630",
+      "label": "Positive Regulation of miRNA Metabolic Process",
+      "fdr": 0.011635580943533685,
+      "p_value": 0.00249202993436312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006289",
+      "label": "Nucleotide-Excision Repair",
+      "fdr": 0.011635580943533685,
+      "p_value": 0.00249202993436312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008406",
+      "label": "Gonad Development",
+      "fdr": 0.011897704784943687,
+      "p_value": 0.0025856429296413053,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071773",
+      "label": "Cellular Response to BMP Stimulus",
+      "fdr": 0.011897704784943687,
+      "p_value": 0.0025856429296413053,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046425",
+      "label": "Regulation of Receptor Signaling Pathway via JAK-STAT",
+      "fdr": 0.012247267359829617,
+      "p_value": 0.0026808978945138846,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010558",
+      "label": "Negative Regulation of Macromolecule Biosynthetic Process",
+      "fdr": 0.012521436995021142,
+      "p_value": 0.0027606317784298583,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0044773",
+      "label": "Mitotic DNA Damage Checkpoint Signaling",
+      "fdr": 0.013765407744201503,
+      "p_value": 0.0030782486609080527,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009416",
+      "label": "Response to Light Stimulus",
+      "fdr": 0.013765407744201503,
+      "p_value": 0.0030782486609080527,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009966",
+      "label": "Regulation of Signal Transduction",
+      "fdr": 0.013837985044881668,
+      "p_value": 0.0031219882830092038,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050821",
+      "label": "Protein Stabilization",
+      "fdr": 0.013837985044881668,
+      "p_value": 0.0031638478041410866,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006469",
+      "label": "Negative Regulation of Protein Kinase Activity",
+      "fdr": 0.013837985044881668,
+      "p_value": 0.0031816469552011398,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060390",
+      "label": "Regulation of SMAD Protein Signal Transduction",
+      "fdr": 0.013837985044881668,
+      "p_value": 0.0031816469552011398,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000377",
+      "label": "Regulation of Reactive Oxygen Species Metabolic Process",
+      "fdr": 0.01419747976467902,
+      "p_value": 0.0032866606699335685,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060828",
+      "label": "Regulation of Canonical Wnt Signaling Pathway",
+      "fdr": 0.0143078716962713,
+      "p_value": 0.0033347480488947283,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051896",
+      "label": "Regulation of Phosphatidylinositol 3-Kinase/Protein Kinase B Signal Transduction",
+      "fdr": 0.014773699439545748,
+      "p_value": 0.0034665845929012853,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010507",
+      "label": "Negative Regulation of Autophagy",
+      "fdr": 0.015655407566990374,
+      "p_value": 0.003722781956874876,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001952",
+      "label": "Regulation of Cell-Matrix Adhesion",
+      "fdr": 0.015655407566990374,
+      "p_value": 0.003722781956874876,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902893",
+      "label": "Regulation of miRNA Transcription",
+      "fdr": 0.01602458850676257,
+      "p_value": 0.0038358070126423786,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007265",
+      "label": "Ras Protein Signal Transduction",
+      "fdr": 0.016877803211330762,
+      "p_value": 0.004066620301312766,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051094",
+      "label": "Positive Regulation of Developmental Process",
+      "fdr": 0.019562564257784642,
+      "p_value": 0.00474430692236037,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051492",
+      "label": "Regulation of Stress Fiber Assembly",
+      "fdr": 0.020172621192680346,
+      "p_value": 0.004924025645457407,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007179",
+      "label": "Transforming Growth Factor Beta Receptor Signaling Pathway",
+      "fdr": 0.020567275084096857,
+      "p_value": 0.005052747894675764,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034644",
+      "label": "Cellular Response to UV",
+      "fdr": 0.02083047664737533,
+      "p_value": 0.0051830162366697675,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071456",
+      "label": "Cellular Response to Hypoxia",
+      "fdr": 0.02083047664737533,
+      "p_value": 0.0051830162366697675,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045859",
+      "label": "Regulation of Protein Kinase Activity",
+      "fdr": 0.023949708231702047,
+      "p_value": 0.005996856076914371,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045333",
+      "label": "Cellular Respiration",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.006280312461061223,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071356",
+      "label": "Cellular Response to Tumor Necrosis Factor",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.006569800929471807,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0036211",
+      "label": "Protein Modification Process",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.006643063568787421,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0009968",
+      "label": "Negative Regulation of Signal Transduction",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.0066647149092435454,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1905941",
+      "label": "Positive Regulation of Gonad Development",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.006981040634233312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090394",
+      "label": "Negative Regulation of Excitatory Postsynaptic Potential",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.006981040634233312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070200",
+      "label": "Establishment of Protein Localization to Telomere",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.006981040634233312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003175",
+      "label": "Tricuspid Valve Development",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.006981040634233312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003186",
+      "label": "Tricuspid Valve Morphogenesis",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.006981040634233312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000020",
+      "label": "Positive Regulation of Male Gonad Development",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.006981040634233312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901525",
+      "label": "Negative Regulation of Mitophagy",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.006981040634233312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072311",
+      "label": "Glomerular Epithelial Cell Differentiation",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.006981040634233312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043456",
+      "label": "Regulation of Pentose-Phosphate Shunt",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.006981040634233312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060134",
+      "label": "Prepulse Inhibition",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.006981040634233312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032909",
+      "label": "Regulation of Transforming Growth Factor Beta2 Production",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.006981040634233312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0061318",
+      "label": "Renal Filtration Cell Differentiation",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.006981040634233312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0061458",
+      "label": "Reproductive System Development",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.006981040634233312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034698",
+      "label": "Response to Gonadotropin",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.006981040634233312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000726",
+      "label": "Negative Regulation of Cardiac Muscle Cell Differentiation",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.006981040634233312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045792",
+      "label": "Negative Regulation of Cell Size",
+      "fdr": 0.024765144149375157,
+      "p_value": 0.006981040634233312,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045597",
+      "label": "Positive Regulation of Cell Differentiation",
+      "fdr": 0.02731646623871457,
+      "p_value": 0.008069416732540396,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071560",
+      "label": "Cellular Response to Transforming Growth Factor Beta Stimulus",
+      "fdr": 0.02731646623871457,
+      "p_value": 0.00826832098774267,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904026",
+      "label": "Regulation of Collagen Fibril Organization",
+      "fdr": 0.02731646623871457,
+      "p_value": 0.008371605061186147,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000018",
+      "label": "Regulation of Male Gonad Development",
+      "fdr": 0.02731646623871457,
+      "p_value": 0.008371605061186147,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003190",
+      "label": "Atrioventricular Valve Formation",
+      "fdr": 0.02731646623871457,
+      "p_value": 0.008371605061186147,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0097107",
+      "label": "Postsynaptic Density Assembly",
+      "fdr": 0.02731646623871457,
+      "p_value": 0.008371605061186147,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0097021",
+      "label": "Lymphocyte Migration Into Lymphoid Organs",
+      "fdr": 0.02731646623871457,
+      "p_value": 0.008371605061186147,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060911",
+      "label": "Cardiac Cell Fate Commitment",
+      "fdr": 0.02731646623871457,
+      "p_value": 0.008371605061186147,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002076",
+      "label": "Osteoblast Development",
+      "fdr": 0.02731646623871457,
+      "p_value": 0.008371605061186147,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0061626",
+      "label": "Pharyngeal Arch Artery Morphogenesis",
+      "fdr": 0.02731646623871457,
+      "p_value": 0.008371605061186147,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071371",
+      "label": "Cellular Response to Gonadotropin Stimulus",
+      "fdr": 0.02731646623871457,
+      "p_value": 0.008371605061186147,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035907",
+      "label": "Dorsal Aorta Development",
+      "fdr": 0.02731646623871457,
+      "p_value": 0.008371605061186147,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035912",
+      "label": "Dorsal Aorta Morphogenesis",
+      "fdr": 0.02731646623871457,
+      "p_value": 0.008371605061186147,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007056",
+      "label": "Spindle Assembly Involved in Female Meiosis",
+      "fdr": 0.02731646623871457,
+      "p_value": 0.008371605061186147,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1900037",
+      "label": "Regulation of Cellular Response to Hypoxia",
+      "fdr": 0.02731646623871457,
+      "p_value": 0.008371605061186147,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010976",
+      "label": "Positive Regulation of Neuron Projection Development",
+      "fdr": 0.02731646623871457,
+      "p_value": 0.008431539185493001,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010508",
+      "label": "Positive Regulation of Autophagy",
+      "fdr": 0.02731646623871457,
+      "p_value": 0.008431539185493001,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0016241",
+      "label": "Regulation of Macroautophagy",
+      "fdr": 0.03008633839472948,
+      "p_value": 0.009614441179994904,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0110025",
+      "label": "DNA Strand Resection Involved in Replication Fork Processing",
+      "fdr": 0.03008633839472948,
+      "p_value": 0.009760292455613027,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006983",
+      "label": "ER Overload Response",
+      "fdr": 0.03008633839472948,
+      "p_value": 0.009760292455613027,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0014741",
+      "label": "Negative Regulation of Muscle Hypertrophy",
+      "fdr": 0.03008633839472948,
+      "p_value": 0.009760292455613027,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046620",
+      "label": "Regulation of Organ Growth",
+      "fdr": 0.03008633839472948,
+      "p_value": 0.009760292455613027,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072073",
+      "label": "Kidney Epithelium Development",
+      "fdr": 0.03008633839472948,
+      "p_value": 0.009760292455613027,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072074",
+      "label": "Kidney Mesenchyme Development",
+      "fdr": 0.03008633839472948,
+      "p_value": 0.009760292455613027,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045475",
+      "label": "Locomotor Rhythm",
+      "fdr": 0.03008633839472948,
+      "p_value": 0.009760292455613027,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0090306",
+      "label": "Meiotic Spindle Assembly",
+      "fdr": 0.03008633839472948,
+      "p_value": 0.009760292455613027,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070243",
+      "label": "Regulation of Thymocyte Apoptotic Process",
+      "fdr": 0.03008633839472948,
+      "p_value": 0.009760292455613027,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000045",
+      "label": "Regulation of G1/S Transition of Mitotic Cell Cycle",
+      "fdr": 0.03221659787879037,
+      "p_value": 0.01050210356048757,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030111",
+      "label": "Regulation of Wnt Signaling Pathway",
+      "fdr": 0.032616582722361766,
+      "p_value": 0.0106838570177185,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0141091",
+      "label": "Transforming Growth Factor Beta Receptor Superfamily Signaling Pathway",
+      "fdr": 0.03277042475471855,
+      "p_value": 0.011051552987997537,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071636",
+      "label": "Positive Regulation of Transforming Growth Factor Beta Production",
+      "fdr": 0.03277042475471855,
+      "p_value": 0.011147105113416074,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048665",
+      "label": "Neuron Fate Specification",
+      "fdr": 0.03277042475471855,
+      "p_value": 0.011147105113416074,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904668",
+      "label": "Positive Regulation of Ubiquitin Protein Ligase Activity",
+      "fdr": 0.03277042475471855,
+      "p_value": 0.011147105113416074,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0097106",
+      "label": "Postsynaptic Density Organization",
+      "fdr": 0.03277042475471855,
+      "p_value": 0.011147105113416074,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0097105",
+      "label": "Presynaptic Membrane Assembly",
+      "fdr": 0.03277042475471855,
+      "p_value": 0.011147105113416074,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003174",
+      "label": "Mitral Valve Development",
+      "fdr": 0.03277042475471855,
+      "p_value": 0.011147105113416074,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000643",
+      "label": "Positive Regulation of Early Endosome to Late Endosome Transport",
+      "fdr": 0.03277042475471855,
+      "p_value": 0.011147105113416074,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033137",
+      "label": "Negative Regulation of Peptidyl-Serine Phosphorylation",
+      "fdr": 0.03518406367621075,
+      "p_value": 0.012532045363447937,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060218",
+      "label": "Hematopoietic Stem Cell Differentiation",
+      "fdr": 0.03518406367621075,
+      "p_value": 0.012532045363447937,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902966",
+      "label": "Positive Regulation of Protein Localization to Early Endosome",
+      "fdr": 0.03518406367621075,
+      "p_value": 0.012532045363447937,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1905668",
+      "label": "Positive Regulation of Protein Localization to Endosome",
+      "fdr": 0.03518406367621075,
+      "p_value": 0.012532045363447937,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030325",
+      "label": "Adrenal Gland Development",
+      "fdr": 0.03518406367621075,
+      "p_value": 0.012532045363447937,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0097090",
+      "label": "Presynaptic Membrane Organization",
+      "fdr": 0.03518406367621075,
+      "p_value": 0.012532045363447937,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902965",
+      "label": "Regulation of Protein Localization to Early Endosome",
+      "fdr": 0.03518406367621075,
+      "p_value": 0.012532045363447937,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1903689",
+      "label": "Regulation of Wound Healing, Spreading of Epidermal Cells",
+      "fdr": 0.03518406367621075,
+      "p_value": 0.012532045363447937,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0021955",
+      "label": "Central Nervous System Neuron Axonogenesis",
+      "fdr": 0.03518406367621075,
+      "p_value": 0.012532045363447937,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043217",
+      "label": "Myelin Maintenance",
+      "fdr": 0.03518406367621075,
+      "p_value": 0.012532045363447937,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043433",
+      "label": "Negative Regulation of DNA-binding Transcription Factor Activity",
+      "fdr": 0.03518406367621075,
+      "p_value": 0.012577610164566676,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006367",
+      "label": "Transcription Initiation at RNA Polymerase II Promoter",
+      "fdr": 0.03557816043764558,
+      "p_value": 0.012774520598083766,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043409",
+      "label": "Negative Regulation of MAPK Cascade",
+      "fdr": 0.036817076594161995,
+      "p_value": 0.013575666941531178,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901201",
+      "label": "Regulation of Extracellular Matrix Assembly",
+      "fdr": 0.036817076594161995,
+      "p_value": 0.01391511556314784,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035825",
+      "label": "Homologous Recombination",
+      "fdr": 0.036817076594161995,
+      "p_value": 0.01391511556314784,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060231",
+      "label": "Mesenchymal to Epithelial Transition",
+      "fdr": 0.036817076594161995,
+      "p_value": 0.01391511556314784,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072075",
+      "label": "Metanephric Mesenchyme Development",
+      "fdr": 0.036817076594161995,
+      "p_value": 0.01391511556314784,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071453",
+      "label": "Cellular Response to Oxygen Levels",
+      "fdr": 0.036817076594161995,
+      "p_value": 0.01391511556314784,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0022904",
+      "label": "Respiratory Electron Transport Chain",
+      "fdr": 0.036817076594161995,
+      "p_value": 0.01391511556314784,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010165",
+      "label": "Response to X-ray",
+      "fdr": 0.036817076594161995,
+      "p_value": 0.01391511556314784,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003183",
+      "label": "Mitral Valve Morphogenesis",
+      "fdr": 0.036817076594161995,
+      "p_value": 0.01391511556314784,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042693",
+      "label": "Muscle Cell Fate Commitment",
+      "fdr": 0.036817076594161995,
+      "p_value": 0.01391511556314784,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000027",
+      "label": "Regulation of Animal Organ Morphogenesis",
+      "fdr": 0.036817076594161995,
+      "p_value": 0.01391511556314784,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000774",
+      "label": "Positive Regulation of Cellular Senescence",
+      "fdr": 0.036817076594161995,
+      "p_value": 0.01391511556314784,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0044027",
+      "label": "Negative Regulation of Gene Expression via Chromosomal CpG Island Methylation",
+      "fdr": 0.03854429357588638,
+      "p_value": 0.015296318080509241,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904861",
+      "label": "Excitatory Synapse Assembly",
+      "fdr": 0.03854429357588638,
+      "p_value": 0.015296318080509241,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1902101",
+      "label": "Positive Regulation of Metaphase/Anaphase Transition of Cell Cycle",
+      "fdr": 0.03854429357588638,
+      "p_value": 0.015296318080509241,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051547",
+      "label": "Regulation of Keratinocyte Migration",
+      "fdr": 0.03854429357588638,
+      "p_value": 0.015296318080509241,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048009",
+      "label": "Insulin-Like Growth Factor Receptor Signaling Pathway",
+      "fdr": 0.03854429357588638,
+      "p_value": 0.015296318080509241,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006285",
+      "label": "Base-Excision Repair, AP Site Formation",
+      "fdr": 0.03854429357588638,
+      "p_value": 0.015296318080509241,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071493",
+      "label": "Cellular Response to UV-B",
+      "fdr": 0.03854429357588638,
+      "p_value": 0.015296318080509241,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072112",
+      "label": "Podocyte Differentiation",
+      "fdr": 0.03854429357588638,
+      "p_value": 0.015296318080509241,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0022010",
+      "label": "Central Nervous System Myelination",
+      "fdr": 0.03854429357588638,
+      "p_value": 0.015296318080509241,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070234",
+      "label": "Positive Regulation of T Cell Apoptotic Process",
+      "fdr": 0.03854429357588638,
+      "p_value": 0.015296318080509241,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1900119",
+      "label": "Positive Regulation of Execution Phase of Apoptosis",
+      "fdr": 0.03854429357588638,
+      "p_value": 0.015296318080509241,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901203",
+      "label": "Positive Regulation of Extracellular Matrix Assembly",
+      "fdr": 0.03854429357588638,
+      "p_value": 0.015296318080509241,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043069",
+      "label": "Negative Regulation of Programmed Cell Death",
+      "fdr": 0.039799795739315746,
+      "p_value": 0.015900969788628802,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042981",
+      "label": "Regulation of Apoptotic Process",
+      "fdr": 0.039799795739315746,
+      "p_value": 0.0159199182957263,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000146",
+      "label": "Negative Regulation of Cell Motility",
+      "fdr": 0.03999192848037477,
+      "p_value": 0.01610664976354113,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901701",
+      "label": "Cellular Response to Oxygen-Containing Compound",
+      "fdr": 0.03999192848037477,
+      "p_value": 0.016122730222009357,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035860",
+      "label": "Glial Cell-Derived Neurotrophic Factor Receptor Signaling Pathway",
+      "fdr": 0.04041618745809456,
+      "p_value": 0.01667565529767051,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0008344",
+      "label": "Adult Locomotory Behavior",
+      "fdr": 0.04041618745809456,
+      "p_value": 0.01667565529767051,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070102",
+      "label": "Interleukin-6-Mediated Signaling Pathway",
+      "fdr": 0.04041618745809456,
+      "p_value": 0.01667565529767051,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071634",
+      "label": "Regulation of Transforming Growth Factor Beta Production",
+      "fdr": 0.04041618745809456,
+      "p_value": 0.01667565529767051,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1900006",
+      "label": "Positive Regulation of Dendrite Development",
+      "fdr": 0.04041618745809456,
+      "p_value": 0.01667565529767051,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901988",
+      "label": "Negative Regulation of Cell Cycle Phase Transition",
+      "fdr": 0.04041618745809456,
+      "p_value": 0.01667565529767051,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045842",
+      "label": "Positive Regulation of Mitotic Metaphase/Anaphase Transition",
+      "fdr": 0.04245828628205255,
+      "p_value": 0.01805312960024282,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003171",
+      "label": "Atrioventricular Valve Development",
+      "fdr": 0.04245828628205255,
+      "p_value": 0.01805312960024282,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003214",
+      "label": "Cardiac Left Ventricle Morphogenesis",
+      "fdr": 0.04245828628205255,
+      "p_value": 0.01805312960024282,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0003215",
+      "label": "Cardiac Right Ventricle Morphogenesis",
+      "fdr": 0.04245828628205255,
+      "p_value": 0.01805312960024282,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0031571",
+      "label": "Mitotic G1 DNA Damage Checkpoint Signaling",
+      "fdr": 0.04245828628205255,
+      "p_value": 0.01805312960024282,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0110020",
+      "label": "Regulation of Actomyosin Structure Organization",
+      "fdr": 0.04245828628205255,
+      "p_value": 0.01805312960024282,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0062009",
+      "label": "Secondary Palate Development",
+      "fdr": 0.04245828628205255,
+      "p_value": 0.01805312960024282,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010614",
+      "label": "Negative Regulation of Cardiac Muscle Hypertrophy",
+      "fdr": 0.04245828628205255,
+      "p_value": 0.01805312960024282,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0120161",
+      "label": "Regulation of Cold-Induced Thermogenesis",
+      "fdr": 0.04247572501227223,
+      "p_value": 0.018127435398938227,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071363",
+      "label": "Cellular Response to Growth Factor Stimulus",
+      "fdr": 0.04340049083256714,
+      "p_value": 0.018590446466863406,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010633",
+      "label": "Negative Regulation of Epithelial Cell Migration",
+      "fdr": 0.043594530193650984,
+      "p_value": 0.01942874337764288,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0045717",
+      "label": "Negative Regulation of Fatty Acid Biosynthetic Process",
+      "fdr": 0.043594530193650984,
+      "p_value": 0.01942874337764288,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051895",
+      "label": "Negative Regulation of Focal Adhesion Assembly",
+      "fdr": 0.043594530193650984,
+      "p_value": 0.01942874337764288,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070199",
+      "label": "Establishment of Protein Localization to Chromosome",
+      "fdr": 0.043594530193650984,
+      "p_value": 0.01942874337764288,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0014912",
+      "label": "Negative Regulation of Smooth Muscle Cell Migration",
+      "fdr": 0.043594530193650984,
+      "p_value": 0.01942874337764288,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034244",
+      "label": "Negative Regulation of Transcription Elongation by RNA Polymerase II",
+      "fdr": 0.043594530193650984,
+      "p_value": 0.01942874337764288,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0007158",
+      "label": "Neuron Cell-Cell Adhesion",
+      "fdr": 0.043594530193650984,
+      "p_value": 0.01942874337764288,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0070198",
+      "label": "Protein Localization to Chromosome, Telomeric Region",
+      "fdr": 0.043594530193650984,
+      "p_value": 0.01942874337764288,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0044819",
+      "label": "Mitotic G1/S Transition Checkpoint Signaling",
+      "fdr": 0.043594530193650984,
+      "p_value": 0.01942874337764288,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060045",
+      "label": "Positive Regulation of Cardiac Muscle Cell Proliferation",
+      "fdr": 0.043594530193650984,
+      "p_value": 0.01942874337764288,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0150118",
+      "label": "Negative Regulation of Cell-Substrate Junction Organization",
+      "fdr": 0.043594530193650984,
+      "p_value": 0.01942874337764288,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032102",
+      "label": "Negative Regulation of Response to External Stimulus",
+      "fdr": 0.043670697070841084,
+      "p_value": 0.019531461367116327,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051128",
+      "label": "Regulation of Cellular Component Organization",
+      "fdr": 0.04523831122808558,
+      "p_value": 0.02073553808352932,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1900117",
+      "label": "Regulation of Execution Phase of Apoptosis",
+      "fdr": 0.04523831122808558,
+      "p_value": 0.020802499021418883,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1901970",
+      "label": "Positive Regulation of Mitotic Sister Chromatid Separation",
+      "fdr": 0.04523831122808558,
+      "p_value": 0.020802499021418883,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048806",
+      "label": "Genitalia Development",
+      "fdr": 0.04523831122808558,
+      "p_value": 0.020802499021418883,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0085020",
+      "label": "Protein K6-linked Ubiquitination",
+      "fdr": 0.04523831122808558,
+      "p_value": 0.020802499021418883,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006312",
+      "label": "Mitotic Recombination",
+      "fdr": 0.04523831122808558,
+      "p_value": 0.020802499021418883,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0021954",
+      "label": "Central Nervous System Neuron Development",
+      "fdr": 0.04523831122808558,
+      "p_value": 0.020802499021418883,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060997",
+      "label": "Dendritic Spine Morphogenesis",
+      "fdr": 0.04523831122808558,
+      "p_value": 0.020802499021418883,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048663",
+      "label": "Neuron Fate Commitment",
+      "fdr": 0.04740991016755426,
+      "p_value": 0.0221743989287616,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0099054",
+      "label": "Presynapse Assembly",
+      "fdr": 0.04740991016755426,
+      "p_value": 0.0221743989287616,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072132",
+      "label": "Mesenchyme Morphogenesis",
+      "fdr": 0.04740991016755426,
+      "p_value": 0.0221743989287616,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072164",
+      "label": "Mesonephric Tubule Development",
+      "fdr": 0.04740991016755426,
+      "p_value": 0.0221743989287616,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071480",
+      "label": "Cellular Response to Gamma Radiation",
+      "fdr": 0.04740991016755426,
+      "p_value": 0.0221743989287616,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010631",
+      "label": "Epithelial Cell Migration",
+      "fdr": 0.04822813834175076,
+      "p_value": 0.0235444454896736,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048147",
+      "label": "Negative Regulation of Fibroblast Proliferation",
+      "fdr": 0.04822813834175076,
+      "p_value": 0.0235444454896736,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006304",
+      "label": "DNA Modification",
+      "fdr": 0.04822813834175076,
+      "p_value": 0.0235444454896736,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904706",
+      "label": "Negative Regulation of Vascular Associated Smooth Muscle Cell Proliferation",
+      "fdr": 0.04822813834175076,
+      "p_value": 0.0235444454896736,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000679",
+      "label": "Positive Regulation of Transcription Regulatory Region DNA Binding",
+      "fdr": 0.04822813834175076,
+      "p_value": 0.0235444454896736,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0002449",
+      "label": "Lymphocyte Mediated Immunity",
+      "fdr": 0.04822813834175076,
+      "p_value": 0.0235444454896736,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072676",
+      "label": "Lymphocyte Migration",
+      "fdr": 0.04822813834175076,
+      "p_value": 0.0235444454896736,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:1904666",
+      "label": "Regulation of Ubiquitin Protein Ligase Activity",
+      "fdr": 0.04822813834175076,
+      "p_value": 0.0235444454896736,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0050918",
+      "label": "Positive Chemotaxis",
+      "fdr": 0.04822813834175076,
+      "p_value": 0.0235444454896736,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0055023",
+      "label": "Positive Regulation of Cardiac Muscle Tissue Growth",
+      "fdr": 0.04822813834175076,
+      "p_value": 0.0235444454896736,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0033630",
+      "label": "Positive Regulation of Cell Adhesion Mediated by Integrin",
+      "fdr": 0.04822813834175076,
+      "p_value": 0.0235444454896736,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0022900",
+      "label": "Electron Transport Chain",
+      "fdr": 0.04822813834175076,
+      "p_value": 0.0235444454896736,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000773",
+      "label": "Negative Regulation of Cellular Senescence",
+      "fdr": 0.04822813834175076,
+      "p_value": 0.0235444454896736,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:2000641",
+      "label": "Regulation of Early Endosome to Late Endosome Transport",
+      "fdr": 0.04928201588569641,
+      "p_value": 0.0249126411012733,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001657",
+      "label": "Ureteric Bud Development",
+      "fdr": 0.04928201588569641,
+      "p_value": 0.0249126411012733,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060675",
+      "label": "Ureteric Bud Morphogenesis",
+      "fdr": 0.04928201588569641,
+      "p_value": 0.0249126411012733,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060395",
+      "label": "SMAD Protein Signal Transduction",
+      "fdr": 0.04928201588569641,
+      "p_value": 0.0249126411012733,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0035909",
+      "label": "Aorta Morphogenesis",
+      "fdr": 0.04928201588569641,
+      "p_value": 0.0249126411012733,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051443",
+      "label": "Positive Regulation of Ubiquitin-Protein Transferase Activity",
+      "fdr": 0.04928201588569641,
+      "p_value": 0.0249126411012733,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0001658",
+      "label": "Branching Involved in Ureteric Bud Morphogenesis",
+      "fdr": 0.04928201588569641,
+      "p_value": 0.0249126411012733,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071459",
+      "label": "Protein Localization to Chromosome, Centromeric Region",
+      "fdr": 0.04928201588569641,
+      "p_value": 0.0249126411012733,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060037",
+      "label": "Pharyngeal System Development",
+      "fdr": 0.04928201588569641,
+      "p_value": 0.0249126411012733,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032785",
+      "label": "Negative Regulation of DNA-templated Transcription, Elongation",
+      "fdr": 0.04928201588569641,
+      "p_value": 0.0249126411012733,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051894",
+      "label": "Positive Regulation of Focal Adhesion Assembly",
+      "fdr": 0.04928201588569641,
+      "p_value": 0.0249126411012733,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0010975",
+      "label": "Regulation of Neuron Projection Development",
+      "fdr": 0.049408989607168365,
+      "p_value": 0.025054637249619233,
+      "fold": null,
+      "source": "Enrichr"
+    }
+  ],
+  "g:Profiler": [
+    {
+      "id": "GO:0032404",
+      "label": "mismatch repair complex binding",
+      "fdr": 9.816638533099528e-10,
+      "p_value": 9.816638533099528e-10,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-9675135",
+      "label": "Diseases of DNA repair",
+      "fdr": 4.121156992654698e-09,
+      "p_value": 4.121156992654698e-09,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0008285",
+      "label": "negative regulation of cell population proliferation",
+      "fdr": 1.0294822240859855e-08,
+      "p_value": 1.0294822240859855e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0033554",
+      "label": "cellular response to stress",
+      "fdr": 2.5361931564307987e-08,
+      "p_value": 2.5361931564307987e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032300",
+      "label": "mismatch repair complex",
+      "fdr": 3.097901026283891e-08,
+      "p_value": 3.097901026283891e-08,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-5423599",
+      "label": "Diseases of Mismatch Repair (MMR)",
+      "fdr": 3.704282790151609e-08,
+      "p_value": 3.704282790151609e-08,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0030983",
+      "label": "mismatched DNA binding",
+      "fdr": 2.0216877735624948e-07,
+      "p_value": 2.0216877735624948e-07,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "KEGG:05200",
+      "label": "Pathways in cancer",
+      "fdr": 6.868496552618891e-07,
+      "p_value": 6.868496552618891e-07,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0006298",
+      "label": "mismatch repair",
+      "fdr": 1.403098268770479e-06,
+      "p_value": 1.403098268770479e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045273",
+      "label": "respiratory chain complex II (succinate dehydrogenase)",
+      "fdr": 2.5355971807761645e-06,
+      "p_value": 2.5355971807761645e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0006974",
+      "label": "DNA damage response",
+      "fdr": 3.34445039513355e-06,
+      "p_value": 3.34445039513355e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032138",
+      "label": "single base insertion or deletion binding",
+      "fdr": 4.659830854687556e-06,
+      "p_value": 4.659830854687556e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0045926",
+      "label": "negative regulation of growth",
+      "fdr": 6.199313661568776e-06,
+      "p_value": 6.199313661568776e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5358565",
+      "label": "Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)",
+      "fdr": 7.315126587079031e-06,
+      "p_value": 7.315126587079031e-06,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0010212",
+      "label": "response to ionizing radiation",
+      "fdr": 8.747926414648761e-06,
+      "p_value": 8.747926414648761e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006281",
+      "label": "DNA repair",
+      "fdr": 9.612737248238524e-06,
+      "p_value": 9.612737248238524e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009628",
+      "label": "response to abiotic stimulus",
+      "fdr": 9.6519635723207e-06,
+      "p_value": 9.6519635723207e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5358508",
+      "label": "Mismatch Repair",
+      "fdr": 9.96000770151295e-06,
+      "p_value": 9.96000770151295e-06,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:05210",
+      "label": "Colorectal cancer",
+      "fdr": 1.1240301091617624e-05,
+      "p_value": 1.1240301091617624e-05,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-3700989",
+      "label": "Transcriptional Regulation by TP53",
+      "fdr": 1.5899503704783204e-05,
+      "p_value": 1.5899503704783204e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-212436",
+      "label": "Generic Transcription Pathway",
+      "fdr": 2.082440601302192e-05,
+      "p_value": 2.082440601302192e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0002520",
+      "label": "immune system development",
+      "fdr": 2.1190815840416375e-05,
+      "p_value": 2.1190815840416375e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042127",
+      "label": "regulation of cell population proliferation",
+      "fdr": 2.154682731181198e-05,
+      "p_value": 2.154682731181198e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032135",
+      "label": "DNA insertion or deletion binding",
+      "fdr": 2.3250839744642555e-05,
+      "p_value": 2.3250839744642555e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0006950",
+      "label": "response to stress",
+      "fdr": 2.437346908114239e-05,
+      "p_value": 2.437346908114239e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:03460",
+      "label": "Fanconi anemia pathway",
+      "fdr": 3.10466967650757e-05,
+      "p_value": 3.10466967650757e-05,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0035556",
+      "label": "intracellular signal transduction",
+      "fdr": 3.113785077317919e-05,
+      "p_value": 3.113785077317919e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:03430",
+      "label": "Mismatch repair",
+      "fdr": 3.656071843122633e-05,
+      "p_value": 3.656071843122633e-05,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0032407",
+      "label": "MutSalpha complex binding",
+      "fdr": 4.0646761579441495e-05,
+      "p_value": 4.0646761579441495e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0031981",
+      "label": "nuclear lumen",
+      "fdr": 5.6544505668748755e-05,
+      "p_value": 5.6544505668748755e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0006121",
+      "label": "mitochondrial electron transport, succinate to ubiquinone",
+      "fdr": 5.7427856159297684e-05,
+      "p_value": 5.7427856159297684e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030308",
+      "label": "negative regulation of cell growth",
+      "fdr": 6.464562164970384e-05,
+      "p_value": 6.464562164970384e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-73857",
+      "label": "RNA Polymerase II Transcription",
+      "fdr": 6.871937927993027e-05,
+      "p_value": 6.871937927993027e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0006915",
+      "label": "apoptotic process",
+      "fdr": 7.660678770407981e-05,
+      "p_value": 7.660678770407981e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-6796648",
+      "label": "TP53 Regulates Transcription of DNA Repair Genes",
+      "fdr": 7.707022988451967e-05,
+      "p_value": 7.707022988451967e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0003677",
+      "label": "DNA binding",
+      "fdr": 8.923823977079944e-05,
+      "p_value": 8.923823977079944e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0008283",
+      "label": "cell population proliferation",
+      "fdr": 9.213501185322611e-05,
+      "p_value": 9.213501185322611e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032357",
+      "label": "oxidized purine DNA binding",
+      "fdr": 9.734995169598931e-05,
+      "p_value": 9.734995169598931e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0032991",
+      "label": "protein-containing complex",
+      "fdr": 0.00010199040086115471,
+      "p_value": 0.00010199040086115471,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0009968",
+      "label": "negative regulation of signal transduction",
+      "fdr": 0.0001020025120352143,
+      "p_value": 0.0001020025120352143,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1902531",
+      "label": "regulation of intracellular signal transduction",
+      "fdr": 0.00011571062018957679,
+      "p_value": 0.00011571062018957679,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0012501",
+      "label": "programmed cell death",
+      "fdr": 0.00012658049803463024,
+      "p_value": 0.00012658049803463024,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005654",
+      "label": "nucleoplasm",
+      "fdr": 0.0001305471767820726,
+      "p_value": 0.0001305471767820726,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0008219",
+      "label": "cell death",
+      "fdr": 0.00013203697192297394,
+      "p_value": 0.00013203697192297394,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0050790",
+      "label": "regulation of catalytic activity",
+      "fdr": 0.00013644187674882928,
+      "p_value": 0.00013644187674882928,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032007",
+      "label": "negative regulation of TOR signaling",
+      "fdr": 0.00013649544634294694,
+      "p_value": 0.00013649544634294694,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032356",
+      "label": "oxidized DNA binding",
+      "fdr": 0.00013892710644458622,
+      "p_value": 0.00013892710644458622,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-73894",
+      "label": "DNA Repair",
+      "fdr": 0.0001432727406728391,
+      "p_value": 0.0001432727406728391,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0051726",
+      "label": "regulation of cell cycle",
+      "fdr": 0.00014773858690165625,
+      "p_value": 0.00014773858690165625,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:01524",
+      "label": "Platinum drug resistance",
+      "fdr": 0.00015189302212597082,
+      "p_value": 0.00015189302212597082,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0010648",
+      "label": "negative regulation of cell communication",
+      "fdr": 0.00016518444517140058,
+      "p_value": 0.00016518444517140058,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0023057",
+      "label": "negative regulation of signaling",
+      "fdr": 0.0001731241366306228,
+      "p_value": 0.0001731241366306228,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0040008",
+      "label": "regulation of growth",
+      "fdr": 0.0001983380726981121,
+      "p_value": 0.0001983380726981121,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003697",
+      "label": "single-stranded DNA binding",
+      "fdr": 0.0002137420606064726,
+      "p_value": 0.0002137420606064726,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "KEGG:05224",
+      "label": "Breast cancer",
+      "fdr": 0.0002597991363346,
+      "p_value": 0.0002597991363346,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-74160",
+      "label": "Gene expression (Transcription)",
+      "fdr": 0.00034915356287968855,
+      "p_value": 0.00034915356287968855,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:1902532",
+      "label": "negative regulation of intracellular signal transduction",
+      "fdr": 0.0003821285434575712,
+      "p_value": 0.0003821285434575712,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032301",
+      "label": "MutSalpha complex",
+      "fdr": 0.0004353625420819368,
+      "p_value": 0.0004353625420819368,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0016446",
+      "label": "somatic hypermutation of immunoglobulin genes",
+      "fdr": 0.0004802507372620536,
+      "p_value": 0.0004802507372620536,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002566",
+      "label": "somatic diversification of immune receptors via somatic mutation",
+      "fdr": 0.0004802507372620536,
+      "p_value": 0.0004802507372620536,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009966",
+      "label": "regulation of signal transduction",
+      "fdr": 0.0005026306468556143,
+      "p_value": 0.0005026306468556143,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006139",
+      "label": "nucleobase-containing compound metabolic process",
+      "fdr": 0.000530569120257207,
+      "p_value": 0.000530569120257207,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0051716",
+      "label": "cellular response to stimulus",
+      "fdr": 0.0005995547114842203,
+      "p_value": 0.0005995547114842203,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009314",
+      "label": "response to radiation",
+      "fdr": 0.0006302554655058994,
+      "p_value": 0.0006302554655058994,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006259",
+      "label": "DNA metabolic process",
+      "fdr": 0.0007523303714185684,
+      "p_value": 0.0007523303714185684,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000400",
+      "label": "four-way junction DNA binding",
+      "fdr": 0.0007815557853434258,
+      "p_value": 0.0007815557853434258,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0009892",
+      "label": "negative regulation of metabolic process",
+      "fdr": 0.000782739912795376,
+      "p_value": 0.000782739912795376,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032137",
+      "label": "guanine/thymine mispair binding",
+      "fdr": 0.0008094135388973857,
+      "p_value": 0.0008094135388973857,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0032143",
+      "label": "single thymine insertion binding",
+      "fdr": 0.0008094135388973857,
+      "p_value": 0.0008094135388973857,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0010563",
+      "label": "negative regulation of phosphorus metabolic process",
+      "fdr": 0.0008112877300126542,
+      "p_value": 0.0008112877300126542,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045936",
+      "label": "negative regulation of phosphate metabolic process",
+      "fdr": 0.0008112877300126542,
+      "p_value": 0.0008112877300126542,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1990391",
+      "label": "DNA repair complex",
+      "fdr": 0.0008281728896646738,
+      "p_value": 0.0008281728896646738,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0048731",
+      "label": "system development",
+      "fdr": 0.0009441796902636411,
+      "p_value": 0.0009441796902636411,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006469",
+      "label": "negative regulation of protein kinase activity",
+      "fdr": 0.0010971069495808875,
+      "p_value": 0.0010971069495808875,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045786",
+      "label": "negative regulation of cell cycle",
+      "fdr": 0.0011022632664979572,
+      "p_value": 0.0011022632664979572,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0048585",
+      "label": "negative regulation of response to stimulus",
+      "fdr": 0.0011407215640444797,
+      "p_value": 0.0011407215640444797,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0048729",
+      "label": "tissue morphogenesis",
+      "fdr": 0.0012456214203347144,
+      "p_value": 0.0012456214203347144,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0040007",
+      "label": "growth",
+      "fdr": 0.001259767867666044,
+      "p_value": 0.001259767867666044,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0033596",
+      "label": "TSC1-TSC2 complex",
+      "fdr": 0.0013048184957010272,
+      "p_value": 0.0013048184957010272,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0032389",
+      "label": "MutLalpha complex",
+      "fdr": 0.0013048184957010272,
+      "p_value": 0.0013048184957010272,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:2000134",
+      "label": "negative regulation of G1/S transition of mitotic cell cycle",
+      "fdr": 0.0013283773745757167,
+      "p_value": 0.0013283773745757167,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5358606",
+      "label": "Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)",
+      "fdr": 0.0013348050022952266,
+      "p_value": 0.0013348050022952266,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0044092",
+      "label": "negative regulation of molecular function",
+      "fdr": 0.0014043481891938304,
+      "p_value": 0.0014043481891938304,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0033673",
+      "label": "negative regulation of kinase activity",
+      "fdr": 0.0014424665067692213,
+      "p_value": 0.0014424665067692213,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016445",
+      "label": "somatic diversification of immunoglobulins",
+      "fdr": 0.0014502955361622024,
+      "p_value": 0.0014502955361622024,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0007049",
+      "label": "cell cycle",
+      "fdr": 0.0015111272222618833,
+      "p_value": 0.0015111272222618833,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0007507",
+      "label": "heart development",
+      "fdr": 0.0015193443296652133,
+      "p_value": 0.0015193443296652133,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1901988",
+      "label": "negative regulation of cell cycle phase transition",
+      "fdr": 0.0016717952941830772,
+      "p_value": 0.0016717952941830772,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0048523",
+      "label": "negative regulation of cellular process",
+      "fdr": 0.001743241134367065,
+      "p_value": 0.001743241134367065,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:05213",
+      "label": "Endometrial cancer",
+      "fdr": 0.0017471456671160272,
+      "p_value": 0.0017471456671160272,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-5632968",
+      "label": "Defective Mismatch Repair Associated With MSH6",
+      "fdr": 0.0017916117854172527,
+      "p_value": 0.0017916117854172527,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5632987",
+      "label": "Defective Mismatch Repair Associated With PMS2",
+      "fdr": 0.0017916117854172527,
+      "p_value": 0.0017916117854172527,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5545483",
+      "label": "Defective Mismatch Repair Associated With MLH1",
+      "fdr": 0.0017916117854172527,
+      "p_value": 0.0017916117854172527,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0043086",
+      "label": "negative regulation of catalytic activity",
+      "fdr": 0.0018613723953219458,
+      "p_value": 0.0018613723953219458,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1904262",
+      "label": "negative regulation of TORC1 signaling",
+      "fdr": 0.0018661979773413597,
+      "p_value": 0.0018661979773413597,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0043462",
+      "label": "regulation of ATP-dependent activity",
+      "fdr": 0.0018661979773413597,
+      "p_value": 0.0018661979773413597,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1902807",
+      "label": "negative regulation of cell cycle G1/S phase transition",
+      "fdr": 0.0018661979773413597,
+      "p_value": 0.0018661979773413597,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045736",
+      "label": "negative regulation of cyclin-dependent protein serine/threonine kinase activity",
+      "fdr": 0.002069536534966408,
+      "p_value": 0.002069536534966408,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0023051",
+      "label": "regulation of signaling",
+      "fdr": 0.0021322285408994974,
+      "p_value": 0.0021322285408994974,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0010646",
+      "label": "regulation of cell communication",
+      "fdr": 0.0021846024384882786,
+      "p_value": 0.0021846024384882786,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002200",
+      "label": "somatic diversification of immune receptors",
+      "fdr": 0.002188786495007336,
+      "p_value": 0.002188786495007336,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0140513",
+      "label": "nuclear protein-containing complex",
+      "fdr": 0.002255903852120647,
+      "p_value": 0.002255903852120647,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0031974",
+      "label": "membrane-enclosed lumen",
+      "fdr": 0.002336934091741543,
+      "p_value": 0.002336934091741543,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0070013",
+      "label": "intracellular organelle lumen",
+      "fdr": 0.002336934091741543,
+      "p_value": 0.002336934091741543,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0043233",
+      "label": "organelle lumen",
+      "fdr": 0.002336934091741543,
+      "p_value": 0.002336934091741543,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0032142",
+      "label": "single guanine insertion binding",
+      "fdr": 0.002425908281690726,
+      "p_value": 0.002425908281690726,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0010605",
+      "label": "negative regulation of macromolecule metabolic process",
+      "fdr": 0.0025259142288193066,
+      "p_value": 0.0025259142288193066,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005634",
+      "label": "nucleus",
+      "fdr": 0.0026372068610839884,
+      "p_value": 0.0026372068610839884,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0009411",
+      "label": "response to UV",
+      "fdr": 0.0026873745520757776,
+      "p_value": 0.0026873745520757776,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0072359",
+      "label": "circulatory system development",
+      "fdr": 0.002730228068391485,
+      "p_value": 0.002730228068391485,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003690",
+      "label": "double-stranded DNA binding",
+      "fdr": 0.002835716278813082,
+      "p_value": 0.002835716278813082,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-9854311",
+      "label": "Maturation of TCA enzymes and regulation of TCA cycle",
+      "fdr": 0.0029744884643444357,
+      "p_value": 0.0029744884643444357,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0048856",
+      "label": "anatomical structure development",
+      "fdr": 0.0030532824063295716,
+      "p_value": 0.0030532824063295716,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1904030",
+      "label": "negative regulation of cyclin-dependent protein kinase activity",
+      "fdr": 0.0031768229393815905,
+      "p_value": 0.0031768229393815905,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-1643685",
+      "label": "Disease",
+      "fdr": 0.0032785613938300677,
+      "p_value": 0.0032785613938300677,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0065009",
+      "label": "regulation of molecular function",
+      "fdr": 0.003369902074038865,
+      "p_value": 0.003369902074038865,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0048519",
+      "label": "negative regulation of biological process",
+      "fdr": 0.004090425992885195,
+      "p_value": 0.004090425992885195,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04151",
+      "label": "PI3K-Akt signaling pathway",
+      "fdr": 0.004287597878993229,
+      "p_value": 0.004287597878993229,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0010948",
+      "label": "negative regulation of cell cycle process",
+      "fdr": 0.004299287681941815,
+      "p_value": 0.004299287681941815,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1902494",
+      "label": "catalytic complex",
+      "fdr": 0.004770052404783069,
+      "p_value": 0.004770052404783069,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "KEGG:05226",
+      "label": "Gastric cancer",
+      "fdr": 0.004784683006602582,
+      "p_value": 0.004784683006602582,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0048039",
+      "label": "ubiquinone binding",
+      "fdr": 0.004847156732526763,
+      "p_value": 0.004847156732526763,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "KEGG:05212",
+      "label": "Pancreatic cancer",
+      "fdr": 0.005009168191236824,
+      "p_value": 0.005009168191236824,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0032006",
+      "label": "regulation of TOR signaling",
+      "fdr": 0.005336328372572719,
+      "p_value": 0.005336328372572719,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0001933",
+      "label": "negative regulation of protein phosphorylation",
+      "fdr": 0.005336328372572719,
+      "p_value": 0.005336328372572719,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-165181",
+      "label": "Inhibition of TSC complex formation by PKB",
+      "fdr": 0.005367379761704143,
+      "p_value": 0.005367379761704143,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5632928",
+      "label": "Defective Mismatch Repair Associated With MSH2",
+      "fdr": 0.005367379761704143,
+      "p_value": 0.005367379761704143,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0044877",
+      "label": "protein-containing complex binding",
+      "fdr": 0.005598946641997743,
+      "p_value": 0.005598946641997743,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0003170",
+      "label": "heart valve development",
+      "fdr": 0.005734826349761721,
+      "p_value": 0.005734826349761721,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045893",
+      "label": "positive regulation of DNA-templated transcription",
+      "fdr": 0.0057647159356197086,
+      "p_value": 0.0057647159356197086,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04218",
+      "label": "Cellular senescence",
+      "fdr": 0.005766151094103467,
+      "p_value": 0.005766151094103467,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:1902680",
+      "label": "positive regulation of RNA biosynthetic process",
+      "fdr": 0.005892955690110642,
+      "p_value": 0.005892955690110642,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:00020",
+      "label": "Citrate cycle (TCA cycle)",
+      "fdr": 0.006255397425562143,
+      "p_value": 0.006255397425562143,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:1901991",
+      "label": "negative regulation of mitotic cell cycle phase transition",
+      "fdr": 0.006293594338455474,
+      "p_value": 0.006293594338455474,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0051128",
+      "label": "regulation of cellular component organization",
+      "fdr": 0.0072264710998910095,
+      "p_value": 0.0072264710998910095,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9709603",
+      "label": "Impaired BRCA2 binding to PALB2",
+      "fdr": 0.007312093225188176,
+      "p_value": 0.007312093225188176,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0000217",
+      "label": "DNA secondary structure binding",
+      "fdr": 0.007383309843781695,
+      "p_value": 0.007383309843781695,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-9704331",
+      "label": "Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function",
+      "fdr": 0.008296800085245004,
+      "p_value": 0.008296800085245004,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9701193",
+      "label": "Defective homologous recombination repair (HRR) due to PALB2 loss of function",
+      "fdr": 0.008296800085245004,
+      "p_value": 0.008296800085245004,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9704646",
+      "label": "Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function",
+      "fdr": 0.008296800085245004,
+      "p_value": 0.008296800085245004,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9701192",
+      "label": "Defective homologous recombination repair (HRR) due to BRCA1 loss of function",
+      "fdr": 0.008296800085245004,
+      "p_value": 0.008296800085245004,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:05225",
+      "label": "Hepatocellular carcinoma",
+      "fdr": 0.008422807078822007,
+      "p_value": 0.008422807078822007,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0042326",
+      "label": "negative regulation of phosphorylation",
+      "fdr": 0.008610434335271512,
+      "p_value": 0.008610434335271512,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04211",
+      "label": "Longevity regulating pathway",
+      "fdr": 0.009212499386959111,
+      "p_value": 0.009212499386959111,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0002377",
+      "label": "immunoglobulin production",
+      "fdr": 0.009572849105564397,
+      "p_value": 0.009572849105564397,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0007275",
+      "label": "multicellular organism development",
+      "fdr": 0.010191532119886488,
+      "p_value": 0.010191532119886488,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0001558",
+      "label": "regulation of cell growth",
+      "fdr": 0.010395538040239759,
+      "p_value": 0.010395538040239759,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:05222",
+      "label": "Small cell lung cancer",
+      "fdr": 0.010463114391655716,
+      "p_value": 0.010463114391655716,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "REAC:R-HSA-5693554",
+      "label": "Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)",
+      "fdr": 0.01051990630816213,
+      "p_value": 0.01051990630816213,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0031929",
+      "label": "TOR signaling",
+      "fdr": 0.010595671808797908,
+      "p_value": 0.010595671808797908,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9682706",
+      "label": "Replication of the SARS-CoV-1 genome",
+      "fdr": 0.010719870593846256,
+      "p_value": 0.010719870593846256,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9694686",
+      "label": "Replication of the SARS-CoV-2 genome",
+      "fdr": 0.010719870593846256,
+      "p_value": 0.010719870593846256,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9679514",
+      "label": "SARS-CoV-1 Genome Replication and Transcription",
+      "fdr": 0.010719870593846256,
+      "p_value": 0.010719870593846256,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9694682",
+      "label": "SARS-CoV-2 Genome Replication and Transcription",
+      "fdr": 0.010719870593846256,
+      "p_value": 0.010719870593846256,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-5628897",
+      "label": "TP53 Regulates Metabolic Genes",
+      "fdr": 0.010979621978863338,
+      "p_value": 0.010979621978863338,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0032405",
+      "label": "MutLalpha complex binding",
+      "fdr": 0.012094628919348272,
+      "p_value": 0.012094628919348272,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0097190",
+      "label": "apoptotic signaling pathway",
+      "fdr": 0.012257045270104842,
+      "p_value": 0.012257045270104842,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045859",
+      "label": "regulation of protein kinase activity",
+      "fdr": 0.012576747930106288,
+      "p_value": 0.012576747930106288,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:1903846",
+      "label": "positive regulation of cellular response to transforming growth factor beta stimulus",
+      "fdr": 0.012917638743280817,
+      "p_value": 0.012917638743280817,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030511",
+      "label": "positive regulation of transforming growth factor beta receptor signaling pathway",
+      "fdr": 0.012917638743280817,
+      "p_value": 0.012917638743280817,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019899",
+      "label": "enzyme binding",
+      "fdr": 0.012936405075544688,
+      "p_value": 0.012936405075544688,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-380972",
+      "label": "Energy dependent regulation of mTOR by LKB1-AMPK",
+      "fdr": 0.013102610495253339,
+      "p_value": 0.013102610495253339,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0051254",
+      "label": "positive regulation of RNA metabolic process",
+      "fdr": 0.013869551978798623,
+      "p_value": 0.013869551978798623,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006099",
+      "label": "tricarboxylic acid cycle",
+      "fdr": 0.014586309015555882,
+      "p_value": 0.014586309015555882,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0032502",
+      "label": "developmental process",
+      "fdr": 0.014818349424258087,
+      "p_value": 0.014818349424258087,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0000800",
+      "label": "lateral element",
+      "fdr": 0.015566779602141543,
+      "p_value": 0.015566779602141543,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "KEGG:03440",
+      "label": "Homologous recombination",
+      "fdr": 0.01607057755359406,
+      "p_value": 0.01607057755359406,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0090100",
+      "label": "positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway",
+      "fdr": 0.016516921418004333,
+      "p_value": 0.016516921418004333,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-71403",
+      "label": "Citric acid cycle (TCA cycle)",
+      "fdr": 0.01770622725591885,
+      "p_value": 0.01770622725591885,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0043549",
+      "label": "regulation of kinase activity",
+      "fdr": 0.019023994041143646,
+      "p_value": 0.019023994041143646,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0045930",
+      "label": "negative regulation of mitotic cell cycle",
+      "fdr": 0.020769154044569933,
+      "p_value": 0.020769154044569933,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0048038",
+      "label": "quinone binding",
+      "fdr": 0.02253330659081125,
+      "p_value": 0.02253330659081125,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0045934",
+      "label": "negative regulation of nucleobase-containing compound metabolic process",
+      "fdr": 0.022579832141068956,
+      "p_value": 0.022579832141068956,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0016049",
+      "label": "cell growth",
+      "fdr": 0.022937014590144526,
+      "p_value": 0.022937014590144526,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:05165",
+      "label": "Human papillomavirus infection",
+      "fdr": 0.023886665925249802,
+      "p_value": 0.023886665925249802,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0048583",
+      "label": "regulation of response to stimulus",
+      "fdr": 0.02424105116373719,
+      "p_value": 0.02424105116373719,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5693568",
+      "label": "Resolution of D-loop Structures through Holliday Junction Intermediates",
+      "fdr": 0.02533667334899922,
+      "p_value": 0.02533667334899922,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0090304",
+      "label": "nucleic acid metabolic process",
+      "fdr": 0.02553438199525934,
+      "p_value": 0.02553438199525934,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0017053",
+      "label": "transcription repressor complex",
+      "fdr": 0.025972014086619248,
+      "p_value": 0.025972014086619248,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-5693537",
+      "label": "Resolution of D-Loop Structures",
+      "fdr": 0.027531140479606257,
+      "p_value": 0.027531140479606257,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:1903432",
+      "label": "regulation of TORC1 signaling",
+      "fdr": 0.027714936418782067,
+      "p_value": 0.027714936418782067,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0043231",
+      "label": "intracellular membrane-bounded organelle",
+      "fdr": 0.02863628697503428,
+      "p_value": 0.02863628697503428,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "REAC:R-HSA-5689896",
+      "label": "Ovarian tumor domain proteases",
+      "fdr": 0.032285351878192904,
+      "p_value": 0.032285351878192904,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0003684",
+      "label": "damaged DNA binding",
+      "fdr": 0.033987864762682105,
+      "p_value": 0.033987864762682105,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0050896",
+      "label": "response to stimulus",
+      "fdr": 0.03445464790893768,
+      "p_value": 0.03445464790893768,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0009719",
+      "label": "response to endogenous stimulus",
+      "fdr": 0.03593014538123488,
+      "p_value": 0.03593014538123488,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0051096",
+      "label": "positive regulation of helicase activity",
+      "fdr": 0.03713056901014038,
+      "p_value": 0.03713056901014038,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0072215",
+      "label": "regulation of metanephros development",
+      "fdr": 0.03713056901014038,
+      "p_value": 0.03713056901014038,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-8941855",
+      "label": "RUNX3 regulates CDKN1A transcription",
+      "fdr": 0.03736367958487498,
+      "p_value": 0.03736367958487498,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-165159",
+      "label": "MTOR signalling",
+      "fdr": 0.037546355769507635,
+      "p_value": 0.037546355769507635,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9675136",
+      "label": "Diseases of DNA Double-Strand Break Repair",
+      "fdr": 0.037546355769507635,
+      "p_value": 0.037546355769507635,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9701190",
+      "label": "Defective homologous recombination repair (HRR) due to BRCA2 loss of function",
+      "fdr": 0.037546355769507635,
+      "p_value": 0.037546355769507635,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0009416",
+      "label": "response to light stimulus",
+      "fdr": 0.038168794254848974,
+      "p_value": 0.038168794254848974,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "KEGG:04714",
+      "label": "Thermogenesis",
+      "fdr": 0.03820920495322628,
+      "p_value": 0.03820920495322628,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:1901987",
+      "label": "regulation of cell cycle phase transition",
+      "fdr": 0.04114301206224137,
+      "p_value": 0.04114301206224137,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002039",
+      "label": "p53 binding",
+      "fdr": 0.041486340344912866,
+      "p_value": 0.041486340344912866,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0046620",
+      "label": "regulation of organ growth",
+      "fdr": 0.04306042326604117,
+      "p_value": 0.04306042326604117,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-5693579",
+      "label": "Homologous DNA Pairing and Strand Exchange",
+      "fdr": 0.043337589811539026,
+      "p_value": 0.043337589811539026,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0038202",
+      "label": "TORC1 signaling",
+      "fdr": 0.043693283597887524,
+      "p_value": 0.043693283597887524,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003676",
+      "label": "nucleic acid binding",
+      "fdr": 0.04488200960131208,
+      "p_value": 0.04488200960131208,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0051338",
+      "label": "regulation of transferase activity",
+      "fdr": 0.044966620401409384,
+      "p_value": 0.044966620401409384,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005694",
+      "label": "chromosome",
+      "fdr": 0.049154934347911246,
+      "p_value": 0.049154934347911246,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0031400",
+      "label": "negative regulation of protein modification process",
+      "fdr": 0.04927838734649845,
+      "p_value": 0.04927838734649845,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0036094",
+      "label": "small molecule binding",
+      "fdr": 0.049513669855377064,
+      "p_value": 0.049513669855377064,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0042981",
+      "label": "regulation of apoptotic process",
+      "fdr": 0.04981831327143548,
+      "p_value": 0.04981831327143548,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046332",
+      "label": "SMAD binding",
+      "fdr": 0.04998838908036908,
+      "p_value": 0.04998838908036908,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    }
+  ]
+}

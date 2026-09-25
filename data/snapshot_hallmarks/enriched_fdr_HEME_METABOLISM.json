@@ -1,0 +1,1680 @@
+{
+  "PANTHER": [
+    {
+      "id": "GO:0042168",
+      "label": "heme metabolic process",
+      "fdr": 2.6735491108484345e-12,
+      "p_value": 1.94284507728249e-16,
+      "fold": 30.20320614134116,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006785",
+      "label": "heme B biosynthetic process",
+      "fdr": 3.5995276016319586e-12,
+      "p_value": 7.847236977614908e-16,
+      "fold": 88.80258899676376,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042440",
+      "label": "pigment metabolic process",
+      "fdr": 3.6191287574861803e-12,
+      "p_value": 1.5779937900528363e-15,
+      "fold": 22.200647249190936,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006778",
+      "label": "porphyrin-containing compound metabolic process",
+      "fdr": 3.6228729785771115e-12,
+      "p_value": 5.265421086515677e-16,
+      "fold": 28.233431827775433,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033014",
+      "label": "tetrapyrrole biosynthetic process",
+      "fdr": 3.935425467916458e-12,
+      "p_value": 1.429919870618581e-15,
+      "fold": 39.247572815533985,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006779",
+      "label": "porphyrin-containing compound biosynthetic process",
+      "fdr": 4.919281834895573e-12,
+      "p_value": 1.429919870618581e-15,
+      "fold": 39.247572815533985,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0033013",
+      "label": "tetrapyrrole metabolic process",
+      "fdr": 1.3642578471156559e-11,
+      "p_value": 6.9397608675311324e-15,
+      "fold": 23.613415710503087,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030218",
+      "label": "erythrocyte differentiation",
+      "fdr": 2.4592925924055645e-11,
+      "p_value": 1.4297173707757078e-14,
+      "fold": 19.159462694507248,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006783",
+      "label": "heme biosynthetic process",
+      "fdr": 3.55575733564787e-11,
+      "p_value": 2.3255443660221515e-14,
+      "fold": 39.96116504854369,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034101",
+      "label": "erythrocyte homeostasis",
+      "fdr": 4.315950839366914e-11,
+      "p_value": 3.1363642463243325e-14,
+      "fold": 18.164165931156223,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046148",
+      "label": "pigment biosynthetic process",
+      "fdr": 4.6673668403022605e-11,
+      "p_value": 3.730908745245612e-14,
+      "fold": 30.525889967637543,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0002262",
+      "label": "myeloid cell homeostasis",
+      "fdr": 2.9422083661273345e-10,
+      "p_value": 2.5656929288226157e-13,
+      "fold": 15.715064906730664,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042592",
+      "label": "homeostatic process",
+      "fdr": 8.178222872624674e-10,
+      "p_value": 7.72595722288502e-13,
+      "fold": 3.431170321660101,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030099",
+      "label": "myeloid cell differentiation",
+      "fdr": 8.981979240701758e-09,
+      "p_value": 9.137977572111374e-12,
+      "fold": 8.1738746690203,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006784",
+      "label": "heme A biosynthetic process",
+      "fdr": 7.028733049499493e-08,
+      "p_value": 7.661579517658047e-11,
+      "fold": 66.60194174757282,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009636",
+      "label": "response to toxic substance",
+      "fdr": 1.7206480459769522e-07,
+      "p_value": 2.0006081487995957e-10,
+      "fold": 7.320472045530633,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048871",
+      "label": "multicellular organismal-level homeostasis",
+      "fdr": 2.2776010313486305e-07,
+      "p_value": 2.813692139592088e-10,
+      "fold": 4.973521624007061,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048872",
+      "label": "homeostasis of number of cells",
+      "fdr": 1.4090016150257354e-06,
+      "p_value": 1.843036775704036e-09,
+      "fold": 8.227298686464877,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030097",
+      "label": "hemopoiesis",
+      "fdr": 2.847978841952667e-06,
+      "p_value": 3.932243150723107e-09,
+      "fold": 4.531678510659593,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070887",
+      "label": "cellular response to chemical stimulus",
+      "fdr": 3.402514093666476e-06,
+      "p_value": 4.945155284741626e-09,
+      "fold": 2.4921550870837983,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008152",
+      "label": "metabolic process",
+      "fdr": 3.5369848102136297e-06,
+      "p_value": 5.397622339545543e-09,
+      "fold": 1.580385058416982,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010038",
+      "label": "response to metal ion",
+      "fdr": 9.249792065180758e-06,
+      "p_value": 1.4787837034661486e-08,
+      "fold": 5.514121800529567,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019725",
+      "label": "cellular homeostasis",
+      "fdr": 1.5724589446821106e-05,
+      "p_value": 2.6281924080872425e-08,
+      "fold": 3.7699212309946875,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055082",
+      "label": "intracellular chemical homeostasis",
+      "fdr": 1.836104763081608e-05,
+      "p_value": 3.2022755841841866e-08,
+      "fold": 4.03277812416496,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048878",
+      "label": "chemical homeostasis",
+      "fdr": 4.5641941050938156e-05,
+      "p_value": 8.29190121556176e-08,
+      "fold": 3.226529474613276,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0048821",
+      "label": "erythrocyte development",
+      "fdr": 5.73210171859713e-05,
+      "p_value": 1.0830219074451376e-07,
+      "fold": 24.975728155339805,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006873",
+      "label": "intracellular monoatomic ion homeostasis",
+      "fdr": 0.00010879591249930386,
+      "p_value": 2.1346483812813052e-07,
+      "fold": 4.3331383787577495,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0098754",
+      "label": "detoxification",
+      "fdr": 0.00019223734911538945,
+      "p_value": 3.9115222550911305e-07,
+      "fold": 7.229816044966785,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901700",
+      "label": "response to oxygen-containing compound",
+      "fdr": 0.00021711437594998511,
+      "p_value": 4.5754791821448794e-07,
+      "fold": 2.4975728155339807,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030003",
+      "label": "intracellular monoatomic cation homeostasis",
+      "fdr": 0.0003636779961189975,
+      "p_value": 7.928449882690156e-07,
+      "fold": 4.172848930130484,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009056",
+      "label": "catabolic process",
+      "fdr": 0.0003941049773510221,
+      "p_value": 9.164566001913166e-07,
+      "fold": 2.1906299044969133,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009987",
+      "label": "cellular process",
+      "fdr": 0.0004012513739074191,
+      "p_value": 9.039163281106019e-07,
+      "fold": 1.197203009923231,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0015669",
+      "label": "gas transport",
+      "fdr": 0.00040190327538186434,
+      "p_value": 9.930027878049116e-07,
+      "fold": 26.290240163515584,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010288",
+      "label": "response to lead ion",
+      "fdr": 0.0004140821625146481,
+      "p_value": 9.930027878049116e-07,
+      "fold": 26.290240163515584,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0050801",
+      "label": "monoatomic ion homeostasis",
+      "fdr": 0.0004939151584679165,
+      "p_value": 1.2562335983124102e-06,
+      "fold": 3.834226923634256,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006575",
+      "label": "modified amino acid metabolic process",
+      "fdr": 0.0005414264711721417,
+      "p_value": 1.4164198068597558e-06,
+      "fold": 6.352208316965037,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071705",
+      "label": "nitrogen compound transport",
+      "fdr": 0.0006301210850005641,
+      "p_value": 1.6942431614723399e-06,
+      "fold": 3.7541804325354198,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009725",
+      "label": "response to hormone",
+      "fdr": 0.0006655070845051344,
+      "p_value": 1.837749379492414e-06,
+      "fold": 3.0759932935626,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0007584",
+      "label": "response to nutrient",
+      "fdr": 0.0007578805689755603,
+      "p_value": 2.202981088512638e-06,
+      "fold": 6.842665248038302,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019755",
+      "label": "one-carbon compound transport",
+      "fdr": 0.0007743351643151236,
+      "p_value": 2.194540470045042e-06,
+      "fold": 22.70520741394528,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901698",
+      "label": "response to nitrogen compound",
+      "fdr": 0.0008374850438580868,
+      "p_value": 2.4952319452206644e-06,
+      "fold": 2.9311368006266765,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0055080",
+      "label": "monoatomic cation homeostasis",
+      "fdr": 0.001247529136321342,
+      "p_value": 3.8075883820577263e-06,
+      "fold": 3.7163009071402775,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0070541",
+      "label": "response to platinum ion",
+      "fdr": 0.0012560145512013619,
+      "p_value": 3.924760242835445e-06,
+      "fold": 74.92718446601941,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0032870",
+      "label": "cellular response to hormone stimulus",
+      "fdr": 0.0013444572211494873,
+      "p_value": 4.298824048439608e-06,
+      "fold": 3.5122117718446604,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071495",
+      "label": "cellular response to endogenous stimulus",
+      "fdr": 0.0015277186966866061,
+      "p_value": 4.9958099957050554e-06,
+      "fold": 2.8141665527143447,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061687",
+      "label": "detoxification of inorganic compound",
+      "fdr": 0.0015873201758486275,
+      "p_value": 5.306062647266685e-06,
+      "fold": 19.21209858103062,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0009719",
+      "label": "response to endogenous stimulus",
+      "fdr": 0.0016069412769679438,
+      "p_value": 5.605201750923719e-06,
+      "fold": 2.536066684857714,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0061515",
+      "label": "myeloid cell development",
+      "fdr": 0.0016107757521469418,
+      "p_value": 5.5015231706203235e-06,
+      "fold": 13.320388349514563,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0015670",
+      "label": "carbon dioxide transport",
+      "fdr": 0.0017877034535573183,
+      "p_value": 6.4955433964004e-06,
+      "fold": 30.739357729648994,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0015671",
+      "label": "oxygen transport",
+      "fdr": 0.0018241871975074677,
+      "p_value": 6.4955433964004e-06,
+      "fold": 30.739357729648994,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006879",
+      "label": "intracellular iron ion homeostasis",
+      "fdr": 0.002284992470595792,
+      "p_value": 8.468470024008822e-06,
+      "fold": 9.579731347253624,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010039",
+      "label": "response to iron ion",
+      "fdr": 0.003482390866772614,
+      "p_value": 1.3159241702796013e-05,
+      "fold": 16.113373003445034,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0031667",
+      "label": "response to nutrient levels",
+      "fdr": 0.004299972022725752,
+      "p_value": 1.656118866393902e-05,
+      "fold": 3.482454470461324,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006979",
+      "label": "response to oxidative stress",
+      "fdr": 0.004495027587133561,
+      "p_value": 1.7639087980903445e-05,
+      "fold": 3.87435118199177,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1990748",
+      "label": "cellular detoxification",
+      "fdr": 0.004583037890931167,
+      "p_value": 1.831749756567213e-05,
+      "fold": 7.072772574963484,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0008150",
+      "label": "biological_process",
+      "fdr": 0.004695463126150292,
+      "p_value": 2.0131700053983523e-05,
+      "fold": 1.1146688768761828,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043434",
+      "label": "response to peptide hormone",
+      "fdr": 0.004711486328866302,
+      "p_value": 2.0542778848337923e-05,
+      "fold": 3.8214228871558173,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006865",
+      "label": "amino acid transport",
+      "fdr": 0.004715607991098463,
+      "p_value": 1.9532712411351823e-05,
+      "fold": 7.010730710270822,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071371",
+      "label": "cellular response to gonadotropin stimulus",
+      "fdr": 0.0047266284113917575,
+      "p_value": 2.0952280582435665e-05,
+      "fold": 23.506567675613937,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051597",
+      "label": "response to methylmercury",
+      "fdr": 0.004751152168039853,
+      "p_value": 1.9334679268238626e-05,
+      "fold": 49.95145631067961,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046984",
+      "label": "regulation of hemoglobin biosynthetic process",
+      "fdr": 0.007454396283972714,
+      "p_value": 3.3585681971245424e-05,
+      "fold": 42.81553398058253,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0097237",
+      "label": "cellular response to toxic substance",
+      "fdr": 0.007837557030722269,
+      "p_value": 3.588155605955257e-05,
+      "fold": 6.445349201378014,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046686",
+      "label": "response to cadmium ion",
+      "fdr": 0.010184789222345647,
+      "p_value": 4.7367670244177124e-05,
+      "fold": 12.487864077669904,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0097272",
+      "label": "ammonium homeostasis",
+      "fdr": 0.010955444132922309,
+      "p_value": 5.3340219235941766e-05,
+      "fold": 37.463592233009706,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006750",
+      "label": "glutathione biosynthetic process",
+      "fdr": 0.011121435710693859,
+      "p_value": 5.3340219235941766e-05,
+      "fold": 37.463592233009706,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901701",
+      "label": "cellular response to oxygen-containing compound",
+      "fdr": 0.011230663491169484,
+      "p_value": 5.304797085429958e-05,
+      "fold": 2.434182642550885,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030163",
+      "label": "protein catabolic process",
+      "fdr": 0.011398455968745405,
+      "p_value": 5.6325485493400744e-05,
+      "fold": 2.6224514563106793,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044281",
+      "label": "small molecule metabolic process",
+      "fdr": 0.012359677232785466,
+      "p_value": 6.197352874516366e-05,
+      "fold": 2.1624007060900263,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0042221",
+      "label": "response to chemical",
+      "fdr": 0.01698690228810115,
+      "p_value": 8.64096475668251e-05,
+      "fold": 1.6640580329554184,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0010312",
+      "label": "detoxification of zinc ion",
+      "fdr": 0.01829532696071731,
+      "p_value": 9.971292217526329e-05,
+      "fold": 99.90291262135922,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0097069",
+      "label": "cellular response to thyroxine stimulus",
+      "fdr": 0.01854256110883511,
+      "p_value": 9.971292217526329e-05,
+      "fold": 99.90291262135922,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0030221",
+      "label": "basophil differentiation",
+      "fdr": 0.01879656879525751,
+      "p_value": 9.971292217526329e-05,
+      "fold": 99.90291262135922,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034698",
+      "label": "response to gonadotropin",
+      "fdr": 0.018937393618020295,
+      "p_value": 0.00010458846849571559,
+      "fold": 15.984466019417475,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1904387",
+      "label": "cellular response to L-phenylalanine derivative",
+      "fdr": 0.019057632250747195,
+      "p_value": 9.971292217526329e-05,
+      "fold": 99.90291262135922,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1990359",
+      "label": "stress response to zinc ion",
+      "fdr": 0.01932604960639152,
+      "p_value": 9.971292217526329e-05,
+      "fold": 99.90291262135922,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071372",
+      "label": "cellular response to follicle-stimulating hormone stimulus",
+      "fdr": 0.019868687563165878,
+      "p_value": 0.00011261955017273006,
+      "fold": 29.97087378640777,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019184",
+      "label": "nonribosomal peptide biosynthetic process",
+      "fdr": 0.020126722466583615,
+      "p_value": 0.00011261955017273006,
+      "fold": 29.97087378640777,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019941",
+      "label": "modification-dependent protein catabolic process",
+      "fdr": 0.02083421514367969,
+      "p_value": 0.00011960635101741847,
+      "fold": 2.830582524271845,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043632",
+      "label": "modification-dependent macromolecule catabolic process",
+      "fdr": 0.02317036426873397,
+      "p_value": 0.00013470163080435418,
+      "fold": 2.8025569547245985,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0072488",
+      "label": "ammonium transmembrane transport",
+      "fdr": 0.026113591068549772,
+      "p_value": 0.00015370982316347152,
+      "fold": 27.246248896734336,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046942",
+      "label": "carboxylic acid transport",
+      "fdr": 0.026865996440457972,
+      "p_value": 0.0001620432893363863,
+      "fold": 3.815736245954693,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0046685",
+      "label": "response to arsenic-containing substance",
+      "fdr": 0.02708831986093159,
+      "p_value": 0.00016535272642382483,
+      "fold": 14.271844660194176,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0015849",
+      "label": "organic acid transport",
+      "fdr": 0.027193630543390385,
+      "p_value": 0.0001620432893363863,
+      "fold": 3.815736245954693,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901699",
+      "label": "cellular response to nitrogen compound",
+      "fdr": 0.030947499735044334,
+      "p_value": 0.00019115888943236454,
+      "fold": 2.829109029985394,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0044238",
+      "label": "primary metabolic process",
+      "fdr": 0.031097955352383726,
+      "p_value": 0.00019434809681745515,
+      "fold": 1.3962561594379665,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0098771",
+      "label": "inorganic ion homeostasis",
+      "fdr": 0.03128896165727258,
+      "p_value": 0.00019781554132568233,
+      "fold": 3.263160462506708,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0097067",
+      "label": "cellular response to thyroid hormone stimulus",
+      "fdr": 0.03145480433518025,
+      "p_value": 0.000203435621381516,
+      "fold": 24.975728155339805,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006749",
+      "label": "glutathione metabolic process",
+      "fdr": 0.031781013443765,
+      "p_value": 0.00020323589732223823,
+      "fold": 9.25026968716289,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0001666",
+      "label": "response to hypoxia",
+      "fdr": 0.03288002557308523,
+      "p_value": 0.0002150426786990532,
+      "fold": 4.012165165516435,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0019752",
+      "label": "carboxylic acid metabolic process",
+      "fdr": 0.034886995604393435,
+      "p_value": 0.0002332391247441462,
+      "fold": 2.583696016069635,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0034599",
+      "label": "cellular response to oxidative stress",
+      "fdr": 0.03490254699013309,
+      "p_value": 0.00023080675649314085,
+      "fold": 4.38598152971821,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000041",
+      "label": "transition metal ion transport",
+      "fdr": 0.03562115020385056,
+      "p_value": 0.00024073591809883744,
+      "fold": 6.88985604285236,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071548",
+      "label": "response to dexamethasone",
+      "fdr": 0.036336316737372,
+      "p_value": 0.0002482097066574353,
+      "fold": 12.890698402756028,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0000101",
+      "label": "sulfur amino acid transport",
+      "fdr": 0.03802637168238914,
+      "p_value": 0.0002625176447806822,
+      "fold": 23.054518297236744,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0036293",
+      "label": "response to decreased oxygen levels",
+      "fdr": 0.03848889488249898,
+      "p_value": 0.00026850765996075154,
+      "fold": 3.9024575242718447,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0051453",
+      "label": "regulation of intracellular pH",
+      "fdr": 0.038656167991869876,
+      "p_value": 0.000272483707231406,
+      "fold": 6.735027817170285,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006739",
+      "label": "NADP+ metabolic process",
+      "fdr": 0.039521909492398165,
+      "p_value": 0.0002814582610460737,
+      "fold": 12.487864077669903,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071284",
+      "label": "cellular response to lead ion",
+      "fdr": 0.04130548442322852,
+      "p_value": 0.0002971617584404929,
+      "fold": 66.60194174757281,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0110075",
+      "label": "regulation of ferroptosis",
+      "fdr": 0.042456780429434855,
+      "p_value": 0.00031778565396641163,
+      "fold": 12.109443954104147,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006511",
+      "label": "ubiquitin-dependent protein catabolic process",
+      "fdr": 0.04259448367614821,
+      "p_value": 0.00031572104752322633,
+      "fold": 2.704647380612094,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0062197",
+      "label": "cellular response to chemical stress",
+      "fdr": 0.04266775940241454,
+      "p_value": 0.0003131635564017054,
+      "fold": 3.8276978015846446,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0043436",
+      "label": "oxoacid metabolic process",
+      "fdr": 0.042676310127140835,
+      "p_value": 0.0003225300670897934,
+      "fold": 2.5150383596985537,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:1901655",
+      "label": "cellular response to ketone",
+      "fdr": 0.042747334783183294,
+      "p_value": 0.0003261732542863343,
+      "fold": 6.515407344871254,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0071375",
+      "label": "cellular response to peptide hormone stimulus",
+      "fdr": 0.04309443699643868,
+      "p_value": 0.0003131635564017054,
+      "fold": 3.8276978015846446,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0006885",
+      "label": "regulation of pH",
+      "fdr": 0.04489192791369076,
+      "p_value": 0.000345799313919862,
+      "fold": 6.445349201378014,
+      "source": "PANTHER"
+    },
+    {
+      "id": "GO:0003333",
+      "label": "amino acid transmembrane transport",
+      "fdr": 0.04987639527031073,
+      "p_value": 0.00038781878453043005,
+      "fold": 6.309657639243741,
+      "source": "PANTHER"
+    }
+  ],
+  "Enrichr": [
+    {
+      "id": "GO:0042168",
+      "label": "Heme Metabolic Process",
+      "fdr": 3.0939817238036845e-15,
+      "p_value": 3.242111713322035e-18,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006783",
+      "label": "Heme Biosynthetic Process",
+      "fdr": 3.0939817238036845e-15,
+      "p_value": 5.33905388059307e-18,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006779",
+      "label": "Porphyrin-Containing Compound Biosynthetic Process",
+      "fdr": 9.460141837131039e-15,
+      "p_value": 2.4486993538734357e-17,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046148",
+      "label": "Pigment Biosynthetic Process",
+      "fdr": 8.660321080082682e-14,
+      "p_value": 2.9888942467929877e-16,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030218",
+      "label": "Erythrocyte Differentiation",
+      "fdr": 2.3169157325274687e-07,
+      "p_value": 9.995322400895032e-10,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0015670",
+      "label": "Carbon Dioxide Transport",
+      "fdr": 8.083478115564559e-06,
+      "p_value": 4.184716884675354e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030099",
+      "label": "Myeloid Cell Differentiation",
+      "fdr": 1.562867360789754e-05,
+      "p_value": 9.439233412880308e-08,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0015669",
+      "label": "Gas Transport",
+      "fdr": 3.8144310348660676e-05,
+      "p_value": 2.632911844601255e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019755",
+      "label": "One-Carbon Compound Transport",
+      "fdr": 4.8918114980717725e-05,
+      "p_value": 3.798645684438823e-07,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042744",
+      "label": "Hydrogen Peroxide Catabolic Process",
+      "fdr": 0.00015126525589665408,
+      "p_value": 1.3051359438883009e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042743",
+      "label": "Hydrogen Peroxide Metabolic Process",
+      "fdr": 0.0008168236255596715,
+      "p_value": 7.75242440134287e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0071705",
+      "label": "Nitrogen Compound Transport",
+      "fdr": 0.0009064469745984098,
+      "p_value": 9.385128296100878e-06,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046984",
+      "label": "Regulation of Hemoglobin Biosynthetic Process",
+      "fdr": 0.0014888918157859353,
+      "p_value": 1.9269523068842994e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0097272",
+      "label": "Ammonium Homeostasis",
+      "fdr": 0.0014888918157859353,
+      "p_value": 1.9269523068842994e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006750",
+      "label": "Glutathione Biosynthetic Process",
+      "fdr": 0.0014888918157859353,
+      "p_value": 1.9269523068842994e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0019184",
+      "label": "Nonribosomal Peptide Biosynthetic Process",
+      "fdr": 0.0022820733041717905,
+      "p_value": 3.3473033797170354e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006778",
+      "label": "Porphyrin-Containing Compound Metabolic Process",
+      "fdr": 0.0022820733041717905,
+      "p_value": 3.3473033797170354e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0072488",
+      "label": "Ammonium Transmembrane Transport",
+      "fdr": 0.0034230484918225572,
+      "p_value": 5.3162099096467675e-05,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0015671",
+      "label": "Oxygen Transport",
+      "fdr": 0.006847039705381084,
+      "p_value": 0.00011224655254723089,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006787",
+      "label": "Porphyrin-Containing Compound Catabolic Process",
+      "fdr": 0.011190808582165005,
+      "p_value": 0.00020276702349047898,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0048821",
+      "label": "Erythrocyte Development",
+      "fdr": 0.011190808582165005,
+      "p_value": 0.00020276702349047898,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0000041",
+      "label": "Transition Metal Ion Transport",
+      "fdr": 0.013017837138993604,
+      "p_value": 0.00024710303456243254,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0042398",
+      "label": "Modified Amino Acid Biosynthetic Process",
+      "fdr": 0.013142496452737237,
+      "p_value": 0.00026165809515097364,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0098662",
+      "label": "Inorganic Cation Transmembrane Transport",
+      "fdr": 0.013142496452737237,
+      "p_value": 0.0002774539011884262,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006879",
+      "label": "Intracellular Iron Ion Homeostasis",
+      "fdr": 0.013142496452737237,
+      "p_value": 0.00028348784410563496,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0060586",
+      "label": "Multicellular Organismal-Level Iron Ion Homeostasis",
+      "fdr": 0.018284406151845334,
+      "p_value": 0.00041017649693527065,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0062197",
+      "label": "Cellular Response to Chemical Stress",
+      "fdr": 0.02176472481888429,
+      "p_value": 0.0005070298275322483,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006749",
+      "label": "Glutathione Metabolic Process",
+      "fdr": 0.021936338802079573,
+      "p_value": 0.0005488816438829229,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0032092",
+      "label": "Positive Regulation of Protein Binding",
+      "fdr": 0.021936338802079573,
+      "p_value": 0.0005488816438829229,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0006873",
+      "label": "Intracellular Monoatomic Ion Homeostasis",
+      "fdr": 0.02779773426401442,
+      "p_value": 0.0007195272026923491,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0046985",
+      "label": "Positive Regulation of Hemoglobin Biosynthetic Process",
+      "fdr": 0.036469923393314764,
+      "p_value": 0.0009754681839454337,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0051604",
+      "label": "Protein Maturation",
+      "fdr": 0.03898922567033824,
+      "p_value": 0.0010764928571620567,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0030003",
+      "label": "Intracellular Monoatomic Cation Homeostasis",
+      "fdr": 0.04485272479354611,
+      "p_value": 0.0012770836222493714,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0043647",
+      "label": "Inositol Phosphate Metabolic Process",
+      "fdr": 0.044946913805506965,
+      "p_value": 0.0013185462203513692,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0034599",
+      "label": "Cellular Response to Oxidative Stress",
+      "fdr": 0.045548276049133085,
+      "p_value": 0.0013754871973422416,
+      "fold": null,
+      "source": "Enrichr"
+    },
+    {
+      "id": "GO:0055080",
+      "label": "Monoatomic Cation Homeostasis",
+      "fdr": 0.049879774307292034,
+      "p_value": 0.0015493286238675698,
+      "fold": null,
+      "source": "Enrichr"
+    }
+  ],
+  "g:Profiler": [
+    {
+      "id": "GO:0042168",
+      "label": "heme metabolic process",
+      "fdr": 7.659818240418246e-15,
+      "p_value": 7.659818240418246e-15,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042440",
+      "label": "pigment metabolic process",
+      "fdr": 1.7799238329172937e-14,
+      "p_value": 1.7799238329172937e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006778",
+      "label": "porphyrin-containing compound metabolic process",
+      "fdr": 2.5137636830263156e-14,
+      "p_value": 2.5137636830263156e-14,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006779",
+      "label": "porphyrin-containing compound biosynthetic process",
+      "fdr": 1.0417838348578891e-13,
+      "p_value": 1.0417838348578891e-13,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0033014",
+      "label": "tetrapyrrole biosynthetic process",
+      "fdr": 1.0417838348578891e-13,
+      "p_value": 1.0417838348578891e-13,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0033013",
+      "label": "tetrapyrrole metabolic process",
+      "fdr": 7.005934308455307e-13,
+      "p_value": 7.005934308455307e-13,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006783",
+      "label": "heme biosynthetic process",
+      "fdr": 1.4977386946101815e-12,
+      "p_value": 1.4977386946101815e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046148",
+      "label": "pigment biosynthetic process",
+      "fdr": 1.5904761865364735e-12,
+      "p_value": 1.5904761865364735e-12,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-189445",
+      "label": "Metabolism of porphyrins",
+      "fdr": 2.8054885833640307e-12,
+      "p_value": 2.8054885833640307e-12,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-189451",
+      "label": "Heme biosynthesis",
+      "fdr": 3.1670286656201896e-12,
+      "p_value": 3.1670286656201896e-12,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0170014",
+      "label": "ankyrin-1 complex",
+      "fdr": 6.106142206593365e-11,
+      "p_value": 6.106142206593365e-11,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "KEGG:00860",
+      "label": "Porphyrin metabolism",
+      "fdr": 7.4256352301968546e-09,
+      "p_value": 7.4256352301968546e-09,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0014731",
+      "label": "spectrin-associated cytoskeleton",
+      "fdr": 3.549696036346329e-06,
+      "p_value": 3.549696036346329e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "KEGG:01100",
+      "label": "Metabolic pathways",
+      "fdr": 6.690455162776058e-06,
+      "p_value": 6.690455162776058e-06,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0042744",
+      "label": "hydrogen peroxide catabolic process",
+      "fdr": 9.181485462023936e-06,
+      "p_value": 9.181485462023936e-06,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-1247673",
+      "label": "Erythrocytes take up oxygen and release carbon dioxide",
+      "fdr": 2.022310294506567e-05,
+      "p_value": 2.022310294506567e-05,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "KEGG:04216",
+      "label": "Ferroptosis",
+      "fdr": 3.4355496997047506e-05,
+      "p_value": 3.4355496997047506e-05,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0004601",
+      "label": "peroxidase activity",
+      "fdr": 3.45167944472541e-05,
+      "p_value": 3.45167944472541e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0030218",
+      "label": "erythrocyte differentiation",
+      "fdr": 3.957213251621639e-05,
+      "p_value": 3.957213251621639e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0015669",
+      "label": "gas transport",
+      "fdr": 4.8323459010998174e-05,
+      "p_value": 4.8323459010998174e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005833",
+      "label": "hemoglobin complex",
+      "fdr": 4.840449196391515e-05,
+      "p_value": 4.840449196391515e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0016684",
+      "label": "oxidoreductase activity, acting on peroxide as acceptor",
+      "fdr": 5.481628294926658e-05,
+      "p_value": 5.481628294926658e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0034101",
+      "label": "erythrocyte homeostasis",
+      "fdr": 5.6251896065636886e-05,
+      "p_value": 5.6251896065636886e-05,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-1237044",
+      "label": "Erythrocytes take up carbon dioxide and release oxygen",
+      "fdr": 0.00019774888164192578,
+      "p_value": 0.00019774888164192578,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-1480926",
+      "label": "O2/CO2 exchange in erythrocytes",
+      "fdr": 0.00019774888164192578,
+      "p_value": 0.00019774888164192578,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0020027",
+      "label": "hemoglobin metabolic process",
+      "fdr": 0.00020096097000325136,
+      "p_value": 0.00020096097000325136,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0002262",
+      "label": "myeloid cell homeostasis",
+      "fdr": 0.00020166446935064437,
+      "p_value": 0.00020166446935064437,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0015670",
+      "label": "carbon dioxide transport",
+      "fdr": 0.0003236383758109076,
+      "p_value": 0.0003236383758109076,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0005829",
+      "label": "cytosol",
+      "fdr": 0.0003336135086689798,
+      "p_value": 0.0003336135086689798,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0020037",
+      "label": "heme binding",
+      "fdr": 0.0003745407596725999,
+      "p_value": 0.0003745407596725999,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0046906",
+      "label": "tetrapyrrole binding",
+      "fdr": 0.0006365298054436923,
+      "p_value": 0.0006365298054436923,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0016209",
+      "label": "antioxidant activity",
+      "fdr": 0.0006568117350221785,
+      "p_value": 0.0006568117350221785,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0042743",
+      "label": "hydrogen peroxide metabolic process",
+      "fdr": 0.000716042488248586,
+      "p_value": 0.000716042488248586,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0042592",
+      "label": "homeostatic process",
+      "fdr": 0.0008520454370112367,
+      "p_value": 0.0008520454370112367,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030507",
+      "label": "spectrin binding",
+      "fdr": 0.0008817510902503777,
+      "p_value": 0.0008817510902503777,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "KEGG:01240",
+      "label": "Biosynthesis of cofactors",
+      "fdr": 0.0009948330120742102,
+      "p_value": 0.0009948330120742102,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0031720",
+      "label": "haptoglobin binding",
+      "fdr": 0.0011917226848323723,
+      "p_value": 0.0011917226848323723,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0016491",
+      "label": "oxidoreductase activity",
+      "fdr": 0.0013180355316695245,
+      "p_value": 0.0013180355316695245,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0031838",
+      "label": "haptoglobin-hemoglobin complex",
+      "fdr": 0.0018440056720002683,
+      "p_value": 0.0018440056720002683,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0019755",
+      "label": "one-carbon compound transport",
+      "fdr": 0.0020599085769590717,
+      "p_value": 0.0020599085769590717,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0006873",
+      "label": "intracellular monoatomic ion homeostasis",
+      "fdr": 0.003557714779678972,
+      "p_value": 0.003557714779678972,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-382551",
+      "label": "Transport of small molecules",
+      "fdr": 0.00529598014628971,
+      "p_value": 0.00529598014628971,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0005737",
+      "label": "cytoplasm",
+      "fdr": 0.0053243838425431735,
+      "p_value": 0.0053243838425431735,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0005344",
+      "label": "oxygen carrier activity",
+      "fdr": 0.005485565694362052,
+      "p_value": 0.005485565694362052,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0015171",
+      "label": "amino acid transmembrane transporter activity",
+      "fdr": 0.006820638976787796,
+      "p_value": 0.006820638976787796,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0042541",
+      "label": "hemoglobin biosynthetic process",
+      "fdr": 0.007756954482758239,
+      "p_value": 0.007756954482758239,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0048872",
+      "label": "homeostasis of number of cells",
+      "fdr": 0.008902582783063686,
+      "p_value": 0.008902582783063686,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0048871",
+      "label": "multicellular organismal-level homeostasis",
+      "fdr": 0.012941611208917132,
+      "p_value": 0.012941611208917132,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030003",
+      "label": "intracellular monoatomic cation homeostasis",
+      "fdr": 0.014258755084402702,
+      "p_value": 0.014258755084402702,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0046943",
+      "label": "carboxylic acid transmembrane transporter activity",
+      "fdr": 0.014414257096578705,
+      "p_value": 0.014414257096578705,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "REAC:R-HSA-5223345",
+      "label": "Miscellaneous transport and binding events",
+      "fdr": 0.015332303298536217,
+      "p_value": 0.015332303298536217,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0015671",
+      "label": "oxygen transport",
+      "fdr": 0.016517756956168982,
+      "p_value": 0.016517756956168982,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0003824",
+      "label": "catalytic activity",
+      "fdr": 0.017874804522981742,
+      "p_value": 0.017874804522981742,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0015291",
+      "label": "secondary active transmembrane transporter activity",
+      "fdr": 0.019601408692651336,
+      "p_value": 0.019601408692651336,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "KEGG:05144",
+      "label": "Malaria",
+      "fdr": 0.022332439145713055,
+      "p_value": 0.022332439145713055,
+      "fold": null,
+      "source": "g:Profiler/KEGG"
+    },
+    {
+      "id": "GO:0005622",
+      "label": "intracellular anatomical structure",
+      "fdr": 0.022831565256400437,
+      "p_value": 0.022831565256400437,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0050801",
+      "label": "monoatomic ion homeostasis",
+      "fdr": 0.02285379416420914,
+      "p_value": 0.02285379416420914,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0019725",
+      "label": "cellular homeostasis",
+      "fdr": 0.029309013820423085,
+      "p_value": 0.029309013820423085,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0030492",
+      "label": "hemoglobin binding",
+      "fdr": 0.029350487873999808,
+      "p_value": 0.029350487873999808,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0055082",
+      "label": "intracellular chemical homeostasis",
+      "fdr": 0.02993259687079813,
+      "p_value": 0.02993259687079813,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "REAC:R-HSA-9818027",
+      "label": "NFE2L2 regulating anti-oxidant/detoxification enzymes",
+      "fdr": 0.033746906423885004,
+      "p_value": 0.033746906423885004,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "REAC:R-HSA-9711123",
+      "label": "Cellular response to chemical stress",
+      "fdr": 0.04242375255196986,
+      "p_value": 0.04242375255196986,
+      "fold": null,
+      "source": "g:Profiler/REAC"
+    },
+    {
+      "id": "GO:0008519",
+      "label": "ammonium channel activity",
+      "fdr": 0.043665077035960904,
+      "p_value": 0.043665077035960904,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0030099",
+      "label": "myeloid cell differentiation",
+      "fdr": 0.0483552458225253,
+      "p_value": 0.0483552458225253,
+      "fold": null,
+      "source": "g:Profiler/GO:BP"
+    },
+    {
+      "id": "GO:0017109",
+      "label": "glutamate-cysteine ligase complex",
+      "fdr": 0.0486843232421284,
+      "p_value": 0.0486843232421284,
+      "fold": null,
+      "source": "g:Profiler/GO:CC"
+    },
+    {
+      "id": "GO:0004074",
+      "label": "biliverdin reductase [NAD(P)H] activity",
+      "fdr": 0.04961725078144176,
+      "p_value": 0.04961725078144176,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    },
+    {
+      "id": "GO:0004357",
+      "label": "glutamate-cysteine ligase activity",
+      "fdr": 0.04961725078144176,
+      "p_value": 0.04961725078144176,
+      "fold": null,
+      "source": "g:Profiler/GO:MF"
+    }
+  ]
+}
