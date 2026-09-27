@@ -2,10 +2,10 @@
 
 A closed-vocabulary contract for grounding LLM gene-set annotation in live enrichment backends.
 
-**Maano Malima**^1, **Setshaba Taukobong**^2
+**Maano Malima**^1
 
 ^1 South African Medical Research Council (SAMRC) Genomics Platform, Cape Town, South Africa
-^2 South African Medical Research Council (SAMRC) Biomedical Research and Innovation Platform (BRIP), Cape Town, South Africa
+
 
 Corresponding author: Maano Malima- maano.malima@mrc.ac.za
 
@@ -136,7 +136,7 @@ Every run JSON contains the raw model output, the extracted IDs, the three-way c
 
 If you use this code or data, please cite the accompanying manuscript:
 
-> Malima M, Taukobong S. *GroundAnnot: a closed-vocabulary contract for grounding LLM gene-set annotation in live enrichment backends.* (Manuscript in preparation; DOI to be added on preprint.)
+> Malima M,*GroundAnnot: a closed-vocabulary contract for grounding LLM gene-set annotation in live enrichment backends.* (Manuscript in preparation; DOI to be added on preprint.)
 
 ## License
 
