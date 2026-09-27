@@ -133,10 +133,11 @@ Every run JSON contains the raw model output, the extracted IDs, the three-way c
 - Bounded-prompt compliance: **60/60 for each model** (180/180 overall) when the enriched shortlist is placed in the prompt.
 
 ## Citation
+Malima M. GroundAnnot: a closed-vocabulary contract for grounding LLM gene-set annotation in live enrichment backends.
+https://github.com/Maano-gen/groundannot (v0.1.0).
 
-If you use this code or data, please cite the accompanying manuscript:
-
-> Malima M,*GroundAnnot: a closed-vocabulary contract for grounding LLM gene-set annotation in live enrichment backends.* (Manuscript in preparation; DOI to be added on preprint.)
+## Acknowledgements
+I thank Setshaba Taukobong (SAMRC Biomedical Research and Innovation Platform) for discussion that led to this work.
 
 ## License
 
