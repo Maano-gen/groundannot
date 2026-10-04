@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use GroundAnnot, please cite it as below."
+title: "GroundAnnot: a closed-vocabulary contract for grounding LLM gene-set annotation in live enrichment backends"
+version: 0.1.0
+date-released: 2026-10-04
+license: MIT
+repository-code: "https://github.com/Maano-gen/groundannot"
+authors:
+  - family-names: Malima
+    given-names: Maano
+    orcid: "https://orcid.org/0000-0003-3513-6402"
+    affiliation: "South African Medical Research Council (SAMRC) Genomics Platform, Cape Town, South Africa"
