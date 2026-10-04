@@ -1,0 +1,23 @@
+{
+  "title": "GroundAnnot: a closed-vocabulary contract for grounding LLM gene-set annotation in live enrichment backends",
+  "upload_type": "software",
+  "description": "GroundAnnot is a Python client for PANTHER, Enrichr and g:Profiler that writes two closed vocabularies of Gene Ontology term IDs paired with the backends' own labels, so that a downstream LLM agent can be constrained to select from them. This release (v0.1.0) contains the code, six disease gene lists, 50 MSigDB Hallmark gene lists, 215 disease-list and 150 Hallmark benchmark runs, two dated backend snapshots and the analysis scripts.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Malima, Maano",
+      "affiliation": "South African Medical Research Council (SAMRC) Genomics Platform, Cape Town, South Africa",
+      "orcid": "0000-0003-3513-6402"
+    }
+  ],
+  "keywords": ["gene-set enrichment", "Gene Ontology", "large language models", "grounding", "PANTHER", "Enrichr", "g:Profiler"],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "10.64898/2026.09.27.754741",
+      "scheme": "doi",
+      "resource_type": "publication-preprint"
+    }
+  ]
+}
